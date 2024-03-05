@@ -157,6 +157,7 @@
   },
   "active": "f57eaa011136df53",
   "lastOpenFiles": [
+    "_config.yml",
     "LBVS/LBVS.md",
     "MD/MD.md",
     "ML/ML.md",
@@ -182,7 +183,6 @@
     "Cheminformatics/Conformer Generation.md",
     "Cheminformatics/Descriptors.md",
     "Cheminformatics/General Tools.md",
-    "Cheminformatics/Library filtering.md",
     "Resources",
     "SBVS/Untitled",
     "Untitled.canvas",
