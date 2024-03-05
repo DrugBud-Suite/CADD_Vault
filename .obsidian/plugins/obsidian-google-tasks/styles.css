@@ -1,0 +1,200 @@
+.googleTaskMainContainer {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding-left: 10px;
+}
+
+.googleTaskAddButton {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 50%;
+	height: 30px;
+	width: 30px;
+	padding: 0 !important;
+}
+
+.googleTaskConfirmContainer > hr,
+.googleTaskMainContainer > hr {
+	width: 100%;
+	margin: 0;
+}
+
+.googleTaskMainContainer > h4 {
+	font-size: 1.2em;
+	padding: 5px;
+	margin: 0;
+}
+
+.googleTaskMainContainer > h5 {
+	font-size: 1em;
+	padding: 5px;
+	margin: 10px 0px 0px 0px;
+}
+
+.googleTaskMainContainer > div > h6 {
+	font-size: 0.8em;
+	padding: 5px;
+	margin: 10px 0px 0px 0px;
+}
+
+.googleTaskTitleContainer {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding-right: 20px;
+}
+
+.googleTaskContainer {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	padding: 0px 5px;
+}
+
+.googleTaskDoneContainer {
+	display: none;
+}
+
+.googleTaskTodoContainer {
+	display: none;
+}
+
+.googleTaskContainer > input {
+	min-width: 19px;
+	min-height: 19px;
+	align-self: center;
+}
+
+.googleTaskTextContainer {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: space-between;
+	padding: 0px 5px;
+}
+
+.googleTaskTitle {
+	font-size: 1em;
+}
+
+.googleTaskDetails {
+	font-size: 0.5em;
+}
+
+.googleTaskForceShow {
+	display: block;
+}
+
+.googleTaskTrash {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 24px;
+	height: 24px;
+	border-radius: 50%;
+	padding: 0;
+}
+
+.googleTaskTrash:hover > * {
+	color: red;
+}
+
+.googleSubTaskContainer{
+	display: flex;
+	flex-direction: column;
+	align-self: flex-end;
+	padding-left: 30px;
+
+}
+
+.googleTaskArrowDown{
+	width: 40px;
+	height: 40px;
+	align-self: flex-start;
+}
+
+.hideSubTasks {
+	display: none;
+}
+
+/*
+	Settings Modal
+*/
+input[type="date"] {
+	padding: 5px 10px;
+	-webkit-appearance: none;
+	transition: box-shadow 0.1s linear;
+	height: var(--input-height);
+	font-family: var(--font-ui);
+	font-size: var(--font-inputs);
+	background: var(--background-modifier-form-field);
+	border: 1px solid var(--background-modifier-border);
+	color: var(--text-normal);
+	border-radius: 4px;
+	outline: none;
+}
+::-webkit-calendar-picker-indicator {
+	filter: invert(0.5);
+}
+
+.googleTaskConfirmContainer {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.googleTaskConfirmTitle {
+	width: fit-content !important;
+	padding: 10px !important;
+	margin: 0 !important;
+}
+
+.googleTaskConfirmButtonContainer {
+	display: flex;
+	flex-direction: row;
+	gap: 30px;
+	margin-top: 10px;
+}
+
+.googleTaskConfirmAccept {
+	background: rgb(197, 41, 41) !important;
+}
+
+.googleTaskConfirmAccept:hover {
+	background: rgb(193, 79, 79) !important;
+}
+
+.googleButtonContainer{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	align-items: center;
+	padding-top:10px ;
+}
+
+
+
+.googleButtonContainer > .setting-item > .setting-item-info{
+	width:0;
+}
+
+.googleButtonContainer > .setting-item,
+.googleButtonContainer > .setting-item > .setting-item-control,
+.googleButtonContainer > .setting-item > .setting-item-control > button {
+	width:200px;
+	height: 50px;
+	align-items: center;
+	justify-content: center;
+	padding: 0;
+	margin: 0;
+}
+
+.googleButtonContainer > 
+
+.googleTaskOverDue {
+	color: red;
+}

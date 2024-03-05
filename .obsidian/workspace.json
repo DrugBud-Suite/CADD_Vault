@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "3bad84a6f1a01971",
+    "type": "split",
+    "children": [
+      {
+        "id": "58d1faa4c9658e19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f57eaa011136df53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FBDD/FBDD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5143ccc822e96af2",
+    "type": "split",
+    "children": [
+      {
+        "id": "20b79516b60c16f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "092d767989ea57d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bdd94fc631f47ef1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b19f0fd3d8e99f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3d581d8691bfaac",
+    "type": "split",
+    "children": [
+      {
+        "id": "693bbf71f5c6ebaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23e962ff4094d329",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FBDD/FBDD.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4ca0e4073d366c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FBDD/FBDD.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1cf196181c11bba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd82deb83ca209f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FBDD/FBDD.md"
+              }
+            }
+          },
+          {
+            "id": "c32545f76ae33eff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-google-tasks:Google Tasks": false
+    }
+  },
+  "active": "f57eaa011136df53",
+  "lastOpenFiles": [
+    "LBVS/LBVS.md",
+    "MD/MD.md",
+    "ML/ML.md",
+    "Other/Other.md",
+    "Pharmacophore/Pharmacophore.md",
+    "Plugins/PyMol Tools.md",
+    "Plugins/Chimera.md",
+    "Proteins/Protein Structure.md",
+    "SBVS/Docking.md",
+    "SBVS/Scoring Functions.md",
+    "Resources/Resources.md",
+    "VS Workflows/VS Workflows.md",
+    "Target Identification/Target identification.md",
+    "SBVS/Docking Score Prediction.md",
+    "SBVS/Docking Pose Processing.md",
+    "Cheminformatics/Compound Representations.md",
+    "De Novo Generation/De Novo Generation.md",
+    "De Novo Generation/Target-aware De Novo Generation.md",
+    "Cheminformatics/Property Prediction.md",
+    "De Novo Generation/Reviews.md",
+    "Datasets/Datasets.md",
+    "De Novo Generation/Quality Control.md",
+    "Cheminformatics/Conformer Generation.md",
+    "Cheminformatics/Descriptors.md",
+    "Cheminformatics/General Tools.md",
+    "Cheminformatics/Library filtering.md",
+    "Resources",
+    "SBVS/Untitled",
+    "Untitled.canvas",
+    "Other",
+    "SBVS",
+    "Target Identification",
+    "Datasets",
+    "ML",
+    "FBDD",
+    "Cheminformatics",
+    "Plugins"
+  ]
+}

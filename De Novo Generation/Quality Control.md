@@ -1,0 +1,3 @@
+- [SMINA Docking Benchmark](https://github.com/cieplinski-tobiasz/smina-docking-benchmark
+- [RediscMol](https://github.com/gaoqiweng/RediscMol)
+- [GuacaMol](https://doi.org/10.1021/acs.jcim.8b00839)
