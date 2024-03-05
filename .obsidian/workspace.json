@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FBDD/FBDD.md",
+                "file": "De Novo Generation/De Novo Generation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FBDD/FBDD.md",
+                "file": "De Novo Generation/De Novo Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FBDD/FBDD.md",
+                "file": "De Novo Generation/De Novo Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FBDD/FBDD.md"
+                "file": "De Novo Generation/De Novo Generation.md"
               }
             }
           },
@@ -136,9 +136,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "02fbd36bf8abde3c",
+            "type": "leaf",
+            "state": {
+              "type": "googleTaskView",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -157,6 +165,7 @@
   },
   "active": "f57eaa011136df53",
   "lastOpenFiles": [
+    "FBDD/FBDD.md",
     "CONTRIBUTING.md",
     "README.md",
     "index.md",
@@ -183,7 +192,6 @@
     "De Novo Generation/Reviews.md",
     "Datasets/Datasets.md",
     "De Novo Generation/Quality Control.md",
-    "Cheminformatics/Conformer Generation.md",
     "Resources",
     "SBVS/Untitled",
     "Untitled.canvas",
