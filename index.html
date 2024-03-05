@@ -23,15 +23,14 @@ title: CADD Vault Homepage
 
     <section>
         <h2>Table of Contents</h2>
-        {% assign sorted_pages = site.pages | sort: 'path' %}
-        {% for page in sorted_pages %}
-        {% if page.path contains 'subdirectory1/' or page.path contains 'subdirectory2/' %}
-        <details>
-            <summary>{{ page.dir | remove_first: '/' }}</summary>
-            <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
-        </details>
-        {% endif %}
-        {% endfor %}
+        <ul>
+            {% assign pages = site.html_pages | where: "layout", "page" %}
+            {% for page in pages %}
+                {% unless page.url contains '404.html' %}
+                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title | default: page.url }}</a></li>
+                {% endunless %}
+            {% endfor %}
+        </ul>
     </section>
 
     <section>
