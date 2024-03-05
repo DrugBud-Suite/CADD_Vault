@@ -1,8 +1,8 @@
 title: CADD_Vault
 description: >- # this means to ignore newlines until "baseurl:"
   An open-source collection of resources on computer-aided drug design.
-baseurl: "" # the subpath of your site, e.g., /blog
-url: "" # the base hostname & protocol for your site, e.g., http://example.com
+baseurl: "/CADD_Vault" # the subpath of your site, e.g., /blog
+url: "https://tonylac77.github.io/" # the base hostname & protocol for your site, e.g., http://example.com
 markdown: kramdown
 remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
