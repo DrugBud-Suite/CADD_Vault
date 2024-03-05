@@ -157,6 +157,7 @@
   },
   "active": "f57eaa011136df53",
   "lastOpenFiles": [
+    "index.md",
     "_config.yml",
     "LBVS/LBVS.md",
     "MD/MD.md",
@@ -192,7 +193,6 @@
     "Datasets",
     "ML",
     "FBDD",
-    "Cheminformatics",
-    "Plugins"
+    "Cheminformatics"
   ]
 }
