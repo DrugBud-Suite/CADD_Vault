@@ -157,6 +157,8 @@
   },
   "active": "f57eaa011136df53",
   "lastOpenFiles": [
+    "CONTRIBUTING.md",
+    "README.md",
     "index.md",
     "_config.yml",
     "LBVS/LBVS.md",
@@ -182,8 +184,6 @@
     "Datasets/Datasets.md",
     "De Novo Generation/Quality Control.md",
     "Cheminformatics/Conformer Generation.md",
-    "Cheminformatics/Descriptors.md",
-    "Cheminformatics/General Tools.md",
     "Resources",
     "SBVS/Untitled",
     "Untitled.canvas",
