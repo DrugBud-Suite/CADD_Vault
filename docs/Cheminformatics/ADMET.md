@@ -1,2 +1,0 @@
-### ADMET
-- [ChemMORT](http://ChemMORT)

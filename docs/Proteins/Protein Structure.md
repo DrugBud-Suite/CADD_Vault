@@ -1,3 +1,5 @@
+### Protein Structure Manipulation
+* [pdb-tools](https://github.com/haddocking/pdb-tools) - A swiss army knife for manipulating and editing PDB files.
 ### Homology Modelling
 - [SWISS-MODEL](http://swissmodel.expasy.org/): an automated protein structure homology-modelling server, accessible via the ExPASy web server
 - **[Phyre2](http://www.sbg.bio.ic.ac.uk/phyre2/html/page.cgi?id=index)**: Phyre2 is a tool for predicting and analyzing protein structure, function, and mutations. The server provides an expert mode for registered users and integrates models directly from the AlphaFold Protein Structure Database for one-to-one threading.
@@ -44,6 +46,8 @@
 	- **[PinMyMetal](https://github.com/hhz-lab/PinMyMetal.git)**: Specific details about PinMyMetal, presumably a tool for predicting metal-binding sites in proteins, were not provided in the data fetched.
 - MD
 	- **[POVME2](https://durrantlab.pitt.edu/povme2/)**: POVME2 identifies druggable protein pockets and their unique conformations within molecular dynamics simulations, facilitating the discovery of novel pharmacologically active molecules.
+### Protonation
+- [propka](https://github.com/jensengroup/propka) - Predicts the pKa values of ionizable groups in proteins and protein-ligand complexes based in the 3D structure.
 ### Partial Charge Calculation
 - [alphaCharges](https://alphacharges.ncbr.muni.cz/)
 ### Datasets

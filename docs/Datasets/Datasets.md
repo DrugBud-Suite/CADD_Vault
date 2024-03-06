@@ -27,13 +27,15 @@
 ### Chemical
 
 - [ChemBL](https://www.ebi.ac.uk/chembl/): A manually curated database of bioactive molecules with drug-like properties, integrating chemical, bioactivity, and genomic data to aid drug discovery.
-- [chembl_downloader](https://github.com/cthoyt/chembl-downloader): A Python package designed to automatically download and extract versions of the ChemBL database, simplifying data access for research purposes.
-- [chembl_tools](https://github.com/mgalardini/chembl_tools): A collection of scripts to leverage the ChemBL API for retrieving information on compounds, including ChEMBL IDs and target information.
+	- [chembl_downloader](https://github.com/cthoyt/chembl-downloader): A Python package designed to automatically download and extract versions of the ChemBL database, simplifying data access for research purposes.
+	- [chembl_tools](https://github.com/mgalardini/chembl_tools): A collection of scripts to leverage the ChemBL API for retrieving information on compounds, including ChEMBL IDs and target information.
 - [DrugBank](https://go.drugbank.com/): Offers structured drug information, including emerging research and novel connections, to support drug discovery, clinical software, and academic research.
+	- [drugbank-downloader](https://github.com/cthoyt/drugbank_downloader) - Automate downloading, opening, and parsing [DrugBank](https://www.drugbank.com/)
 - [ZINC](https://zinc.docking.org/): A free database for virtual screening containing over 230 million purchasable compounds in ready-to-dock, 3D formats.
 - [DrugCentral](https://drugcentral.org/): Provides information on active ingredients in medicinal substances, offering access to drug labels, FDA and EMA datasets, pharmacological action, and more.
 - [GDB-17](http://gdb.unibe.ch/): The GDB-17 database represents a comprehensive collection of hypothetical organic molecules for use in computational chemistry and drug discovery.
 - [PubChem](https://pubchem.ncbi.nlm.nih.gov/): The world's largest collection of freely accessible chemical information, offering chemical and physical properties, biological activities, safety and toxicity information, patents, literature citations, and more.
+	- [pubchempy](http://pubchempy.readthedocs.io/en/latest/) - PubChemPy provides a way to interact with PubChem in Python.
 - [ChemSpider](http://chemspider.com/): A free chemical structure database providing fast access to over 100 million structures from hundreds of data sources, including physical properties, literature references, and supplier information.
 - [ChemMine](http://chemminedb.ucr.edu/): A compound mining portal to facilitate drug and agrochemical discovery, offering chemical genomics screens and a toolbox for cheminformatics research.
 

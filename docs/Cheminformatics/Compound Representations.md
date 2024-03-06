@@ -27,6 +27,7 @@
     - [Molecular3DLengthDescriptors](https://github.com/ThomasJewson/Molecular3DLengthDescriptors): Provides descriptors based on the three-dimensional lengths of molecules.
     - [PyL3dMD](https://github.com/panwarp/PyL3dMD): A Python library for 3D molecular descriptors calculation from molecular dynamics simulations.
     - [ChemDes](https://github.com/ifyoungnet/ChemDes): web-based platform for molecular descriptor and fingerprint computation
+    - [DScribe](https://github.com/SINGROUP/dscribe) - Descriptor library containing a variety of fingerprinting techniques, including the Smooth Overlap of Atomic Positions (SOAP).
 - **Descriptors**
     - [Spectrophores](https://github.com/silicos-it/spectrophore): Calculates spectrophoric descriptors that capture electronic and spatial properties of molecules.
     - [QED](https://github.com/silicos-it/qed): Offers the Quantitative Estimate of Drug-likeness for a given molecular structure.
@@ -41,6 +42,7 @@
     - [t-SMILES](https://github.com/juanniwu/t-smiles): Transforms SMILES strings for improved molecular representation and machine learning model performance.
     - [SMARTS](https://github.com/SqrtNegInf/SMARTS): A tool for generating and working with SMARTS, a language for specifying substructural patterns in molecules.
     - [EvoMPF](https://zivgitlab.uni-muenster.de/ag-glorius/published-paper/evompf): EvoMPF is a framework for evolutionary molecular pattern finding using SMARTS.
+    - [selfies](https://github.com/aspuru-guzik-group/selfies) - Self-Referencing Embedded Strings (SELFIES): A 100% robust molecular string representation.
 - [UniMAP](https://github.com/fengshikun/UniMAP): UniMAP offers a unified approach to molecular annotation and property prediction.
 - [TUCAN](https://github.com/TUCAN-nest/TUCAN): TUCAN is a tool for transforming unstructured chemical annotations into normalized expressions.
 - [mol2vec](https://github.com/samoturk/mol2vec): Generates vector representations of molecular substructures for machine learning applications.
