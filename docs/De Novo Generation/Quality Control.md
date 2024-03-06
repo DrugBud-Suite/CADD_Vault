@@ -1,3 +1,3 @@
-- [SMINA Docking Benchmark](https://github.com/cieplinski-tobiasz/smina-docking-benchmark
-- [RediscMol](https://github.com/gaoqiweng/RediscMol)
-- [GuacaMol](https://doi.org/10.1021/acs.jcim.8b00839)
+- **[SMINA Docking Benchmark](https://github.com/cieplinski-tobiasz/smina-docking-benchmark)**: We Should at Least Be Able to Design Molecules That Dock Well
+    
+- **[GuacaMol](https://doi.org/10.1021/acs.jcim.8b00839)**: Framework for benchmarking models in de novo molecular design, providing a standard suite of tests to evaluate the performance of generative models in producing molecules with desired properties.
