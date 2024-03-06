@@ -1,3 +1,3 @@
 ## Tools
-- [QPTuna](https://github.com/MolecularAI/Qptuna)
-- [qsar-tools](https://github.com/dkoes/qsar-tools)
+- [QPTuna](https://github.com/MolecularAI/Qptuna): QPTUNA is designed for building predictive QSAR models using hyperparameters optimized by Optuna, with features like Uncertainty Quantification and model explainability.
+- [qsar-tools](https://github.com/dkoes/qsar-tools): Provides scripts for modeling quantitative structure-activity relationships (QSAR) from 2D chemical data, including creating descriptors and training linear models.

@@ -12,14 +12,10 @@
 - **[RGA](https://github.com/futianfan/reinforced-genetic-algorithm)**: A reinforcement learning-based genetic algorithm for structure-based drug design, introduced at NeurIPS 2022.
 - **[PCMol](https://github.com/CDDLeiden/PCMol)**: A multi-target model for de novo molecule generation, using AlphaFold protein embeddings for thousands of protein targets.
 - **[KGDiff](https://github.com/CMACH508/KGDiff)**: A model for explainable target-aware molecule generation with knowledge guidance.
-- - **[DiffDec](https://github.com/biomed-AI/DiffDec/blob/master/README.md)**: A model that uses an end-to-end equivariant diffusion process for optimizing molecular structures through scaffold decoration conditioned on 3D protein pockets.
-    
+- **[DiffDec](https://github.com/biomed-AI/DiffDec/blob/master/README.md)**: A model that uses an end-to-end equivariant diffusion process for optimizing molecular structures through scaffold decoration conditioned on 3D protein pockets.
 - **[SINGA](https://github.com/Isomorpfishm/SINGA)**: SINGA is a Molecular Sampling model with Protein-Ligand Interactions aware Generative Adversarial Network, focusing on generating molecules considering their interactions with proteins.
-    
 - **[Ligand_Generation](https://github.com/HySonLab/Ligand_Generation)**: This project focuses on target-aware variational autoencoders for ligand generation, employing multimodal protein representation learning for structure-based drug design.
-    
 - **[LS-MolGen](https://github.com/songleee/LS-MolGen)**: A ligand-and-structure dual-driven deep reinforcement learning method for target-specific molecular generation, integrating docking scores and bioactivity data for molecule optimization.
-    
 - **[cMolGPT](https://github.com/VV123/cMolGPT)**: cMolGPT, a Conditional Generative Pre-trained Transformer, aims for de novo molecular design by enforcing target specificity during the generation process, emphasizing the incorporation of target embeddings.
 - [DeepICL](https://github.com/ACE-KAIST/DeepICL)
 - [DeepTarget](https://github.com/ehoogeboom/e3_diffusion_for_molecules)
