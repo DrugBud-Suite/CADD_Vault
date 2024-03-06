@@ -1,21 +1,21 @@
 ### Models
 
-- REINVENT
-	- [REINVENT 4](https://github.com/MolecularAI/REINVENT4)
-	- [REINVENT-HITL](https://github.com/MolecularAI/reinvent-hitl)
-- [GRAPHINVENT](https://github.com/MolecularAI/GraphINVENT)
-	- [RL-GraphInvent](https://github.com/olsson-group/RL-GraphINVENT)
-- [TransformerVAE](https://github.com/mizuno-group/TransformerVAE)
-- [SiMGen](https://zndraw.icp.uni-stuttgart.de)
-- [FREED](https://github.com/AITRICS/FREED)
-- [GenUI](https://github.com/martin-sicho/genui)
-- [mol-Zero-GAN](https://github.com/cucpbioinfo/Mol-Zero-GAN)
-- [LigDream](https://github.com/playmolecule/ligdream/tree/master)
-- [COATI](https://github.com/terraytherapeutics/COATI/tree/main)
-- [ReLeaSE](https://github.com/isayev/ReLeaSE)
-- [LSTM_Chem](https://github.com/topazape/LSTM_Chem)
-- [DrugEx](https://github.com/CDDLeiden/DrugEx)
-- [Pytorch_VAE](https://github.com/Ishan-Kumar2/Molecular_VAE_Pytorch)
+- **[REINVENT 4](https://github.com/MolecularAI/REINVENT4)**: A molecular design tool for various design tasks like de novo design, scaffold hopping, and molecule optimization, using a reinforcement learning algorithm.
+	- **[REINVENT-HITL](https://github.com/MolecularAI/reinvent-hitl)**: Focuses on human-in-the-loop assisted de novo molecular design, leveraging reinforcement learning for optimizing molecules based on human feedback.
+- **[GRAPHINVENT](https://github.com/MolecularAI/GraphINVENT)**: A platform for graph-based molecular generation using graph neural networks, emphasizing probabilistic generation one bond at a time.
+	- **[RL-GraphInvent](https://github.com/olsson-group/RL-GraphINVENT)**: An extension using reinforcement learning for targeted molecular generation.
+- **[TransformerVAE](https://github.com/mizuno-group/TransformerVAE)**: A VAE model with Transformer backbone for molecule generation.
+- **[SiMGen](https://zndraw.icp.uni-stuttgart.de/)**: The provided link was unresponsive for extracting detailed information.
+- **[FREED](https://github.com/AITRICS/FREED)**: Utilizes explorative experience replay in a generative reinforcement learning setup for drug design.
+- **[GenUI](https://github.com/martin-sicho/genui)**: Offers API and GUI for molecular generators, QSAR modelling, and chemical space visualization.
+- **[mol-Zero-GAN](https://github.com/cucpbioinfo/Mol-Zero-GAN)**: Aims at optimizing pretrained generative models for drug candidate generation using Bayesian optimization.
+- **[LigDream](https://github.com/playmolecule/ligdream/tree/master)**: Generates novel molecules from a reference shape but is no longer actively supported.
+- **[COATI](https://github.com/terraytherapeutics/COATI/tree/main)**: A pre-trained, multi-modal encoder-decoder model designed for navigating and representing chemical space.
+- **[ReLeaSE](https://github.com/isayev/ReLeaSE)**: Utilizes deep reinforcement learning for de novo drug design.
+- **[LSTM_Chem](https://github.com/topazape/LSTM_Chem)**: Implements generative recurrent networks for drug design.
+- **[DrugEx](https://github.com/CDDLeiden/DrugEx)**: Library for de novo drug design using RNNs, Transformers within a multi-objective reinforcement learning framework.
+
+- **[Pytorch_VAE](https://github.com/Ishan-Kumar2/Molecular_VAE_Pytorch)**: This repository provides a PyTorch implementation of the paper "Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules" by Gómez-Bombarelli, et al., focusing on a variational autoencoder for molecular design using the ChEMBL dataset.
 - [DST](https://github.com/futianfan/DST)
 - [MolDrug](https://github.com/ale94mleon/MolDrug)
 - [Molecule-RNN](https://github.com/shiwentao00/Molecule-RNN)
