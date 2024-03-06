@@ -165,6 +165,8 @@
   },
   "active": "f57eaa011136df53",
   "lastOpenFiles": [
+    "Gemfile.lock",
+    "Gemfile",
     "_public/css/syntax.css",
     "_public/css/poole.css",
     "_public/css/lanyon.css",
@@ -178,8 +180,6 @@
     "_posts/2020-04-01-whats-jekyll.md",
     "_posts/2020-04-02-example-content.md",
     "_posts",
-    "public/css/syntax.css",
-    "public/css/poole.css",
     "public/apple-touch-icon-precomposed.png",
     "lanyon-master/public/apple-touch-icon-precomposed.png",
     "lanyon-master/_posts/2020-04-01-whats-jekyll.md",
