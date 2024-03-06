@@ -11,8 +11,12 @@
             "id": "f57eaa011136df53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md"
+              }
             }
           },
           {
@@ -157,17 +165,22 @@
   },
   "active": "f57eaa011136df53",
   "lastOpenFiles": [
-    "site/MD/MD/index.html",
-    "site/MD/MD",
-    "site/MD",
-    "site/Cheminformatics/Compound Representations/index.html",
-    "site/Cheminformatics/Compound Preparation/index.html",
-    "site/Cheminformatics/General Tools/index.html",
-    "site/Cheminformatics/ADMET/index.html",
-    "site/Cheminformatics/Chemical Format conversion/index.html",
+    "site/Cheminformatics/QM/index.html",
+    "site/Cheminformatics/QM",
+    "site/Cheminformatics/Protonation/index.html",
+    "site/Cheminformatics/Protonation",
     "site/Cheminformatics/Property Prediction/index.html",
-    "site/Cheminformatics/Chemical Space/index.html",
-    "site/Cheminformatics/Library filtering/index.html",
+    "site/Cheminformatics/Property Prediction",
+    "site/Cheminformatics/General Tools/index.html",
+    "site/Cheminformatics/General Tools",
+    "site/Cheminformatics/Conformer Generation/index.html",
+    "site/Cheminformatics/Conformer Generation",
+    "site/Cheminformatics/Compound Preparation/index.html",
+    "images/Logo V1.png",
+    "docs/De Novo Generation/Quality Control.md",
+    "docs/De Novo Generation/Target-aware De Novo Generation.md",
+    "docs/De Novo Generation/Reviews.md",
+    "docs/De Novo Generation/De Novo Generation.md",
     "site/css/fonts/fontawesome-webfont.svg",
     "docs/Pharmacophore/Pharmacophore.md",
     "docs/SBVS/Docking Score Prediction.md",
@@ -183,10 +196,6 @@
     "De Novo Generation/De Novo Generation.md",
     "docs/FBDD/FBDD.md",
     "docs/ML/ML.md",
-    "docs/De Novo Generation/Quality Control.md",
-    "docs/De Novo Generation/De Novo Generation.md",
-    "docs/De Novo Generation/Reviews.md",
-    "docs/De Novo Generation/Target-aware De Novo Generation.md",
     "docs/Other/Other.md",
     "docs/MD/MD.md",
     "docs/Datasets/Datasets.md",
