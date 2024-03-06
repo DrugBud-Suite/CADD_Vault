@@ -1,21 +1,17 @@
 ### Models
 
-- [Lingo3DMol](https://github.com/stonewiseAIDrugDesign/Lingo3DMol)
-- [3D-Generative-SBDD](https://github.com/luost26/3D-Generative-SBDD)
-- [MolEdit3D](https://www.semanticscholar.org/paper/Structure-Based-Drug-Design-via-3D-Molecular-and-Yang-Ouyang/437d365db76aa8fedeee32d3fa74e8e903230035?email_index=6-0-8)
-- [GraphBP](https://github.com/divelab/GraphBP)
-- [DiffBP](https://www.semanticscholar.org/reader/84e07c84a411ec5ed0828049d777b9cb8129c14d)
-- [FLAG](https://github.com/zaixizhang/FLAG)
-	- [DrugGPS](https://github.com/zaixizhang/DrugGPS_ICML23)
-- [liGAN](https://github.com/mattragoza/liGAN)
-- [VD-Gen](https://www.semanticscholar.org/reader/2bc52556e167ab5a84f032963a4dcbee5246df09)
-- [RELATION](https://github.com/micahwang/RELATION)
-- [DESERT](https://github.com/longlongman/DESERT)
-- [Pocket2Mol](https://github.com/pengxingang/Pocket2Mol)
-- [AutoGrow4](http://durrantlab.com/autogrow4)
-- [RGA](https://github.com/futianfan/reinforced-genetic-algorithm)
-- [PCMol](https://github.com/CDDLeiden/PCMol)
-- [KGDiff](https://github.com/CMACH508/KGDiff)
+- **[Lingo3DMol](https://github.com/stonewiseAIDrugDesign/Lingo3DMol)**: A pocket-based 3D molecule generation method that combines language model capabilities with 3D coordinate generation and geometric deep learning.
+- **[3D-Generative-SBDD](https://github.com/luost26/3D-Generative-SBDD)**: Focuses on structure-based drug design (SBDD) using a 3D generative model to sample molecules for specific protein pockets.
+- **[GraphBP](https://github.com/divelab/GraphBP)**: Implements a method for generating 3D molecules targeting protein binding, presented at ICML 2022.
+- **[FLAG](https://github.com/zaixizhang/FLAG)**: A Fragment-based Ligand Generation framework to generate 3D molecules with valid and realistic substructures fragment-by-fragment.
+- **[DrugGPS](https://github.com/zaixizhang/DrugGPS_ICML23)**: Focuses on learning subpocket prototypes for generalizable structure-based drug design, introduced at ICML 2023.
+- **[liGAN](https://github.com/mattragoza/liGAN)**: A project for structure-based drug discovery using deep generative models of atomic density grids.
+- **[RELATION](https://github.com/micahwang/RELATION)**: A software for DL-based de novo drug design, focusing on generating molecules based on target protein interactions.
+- **[DESERT](https://github.com/longlongman/DESERT)**: Zero-shot 3D drug design by sketching and generating, as presented at NeurIPS 2022.
+- **[Pocket2Mol](https://github.com/pengxingang/Pocket2Mol)**: Uses equivariant graph neural networks for efficient molecular sampling based on 3D protein pockets.
+- **[RGA](https://github.com/futianfan/reinforced-genetic-algorithm)**: A reinforcement learning-based genetic algorithm for structure-based drug design, introduced at NeurIPS 2022.
+- **[PCMol](https://github.com/CDDLeiden/PCMol)**: A multi-target model for de novo molecule generation, using AlphaFold protein embeddings for thousands of protein targets.
+- **[KGDiff](https://github.com/CMACH508/KGDiff)**: A model for explainable target-aware molecule generation with knowledge guidance.
 - [DiffDec](https://github.com/biomed-AI/DiffDec/blob/master/README.md)
 - [SINGA](https://github.com/Isomorpfishm/SINGA)
 - [Ligand_Generation](https://github.com/HySonLab/Ligand_Generation)
