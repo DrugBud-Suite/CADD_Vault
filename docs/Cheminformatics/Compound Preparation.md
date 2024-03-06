@@ -3,7 +3,7 @@
 [Sherman et al](https://pubmed.ncbi.nlm.nih.gov/23579614/)
 
 ## Tools
-- [QSAR-Ready (KNIME)](https://github.com/NIEHS/QSAR-ready)
+- [QSAR-Ready (KNIME)](https://github.com/NIEHS/QSAR-ready): Standardization workflow for QSAR-ready chemical structures pretreatment
 - Meeko
 - [ChEMBL_Structure_Pipeline (formerly standardiser)](https://github.com/chembl/ChEMBL_Structure_Pipeline) - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
 * [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).

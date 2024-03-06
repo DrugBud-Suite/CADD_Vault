@@ -48,6 +48,7 @@
 	- **[GAABind](https://github.com/Mercuryhs/GAABind/blob/main/README.MD)**: GAABind is a Geometry-Aware Attention-Based Network for accurate protein-ligand binding pose and binding affinity prediction, featuring a comprehensive environment setup and dataset processing guide.
 	- [**TankBind**](https://github.com/luwei0917/TankBind): Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction
 	- [**Uni-Mol**](https://github.com/dptech-corp/Uni-Mol): A Universal 3D Molecular Representation Learning Framework
+	- [PLANTAIN](https://github.com/molecularmodelinglab/plantain): Predicting LigANd pose wiTh an AI scoring functioN
 - **Water**
 	- **[WatVina](https://github.com/biocheming/watvina)**: Watvina facilitates drug design with support for explicit or implicit waters, pharmacophore, or position-constrained docking, and external torsion parameters, enhancing the Autodock Vina engine.
 - **Pose Optimisation**

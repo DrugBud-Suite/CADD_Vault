@@ -24,4 +24,6 @@
 - [PETrans](https://github.com/Chinafor/PETrans)
 - Dual-target
 	- [Alx-Fuse](https://github.com/biomed-AI/AIxFuse)
+- Interaction fingerprint constrained
+	- [IFP-RNN](https://github.com/jeah-z/IFP-RNN): A molecule generative model used interaction fingerprint (docking pose) as constraints.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Cheminformatics/ADMET.md",
+                "file": "docs/ML/ML.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Cheminformatics/ADMET.md",
+                "file": "docs/ML/ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Cheminformatics/ADMET.md",
+                "file": "docs/ML/ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Cheminformatics/ADMET.md"
+                "file": "docs/ML/ML.md"
               }
             }
           },
@@ -165,21 +165,29 @@
   },
   "active": "f57eaa011136df53",
   "lastOpenFiles": [
-    "docs/Cheminformatics/Chemical Format conversion.md",
-    "docs/Cheminformatics/Chemical Space.md",
     "docs/Cheminformatics/Compound Preparation.md",
+    "docs/SBVS/Docking Pose Processing.md",
+    "docs/SBVS/Docking.md",
+    "docs/De Novo Generation/Target-aware De Novo Generation.md",
     "docs/Cheminformatics/Compound Representations.md",
+    "docs/Cheminformatics/Property Prediction.md",
+    "docs/Other/Other.md",
+    "docs/MD/MD.md",
+    "docs/Cheminformatics/QM.md",
+    "docs/Cheminformatics/Fragmentation.md",
+    "docs/FBDD/FBDD.md",
+    "docs/Datasets/Datasets.md",
+    "docs/Cheminformatics/QSAR.md",
+    "docs/Cheminformatics/Library filtering.md",
+    "docs/ML/ML.md",
+    "docs/Cheminformatics/Chemical Space.md",
+    "docs/Cheminformatics/ADMET.md",
+    "docs/Cheminformatics/Chemical Format conversion.md",
     "docs/SBVS/Scoring Functions.md",
     "docs/Cheminformatics/Conformer Generation.md",
     "docs/Cheminformatics/General Tools.md",
-    "docs/Cheminformatics/Library filtering.md",
-    "docs/Cheminformatics/Property Prediction.md",
     "docs/Cheminformatics/Protonation.md",
-    "docs/Cheminformatics/QM.md",
-    "docs/Cheminformatics/QSAR.md",
     "docs/Cheminformatics/Synthetic Accessibility.md",
-    "docs/Datasets/Datasets.md",
-    "docs/De Novo Generation/Target-aware De Novo Generation.md",
     "docs/CONTRIBUTING.md",
     "images/LogoV1.png",
     "site/css/fonts/fontawesome-webfont.svg",
@@ -196,14 +204,6 @@
     "images/Logo V1.png",
     "docs/De Novo Generation/Quality Control.md",
     "docs/De Novo Generation/Reviews.md",
-    "docs/De Novo Generation/De Novo Generation.md",
-    "docs/Pharmacophore/Pharmacophore.md",
-    "docs/SBVS/Docking Score Prediction.md",
-    "docs/SBVS/Docking Pose Processing.md",
-    "docs/SBVS/Docking.md",
-    "docs/Plugins/PyMol Tools.md",
-    "docs/Plugins/Chimera.md",
-    "docs/VS Workflows/VS Workflows.md",
     "_public/apple-touch-icon-precomposed.png",
     "public/apple-touch-icon-precomposed.png",
     "lanyon-master/public/apple-touch-icon-precomposed.png",

@@ -21,5 +21,6 @@
 * General
 	* **[MayaChemTools](http://www.mayachemtools.org/index.html)**: MayaChemTools is a collection of Perl and Python scripts, modules, and classes that support a variety of computational discovery needs, with functionalities for processing, analyzing, and visualizing chemical data. The tools are free software, distributed under the GNU LGPL.
 	* [datamol](https://github.com/datamol-org/datamol): - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
+	* [Cheminformatics Recipes](https://github.com/UnixJunkie/chemoinfo_recipes)
 - Compound Naming
 	- **[CIRpy](https://github.com/mcs07/CIRpy)**: CIRpy is a Python wrapper for the NCI Chemical Identifier Resolver (CIR), simplifying the process of converting between various chemical identifiers using Python, such as converting chemical names to SMILES strings.
