@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../../img/favicon.ico" />
+    <title>Compound Representations - CADD Vault</title>
+    <link rel="stylesheet" href="../../css/theme.css" />
+    <link rel="stylesheet" href="../../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Compound Representations";
+        var mkdocs_page_input_path = "Cheminformatics/Compound Representations.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="../.." class="icon icon-home"> CADD Vault
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../..">Computer-Aided Drug Design (CADD) Vault</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Cheminformatics</span></p>
+              <ul class="current">
+                  <li class="toctree-l1"><a class="reference internal" href="../ADMET/">ADMET</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Chemical%20Format%20conversion/">Chemical Format conversion</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Chemical%20Space/">Chemical Space</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Compound%20Preparation/">Standardization</a>
+                  </li>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Compound Representations</a>
+    <ul class="current">
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Conformer%20Generation/">Conformer Generation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../General%20Tools/">General Tools</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Library%20filtering/">Library filtering</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Property%20Prediction/">Property Prediction</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Protonation/">Protonation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../QM/">QM</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../QSAR/">QSAR</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Synthetic%20Accessibility/">Synthetic Accessibility</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Datasets</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Datasets/Datasets/">Datasets</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">De Novo Generation</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../De%20Novo%20Generation/De%20Novo%20Generation/">De Novo Generation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../De%20Novo%20Generation/Quality%20Control/">Quality Control</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../De%20Novo%20Generation/Reviews/">Reviews</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../De%20Novo%20Generation/Target-aware%20De%20Novo%20Generation/">Target aware De Novo Generation</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">FBDD</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../FBDD/FBDD/">FBDD</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">LBVS</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../LBVS/LBVS/">LBVS</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">MD</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../MD/MD/">MD</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">ML</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../ML/ML/">ML</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Other</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Other/Other/">Other</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Pharmacophore</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Pharmacophore/Pharmacophore/">Pharmacophore</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Plugins</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Plugins/Chimera/">Chimera</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Plugins/PyMol%20Tools/">PyMol Tools</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Proteins</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Protein%20Structure/">Protein Structure</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Resources</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Resources/Resources/">Resources</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">SBVS</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Docking%20Pose%20Processing/">Docking Pose Processing</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Docking%20Score%20Prediction/">Docking Score Prediction</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Docking/">Docking</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Scoring%20Functions/">Scoring Functions</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Target Identification</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Target%20Identification/Target%20identification/">Target identification</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">VS Workflows</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../VS%20Workflows/VS%20Workflows/">VS Workflows</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../..">CADD Vault</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
+          <li class="breadcrumb-item">Cheminformatics</li>
+      <li class="breadcrumb-item active">Compound Representations</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h3 id="fingerprints">Fingerprints</h3>
+<ul>
+<li>Tools<ul>
+<li><a href="https://github.com/Arch4ngel21/scikit-fingerprints">SciKit-fingerprints</a></li>
+<li><a href="https://www.rdkit.org/docs/GettingStartedInPython.html#fingerprinting-and-molecular-similarity">RDKit</a></li>
+<li><a href="https://github.com/yoshida-lab/XenonPy/blob/master/xenonpy/descriptor/fingerprint.py">XenonPy</a></li>
+</ul>
+</li>
+<li>Protein-ligand interaction<ul>
+<li><a href="https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index">PLIP</a></li>
+<li><a href="https://doi.org/10.1021/ci500319f">SPLIF</a></li>
+<li><a href="https://github.com/chemosim-lab/ProLIF">ProLIF</a></li>
+</ul>
+</li>
+<li>Ligand<ul>
+<li>MACCS</li>
+<li>Morgan (equivalent to ECFP)</li>
+<li>ECFP</li>
+<li>FCFP</li>
+<li>AtomPair</li>
+<li><a href="https://github.com/keiserlab/e3fp">E3FP</a></li>
+<li><a href="https://github.com/volkamerlab/maxsmi">maxsmi</a></li>
+<li>Graphlet fingerprint : <a href="https://github.com/lanl/minervachem">Minervachem</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="descriptors">Descriptors</h3>
+<h4 id="tools">Tools</h4>
+<ul>
+<li><a href="https://github.com/jairesdesousa/guidemol">GuideMol</a></li>
+<li><a href="https://github.com/mordred-descriptor/mordred">mordred</a> - Molecular descriptor calculator based on <a href="http://www.rdkit.org/">RDKit</a>.</li>
+<li><a href="https://github.com/bp-kelley/descriptastorus">DescriptaStorus</a> - Descriptor computation(chemistry) and (optional) storage for machine learning.</li>
+<li><a href="https://github.com/samoturk/mol2vec">mol2vec</a> - Vector representations of molecular substructures.</li>
+<li><a href="http://yapcwsoft.com/dd/padeldescriptor/">PaDEL</a></li>
+<li><a href="https://github.com/ifyoungnet/Chemopy?tab=readme-ov-file">ChemoPy</a></li>
+<li><a href="http://www.scbdd.com/chemdes/">ChemDes</a></li>
+<li><a href="https://github.com/silicos-it/qed">QED</a></li>
+<li><a href="https://github.com/WhitestoneYang/spoc">SPOC</a></li>
+<li><a href="https://github.com/ThomasJewson/Molecular3DLengthDescriptors">Molecular3DLengthDescriptors</a></li>
+<li><a href="https://github.com/silicos-it/spectrophore">Spectrophores</a></li>
+<li>From MD Simulations<ul>
+<li><a href="https://github.com/panwarp/PyL3dMD">PyL3dMD</a></li>
+</ul>
+</li>
+</ul>
+<h3 id="other-representations">Other Representations</h3>
+<ul>
+<li>Strings<ul>
+<li>SMILES<ul>
+<li><a href="https://github.com/jcorreia11/SMILESAugmentation">SMILESAugmentation</a></li>
+<li><a href="https://github.com/juanniwu/t-smiles">t-SMILES</a></li>
+</ul>
+</li>
+<li>SELFIES</li>
+<li><a href="https://github.com/SqrtNegInf/SMARTS">SMARTS</a><ul>
+<li><a href="https://zivgitlab.uni-muenster.de/ag-glorius/published-paper/evompf">EvoMPF</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://github.com/fengshikun/UniMAP">UniMAP</a></li>
+<li><a href="https://github.com/TUCAN-nest/TUCAN">TUCAN</a></li>
+<li>Transformers<ul>
+<li><a href="https://github.com/odb9402/MoleculeTransformer">BERT</a></li>
+</ul>
+</li>
+<li>Protein-Ligand Interaction<ul>
+<li><a href="https://bitbucket.org/zchl/sift2d/src/master/">2D-SIFt</a></li>
+<li><a href="https://durrantlab.pitt.edu/binana-download/">BINANA</a></li>
+<li><a href="https://durrantlab.pitt.edu/liggrep/">LigGrep</a></li>
+<li><a href="https://github.com/chemosim-lab/ProLIF">ProLIF</a></li>
+</ul>
+</li>
+<li>Fragments<ul>
+<li><a href="https://github.com/LiamWilbraham/molz">molZ</a></li>
+</ul>
+</li>
+</ul>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../Compound%20Preparation/" class="btn btn-neutral float-left" title="Standardization"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../Conformer%20Generation/" class="btn btn-neutral float-right" title="Conformer Generation">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../Compound%20Preparation/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../Conformer%20Generation/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="../../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "../..";</script>
+    <script src="../../js/theme_extra.js"></script>
+    <script src="../../js/theme.js"></script>
+      <script src="../../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>
