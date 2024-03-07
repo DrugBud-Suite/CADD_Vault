@@ -2,7 +2,7 @@
 
 ## Classical
 
-- **Vina**
+- [**AutoDock Vina**](https://autodock-vina.readthedocs.io/en/latest/index.html)
   - [RDPSO_Vina](https://github.com/li-jin-xing/RDPSOVina): A fast docking tool utilizing random drift particle swarm optimization based on the AutoDock Vina and PSOVina framework.
   - [VinaXB (halogen-bonding)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-016-0139-1): Introduces a halogen bonding scoring function (XBSF) in AutoDock Vina, termed AutoDock VinaXB, to improve docking accuracy with halogenated ligands.
   - [QVINA](https://github.com/QVina/qvina): QuickVina 2 aims to accurately speed up AutoDock Vina, providing up to 20.49-fold acceleration with high correlation in binding energy prediction.

@@ -12,6 +12,11 @@
   - [MUDB-DecoyMaker2.0](https://github.com/jwxia2014/MUBD-DecoyMaker2.0): A Python GUI application to generate maximal unbiased benchmarking sets data sets for virtual drug screening.
 - [CASF](http://www.pdbbind.org.cn/casf.php): CASF offers benchmark packages for the assessment of scoring functions, with versions CASF-2016, CASF-2013, and CASF-2007 available for download upon registration.
 
+## Machine Learning Benchmarks
+
+- [MoleculeNet](https://moleculenet.org/): benchmark specially designed for testing machine learning methods of molecular properties
+- [Therapeutics Data Commons](https://tdcommons.ai/): Therapeutics Data Commons is a resource to access and evaluate AI methods, supporting the development of AI methods, with a strong bent towards establishing the foundation of which AI methods are most suitable for drug discovery applications and why.
+
 ## Protein-Ligand Interaction
 
 - [PDBscreen](https://zenodo.org/records/8049380): PDBscreen provides a dataset with multiple data augmentation strategies suitable for training protein-ligand interaction prediction methods.
@@ -29,12 +34,14 @@
 ## Make on Demand Libraries
 
 - [FreedomSpace](https://chem-space.com/compounds/freedom-space)
+- [Enamine REAL](https://enamine.net/compound-collections/real-compounds/real-database)
 
 ## Natural Products
 
 - [LOTUS](https://lotus.naturalproducts.net/): LOTUS is a significant, well-annotated resource for natural products, offering a user-friendly experience including structural search, taxonomy-oriented queries, and exports.
 - [COCONUT](https://coconut.naturalproducts.net/): COCONUT hosts one of the largest and best annotated natural product databases, freely available and undergoing continuous curation and improvement.
 - [SymMap](http://www.symmap.org/): SymMap integrates traditional Chinese medicine with modern medicine through molecular mechanisms and symptom mapping, offering information on herbs, ingredients, targets, symptoms, and diseases.
+- [NPASS](https://bidd.group/NPASS/): Natural product activity and species source database
 
 ## Chemical
 
@@ -69,3 +76,15 @@
 ## Properties
 
 - [Molecules Dataset Collection](https://github.com/GLambard/Molecules_Dataset_Collection?tab=readme-ov-file): - Selection of data sets of molecules (SMILES) and physicochemical properties
+
+## Toxicity
+
+- [DrugMatrix/ToxFX](https://ntp.niehs.nih.gov/data/drugmatrix): one of the world’s largest toxicogenomic reference resources
+- [hergcentral](http://www.hergcentral.org/)
+## ADMET
+
+- [ADME@NCATS](https://opendata.ncats.nih.gov/adme/)
+
+## Chemical Reactions
+
+- [Open Reaction Database](https://docs.open-reaction-database.org/en/latest/): open access chemical reaction database to support machine learning and related efforts in reaction prediction, chemical synthesis planning, and experiment design

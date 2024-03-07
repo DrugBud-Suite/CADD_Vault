@@ -14,6 +14,7 @@
 - **[pyADA](https://github.com/jeffrichardchemistry/pyADA)**: pyADA is a cheminformatics package for performing Applicability Domain Analysis of molecular fingerprints based on similarity calculation.
 - **[USearch](https://github.com/ashvardanian/usearch-molecules)**: USearch facilitates structural similarity searches across billions of molecules in milliseconds, focusing on chemoinformatics applications.
 - **[Chem-Faiss](https://github.com/ritabratamaiti/Chem-Faiss)**: Chem-Faiss utilizes vector similarity search from Faiss combined with chemical fingerprinting to build a scalable similarity search architecture for compounds/molecules.
+- [SmallWorld](https://sw.docking.org/search.html): web-based ligand similarity on a variety of commercial databases
 
 ## 3D
 

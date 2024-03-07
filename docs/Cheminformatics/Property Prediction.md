@@ -30,8 +30,16 @@
 - [mod-QSAR](https://github.com/NikhilMukraj/mod-qsar): modular inverse QSAR pipeline
 - [QSAR Bioactivity Predictor](https://github.com/AtilMohAmine/QSAR-Bioactivity-Predictor) : Python application that allows users to create QSAR models to predict bioactivity for a specific target.
 - [maxsmi](https://github.com/volkamerlab/maxsmi) - Utilizes maximum similarity to predict chemical properties and activities from SMILES strings using deep learning.
+- [MolCLR](https://github.com/yuyangw/MolCLR): Molecular Contrastive Learning of Representations via Graph Neural Networks
+- [ChemBERTa](https://github.com/seyonechithrananda/bert-loves-chemistry): BERT-like models applied to chemical SMILES data for drug design, chemical modelling, and property prediction
+- [Graphormer](https://github.com/microsoft/Graphormer): deep learning package that allows researchers and developers to train custom models for molecule modeling tasks
+- [X-MOL](https://github.com/bm2-lab/X-MOL): large-scale pre-training for molecular understanding and diverse molecular analysis
+- [MolPMoFiT](https://github.com/XinhaoLi74/MolPMoFiT): transfer learning method based on self-supervised pre-training + task-specific fine-tuning for QSPR/QSAR modeling
 
 ## Pretrained Models
 
 - **logP**
   - [rescoss_logp_ml](https://github.com/cisert/rescoss_logp_ml): A repository dedicated to logP prediction using machine learning, offering insights into the solubility and distribution properties of compounds.
+- **hERG**
+  - [CardioTox](https://github.com/Abdulk084/CardioTox): A robust predictor for hERG channel blockade via deep learning meta ensembling approaches
+  - [hERGdb](https://drugdesign.riken.jp/hERGdb/): web-based cardiotoxicity prediction

@@ -25,3 +25,4 @@
 - [chemml](https://hachmannlab.github.io/chemml/) - A machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data.
 - [chemprop](https://github.com/chemprop/chemprop) - Message Passing Neural Networks for Molecule Property Prediction .
 - [cgcnn](https://github.com/txie-93/cgcnn) - Crystal graph convolutional neural networks for predicting material properties.
+- [TorchDrug](https://torchdrug.ai/): A powerful and flexible machine learning platform for drug discovery

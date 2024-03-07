@@ -41,6 +41,12 @@
 - [SQUID (Equivariant Shape-Conditioned Generation of 3D Molecules for Ligand-Based Drug Design)](https://github.com/keiradams/squid): Demonstrates the generation of chemically diverse molecules for arbitrary molecular shapes, aiming at ligand-based drug design through shape-conditioned molecular generation.
 - [HyFactor (Hydrogen-count Labelled Graph-based Defactorization Autoencoder)](https://github.com/Laboratoire-de-Chemoinformatique/HyFactor): An open-source architecture for structure generation using graph-based approaches, focusing on a new molecular graph type that considers hydrogen counts for enhanced molecular representation and generation.
 - [GAN-Drug-Generator](https://github.com/larngroup/GAN-Drug-Generator): Proposes a framework based on Feedback Generative Adversarial Network (GAN) for the generation and optimization of drug-like molecules, including a multiobjective optimization selection technique.
+- [FASMIFRA](https://github.com/UnixJunkie/FASMIFRA): Generate molecules fast from a molecular training set while also doing training-set distribution matching
+- [hgraph2graph](https://github.com/wengong-jin/hgraph2graph): Hierarchical Generation of Molecular Graphs using Structural Motifs
+- [MolDQN](https://github.com/google-research/google-research/tree/master/mol_dqn): Optimization of Molecules via Deep Reinforcement Learning
+
+- **Fragment-based**
+  - [CRem](https://github.com/DrrDom/crem): open-source Python framework to generate chemical structures using a fragment-based approach
 
 - **Pharmacophore**
   - [PGMG](https://github.com/CSUBioGroup/PGMG): A Pharmacophore-Guided Deep Learning Approach for Bioactive Molecule Generation, offering a strategy to generate molecules with structural diversity based on a pharmacophore hypothesis.
@@ -50,3 +56,4 @@
 
 - **Linker generation**
   - [DiffLinker](https://github.com/igashov/DiffLinker): An Equivariant 3D-conditional Diffusion Model for Molecular Linker Design that places missing atoms between disconnected fragments in 3D, designing molecules that incorporate all initial fragments with potential applications in linker generation for drug discovery.
+  - [DeLinker](https://github.com/oxpig/DeLinker): Deep Generative Models for 3D Linker Design
