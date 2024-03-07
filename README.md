@@ -1,9 +1,9 @@
 # [Computer-Aided Drug Design (CADD) Vault](https://tonylac77.github.io/CADD_Vault/)
 
-![Stars](https://img.shields.io/github/stars/tonylac77/CADD_Vault)
-![mkdocs](https://github.com/github/docs/actions/workflows/mkdocs-deploy.yml/badge.svg)
-[![License](https://img.shields.io/github/license/tonylac77/CADD_Vault)](./LICENSE)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![Stars](https://img.shields.io/github/stars/tonylac77/CADD_Vault?style=for-the-badge) 
+![mkdocs](https://img.shields.io/github/actions/workflow/status/tonylac77/CADD_Vault/mkdocs-deploy.yml?style=for-the-badge)
+![License](https://img.shields.io/github/license/tonylac77/CADD_Vault?style=for-the-badge)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
 
 Welcome to the [CADD Vault](https://tonylac77.github.io/CADD_Vault/), an open-source repository dedicated to sharing resources, tools, and knowledge in the field of computer-aided drug design. This vault aims to support researchers, students, and professionals by providing a comprehensive collection of materials related to CADD.
 
