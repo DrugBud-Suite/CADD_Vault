@@ -1,9 +1,9 @@
 # [Computer-Aided Drug Design (CADD) Vault](https://tonylac77.github.io/CADD_Vault/)
 
-![GitHub stars](https://img.shields.io/github/stars/CADD_Vault.svg?style=social&label=Star&maxAge=2592000)
-![CI/CD Pipeline](https://github.com/tonylac77/CADD_Vault/actions/workflows/main.yml/badge.svg)
-![Visitor Count](https://profile-counter.glitch.me/tonylac77/count.svg)
-![License](https://img.shields.io/github/license/CADD_Vault.svg)
+![Stars](https://img.shields.io/github/stars/tonylac77/CADD_Vault)
+![mkdocs](https://github.com/github/docs/actions/workflows/mkdocs-deploy.yml/badge.svg)
+[![License](https://img.shields.io/github/license/tonylac77/CADD_Vault)](./LICENSE)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
 Welcome to the [CADD Vault](https://tonylac77.github.io/CADD_Vault/), an open-source repository dedicated to sharing resources, tools, and knowledge in the field of computer-aided drug design. This vault aims to support researchers, students, and professionals by providing a comprehensive collection of materials related to CADD.
 
@@ -33,7 +33,7 @@ We welcome contributions from the community! If you have resources, tools, tutor
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+CADD_Vault © 2024 by Antoine Lacour is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
 
 ## Acknowledgements
 
