@@ -1,9 +1,9 @@
-### Models
+# Models
 
 - **[REINVENT 4](https://github.com/MolecularAI/REINVENT4)**: A molecular design tool for various design tasks like de novo design, scaffold hopping, and molecule optimization, using a reinforcement learning algorithm.
-	- **[REINVENT-HITL](https://github.com/MolecularAI/reinvent-hitl)**: Focuses on human-in-the-loop assisted de novo molecular design, leveraging reinforcement learning for optimizing molecules based on human feedback.
+ 	- **[REINVENT-HITL](https://github.com/MolecularAI/reinvent-hitl)**: Focuses on human-in-the-loop assisted de novo molecular design, leveraging reinforcement learning for optimizing molecules based on human feedback.
 - **[GRAPHINVENT](https://github.com/MolecularAI/GraphINVENT)**: A platform for graph-based molecular generation using graph neural networks, emphasizing probabilistic generation one bond at a time.
-	- **[RL-GraphInvent](https://github.com/olsson-group/RL-GraphINVENT)**: An extension using reinforcement learning for targeted molecular generation.
+ 	- **[RL-GraphInvent](https://github.com/olsson-group/RL-GraphINVENT)**: An extension using reinforcement learning for targeted molecular generation.
 - **[TransformerVAE](https://github.com/mizuno-group/TransformerVAE)**: A VAE model with Transformer backbone for molecule generation.
 - **[SiMGen](https://zndraw.icp.uni-stuttgart.de/)**: The provided link was unresponsive for extracting detailed information.
 - **[FREED](https://github.com/AITRICS/FREED)**: Utilizes explorative experience replay in a generative reinforcement learning setup for drug design.
@@ -41,10 +41,10 @@
 - **[GAN-Drug-Generator](https://github.com/larngroup/GAN-Drug-Generator)**: Proposes a framework based on Feedback Generative Adversarial Network (GAN) for the generation and optimization of drug-like molecules, including a multiobjective optimization selection technique.
 
 - **Pharmacophore**
-	- **[PGMG](https://github.com/CSUBioGroup/PGMG)**: A Pharmacophore-Guided Deep Learning Approach for Bioactive Molecule Generation, offering a strategy to generate molecules with structural diversity based on a pharmacophore hypothesis.
-		- [Webserver](https://www.csuligroup.com/PGMG/)
-	- **[DEVELOP](https://github.com/oxpig/DEVELOP)**: Implements Deep Generative Design with 3D Pharmacophoric Constraints for molecular design, focusing on linker design and scaffold elaboration using a combination of variational autoencoders and 3D pharmacophore modeling.
-    - **[TransPharmer](https://www.semanticscholar.org/reader/fac3d72a3e73f65e1c950104e010edd136cb4201)**: The provided link was unresponsive for extracting detailed information; typically, it would describe a tool or model for pharmacophore-based molecular design or analysis.
+ 	- **[PGMG](https://github.com/CSUBioGroup/PGMG)**: A Pharmacophore-Guided Deep Learning Approach for Bioactive Molecule Generation, offering a strategy to generate molecules with structural diversity based on a pharmacophore hypothesis.
+  		- [Webserver](https://www.csuligroup.com/PGMG/)
+ 	- **[DEVELOP](https://github.com/oxpig/DEVELOP)**: Implements Deep Generative Design with 3D Pharmacophoric Constraints for molecular design, focusing on linker design and scaffold elaboration using a combination of variational autoencoders and 3D pharmacophore modeling.
+  - **[TransPharmer](https://www.semanticscholar.org/reader/fac3d72a3e73f65e1c950104e010edd136cb4201)**: The provided link was unresponsive for extracting detailed information; typically, it would describe a tool or model for pharmacophore-based molecular design or analysis.
 
 - **Linker generation**
-	- **[DiffLinker](https://github.com/igashov/DiffLinker)**: An Equivariant 3D-conditional Diffusion Model for Molecular Linker Design that places missing atoms between disconnected fragments in 3D, designing molecules that incorporate all initial fragments with potential applications in linker generation for drug discovery.
+ 	- **[DiffLinker](https://github.com/igashov/DiffLinker)**: An Equivariant 3D-conditional Diffusion Model for Molecular Linker Design that places missing atoms between disconnected fragments in 3D, designing molecules that incorporate all initial fragments with potential applications in linker generation for drug discovery.

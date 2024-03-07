@@ -1,12 +1,12 @@
-### Courses
+# Courses
 
-* [Learncheminformatics.com](http://learncheminformatics.com/) - "Cheminformatics: Navigating the world of chemical data" courese at Indiana University.
-* [Python for chemoinformatics](https://github.com/Mishima-syk/py4chemoinformatics)
-* [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) - A teaching platform for computer-aided drug design (CADD) using open source packages and data.
-* [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_(2019)) - Cheminformatics course of the Collaborative Intercollegiate Online Chemistry Course (OLCC) course of University of Arkansas at Little Rock by Robert Belford
-* [BigChem](http://bigchem.eu/alllectures) - All lectures of [BigChem](http://bigchem.eu/) (A Horizon 2020 MSC ITN EID project, which provides innovative education in large chemical data analysis.)
-* [Molecular modeling course](https://dasher.wustl.edu/chem478/) - by Dr. [Jay Ponder](https://dasher.wustl.edu/), a professor from WashU St.Louis.
-* [Simulation in Chemistry and Biochemistry](https://dasher.wustl.edu/chem430/) - by Dr. [Jay Ponder](https://dasher.wustl.edu/), a professor from WashU St.Louis.
+- [Learncheminformatics.com](http://learncheminformatics.com/) - "Cheminformatics: Navigating the world of chemical data" courese at Indiana University.
+- [Python for chemoinformatics](https://github.com/Mishima-syk/py4chemoinformatics)
+- [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) - A teaching platform for computer-aided drug design (CADD) using open source packages and data.
+- [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_(2019)) - Cheminformatics course of the Collaborative Intercollegiate Online Chemistry Course (OLCC) course of University of Arkansas at Little Rock by Robert Belford
+- [BigChem](http://bigchem.eu/alllectures) - All lectures of [BigChem](http://bigchem.eu/) (A Horizon 2020 MSC ITN EID project, which provides innovative education in large chemical data analysis.)
+- [Molecular modeling course](https://dasher.wustl.edu/chem478/) - by Dr. [Jay Ponder](https://dasher.wustl.edu/), a professor from WashU St.Louis.
+- [Simulation in Chemistry and Biochemistry](https://dasher.wustl.edu/chem430/) - by Dr. [Jay Ponder](https://dasher.wustl.edu/), a professor from WashU St.Louis.
 - **[Machine Learning in Drug Design - 2023](https://github.com/gmum/mldd23)**: This repository contains course materials for "Machine Learning in Drug Design" taught at Jagiellonian University in 2023, hosted by the GMUM machine learning research group. It includes lab materials, lecture slides, and notes covering various topics related to machine learning applications in drug design
 - **[Machine Learning in Drug Design - UMWPL2021](https://github.com/gmum/umwpl2021)**: Similar to the 2023 course, this repository hosts materials for the course "Machine Learning in Drug Design" taught at Jagiellonian University, covering various topics with labs and providing environment setup instructions for Python.
 - **[Drug Discovery](https://www.drugdesign.org/chapters/drug-discovery/)**: This page provides an introduction to drug discovery, including a brief history of medicine development, in-silico technologies, drug discovery processes, rational drug design strategies, and the future aspects of drug discovery.
@@ -14,7 +14,7 @@
 - **[Cheminformatics-and-Drug-Discovery](https://github.com/Shiska07/Cheminformatics-and-Drug-Discovery)**: This GitHub repository includes notebooks guiding through data preparation and model training to predict chemical properties of compounds represented as SMILES. It also explores chemical space visualization using PCA and t-SNE with the ChEMBL dataset.
 - **[teachmecadd](https://github.com/med-sci/teachmecadd/tree/feature/tutorials)**: repository intended for tutorials related to computational drug discovery.
 
-### Blogs
+# Blogs
 
 * [Open Source Molecular Modeling](https://opensourcemolecularmodeling.github.io/README.html) - Updateable catalog of open source molecular modeling software.
 * [PubChem Blog](https://pubchemblog.ncbi.nlm.nih.gov/) - News, updates and tutorials about [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
@@ -35,13 +35,14 @@
 * [Depth-First](https://depth-first.com/) - Blog of [Richard L. Apodaca](https://depth-first.com/about/), a chemist living in La Jolla, California.
 * [Cheminformania](https://www.cheminformania.com) - Blog of [Ph.D, Esben Jannik Bjerrum](https://www.cheminformania.com/about/esben-jannik-bjerrum/), who is a Principle Scientist and a Machine Learning and AI specialists at AstraZeneca.
 
-### Books
+# Books
 
 * [Computational Approaches in Cheminformatics and Bioinformatics](https://books.google.com/books/about/Computational_Approaches_in_Cheminformat.html?id=bLqV4rYQoYsC) -  Include insights from public (NIH), academic, and industrial sources at the same time.
 * [Chemoinformatics for Drug Discovery](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118742785) - Materials about how to use Chemoinformatics strategies to improve drug discovery results.
 * [Molecular Descriptors for Chemoinformatics](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527628766) - More than 3300 descriptors and related terms for chemoinformatic analysis of chemical compound properties.
 
 <a id="see-also"></a>
+
 ## See Also
 
 * [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo.
@@ -51,4 +52,4 @@
 * [MolSSI Molecular Software Database](https://molssi.org/software-search/)
 * [Pages created by Tobias Kind, PhD](https://fiehnlab.ucdavis.edu/staff/kind/metabolomics)
 * [comp_chem_colab](https://github.com/yboulaamane/comp_chem_colab)
-* 
+*

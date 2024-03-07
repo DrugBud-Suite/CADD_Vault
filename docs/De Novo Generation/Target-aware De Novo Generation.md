@@ -1,4 +1,4 @@
-### Models
+# Models
 
 - **[Lingo3DMol](https://github.com/stonewiseAIDrugDesign/Lingo3DMol)**: A pocket-based 3D molecule generation method that combines language model capabilities with 3D coordinate generation and geometric deep learning.
 - **[3D-Generative-SBDD](https://github.com/luost26/3D-Generative-SBDD)**: Focuses on structure-based drug design (SBDD) using a 3D generative model to sample molecules for specific protein pockets.
@@ -23,7 +23,6 @@
 - [DrugGEN](https://github.com/asarigun/DrugGEN)
 - [PETrans](https://github.com/Chinafor/PETrans)
 - Dual-target
-	- [Alx-Fuse](https://github.com/biomed-AI/AIxFuse)
+ 	- [Alx-Fuse](https://github.com/biomed-AI/AIxFuse)
 - Interaction fingerprint constrained
-	- [IFP-RNN](https://github.com/jeah-z/IFP-RNN): A molecule generative model used interaction fingerprint (docking pose) as constraints.
-
+ 	- [IFP-RNN](https://github.com/jeah-z/IFP-RNN): A molecule generative model used interaction fingerprint (docking pose) as constraints.

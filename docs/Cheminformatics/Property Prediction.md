@@ -1,5 +1,5 @@
+# Model Building and training
 
-### Model Building and training
 - [qsar-tools](https://github.com/dkoes/qsar-tools): Scripts for assisting in modeling quantitative structure-activity relationships from 2D chemical data.
 - [QSPRpred](https://github.com/CDDLeiden/QSPRpred): QSPRpred is open-source software for building Quantitative Structure Property Relationship (QSPR) models, supporting research with a unified interface for different descriptors and machine learning algorithms.
 - [conv_qsar_fast](QSAR/QSPR using descriptor-free molecular embedding): QSAR/QSPR using descriptor-free molecular embedding
@@ -28,6 +28,8 @@
 - [mod-QSAR](https://github.com/NikhilMukraj/mod-qsar): modular inverse QSAR pipeline
 - [QSAR Bioactivity Predictor](https://github.com/AtilMohAmine/QSAR-Bioactivity-Predictor) : Python application that allows users to create QSAR models to predict bioactivity for a specific target.
 - [maxsmi](https://github.com/volkamerlab/maxsmi) - Utilizes maximum similarity to predict chemical properties and activities from SMILES strings using deep learning.
-### Pretrained Models
+
+# Pretrained Models
+
 - **logP**
-    - [rescoss_logp_ml](https://github.com/cisert/rescoss_logp_ml): A repository dedicated to logP prediction using machine learning, offering insights into the solubility and distribution properties of compounds.
+  - [rescoss_logp_ml](https://github.com/cisert/rescoss_logp_ml): A repository dedicated to logP prediction using machine learning, offering insights into the solubility and distribution properties of compounds.
