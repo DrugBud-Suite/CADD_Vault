@@ -1,16 +1,18 @@
-# Workflow Calibration/Optimisation
+# Virtual Screening Worflows
+
+## Workflow Calibration/Optimisation
 
 - [EvoTec](https://link.springer.com/article/10.1007/s10822-021-00431-4)
 
-# Guides
+## Guides
 
 - [A practical guide to large-scale docking](https://www.nature.com/articles/s41596-021-00597-z)
 
-# Database
+## Database
 
 - [RingTail](https://github.com/forlilab/Ringtail#getting-started): RingTail is a package for storage and analysis of virtual screenings run with AutoDock-GPU and AutoDock Vina, facilitating the creation of SQLite databases from virtual screening results, performing filtering, and exporting results.
 
-# Full Workflows
+## Full Workflows
 
 - [DrugSniffer](https://drugsniffer.org/): Drug Sniffer is a virtual screening pipeline capable of screening billions of molecules using a combination of ligand-based and structure-based methods, designed to streamline and accelerate the drug discovery process.
 - [ChemFlow](https://github.com/IFMlab/ChemFlow): ChemFlow provides a series of computational chemistry workflows designed to automatize and simplify the drug discovery pipeline and scoring function benchmarking, consisting of BASH and PYTHON scripts.

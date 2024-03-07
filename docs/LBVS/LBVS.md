@@ -1,8 +1,6 @@
-# Reviews
+# Ligand-Based Virtual Screening
 
-[Bajorath et al.](https://pubs.acs.org/doi/10.1021/ci900419k)
-
-# 2D
+## 2D
 
 - **[SwissSimilarity](http://www.swisssimilarity.ch/)**: SwissSimilarity offers an online service for small molecule similarity screening against selected compound libraries using various cheminformatics methods.
 - **[PyRMD](https://github.com/cosconatilab/PyRMD?tab=readme-ov-file)**: PyRMD is an AI-powered Ligand-Based Virtual Screening tool powered by machine learning, developed for fast and efficient virtual screening.
@@ -17,14 +15,18 @@
 - **[USearch](https://github.com/ashvardanian/usearch-molecules)**: USearch facilitates structural similarity searches across billions of molecules in milliseconds, focusing on chemoinformatics applications.
 - **[Chem-Faiss](https://github.com/ritabratamaiti/Chem-Faiss)**: Chem-Faiss utilizes vector similarity search from Faiss combined with chemical fingerprinting to build a scalable similarity search architecture for compounds/molecules.
 
-# 3D
+## 3D
 
 - **[ShaEP](https://users.abo.fi/mivainio/shaep/)**: ShaEP aligns two 3D molecular structures and computes a similarity index, useful for virtual screening and 3D QSAR methods.
 - **[AutoDock-SS](https://www.semanticscholar.org/paper/AutoDock-SS%3A-AutoDock-for-Multiconformational-Ni-Wang/6a967759d3ab27e076e570238a7f8ce029bfc0e7)**: AutoDock-SS enhances AutoDock for multiconformational and flexible ligand docking, considering various ligand conformations for accurate docking predictions.
 - **[USR-VS](http://usr.marseille.inserm.fr/)**: USR-VS is a web server for ligand-based virtual screening using ultrafast shape recognition techniques to discover bioactive molecules.
 - **[SENSAAS](https://github.com/SENSAAS/sensaas)**: SENSAAS is a shape-based alignment software for superimposing molecules, utilizing a colored point-based surface representation for molecular comparison.
 
-# Hybrid
+## Hybrid
 
 - [HybridSim](http://www.rcidm.org/HybridSim‐VS/) : HybridSim-VS is a tool for virtual screening that integrates both 2D and 3D similarity methods for improved screening performance and accuracy.
 - **[LiSiCa](http://insilab.org/lisica/)**: (Already described above under 2D) Offers both 2D and 3D ligand similarity screening options based on graph-theoretical methods.
+
+## Reviews
+
+[Bajorath et al.](https://pubs.acs.org/doi/10.1021/ci900419k)

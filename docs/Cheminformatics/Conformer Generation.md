@@ -1,9 +1,6 @@
-# Reviews
+# Conformer Generation
 
-- [Wang et al.](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01519)
-- [McNutt et al.](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01245)
-
-# Tools
+## Tools
 
 - [Gypsum-DL](https://durrantlab.pitt.edu/gypsum-dl/): Gypsum-DL is a software that transforms 1D and 2D small-molecule representations into 3D models, considering various isomeric and conformational states.
 - [GeoDiff](https://github.com/MinkaiXu/GeoDiff): GeoDiff introduces a geometric diffusion model aimed at generating molecular conformations, as detailed in their ICLR 2022 presentation.
@@ -12,3 +9,8 @@
 - [ConfGF](https://github.com/DeepGraphLearning/ConfGF): ConfGF, as introduced in ICML 2021, learns gradient fields for molecular conformation generation, featuring an official implementation for their methodology.
 - [confgen-webapp](https://github.com/Et9797/confgen-webapp): A simple web application for generating small ligand conformers for docking purposes using RDKit, accessible at [http://confgen.net](http://confgen.net/).
 - [Conformer-Search](https://github.com/mcsorkun/Conformer-Search): This repository outlines a workflow for searching minimum energy conformers based on force field optimization methods (UFF and MMFF94) using RDKit.
+
+## Reviews
+
+- [Wang et al.](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01519)
+- [McNutt et al.](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01245)

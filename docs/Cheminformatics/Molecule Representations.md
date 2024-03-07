@@ -1,4 +1,6 @@
-# Fingerprints
+# Molecule Representations
+
+## Fingerprints
 
 - **Tools**
   - [SciKit-fingerprints](https://github.com/Arch4ngel21/scikit-fingerprints): A Python library for efficient computation of molecular fingerprints.
@@ -7,15 +9,17 @@
   - [QSAR_toolbox](https://github.com/iwatobipen/QSAR_TOOLBOX): scripts for QSAR model building and fingerprint generation
   - [MoleculaPy](https://github.com/kamilpytlak/MoleculaPy): A command-line application that utilizes the RDKit library to compute molecular descriptors and fingerprints, aiding in the analysis and characterization of chemical structures.
   - [E3FP](https://github.com/keiserlab/e3fp) - Converts molecules from conventional representations into a folded fingerprint for three-dimensional molecular shapes.
- 	- Graphlet fingerprint: [Minervachem](https://github.com/lanl/minervachem) - Provides a method for analyzing molecular graphlets, offering a unique approach to molecular characterization and comparison.
+  - Graphlet fingerprint: [Minervachem](https://github.com/lanl/minervachem) - Provides a method for analyzing molecular graphlets, offering a unique approach to molecular characterization and comparison.
 
-# Protein-ligand interaction
+## Protein-ligand interaction
 
 - [PLIP](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index): An easy and fast web tool for identifying non-covalent interactions between biological macromolecules and their ligands.
 - [SPLIF](https://doi.org/10.1021/ci500319f): The link leads to a DOI page which typically hosts scientific publications; SPLIF is a method for encoding protein-ligand interactions.
 - [ProLIF](https://github.com/chemosim-lab/ProLIF): ProLIF (Protein-Ligand Interaction Fingerprints) generates interaction fingerprints for complexes made of ligands, protein, DNA, or RNA molecules extracted from molecular dynamics trajectories, docking simulations, and experimental structures.
+- [2D-SIFt](https://bitbucket.org/zchl/sift2d/src/master/): 2D-SIFt provides a two-dimensional method for analyzing protein-ligand interactions.
+- [BINANA](https://durrantlab.pitt.edu/binana-download/): BINANA is a tool for characterizing the binding interactions of ligands with proteins.
 
-# Descriptors
+## Descriptors
 
 - **Tools**
   - [GuideMol](https://github.com/jairesdesousa/guidemol): A tool for guiding molecular design through machine learning models.
@@ -36,9 +40,9 @@
   - [SPMS](https://github.com/licheng-xu-echo/SPMS): spherical projection descriptor of molecular stereostructure (SPMS), which allows precise representation of the molecular vdW surface.
   - [CATS-descriptor](https://github.com/alexarnimueller/cats-descriptor)
 
-# Other Representations
+## Other Representations
 
-- Strings
+- **Strings**
   - [SMILESAugmentation](https://github.com/jcorreia11/SMILESAugmentation): A tool for augmenting SMILES strings to enhance the performance of machine learning models in cheminformatics.
   - [t-SMILES](https://github.com/juanniwu/t-smiles): Transforms SMILES strings for improved molecular representation and machine learning model performance.
   - [SMARTS](https://github.com/SqrtNegInf/SMARTS): A tool for generating and working with SMARTS, a language for specifying substructural patterns in molecules.
@@ -47,12 +51,7 @@
 - [UniMAP](https://github.com/fengshikun/UniMAP): UniMAP offers a unified approach to molecular annotation and property prediction.
 - [TUCAN](https://github.com/TUCAN-nest/TUCAN): TUCAN is a tool for transforming unstructured chemical annotations into normalized expressions.
 - [mol2vec](https://github.com/samoturk/mol2vec): Generates vector representations of molecular substructures for machine learning applications.
-- Transformers
+- **Transformers**
   - [BERT](https://github.com/odb9402/MoleculeTransformer): A transformer model specifically designed for molecular property prediction tasks.
-- Protein-Ligand Interaction
-  - [2D-SIFt](https://bitbucket.org/zchl/sift2d/src/master/): 2D-SIFt provides a two-dimensional method for analyzing protein-ligand interactions.
-  - [BINANA](https://durrantlab.pitt.edu/binana-download/): BINANA is a tool for characterizing the binding interactions of ligands with proteins.
-  - [LigGrep](https://durrantlab.pitt.edu/liggrep/): LigGrep is a software tool for filtering docking poses based on user-defined criteria.
-  - [ProLIF](https://github.com/chemosim-lab/ProLIF): Reiterating its description as it also fits under this category for generating interaction fingerprints in protein-ligand complexes.
-- Fragments
+- **Fragments**
   - [molZ](https://github.com/LiamWilbraham/molz): molZ offers a novel method for fragment-based molecular representation for machine learning models.
