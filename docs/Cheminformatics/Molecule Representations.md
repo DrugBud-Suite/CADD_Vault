@@ -39,6 +39,7 @@
   - [WHALES Descriptors](https://github.com/grisoniFr/whales_descriptors): compute Weighted Holistic Atom Localization and Entity Shape (WHALES) descriptors starting from an rdkit supplier file
   - [SPMS](https://github.com/licheng-xu-echo/SPMS): spherical projection descriptor of molecular stereostructure (SPMS), which allows precise representation of the molecular vdW surface.
   - [CATS-descriptor](https://github.com/alexarnimueller/cats-descriptor)
+  - [DompeKeys](https://dompekeys.exscalate.eu/): a new substructure-based fingerprint descriptor, encoding patterns of functional groups and chemical features
 
 ## Other Representations
 

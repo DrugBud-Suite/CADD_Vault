@@ -19,6 +19,7 @@
 - [Ligand_Generation](https://github.com/HySonLab/Ligand_Generation): This project focuses on target-aware variational autoencoders for ligand generation, employing multimodal protein representation learning for structure-based drug design.
 - [LS-MolGen](https://github.com/songleee/LS-MolGen): A ligand-and-structure dual-driven deep reinforcement learning method for target-specific molecular generation, integrating docking scores and bioactivity data for molecule optimization.
 - [cMolGPT](https://github.com/VV123/cMolGPT): cMolGPT, a Conditional Generative Pre-trained Transformer, aims for de novo molecular design by enforcing target specificity during the generation process, emphasizing the incorporation of target embeddings.
+- [BindDM](https://github.com/YangLing0818/BindDM): Binding-Adaptive Diffusion Models for Structure-Based Drug Design
 - [DeepICL](https://github.com/ACE-KAIST/DeepICL)
 - [DeepTarget](https://github.com/ehoogeboom/e3_diffusion_for_molecules)
 - [TargetDiff](https://github.com/guanjq/targetdiff)
