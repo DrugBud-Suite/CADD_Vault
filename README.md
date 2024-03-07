@@ -33,7 +33,7 @@ We welcome contributions from the community! If you have resources, tools, tutor
 
 ## License
 
-CADD_Vault © 2024 by Antoine Lacour is licensed under CC BY 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+CADD_Vault © 2024 by Antoine Lacour is licensed under CC BY 4.0. To view a copy of this license, visit <http://creativecommons.org/licenses/by/4.0/>
 
 ## Acknowledgements
 
