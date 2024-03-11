@@ -35,6 +35,7 @@
 - [Graphormer](https://github.com/microsoft/Graphormer): deep learning package that allows researchers and developers to train custom models for molecule modeling tasks
 - [X-MOL](https://github.com/bm2-lab/X-MOL): large-scale pre-training for molecular understanding and diverse molecular analysis
 - [MolPMoFiT](https://github.com/XinhaoLi74/MolPMoFiT): transfer learning method based on self-supervised pre-training + task-specific fine-tuning for QSPR/QSAR modeling
+- [MolFeSCue](https://github.com/zhangruochi/MolFeSCue): Enhancing Molecular Property Prediction in Data-Limited and Imbalanced Contexts using Few-Shot and Contrastive Learning
 
 ## Pretrained Models
 
@@ -43,3 +44,4 @@
 - **hERG**
   - [CardioTox](https://github.com/Abdulk084/CardioTox): A robust predictor for hERG channel blockade via deep learning meta ensembling approaches
   - [hERGdb](https://drugdesign.riken.jp/hERGdb/): web-based cardiotoxicity prediction
+  - [CLOP-hERG](https://github.com/heshida01/CLOP-hERG/blob/main/README.md): Contrastive Learning Optimized Pretrained Model for Representation Learning in Predicting Drug-Induced hERG Channel Blockers

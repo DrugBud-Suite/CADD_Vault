@@ -19,16 +19,20 @@
 - [GLOW-IVES](https://github.com/drorlab/GLOW_IVES): Provides Python implementation of GLOW (auGmented sampLing with softened vdW potential) and IVES (Iterative Ensemble Sampling) protocols for pose sampling, along with new cross-docking datasets.
 - [HESS](<http://https>: //github.com/Entroforce/Hess)
 - [JAMDA](https://doi.org/10.1021/acs.jcim.3c01573)
+- 
 
 ## Flexible Docking
 
-- [GNINA](https://github.com/gnina/gnina): GNINA is a molecular docking program that incorporates scoring and optimization of ligands using convolutional neural networks, aiming to combine the versatility of smina and AutoDock Vina with the predictive power of deep learning.
-- [Probis-Dock](http://insilab.org/probisdock/): ProBiS-Dock is a flexible docking algorithm treating both small molecules and proteins as fully flexible entities, complemented by a new scoring function, ProBiS-Score, for rapid docking and validated against standard benchmarks.
-- [tiny_IFD](https://github.com/darrenjhsu/tiny_IFD): Offers lightweight induced fit docking capabilities.
-- [ADFR](https://ccsb.scripps.edu/adfr/): AutoDockFR is a protein-ligand docking program supporting selective receptor flexibility and covalent docking, part of the ADFR suite for streamlined docking procedures.
-- [DSDPFlex](https://chemrxiv.org/engage/chemrxiv/article-details/6572d98429a13c4d47f6b4c6)
-- [PackDock](https://github.com/Zhang-Runze/PackDock): Describes PackDock as a diffusion-based side chain packing model for flexible protein-ligand docking, indicating code will be available following the publication of their paper.
-- [iDock](https://github.com/gloglita/idock): iDock is a multithreaded virtual screening tool for flexible ligand docking in computational drug discovery, inspired by AutoDock Vina and hosted on GitHub under Apache License 2.0.
+- **Residue conformation sampling**
+  - [GNINA](https://github.com/gnina/gnina): GNINA is a molecular docking program that incorporates scoring and optimization of ligands using convolutional neural networks, aiming to combine the versatility of smina and AutoDock Vina with the predictive power of deep learning.
+  - [Probis-Dock](http://insilab.org/probisdock/): ProBiS-Dock is a flexible docking algorithm treating both small molecules and proteins as fully flexible entities, complemented by a new scoring function, ProBiS-Score, for rapid docking and validated against standard benchmarks.
+  - [tiny_IFD](https://github.com/darrenjhsu/tiny_IFD): Offers lightweight induced fit docking capabilities.
+  - [ADFR](https://ccsb.scripps.edu/adfr/): AutoDockFR is a protein-ligand docking program supporting selective receptor flexibility and covalent docking, part of the ADFR suite for streamlined docking procedures.
+  - [DSDPFlex](https://chemrxiv.org/engage/chemrxiv/article-details/6572d98429a13c4d47f6b4c6)
+  - [PackDock](https://github.com/Zhang-Runze/PackDock): Describes PackDock as a diffusion-based side chain packing model for flexible protein-ligand docking, indicating code will be available following the publication of their paper.
+  - [iDock](https://github.com/gloglita/idock): iDock is a multithreaded virtual screening tool for flexible ligand docking in computational drug discovery, inspired by AutoDock Vina and hosted on GitHub under Apache License 2.0.
+- **Loop Conformation sampling**
+  - [DynamicBind](https://github.com/luwei0917/DynamicBind): DynamicBind recovers ligand-specific conformations from unbound protein structures (e.g. AF2-predicted structures), promoting efficient transitions between different equilibrium states.
 
 ## Consensus
 
@@ -71,6 +75,7 @@
 ## Protein Docking
 
 - [EquiDock](https://github.com/octavian-ganea/equidock_public): EquiDock employs geometric deep learning for fast and accurate rigid 3D protein-protein docking, focusing on efficiency and accessibility with comprehensive preprocessing and training guidelines.
+- [LightDock](https://github.com/lightdock): The open-source macromolecular docking framework written in Python
 
 ## RNA docking
 
@@ -85,6 +90,7 @@
 ## All-Atom-DL methods
 
 - [RoseTTAFold-AllAtom](https://www.biorxiv.org/content/10.1101/2023.10.09.561603v1): RoseTTAFold All-Atom (RFAA) is a deep network capable of modeling full biological assemblies containing proteins, nucleic acids, small molecules, metals, and covalent modifications with high accuracy.
+- [NeuralPlexer](https://github.com/zrqiao/NeuralPLexer): a deep generative model to jointly predict protein-ligand complex 3D structures and beyond.
 
 ## MD-based
 

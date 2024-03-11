@@ -4,3 +4,4 @@
 - [ChemProp](https://github.com/aamini/chemprop) : Implements message passing neural networks with Deep Evidential Regression for fast and scalable uncertainty quantification in neural molecular property prediction, enabling accelerated optimization and guided virtual screening.
 - [HASTEN](https://github.com/TuomoKalliokoski/HASTEN) : HASTEN (Machine Learning Boosted Docking) facilitates machine learning-enhanced virtual screening workflows, compatible with chemprop for machine learning methods and Glide for docking, supporting easy integration of user-specified methods and docking programs.
 - [molpal](https://github.com/coleygroup/molpal): Molecular Pool-based Active Learning
+- [AL-VS](github.com/molecularinformatics/PretrainedAL-VS): Large-Scale Pretraining Improves Sample Efficiency of Active Learning-Based Virtual Screening

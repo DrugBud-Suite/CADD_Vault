@@ -57,3 +57,5 @@
 - **Linker generation**
   - [DiffLinker](https://github.com/igashov/DiffLinker): An Equivariant 3D-conditional Diffusion Model for Molecular Linker Design that places missing atoms between disconnected fragments in 3D, designing molecules that incorporate all initial fragments with potential applications in linker generation for drug discovery.
   - [DeLinker](https://github.com/oxpig/DeLinker): Deep Generative Models for 3D Linker Design
+  - [DRLinker](https://github.com/biomed-AI/DRlinker): Deep Reinforcement Learning for optimization in fragment linking Design
+  - [GRELinker](https://github.com/howzh728/GRELinker): A Graph-based Generative Model for Molecular Linker Design with Reinforcement and Curriculum Learning

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Proteins/Protein Structure.md",
+                "file": "docs/Datasets/Datasets.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PLAPT",
+                "query": "RFP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Proteins/Protein Structure.md",
+                "file": "docs/Datasets/Datasets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Proteins/Protein Structure.md",
+                "file": "docs/Datasets/Datasets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Proteins/Protein Structure.md"
+                "file": "docs/Datasets/Datasets.md"
               }
             }
           },
@@ -165,35 +165,36 @@
   },
   "active": "f57eaa011136df53",
   "lastOpenFiles": [
+    "docs/Proteins/Protein Structure.md",
+    "docs/Datasets/Datasets.md",
+    "docs/SBVS/Docking.md",
+    "docs/De Novo Generation/Target-aware De Novo Generation.md",
+    "docs/De Novo Generation/De Novo Generation.md",
+    "docs/Cheminformatics/Molecule Representations.md",
+    "docs/Cheminformatics/Property Prediction.md",
+    "docs/De Novo Generation/Molecular Optimisation.md",
+    "docs/SBVS/Docking Score Prediction.md",
+    "docs/SBVS/Docking Pose Processing.md",
+    "docs/SBVS/Scoring Functions.md",
+    "CADD_Vault.code-workspace",
     "docs/Pharmacophore/Pharmacophore.md",
     "docs/LBVS/LBVS.md",
     "docs/FBDD/FBDD.md",
     "docs/Cheminformatics/Library filtering.md",
     "docs/MD/MD.md",
-    "docs/Cheminformatics/Molecule Representations.md",
-    "docs/SBVS/Scoring Functions.md",
-    "docs/De Novo Generation/Target-aware De Novo Generation.md",
     "docs/ML/ML.md",
-    "docs/Proteins/Protein Structure.md",
-    "docs/SBVS/Docking.md",
-    "docs/Datasets/Datasets.md",
-    "docs/Cheminformatics/Property Prediction.md",
     "docs/Cheminformatics/Chemical Space.md",
     "docs/Cheminformatics/ADMET.md",
-    "docs/SBVS/Docking Score Prediction.md",
-    "docs/De Novo Generation/De Novo Generation.md",
     "docs/Cheminformatics/Molecule Preparation.md",
     "docs/images/Logo V1.afpub",
     "docs/images/LogoV1.png",
     "docs/images",
     "docs/De Novo Generation/Benchmarking.md",
     "docs/Cheminformatics/Compound Preparation.md",
-    "docs/SBVS/Docking Pose Processing.md",
     "docs/Cheminformatics/Compound Representations.md",
     "docs/Other/Other.md",
     "docs/Cheminformatics/QM.md",
     "docs/Cheminformatics/Fragmentation.md",
-    "docs/Cheminformatics/QSAR.md",
     "images/LogoV1.png",
     "site/css/fonts/fontawesome-webfont.svg",
     "site/css/fonts/fontawesome-webfont.eot",
@@ -203,7 +204,6 @@
     "site/css/fonts/Roboto-Slab-Regular.woff",
     "site/css/fonts/lato-normal.woff2",
     "site/css/fonts/lato-normal.woff",
-    "site/css/fonts/Roboto-Slab-Bold.woff",
     "images/Logo V1.png",
     "_public/apple-touch-icon-precomposed.png",
     "public/apple-touch-icon-precomposed.png",
