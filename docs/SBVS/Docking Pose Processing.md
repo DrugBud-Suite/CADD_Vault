@@ -18,6 +18,7 @@
 ## Quality Assessment
 
 - [PoseBusters](https://github.com/maabuu/posebusters): Plausibility checks for generated molecule poses.
+- [PECAN](https://github.com/LLNL/PECAN2): Implements convolutional neural network approaches for improving virtual high-throughput screening, using 3D atomic representation as input data.
 
 ## Minimization
 

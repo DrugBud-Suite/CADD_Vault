@@ -26,6 +26,7 @@
 - [DrugGEN](https://github.com/asarigun/DrugGEN)
 - [PETrans](https://github.com/Chinafor/PETrans)
 - [BindDM](https://github.com/YangLing0818/BindDM): BindDM extracts subcomplex from protein-ligand complex, and utilizes it to enhance the binding-adaptive 3D molecule generation in complex
+- [PocketFlow](https://github.com/Saoge123/PocketFlow): data-and-knowledge driven structure-based molecular generative model
 
 - **Dual-target**
   - [Alx-Fuse](https://github.com/biomed-AI/AIxFuse)

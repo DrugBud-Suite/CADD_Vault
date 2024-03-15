@@ -83,7 +83,7 @@
 - [DLIGAND2](https://github.com/yuedongyang/DLIGAND2): DLIGAND2 is a knowledge-based method for predicting protein-ligand binding affinity, utilizing a distance-scaled, finite, ideal-gas reference state.
 - [KORP-PL](https://team.inria.fr/nano-d/software/korp-pl/): KORP-PL is a novel coarse-grained knowledge-based scoring function for protein-ligand interactions, focusing on the relative orientation of a ligand molecule to a protein residue.
 - [Convex-PL](https://team.inria.fr/nano-d/software/convex-pl/): Convex-PL is a knowledge-based scoring function for protein-ligand interactions that augments Convex-PL with conformational flexibility for better performance in affinity prediction and virtual screening tasks.
-- [ITScoreAff](http://huanglab.phys.hust.edu.cn/ITScoreAff/)
+- [ITScoreAff](http://huanglab.phys.hust.edu.cn/ITScoreAff/): iterative knowledge-based scoring function for protein-ligand interactions by considering binding affinity information
 
 ## Metalloproteins Specific
 

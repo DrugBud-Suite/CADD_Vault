@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Datasets/Datasets.md",
+                "file": "docs/Proteins/Protein Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Datasets/Datasets.md",
+                "file": "docs/Proteins/Protein Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Datasets/Datasets.md",
+                "file": "docs/Proteins/Protein Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Datasets/Datasets.md"
+                "file": "docs/Proteins/Protein Structure.md"
               }
             }
           },
@@ -165,17 +165,20 @@
   },
   "active": "f57eaa011136df53",
   "lastOpenFiles": [
-    "docs/Proteins/Protein Structure.md",
-    "docs/Datasets/Datasets.md",
-    "docs/SBVS/Docking.md",
     "docs/De Novo Generation/Target-aware De Novo Generation.md",
     "docs/De Novo Generation/De Novo Generation.md",
+    "docs/Cheminformatics/Conformer Generation.md",
+    "docs/Cheminformatics/Synthetic Accessibility.md",
+    "docs/De Novo Generation/Molecular Optimisation.md",
+    "docs/De Novo Generation/Reviews.md",
+    "docs/SBVS/Scoring Functions.md",
+    "docs/SBVS/Docking.md",
+    "docs/SBVS/Docking Pose Processing.md",
+    "docs/Datasets/Datasets.md",
+    "docs/Proteins/Protein Structure.md",
     "docs/Cheminformatics/Molecule Representations.md",
     "docs/Cheminformatics/Property Prediction.md",
-    "docs/De Novo Generation/Molecular Optimisation.md",
     "docs/SBVS/Docking Score Prediction.md",
-    "docs/SBVS/Docking Pose Processing.md",
-    "docs/SBVS/Scoring Functions.md",
     "CADD_Vault.code-workspace",
     "docs/Pharmacophore/Pharmacophore.md",
     "docs/LBVS/LBVS.md",
@@ -192,9 +195,6 @@
     "docs/De Novo Generation/Benchmarking.md",
     "docs/Cheminformatics/Compound Preparation.md",
     "docs/Cheminformatics/Compound Representations.md",
-    "docs/Other/Other.md",
-    "docs/Cheminformatics/QM.md",
-    "docs/Cheminformatics/Fragmentation.md",
     "images/LogoV1.png",
     "site/css/fonts/fontawesome-webfont.svg",
     "site/css/fonts/fontawesome-webfont.eot",

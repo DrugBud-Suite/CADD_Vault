@@ -56,6 +56,7 @@
 - [PrankWeb](https://prankweb.cz/): Builds upon P2Rank for the prediction of ligand binding sites from protein structure, offered as a service by ELIXIR.
 - [GrASP](https://github.com/tiwarylab/GrASP/tree/main): GrASP (Graph Attention Site Prediction) identifies druggable binding sites using graph neural networks with attention.
 - [CavityPlus](https://github.com/PKUMDL2017/CavityPlus?tab=readme-ov-file): A web server for protein cavity detection with pharmacophore modeling, allosteric site identification, and covalent ligand binding ability prediction.
+- [IF-SitePred](https://github.com/oxpig/binding-sites): IF-SitePred is a method for predicting ligand-binding sites on protein structures. It first generates an embedding for each residue of the protein using the ESM-IF1 model, then performs point cloud clustering to identify binding site centres.
 - **Allosteric Site Prediction**
   - [PASSer](https://passer.smu.edu/): Designed for accurate allosteric site prediction, PASSer offers three machine learning models for quick and extensive allosteric analysis.
   - [AlloReverse](http://www.allostery.net/AlloReverse/): AlloReverse predicts multi-scale allosteric regulation information based on reversed allosteric communication theory, aiding in drug design and biological mechanism understanding.

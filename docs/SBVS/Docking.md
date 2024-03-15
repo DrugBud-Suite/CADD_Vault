@@ -53,7 +53,6 @@
 - [DiffDock](https://github.com/gcorso/DiffDock): A state-of-the-art method for molecular docking, incorporating diffusion steps and a significant improvement in performance and generalization capacity.
   - [DiffDock-Pocket](https://anonymous.4open.science/r/DiffDock-Pocket-AQ32/README.md) is a binding-pocket specific molecular docking program that uses diffusion to sample ligand and sidechain poses.
 - [ESF - scalar fields](https://github.com/bjing2016/scalar-fields): Implements Equivariant Scalar Fields for Molecular Docking with Fast Fourier Transforms, a machine learning-based ligand pose scoring function for rapid optimization.
-- [PECAN](https://github.com/LLNL/PECAN2): Implements convolutional neural network approaches for improving virtual high-throughput screening, using 3D atomic representation as input data.
 - [SurfDock](https://github.com/CAODH/SurfDock): A Surface-Informed Diffusion Generative Model for reliable and accurate protein-ligand complex prediction, integrating generative model techniques for enhanced docking predictions.
 - [GAABind](https://github.com/Mercuryhs/GAABind/blob/main/README.MD): GAABind is a Geometry-Aware Attention-Based Network for accurate protein-ligand binding pose and binding affinity prediction, featuring a comprehensive environment setup and dataset processing guide.
 - [TankBind](https://github.com/luwei0917/TankBind): Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction
