@@ -26,6 +26,7 @@
 - [BioLip2](https://zhanggroup.org/BioLiP/index.cgi): BioLiP is a semi-manually curated database for high-quality, biologically relevant ligand-protein binding interactions, aiming to serve the needs of ligand-protein docking, virtual ligand screening, and protein function annotation.
 - [Leak Proof PDBBind](https://arxiv.org/abs/2308.09639): This work presents a cleaned PDBBind dataset of non-covalent binders, reorganized to avoid data leakage, allowing for more generalizable binding affinity prediction.
 - [BindingDB](https://www.bindingdb.org/bind/index.jsp): BindingDB contains data for over 1.2 million compounds and 9.2k targets, supporting research, education, and practice in drug discovery, pharmacology, and related fields.
+- [PDBBind+](https://www.pdbbind-plus.org.cn/)
 
 ## Drugs
 

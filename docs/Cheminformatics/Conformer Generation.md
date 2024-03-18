@@ -10,6 +10,7 @@
 - [confgen-webapp](https://github.com/Et9797/confgen-webapp): A simple web application for generating small ligand conformers for docking purposes using RDKit, accessible at [http://confgen.net](http://confgen.net/).
 - [Conformer-Search](https://github.com/mcsorkun/Conformer-Search): This repository outlines a workflow for searching minimum energy conformers based on force field optimization methods (UFF and MMFF94) using RDKit.
 - [Conformer-RL](https://github.com/ZimmermanGroup/conformer-rl): An open-source deep reinforcement learning library for conformer generation.
+- [diffusion-conformer](https://github.com/nobiastx/diffusion-conformer): Physics-informed generative model for drug-like molecule conformers
 
 ## Reviews
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Proteins/Protein Structure.md",
+                "file": "docs/SBVS/Docking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Proteins/Protein Structure.md",
+                "file": "docs/SBVS/Docking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Proteins/Protein Structure.md",
+                "file": "docs/SBVS/Docking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Proteins/Protein Structure.md"
+                "file": "docs/SBVS/Docking.md"
               }
             }
           },
@@ -165,19 +165,19 @@
   },
   "active": "f57eaa011136df53",
   "lastOpenFiles": [
+    "docs/Cheminformatics/Conformer Generation.md",
+    "docs/Proteins/Protein Structure.md",
+    "docs/Datasets/Datasets.md",
+    "docs/Cheminformatics/Property Prediction.md",
     "docs/De Novo Generation/Target-aware De Novo Generation.md",
     "docs/De Novo Generation/De Novo Generation.md",
-    "docs/Cheminformatics/Conformer Generation.md",
     "docs/Cheminformatics/Synthetic Accessibility.md",
     "docs/De Novo Generation/Molecular Optimisation.md",
     "docs/De Novo Generation/Reviews.md",
     "docs/SBVS/Scoring Functions.md",
     "docs/SBVS/Docking.md",
     "docs/SBVS/Docking Pose Processing.md",
-    "docs/Datasets/Datasets.md",
-    "docs/Proteins/Protein Structure.md",
     "docs/Cheminformatics/Molecule Representations.md",
-    "docs/Cheminformatics/Property Prediction.md",
     "docs/SBVS/Docking Score Prediction.md",
     "CADD_Vault.code-workspace",
     "docs/Pharmacophore/Pharmacophore.md",

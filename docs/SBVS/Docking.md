@@ -58,6 +58,9 @@
 - [TankBind](https://github.com/luwei0917/TankBind): Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction
 - [Uni-Mol](https://github.com/dptech-corp/Uni-Mol): A Universal 3D Molecular Representation Learning Framework
 - [PLANTAIN](https://github.com/molecularmodelinglab/plantain): Predicting LigANd pose wiTh an AI scoring functioN
+- [KarmaDock](https://github.com/schrojunzhang/KarmaDock/blob/main/README.md) : a deep learning paradigm for ultra-large library docking with fast speed and high accuracy
+- [SurfDock](https://github.com/CAODH/SurfDock): Surface-Informed Diffusion Generative Model for Reliable and Accurate Protein-ligand Complex Prediction
+- [NeuralPlexer](https://github.com/zrqiao/NeuralPLexer): deep generative model to jointly predict protein-ligand complex 3D structures and beyond.
 
 ## Water
 
