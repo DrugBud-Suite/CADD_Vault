@@ -12,5 +12,6 @@
 - [FBDD_suite](https://github.com/KeenThera/FBDD_suite): A collection of computational tools for fragment based drug design, including fragment selection, fragment docking, fragment growing, linking, merging etc.
 
 ## Linker Design
+
 - [DiffLinker](https://github.com/igashov/DiffLinker): An Equivariant 3D-conditional Diffusion Model for Molecular Linker Design that places missing atoms between disconnected fragments in 3D, designing molecules that incorporate all initial fragments with potential applications in linker generation for drug discovery.
 - [DeLinker](https://github.com/oxpig/DeLinker): Deep Generative Models for 3D Linker Design

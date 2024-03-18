@@ -20,7 +20,7 @@
     Xu, Congsheng, Yi Lu, Xiaomei Deng, and Peiyuan Yu.  
     [Chinese Journal of Chemistry(2023)](https://doi.org/10.1002/cjoc.202300269)
 
-### Benchmark for Molecular Conformer Ensembles
+## Benchmark for Molecular Conformer Ensembles
 
 - **Learning Over Molecular Conformer Ensembles: Datasets and Benchmarks** [2023]  
     Zhu, Yanqiao, Jeehyun Hwang, Keir Adams, Zhen Liu, Bozhao Nan, Brock Stenfors, Yuanqi Du et al.  

@@ -17,9 +17,8 @@
 - [PANTHER](https://www.medchem.fi/panther/): A tool designed for effective virtual screening, considering protein structure flexibility and physico-chemical properties, and available under a GPL license.
 - [GeauxDock](https://www.brylinski.org/geauxdock): An ultra-fast automated docking program from LSU, predicting how small ligands bind to macromolecules using a novel hybrid force field and a Monte Carlo protocol.
 - [GLOW-IVES](https://github.com/drorlab/GLOW_IVES): Provides Python implementation of GLOW (auGmented sampLing with softened vdW potential) and IVES (Iterative Ensemble Sampling) protocols for pose sampling, along with new cross-docking datasets.
-- [HESS](<http://https>: //github.com/Entroforce/Hess)
+- [HESS](https://github.com/Entroforce/Hess)
 - [JAMDA](https://doi.org/10.1021/acs.jcim.3c01573)
-- 
 
 ## Flexible Docking
 
