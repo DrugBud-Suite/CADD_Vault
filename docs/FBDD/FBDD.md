@@ -10,6 +10,10 @@
 - [CREM](https://github.com/DrrDom/crem): generate chemical structures using a fragment-based approach
   - [Software tools for fragment-based drug discovery (FBDD)](https://github.com/PatWalters/fragment_expansion/blob/master/fragment_expansion.ipynb)
 - [FBDD_suite](https://github.com/KeenThera/FBDD_suite): A collection of computational tools for fragment based drug design, including fragment selection, fragment docking, fragment growing, linking, merging etc.
+- [LigBuilder](http://www.pkumdl.cn:8080/ligbuilder3/)
+- [AutoT&T](http://sioc-ccbg.ac.cn/software/att2/)
+- [OpenGrowth](https://sourceforge.net/projects/opengrowth/)
+- [AutoCouple](https://github.com/Caflisch-Group/AutoCouple_Python-based)
 
 ## Linker Design
 
