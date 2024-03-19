@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "RFP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,29 +128,14 @@
                 "file": "docs/Proteins/Protein Structure.md"
               }
             }
-          },
-          {
-            "id": "c32545f76ae33eff",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "02fbd36bf8abde3c",
-            "type": "leaf",
-            "state": {
-              "type": "googleTaskView",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,30 +144,29 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-google-tasks:Google Tasks": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "f57eaa011136df53",
   "lastOpenFiles": [
-    "CADD_Vault.code-workspace",
+    "docs/Datasets/Datasets.md",
     "docs/De Novo Generation/Target-aware De Novo Generation.md",
     "docs/De Novo Generation/De Novo Generation.md",
+    "docs/FBDD/FBDD.md",
+    "docs/SBVS/Docking.md",
+    "CADD_Vault.code-workspace",
     "docs/Cheminformatics/Conformer Generation.md",
+    "docs/Proteins/Protein Structure.md",
+    "docs/Cheminformatics/Property Prediction.md",
     "docs/Cheminformatics/Synthetic Accessibility.md",
     "docs/De Novo Generation/Molecular Optimisation.md",
     "docs/De Novo Generation/Reviews.md",
     "docs/SBVS/Scoring Functions.md",
-    "docs/SBVS/Docking.md",
     "docs/SBVS/Docking Pose Processing.md",
-    "docs/Datasets/Datasets.md",
-    "docs/Proteins/Protein Structure.md",
     "docs/Cheminformatics/Molecule Representations.md",
-    "docs/Cheminformatics/Property Prediction.md",
     "docs/SBVS/Docking Score Prediction.md",
     "docs/Pharmacophore/Pharmacophore.md",
     "docs/LBVS/LBVS.md",
-    "docs/FBDD/FBDD.md",
     "docs/Cheminformatics/Library filtering.md",
     "docs/MD/MD.md",
     "docs/ML/ML.md",
