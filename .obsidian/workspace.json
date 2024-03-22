@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Proteins/Protein Structure.md",
+                "file": "docs/LBVS/LBVS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Proteins/Protein Structure.md",
+                "file": "docs/LBVS/LBVS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Proteins/Protein Structure.md",
+                "file": "docs/LBVS/LBVS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Proteins/Protein Structure.md"
+                "file": "docs/LBVS/LBVS.md"
               }
             }
           }
@@ -149,35 +149,36 @@
   },
   "active": "f57eaa011136df53",
   "lastOpenFiles": [
-    "docs/Datasets/Datasets.md",
+    "docs/Proteins/Other.md",
+    "docs/Proteins/Protein Structure.md",
+    "docs/Proteins/Structure Refinement.md",
+    "docs/Proteins/Structure Quality Assessment.md",
+    "docs/Proteins/Structure Manipulation Librairies.md",
+    "docs/Proteins/Sequence Alignment.md",
+    "docs/Proteins/Protonation.md",
+    "docs/Proteins/ML Structure Prediction.md",
+    "docs/Proteins/Homology Modelling.md",
+    "docs/Proteins/Databases.md",
+    "docs/Proteins/Conformational Ensemble Generation.md",
+    "docs/Proteins/Binding Site Prediction.md",
+    "docs/ML/Few-shot learning.md",
+    "docs/ML/ML+AI frameworks for chemistry.md",
+    "docs/ML/ML.md",
+    "docs/ML/Automatic Model Selection.md",
     "docs/De Novo Generation/Target-aware De Novo Generation.md",
+    "docs/Datasets/Datasets.md",
     "docs/De Novo Generation/De Novo Generation.md",
     "docs/FBDD/FBDD.md",
     "docs/SBVS/Docking.md",
     "CADD_Vault.code-workspace",
     "docs/Cheminformatics/Conformer Generation.md",
-    "docs/Proteins/Protein Structure.md",
     "docs/Cheminformatics/Property Prediction.md",
     "docs/Cheminformatics/Synthetic Accessibility.md",
     "docs/De Novo Generation/Molecular Optimisation.md",
     "docs/De Novo Generation/Reviews.md",
-    "docs/SBVS/Scoring Functions.md",
-    "docs/SBVS/Docking Pose Processing.md",
-    "docs/Cheminformatics/Molecule Representations.md",
-    "docs/SBVS/Docking Score Prediction.md",
-    "docs/Pharmacophore/Pharmacophore.md",
-    "docs/LBVS/LBVS.md",
-    "docs/Cheminformatics/Library filtering.md",
-    "docs/MD/MD.md",
-    "docs/ML/ML.md",
-    "docs/Cheminformatics/Chemical Space.md",
-    "docs/Cheminformatics/ADMET.md",
-    "docs/Cheminformatics/Molecule Preparation.md",
     "docs/images/Logo V1.afpub",
     "docs/images/LogoV1.png",
     "docs/images",
-    "docs/De Novo Generation/Benchmarking.md",
-    "docs/Cheminformatics/Compound Preparation.md",
     "images/LogoV1.png",
     "site/css/fonts/fontawesome-webfont.svg",
     "site/css/fonts/fontawesome-webfont.eot",
