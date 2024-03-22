@@ -29,6 +29,7 @@
 - [PocketFlow](https://github.com/Saoge123/PocketFlow): data-and-knowledge driven structure-based molecular generative model
 - [SECSE](https://github.com/KeenThera/SECSE)
 - [3D-Generative-SBDD](https://github.com/luost26/3D-Generative-SBDD)
+- [SBMolGen](https://github.com/clinfo/SBMolGen): integrates a recurrent neural network, a Monte Carlo tree search, and docking simulations
 
 - **Dual-target**
   - [Alx-Fuse](https://github.com/biomed-AI/AIxFuse)
