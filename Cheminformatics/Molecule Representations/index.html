@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../../img/favicon.ico" />
+    <title>Molecule Representations - CADD Vault</title>
+    <link rel="stylesheet" href="../../css/theme.css" />
+    <link rel="stylesheet" href="../../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Molecule Representations";
+        var mkdocs_page_input_path = "Cheminformatics/Molecule Representations.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="../..">
+          <img src="../../images/LogoV1.png" class="logo" alt="Logo"/>
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../..">Computer-Aided Drug Design (CADD) Vault</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../../CONTRIBUTING/">Contributing to the CADD Vault</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Cheminformatics</span></p>
+              <ul class="current">
+                  <li class="toctree-l1"><a class="reference internal" href="../ADMET/">ADMET</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Chemical%20Format%20conversion/">Chemical Format Conversion</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Chemical%20Space/">Chemical Space</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Conformer%20Generation/">Conformer Generation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Fragmentation/">Molecule Fragmentation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../General%20Tools/">General Tools</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Library%20filtering/">Library Filtering</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Molecule%20Preparation/">Molecule Preparation</a>
+                  </li>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Molecule Representations</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#fingerprints">Fingerprints</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#protein-ligand-interaction">Protein-ligand interaction</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#descriptors">Descriptors</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#other-representations">Other Representations</a>
+    </li>
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Property%20Prediction/">Property prediction</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../QM/">Quantum Mechanics</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Synthetic%20Accessibility/">Synthetic Accessbility</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Crystallography</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Crystallography/Crystallography/">Crystallograpy</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Datasets</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Datasets/Datasets/">Molecule Datasets</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">De Novo Generation</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../De%20Novo%20Generation/Benchmarking/">Benchmarking of De Novo Generation methods</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../De%20Novo%20Generation/De%20Novo%20Generation/">Molecule De Novo Generation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../De%20Novo%20Generation/Molecular%20Optimisation/">Bioisosteres</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../De%20Novo%20Generation/Reviews/">Reviews</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../De%20Novo%20Generation/Target-aware%20De%20Novo%20Generation/">Target-Aware De Novo Generation</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">FBDD</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../FBDD/FBDD/">Fragment-based Drug Design</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">LBVS</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../LBVS/LBVS/">Ligand-Based Virtual Screening</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">MD</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../MD/MD/">Molecular Dynamics</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">ML</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../ML/Automatic%20Model%20Selection/">Automatic Model Selection</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../ML/Few-shot%20learning/">Few shot learning</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../ML/ML%2BAI%20frameworks%20for%20chemistry/">ML+AI frameworks for chemistry</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Other</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Other/Other/">Miscellaneous Tools</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Pharmacophore</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Pharmacophore/Pharmacophore/">Pharmacophore</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Plugins</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Plugins/Chimera/">Chimera plugins</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Plugins/PyMol%20Tools/">PyMol plugins</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Proteins</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Binding%20Site%20Prediction/">Binding Site Prediction</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Conformational%20Ensemble%20Generation/">Conformational Ensemble Generation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Databases/">Databases</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Homology%20Modelling/">Homology Modelling</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/ML%20Structure%20Prediction/">ML Structure Prediction</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Other/">Other</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Protonation/">Protonation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Sequence%20Alignment/">Sequence Alignment</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Structure%20Manipulation%20Librairies/">Structure Manipulation Librairies</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Structure%20Quality%20Assessment/">Structure Quality Assessment</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Structure%20Refinement/">Structure Refinement</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Resources</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Resources/Resources/">Learning Resources</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Retrosynthesis Prediction</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Retrosynthesis%20Prediction/Retrosynthesis%20Prediction/">Retrosynthesis prediction</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">SBVS</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Docking%20Pose%20Processing/">Post-processing of docking poses</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Docking%20Score%20Prediction/">Docking score prediction (for VS acceleration)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Docking/">Molecular Docking</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Performance%20Determination/">Performance Determination</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Scoring%20Functions/">Scoring Functions</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Target Identification</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Target%20Identification/Target%20identification/">Druggability Prediction</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">VS Workflows</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../VS%20Workflows/VS%20Workflows/">Virtual Screening Worflows</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../..">CADD Vault</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
+          <li class="breadcrumb-item">Cheminformatics</li>
+      <li class="breadcrumb-item active">Molecule Representations</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="molecule-representations">Molecule Representations</h1>
+<h2 id="fingerprints">Fingerprints</h2>
+<ul>
+<li><strong>Tools</strong></li>
+<li><a href="https://github.com/Arch4ngel21/scikit-fingerprints">SciKit-fingerprints</a>: A Python library for efficient computation of molecular fingerprints.</li>
+<li><a href="https://www.rdkit.org/docs/GettingStartedInPython.html#fingerprinting-and-molecular-similarity">RDKit</a>: Offers comprehensive tools for fingerprinting and molecular similarity, supporting various fingerprint types for chemical informatics.</li>
+<li><a href="https://github.com/yoshida-lab/XenonPy/blob/master/xenonpy/descriptor/fingerprint.py">XenonPy</a>: XenonPy provides a descriptor module for generating molecular fingerprints, part of a versatile Python library for materials informatics.</li>
+<li><a href="https://github.com/iwatobipen/QSAR_TOOLBOX">QSAR_toolbox</a>: scripts for QSAR model building and fingerprint generation</li>
+<li><a href="https://github.com/kamilpytlak/MoleculaPy">MoleculaPy</a>: A command-line application that utilizes the RDKit library to compute molecular descriptors and fingerprints, aiding in the analysis and characterization of chemical structures.</li>
+<li><a href="https://github.com/keiserlab/e3fp">E3FP</a> - Converts molecules from conventional representations into a folded fingerprint for three-dimensional molecular shapes.</li>
+<li>Graphlet fingerprint: <a href="https://github.com/lanl/minervachem">Minervachem</a> - Provides a method for analyzing molecular graphlets, offering a unique approach to molecular characterization and comparison.</li>
+</ul>
+<h2 id="protein-ligand-interaction">Protein-ligand interaction</h2>
+<ul>
+<li><a href="https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index">PLIP</a>: An easy and fast web tool for identifying non-covalent interactions between biological macromolecules and their ligands.</li>
+<li><a href="https://doi.org/10.1021/ci500319f">SPLIF</a>: The link leads to a DOI page which typically hosts scientific publications; SPLIF is a method for encoding protein-ligand interactions.</li>
+<li><a href="https://github.com/chemosim-lab/ProLIF">ProLIF</a>: ProLIF (Protein-Ligand Interaction Fingerprints) generates interaction fingerprints for complexes made of ligands, protein, DNA, or RNA molecules extracted from molecular dynamics trajectories, docking simulations, and experimental structures.</li>
+<li><a href="https://bitbucket.org/zchl/sift2d/src/master/">2D-SIFt</a>: 2D-SIFt provides a two-dimensional method for analyzing protein-ligand interactions.</li>
+<li><a href="https://durrantlab.pitt.edu/binana-download/">BINANA</a>: BINANA is a tool for characterizing the binding interactions of ligands with proteins.</li>
+</ul>
+<h2 id="descriptors">Descriptors</h2>
+<ul>
+<li><strong>Tools</strong></li>
+<li><a href="https://github.com/jairesdesousa/guidemol">GuideMol</a>: A tool for guiding molecular design through machine learning models.</li>
+<li><a href="https://github.com/mordred-descriptor/mordred">mordred</a>: A molecular descriptor calculator that is extendable and supports various chemical informatics tasks.</li>
+<li><a href="https://github.com/bp-kelley/descriptastorus">DescriptaStorus</a>: Provides a framework for computing chemistry descriptors and (optionally) storing them for machine learning applications.</li>
+<li><a href="http://yapcwsoft.com/dd/padeldescriptor/">PaDEL</a>: A software for calculating molecular descriptors and fingerprints.</li>
+<li><a href="https://github.com/ifyoungnet/Chemopy?tab=readme-ov-file">ChemoPy</a>: A Python library for calculating chemical descriptors for QSAR/SAR/QSPR studies.</li>
+<li><a href="http://www.scbdd.com/chemdes/">ChemDes</a>: An integrated web-based platform for molecular descriptor and fingerprint computation.</li>
+<li><a href="https://github.com/WhitestoneYang/spoc">SPOC</a>: A tool for calculating spatial and physicochemical descriptors from molecular dynamics simulations.</li>
+<li><a href="https://github.com/ThomasJewson/Molecular3DLengthDescriptors">Molecular3DLengthDescriptors</a>: Provides descriptors based on the three-dimensional lengths of molecules.</li>
+<li><a href="https://github.com/panwarp/PyL3dMD">PyL3dMD</a>: A Python library for 3D molecular descriptors calculation from molecular dynamics simulations.</li>
+<li><a href="https://github.com/ifyoungnet/ChemDes">ChemDes</a>: web-based platform for molecular descriptor and fingerprint computation</li>
+<li><a href="https://github.com/SINGROUP/dscribe">DScribe</a> - Descriptor library containing a variety of fingerprinting techniques, including the Smooth Overlap of Atomic Positions (SOAP).</li>
+<li><strong>Descriptors</strong></li>
+<li><a href="https://github.com/silicos-it/spectrophore">Spectrophores</a>: Calculates spectrophoric descriptors that capture electronic and spatial properties of molecules.</li>
+<li><a href="https://github.com/silicos-it/qed">QED</a>: Offers the Quantitative Estimate of Drug-likeness for a given molecular structure.</li>
+<li><a href="https://github.com/grisoniFr/whales_descriptors">WHALES Descriptors</a>: compute Weighted Holistic Atom Localization and Entity Shape (WHALES) descriptors starting from an rdkit supplier file</li>
+<li><a href="https://github.com/licheng-xu-echo/SPMS">SPMS</a>: spherical projection descriptor of molecular stereostructure (SPMS), which allows precise representation of the molecular vdW surface.</li>
+<li><a href="https://github.com/alexarnimueller/cats-descriptor">CATS-descriptor</a></li>
+<li><a href="https://dompekeys.exscalate.eu/">DompeKeys</a>: a new substructure-based fingerprint descriptor, encoding patterns of functional groups and chemical features</li>
+</ul>
+<h2 id="other-representations">Other Representations</h2>
+<ul>
+<li><strong>Strings</strong></li>
+<li><a href="https://github.com/jcorreia11/SMILESAugmentation">SMILESAugmentation</a>: A tool for augmenting SMILES strings to enhance the performance of machine learning models in cheminformatics.</li>
+<li><a href="https://github.com/juanniwu/t-smiles">t-SMILES</a>: Transforms SMILES strings for improved molecular representation and machine learning model performance.</li>
+<li><a href="https://github.com/SqrtNegInf/SMARTS">SMARTS</a>: A tool for generating and working with SMARTS, a language for specifying substructural patterns in molecules.</li>
+<li><a href="https://zivgitlab.uni-muenster.de/ag-glorius/published-paper/evompf">EvoMPF</a>: EvoMPF is a framework for evolutionary molecular pattern finding using SMARTS.</li>
+<li><a href="https://github.com/aspuru-guzik-group/selfies">selfies</a> - Self-Referencing Embedded Strings (SELFIES): A 100% robust molecular string representation.</li>
+<li><a href="https://github.com/fengshikun/UniMAP">UniMAP</a>: UniMAP offers a unified approach to molecular annotation and property prediction.</li>
+<li><a href="https://github.com/TUCAN-nest/TUCAN">TUCAN</a>: TUCAN is a tool for transforming unstructured chemical annotations into normalized expressions.</li>
+<li><a href="https://github.com/samoturk/mol2vec">mol2vec</a>: Generates vector representations of molecular substructures for machine learning applications.</li>
+<li><strong>Transformers</strong></li>
+<li><a href="https://github.com/odb9402/MoleculeTransformer">BERT</a>: A transformer model specifically designed for molecular property prediction tasks.</li>
+<li><strong>Fragments</strong></li>
+<li><a href="https://github.com/LiamWilbraham/molz">molZ</a>: molZ offers a novel method for fragment-based molecular representation for machine learning models.</li>
+</ul>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../Molecule%20Preparation/" class="btn btn-neutral float-left" title="Molecule Preparation"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../Property%20Prediction/" class="btn btn-neutral float-right" title="Property prediction">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../Molecule%20Preparation/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../Property%20Prediction/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="../../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "../..";</script>
+    <script src="../../js/theme_extra.js"></script>
+    <script src="../../js/theme.js"></script>
+      <script src="../../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>

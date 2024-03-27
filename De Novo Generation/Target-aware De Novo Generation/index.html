@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../../img/favicon.ico" />
+    <title>Target-Aware De Novo Generation - CADD Vault</title>
+    <link rel="stylesheet" href="../../css/theme.css" />
+    <link rel="stylesheet" href="../../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Target-Aware De Novo Generation";
+        var mkdocs_page_input_path = "De Novo Generation/Target-aware De Novo Generation.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="../..">
+          <img src="../../images/LogoV1.png" class="logo" alt="Logo"/>
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../..">Computer-Aided Drug Design (CADD) Vault</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../../CONTRIBUTING/">Contributing to the CADD Vault</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Cheminformatics</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/ADMET/">ADMET</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Chemical%20Format%20conversion/">Chemical Format Conversion</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Chemical%20Space/">Chemical Space</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Conformer%20Generation/">Conformer Generation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Fragmentation/">Molecule Fragmentation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/General%20Tools/">General Tools</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Library%20filtering/">Library Filtering</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Molecule%20Preparation/">Molecule Preparation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Molecule%20Representations/">Molecule Representations</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Property%20Prediction/">Property prediction</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/QM/">Quantum Mechanics</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Synthetic%20Accessibility/">Synthetic Accessbility</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Crystallography</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Crystallography/Crystallography/">Crystallograpy</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Datasets</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Datasets/Datasets/">Molecule Datasets</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">De Novo Generation</span></p>
+              <ul class="current">
+                  <li class="toctree-l1"><a class="reference internal" href="../Benchmarking/">Benchmarking of De Novo Generation methods</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../De%20Novo%20Generation/">Molecule De Novo Generation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Molecular%20Optimisation/">Bioisosteres</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../Reviews/">Reviews</a>
+                  </li>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Target-Aware De Novo Generation</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#models">Models</a>
+    </li>
+    </ul>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">FBDD</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../FBDD/FBDD/">Fragment-based Drug Design</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">LBVS</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../LBVS/LBVS/">Ligand-Based Virtual Screening</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">MD</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../MD/MD/">Molecular Dynamics</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">ML</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../ML/Automatic%20Model%20Selection/">Automatic Model Selection</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../ML/Few-shot%20learning/">Few shot learning</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../ML/ML%2BAI%20frameworks%20for%20chemistry/">ML+AI frameworks for chemistry</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Other</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Other/Other/">Miscellaneous Tools</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Pharmacophore</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Pharmacophore/Pharmacophore/">Pharmacophore</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Plugins</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Plugins/Chimera/">Chimera plugins</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Plugins/PyMol%20Tools/">PyMol plugins</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Proteins</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Binding%20Site%20Prediction/">Binding Site Prediction</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Conformational%20Ensemble%20Generation/">Conformational Ensemble Generation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Databases/">Databases</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Homology%20Modelling/">Homology Modelling</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/ML%20Structure%20Prediction/">ML Structure Prediction</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Other/">Other</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Protonation/">Protonation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Sequence%20Alignment/">Sequence Alignment</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Structure%20Manipulation%20Librairies/">Structure Manipulation Librairies</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Structure%20Quality%20Assessment/">Structure Quality Assessment</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Structure%20Refinement/">Structure Refinement</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Resources</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Resources/Resources/">Learning Resources</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Retrosynthesis Prediction</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Retrosynthesis%20Prediction/Retrosynthesis%20Prediction/">Retrosynthesis prediction</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">SBVS</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Docking%20Pose%20Processing/">Post-processing of docking poses</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Docking%20Score%20Prediction/">Docking score prediction (for VS acceleration)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Docking/">Molecular Docking</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Performance%20Determination/">Performance Determination</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Scoring%20Functions/">Scoring Functions</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Target Identification</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Target%20Identification/Target%20identification/">Druggability Prediction</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">VS Workflows</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../VS%20Workflows/VS%20Workflows/">Virtual Screening Worflows</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../..">CADD Vault</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
+          <li class="breadcrumb-item">De Novo Generation</li>
+      <li class="breadcrumb-item active">Target-Aware De Novo Generation</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="target-aware-de-novo-generation">Target-Aware De Novo Generation</h1>
+<h2 id="models">Models</h2>
+<ul>
+<li><a href="https://github.com/stonewiseAIDrugDesign/Lingo3DMol">Lingo3DMol</a>: A pocket-based 3D molecule generation method that combines language model capabilities with 3D coordinate generation and geometric deep learning.</li>
+<li><a href="https://github.com/luost26/3D-Generative-SBDD">3D-Generative-SBDD</a>: Focuses on structure-based drug design (SBDD) using a 3D generative model to sample molecules for specific protein pockets.</li>
+<li><a href="https://github.com/divelab/GraphBP">GraphBP</a>: Implements a method for generating 3D molecules targeting protein binding, presented at ICML 2022.</li>
+<li><a href="https://github.com/zaixizhang/FLAG">FLAG</a>: A Fragment-based Ligand Generation framework to generate 3D molecules with valid and realistic substructures fragment-by-fragment.</li>
+<li><a href="https://github.com/zaixizhang/DrugGPS_ICML23">DrugGPS</a>: Focuses on learning subpocket prototypes for generalizable structure-based drug design, introduced at ICML 2023.</li>
+<li><a href="https://github.com/mattragoza/liGAN">liGAN</a>: A project for structure-based drug discovery using deep generative models of atomic density grids.</li>
+<li><a href="https://github.com/micahwang/RELATION">RELATION</a>: A software for DL-based de novo drug design, focusing on generating molecules based on target protein interactions.</li>
+<li><a href="https://github.com/longlongman/DESERT">DESERT</a>: Zero-shot 3D drug design by sketching and generating, as presented at NeurIPS 2022.</li>
+<li><a href="https://github.com/pengxingang/Pocket2Mol">Pocket2Mol</a>: Uses equivariant graph neural networks for efficient molecular sampling based on 3D protein pockets.</li>
+<li><a href="https://github.com/futianfan/reinforced-genetic-algorithm">RGA</a>: A reinforcement learning-based genetic algorithm for structure-based drug design, introduced at NeurIPS 2022.</li>
+<li><a href="https://github.com/CDDLeiden/PCMol">PCMol</a>: A multi-target model for de novo molecule generation, using AlphaFold protein embeddings for thousands of protein targets.</li>
+<li><a href="https://github.com/CMACH508/KGDiff">KGDiff</a>: A model for explainable target-aware molecule generation with knowledge guidance.</li>
+<li><a href="https://github.com/biomed-AI/DiffDec/blob/master/README.md">DiffDec</a>: A model that uses an end-to-end equivariant diffusion process for optimizing molecular structures through scaffold decoration conditioned on 3D protein pockets.</li>
+<li><a href="https://github.com/Isomorpfishm/SINGA">SINGA</a>: SINGA is a Molecular Sampling model with Protein-Ligand Interactions aware Generative Adversarial Network, focusing on generating molecules considering their interactions with proteins.</li>
+<li><a href="https://github.com/HySonLab/Ligand_Generation">Ligand_Generation</a>: This project focuses on target-aware variational autoencoders for ligand generation, employing multimodal protein representation learning for structure-based drug design.</li>
+<li><a href="https://github.com/songleee/LS-MolGen">LS-MolGen</a>: A ligand-and-structure dual-driven deep reinforcement learning method for target-specific molecular generation, integrating docking scores and bioactivity data for molecule optimization.</li>
+<li><a href="https://github.com/VV123/cMolGPT">cMolGPT</a>: cMolGPT, a Conditional Generative Pre-trained Transformer, aims for de novo molecular design by enforcing target specificity during the generation process, emphasizing the incorporation of target embeddings.</li>
+<li><a href="https://github.com/YangLing0818/BindDM">BindDM</a>: Binding-Adaptive Diffusion Models for Structure-Based Drug Design</li>
+<li><a href="https://github.com/ACE-KAIST/DeepICL">DeepICL</a></li>
+<li><a href="https://github.com/ehoogeboom/e3_diffusion_for_molecules">DeepTarget</a></li>
+<li><a href="https://github.com/guanjq/targetdiff">TargetDiff</a></li>
+<li><a href="https://github.com/asarigun/DrugGEN">DrugGEN</a></li>
+<li><a href="https://github.com/Chinafor/PETrans">PETrans</a></li>
+<li><a href="https://github.com/YangLing0818/BindDM">BindDM</a>: BindDM extracts subcomplex from protein-ligand complex, and utilizes it to enhance the binding-adaptive 3D molecule generation in complex</li>
+<li><a href="https://github.com/Saoge123/PocketFlow">PocketFlow</a>: data-and-knowledge driven structure-based molecular generative model</li>
+<li><a href="https://github.com/KeenThera/SECSE">SECSE</a></li>
+<li><a href="https://github.com/luost26/3D-Generative-SBDD">3D-Generative-SBDD</a></li>
+<li><a href="https://github.com/clinfo/SBMolGen">SBMolGen</a>: integrates a recurrent neural network, a Monte Carlo tree search, and docking simulations</li>
+<li>
+<p><a href="https://github.com/Layne-Huang/PMDM/tree/main">PMDM</a>: dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets</p>
+</li>
+<li>
+<p><strong>Dual-target</strong></p>
+</li>
+<li>
+<p><a href="https://github.com/biomed-AI/AIxFuse">Alx-Fuse</a></p>
+</li>
+<li>
+<p><strong>Interaction fingerprint constrained</strong></p>
+</li>
+<li><a href="https://github.com/jeah-z/IFP-RNN">IFP-RNN</a>: A molecule generative model used interaction fingerprint (docking pose) as constraints.</li>
+</ul>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../Reviews/" class="btn btn-neutral float-left" title="Reviews"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../../FBDD/FBDD/" class="btn btn-neutral float-right" title="Fragment-based Drug Design">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../Reviews/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../../FBDD/FBDD/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="../../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "../..";</script>
+    <script src="../../js/theme_extra.js"></script>
+    <script src="../../js/theme.js"></script>
+      <script src="../../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>

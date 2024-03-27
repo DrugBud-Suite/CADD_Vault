@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../../img/favicon.ico" />
+    <title>Molecule Datasets - CADD Vault</title>
+    <link rel="stylesheet" href="../../css/theme.css" />
+    <link rel="stylesheet" href="../../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Molecule Datasets";
+        var mkdocs_page_input_path = "Datasets/Datasets.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="../..">
+          <img src="../../images/LogoV1.png" class="logo" alt="Logo"/>
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../..">Computer-Aided Drug Design (CADD) Vault</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../../CONTRIBUTING/">Contributing to the CADD Vault</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Cheminformatics</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/ADMET/">ADMET</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Chemical%20Format%20conversion/">Chemical Format Conversion</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Chemical%20Space/">Chemical Space</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Conformer%20Generation/">Conformer Generation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Fragmentation/">Molecule Fragmentation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/General%20Tools/">General Tools</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Library%20filtering/">Library Filtering</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Molecule%20Preparation/">Molecule Preparation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Molecule%20Representations/">Molecule Representations</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Property%20Prediction/">Property prediction</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/QM/">Quantum Mechanics</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Cheminformatics/Synthetic%20Accessibility/">Synthetic Accessbility</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Crystallography</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Crystallography/Crystallography/">Crystallograpy</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Datasets</span></p>
+              <ul class="current">
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Molecule Datasets</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#docking-and-scoring-function-benchmarks">Docking and Scoring Function Benchmarks</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#machine-learning-benchmarks">Machine Learning Benchmarks</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#protein-ligand-interaction">Protein-Ligand Interaction</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#drugs">Drugs</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#make-on-demand-libraries">Make on Demand Libraries</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#natural-products">Natural Products</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#chemical">Chemical</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#protein-structures">Protein Structures</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#protein-sequences">Protein Sequences</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#molecular-dynamics">Molecular Dynamics</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#properties">Properties</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#toxicity">Toxicity</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#admet">ADMET</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#chemical-reactions">Chemical Reactions</a>
+    </li>
+    </ul>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">De Novo Generation</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../De%20Novo%20Generation/Benchmarking/">Benchmarking of De Novo Generation methods</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../De%20Novo%20Generation/De%20Novo%20Generation/">Molecule De Novo Generation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../De%20Novo%20Generation/Molecular%20Optimisation/">Bioisosteres</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../De%20Novo%20Generation/Reviews/">Reviews</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../De%20Novo%20Generation/Target-aware%20De%20Novo%20Generation/">Target-Aware De Novo Generation</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">FBDD</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../FBDD/FBDD/">Fragment-based Drug Design</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">LBVS</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../LBVS/LBVS/">Ligand-Based Virtual Screening</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">MD</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../MD/MD/">Molecular Dynamics</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">ML</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../ML/Automatic%20Model%20Selection/">Automatic Model Selection</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../ML/Few-shot%20learning/">Few shot learning</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../ML/ML%2BAI%20frameworks%20for%20chemistry/">ML+AI frameworks for chemistry</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Other</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Other/Other/">Miscellaneous Tools</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Pharmacophore</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Pharmacophore/Pharmacophore/">Pharmacophore</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Plugins</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Plugins/Chimera/">Chimera plugins</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Plugins/PyMol%20Tools/">PyMol plugins</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Proteins</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Binding%20Site%20Prediction/">Binding Site Prediction</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Conformational%20Ensemble%20Generation/">Conformational Ensemble Generation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Databases/">Databases</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Homology%20Modelling/">Homology Modelling</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/ML%20Structure%20Prediction/">ML Structure Prediction</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Other/">Other</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Protonation/">Protonation</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Sequence%20Alignment/">Sequence Alignment</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Structure%20Manipulation%20Librairies/">Structure Manipulation Librairies</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Structure%20Quality%20Assessment/">Structure Quality Assessment</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Proteins/Structure%20Refinement/">Structure Refinement</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Resources</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Resources/Resources/">Learning Resources</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Retrosynthesis Prediction</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Retrosynthesis%20Prediction/Retrosynthesis%20Prediction/">Retrosynthesis prediction</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">SBVS</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Docking%20Pose%20Processing/">Post-processing of docking poses</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Docking%20Score%20Prediction/">Docking score prediction (for VS acceleration)</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Docking/">Molecular Docking</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Performance%20Determination/">Performance Determination</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../../SBVS/Scoring%20Functions/">Scoring Functions</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Target Identification</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../Target%20Identification/Target%20identification/">Druggability Prediction</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">VS Workflows</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../../VS%20Workflows/VS%20Workflows/">Virtual Screening Worflows</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../..">CADD Vault</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
+          <li class="breadcrumb-item">Datasets</li>
+      <li class="breadcrumb-item active">Molecule Datasets</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="molecule-datasets">Molecule Datasets</h1>
+<h2 id="docking-and-scoring-function-benchmarks">Docking and Scoring Function Benchmarks</h2>
+<ul>
+<li><a href="https://drugdesign.unistra.fr/LIT-PCBA/index.html">Lit-PCBA</a>: A dataset for virtual screening and machine learning with 15 target sets, 7761 actives, and 382674 unique inactives selected from high-confidence PubChem Bioassay data.</li>
+<li><a href="https://github.com/davidbuterez/mf-pcba">MF-PCBA</a>: A repository containing code for downloading, filtering, and assembling the MF-PCBA datasets for machine learning in drug discovery.</li>
+<li><a href="http://www.pharmchem.uni-tuebingen.de/dekois/">DEKOIS</a>: Provides DEKOIS 2.0, a library of benchmark data sets for objective in silico screening.</li>
+<li><a href="http://disco.csb.pitt.edu/Targets_top1.php?ligands">Disco</a>: A default benchmark containing 95 targets selected from the DUD-E Targets list for docking datasets generation.</li>
+<li><a href="https://github.com/5AGE-zhang/TocoDecoy">TocoDecoy</a>: A new approach to design unbiased datasets for training and benchmarking machine-learning scoring functions.</li>
+<li><a href="http://cadd.zju.edu.cn/tocodecoy/">TocoDDB</a></li>
+<li><a href="https://github.com/taoshen99/MUBDsyn">MUDB-DecoyMaker</a>: A tool for making synthetic Maximal Unbiased Benchmarking Datasets via Deep Reinforcement Learning.</li>
+<li><a href="https://github.com/jwxia2014/MUBD-DecoyMaker2.0">MUDB-DecoyMaker2.0</a>: A Python GUI application to generate maximal unbiased benchmarking sets data sets for virtual drug screening.</li>
+<li><a href="http://www.pdbbind.org.cn/casf.php">CASF</a>: CASF offers benchmark packages for the assessment of scoring functions, with versions CASF-2016, CASF-2013, and CASF-2007 available for download upon registration.</li>
+<li><a href="https://github.com/molecularmodelinglab/bigbind">BigBind and BayesBind</a></li>
+</ul>
+<h2 id="machine-learning-benchmarks">Machine Learning Benchmarks</h2>
+<ul>
+<li><a href="https://moleculenet.org/">MoleculeNet</a>: benchmark specially designed for testing machine learning methods of molecular properties</li>
+<li><a href="https://tdcommons.ai/">Therapeutics Data Commons</a>: Therapeutics Data Commons is a resource to access and evaluate AI methods, supporting the development of AI methods, with a strong bent towards establishing the foundation of which AI methods are most suitable for drug discovery applications and why.</li>
+</ul>
+<h2 id="protein-ligand-interaction">Protein-Ligand Interaction</h2>
+<ul>
+<li><a href="https://zenodo.org/records/8049380">PDBscreen</a>: PDBscreen provides a dataset with multiple data augmentation strategies suitable for training protein-ligand interaction prediction methods.</li>
+<li><a href="https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/64cca66569bfb8925a5514c5/original/plas-20k-extended-dataset-of-protein-ligand-affinities-from-md-simulations-for-machine-learning-applications.pdf">PLAS-20K</a></li>
+<li><a href="http://bindingnet.huanglab.org.cn/">BindingNet</a>:  BindingNet is a dataset for analyzing protein-ligand interactions, containing modeled poses for compounds similar to the crystal ligands found in PDBbind, along with corresponding activities from ChEMBL.</li>
+<li><a href="https://github.com/davidbuterez/mf-pcba">MF-PCBA</a> : This repository includes the code for assembling multi-fidelity datasets from PubChem, aiming to enhance machine learning models for HTS data by integrating low and high-fidelity measurements.</li>
+<li><a href="https://zhanggroup.org/BioLiP/index.cgi">BioLip2</a>: BioLiP is a semi-manually curated database for high-quality, biologically relevant ligand-protein binding interactions, aiming to serve the needs of ligand-protein docking, virtual ligand screening, and protein function annotation.</li>
+<li><a href="https://arxiv.org/abs/2308.09639">Leak Proof PDBBind</a>: This work presents a cleaned PDBBind dataset of non-covalent binders, reorganized to avoid data leakage, allowing for more generalizable binding affinity prediction.</li>
+<li><a href="https://www.bindingdb.org/bind/index.jsp">BindingDB</a>: BindingDB contains data for over 1.2 million compounds and 9.2k targets, supporting research, education, and practice in drug discovery, pharmacology, and related fields.</li>
+<li><a href="https://www.pdbbind-plus.org.cn/">PDBBind+</a></li>
+</ul>
+<h2 id="drugs">Drugs</h2>
+<ul>
+<li><a href="https://drugcentral.org/">DrugCentral</a>: DrugCentral provides information on active ingredients in medicinal substances, offering access to drug labels, FDA and EMA datasets, pharmacological action, and more.</li>
+</ul>
+<h2 id="make-on-demand-libraries">Make on Demand Libraries</h2>
+<ul>
+<li><a href="https://chem-space.com/compounds/freedom-space">FreedomSpace</a></li>
+<li><a href="https://enamine.net/compound-collections/real-compounds/real-database">Enamine REAL</a></li>
+</ul>
+<h2 id="natural-products">Natural Products</h2>
+<ul>
+<li><a href="https://lotus.naturalproducts.net/">LOTUS</a>: LOTUS is a significant, well-annotated resource for natural products, offering a user-friendly experience including structural search, taxonomy-oriented queries, and exports.</li>
+<li><a href="https://coconut.naturalproducts.net/">COCONUT</a>: COCONUT hosts one of the largest and best annotated natural product databases, freely available and undergoing continuous curation and improvement.</li>
+<li><a href="http://www.symmap.org/">SymMap</a>: SymMap integrates traditional Chinese medicine with modern medicine through molecular mechanisms and symptom mapping, offering information on herbs, ingredients, targets, symptoms, and diseases.</li>
+<li><a href="https://bidd.group/NPASS/">NPASS</a>: Natural product activity and species source database</li>
+</ul>
+<h2 id="chemical">Chemical</h2>
+<ul>
+<li><a href="https://www.ebi.ac.uk/chembl/">ChemBL</a>: A manually curated database of bioactive molecules with drug-like properties, integrating chemical, bioactivity, and genomic data to aid drug discovery.</li>
+<li><a href="https://github.com/cthoyt/chembl-downloader">chembl_downloader</a>: A Python package designed to automatically download and extract versions of the ChemBL database, simplifying data access for research purposes.</li>
+<li><a href="https://github.com/mgalardini/chembl_tools">chembl_tools</a>: A collection of scripts to leverage the ChemBL API for retrieving information on compounds, including ChEMBL IDs and target information.</li>
+<li><a href="https://go.drugbank.com/">DrugBank</a>: Offers structured drug information, including emerging research and novel connections, to support drug discovery, clinical software, and academic research.</li>
+<li><a href="https://github.com/cthoyt/drugbank_downloader">drugbank-downloader</a> - Automate downloading, opening, and parsing <a href="https://www.drugbank.com/">DrugBank</a></li>
+<li><a href="https://zinc.docking.org/">ZINC</a>: A free database for virtual screening containing over 230 million purchasable compounds in ready-to-dock, 3D formats.</li>
+<li><a href="https://drugcentral.org/">DrugCentral</a>: Provides information on active ingredients in medicinal substances, offering access to drug labels, FDA and EMA datasets, pharmacological action, and more.</li>
+<li><a href="http://gdb.unibe.ch/">GDB-17</a>: The GDB-17 database represents a comprehensive collection of hypothetical organic molecules for use in computational chemistry and drug discovery.</li>
+<li><a href="https://pubchem.ncbi.nlm.nih.gov/">PubChem</a>: The world's largest collection of freely accessible chemical information, offering chemical and physical properties, biological activities, safety and toxicity information, patents, literature citations, and more.</li>
+<li><a href="http://pubchempy.readthedocs.io/en/latest/">pubchempy</a> - PubChemPy provides a way to interact with PubChem in Python.</li>
+<li><a href="http://chemspider.com/">ChemSpider</a>: A free chemical structure database providing fast access to over 100 million structures from hundreds of data sources, including physical properties, literature references, and supplier information.</li>
+<li><a href="http://chemminedb.ucr.edu/">ChemMine</a>: A compound mining portal to facilitate drug and agrochemical discovery, offering chemical genomics screens and a toolbox for cheminformatics research.</li>
+</ul>
+<h2 id="protein-structures">Protein Structures</h2>
+<ul>
+<li><a href="https://www.rcsb.org/">PDB</a>: The RCSB Protein Data Bank provides access to experimentally determined 3D structures from the PDB archive and computed structure models, offering tools for exploration, visualization, and analysis.</li>
+<li><a href="https://github.com/chopralab/lemon">Lemon</a>: A framework for rapidly mining structural information from the Protein Data Bank, designed to be fast and flexible for querying 3D features of structures.</li>
+<li><a href="https://pdb-redo.eu/">PDB-redo</a>: Offers optimized versions of PDB entries through an automated procedure that refines, rebuilds, and validates structural models, combining popular crystallographic software with specially developed tools.</li>
+</ul>
+<h2 id="protein-sequences">Protein Sequences</h2>
+<ul>
+<li><strong>Alignments</strong></li>
+<li><a href="https://arxiv.org/abs/2308.05326">OpenProteinSet</a>: OpenProteinSet is an open-source corpus of more than 16 million Multiple Sequence Alignments (MSAs), associated structural homologs from the Protein Data Bank, and AlphaFold2 protein structure predictions. It's designed to be broadly useful as training and validation data for tasks focused on protein structure, function, and design, as well as large-scale multimodal machine learning research.</li>
+</ul>
+<h2 id="molecular-dynamics">Molecular Dynamics</h2>
+<ul>
+<li><strong><a href="https://www.dsimb.inserm.fr/ATLAS">ATLAS</a></strong>: Resource for exploring molecular dynamics simulations, offering insights into the dynamics of proteins and other biomolecules.</li>
+</ul>
+<h2 id="properties">Properties</h2>
+<ul>
+<li><a href="https://github.com/GLambard/Molecules_Dataset_Collection?tab=readme-ov-file">Molecules Dataset Collection</a>: - Selection of data sets of molecules (SMILES) and physicochemical properties</li>
+</ul>
+<h2 id="toxicity">Toxicity</h2>
+<ul>
+<li><a href="https://ntp.niehs.nih.gov/data/drugmatrix">DrugMatrix/ToxFX</a>: one of the world’s largest toxicogenomic reference resources</li>
+<li><a href="http://www.hergcentral.org/">hergcentral</a></li>
+</ul>
+<h2 id="admet">ADMET</h2>
+<ul>
+<li><a href="https://opendata.ncats.nih.gov/adme/">ADME@NCATS</a></li>
+</ul>
+<h2 id="chemical-reactions">Chemical Reactions</h2>
+<ul>
+<li><a href="https://docs.open-reaction-database.org/en/latest/">Open Reaction Database</a>: open access chemical reaction database to support machine learning and related efforts in reaction prediction, chemical synthesis planning, and experiment design</li>
+</ul>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../../Crystallography/Crystallography/" class="btn btn-neutral float-left" title="Crystallograpy"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../../De%20Novo%20Generation/Benchmarking/" class="btn btn-neutral float-right" title="Benchmarking of De Novo Generation methods">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../../Crystallography/Crystallography/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../../De%20Novo%20Generation/Benchmarking/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="../../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "../..";</script>
+    <script src="../../js/theme_extra.js"></script>
+    <script src="../../js/theme.js"></script>
+      <script src="../../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>
