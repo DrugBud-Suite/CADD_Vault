@@ -121,3 +121,7 @@
 ## SF Optimisation
 
 - [SANDRES](https://azevedolab.net/sandres.php): **S**tatistical **An**alysis of **D**ocking **Re**sults and **S**coring functions
+
+## RNA-specific
+
+- [RLAffinity](https://github.com/SaisaiSun/RLaffinity)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md",
+                "file": "docs/SBVS/Scoring Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md",
+                "file": "docs/SBVS/Scoring Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md",
+                "file": "docs/SBVS/Scoring Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md"
+                "file": "docs/SBVS/Scoring Functions.md"
               }
             }
           }
@@ -149,9 +149,13 @@
   },
   "active": "f57eaa011136df53",
   "lastOpenFiles": [
+    "docs/SBVS/Performance Determination.md",
+    "docs/images/LogoV1.png",
+    "docs/Datasets/Datasets.md",
+    "docs/SBVS/Docking.md",
+    "docs/De Novo Generation/Target-aware De Novo Generation.md",
     "docs/Proteins/Binding Site Prediction.md",
     "docs/Cheminformatics/Property Prediction.md",
-    "docs/SBVS/Performance Determination.md",
     "docs/Cheminformatics/Synthetic Accessibility.md",
     "docs/LBVS/LBVS.md",
     "docs/Proteins/Other.md",
@@ -169,15 +173,10 @@
     "docs/ML/ML+AI frameworks for chemistry.md",
     "docs/ML/ML.md",
     "docs/ML/Automatic Model Selection.md",
-    "docs/De Novo Generation/Target-aware De Novo Generation.md",
-    "docs/Datasets/Datasets.md",
     "docs/De Novo Generation/De Novo Generation.md",
     "docs/FBDD/FBDD.md",
-    "docs/SBVS/Docking.md",
     "CADD_Vault.code-workspace",
-    "docs/Cheminformatics/Conformer Generation.md",
     "docs/images/Logo V1.afpub",
-    "docs/images/LogoV1.png",
     "docs/images",
     "images/LogoV1.png",
     "site/css/fonts/fontawesome-webfont.svg",
