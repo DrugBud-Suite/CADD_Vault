@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/LBVS/LBVS.md",
+                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/LBVS/LBVS.md",
+                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/LBVS/LBVS.md",
+                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/LBVS/LBVS.md"
+                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md"
               }
             }
           }
@@ -149,6 +149,11 @@
   },
   "active": "f57eaa011136df53",
   "lastOpenFiles": [
+    "docs/Proteins/Binding Site Prediction.md",
+    "docs/Cheminformatics/Property Prediction.md",
+    "docs/SBVS/Performance Determination.md",
+    "docs/Cheminformatics/Synthetic Accessibility.md",
+    "docs/LBVS/LBVS.md",
     "docs/Proteins/Other.md",
     "docs/Proteins/Protein Structure.md",
     "docs/Proteins/Structure Refinement.md",
@@ -160,7 +165,6 @@
     "docs/Proteins/Homology Modelling.md",
     "docs/Proteins/Databases.md",
     "docs/Proteins/Conformational Ensemble Generation.md",
-    "docs/Proteins/Binding Site Prediction.md",
     "docs/ML/Few-shot learning.md",
     "docs/ML/ML+AI frameworks for chemistry.md",
     "docs/ML/ML.md",
@@ -172,10 +176,6 @@
     "docs/SBVS/Docking.md",
     "CADD_Vault.code-workspace",
     "docs/Cheminformatics/Conformer Generation.md",
-    "docs/Cheminformatics/Property Prediction.md",
-    "docs/Cheminformatics/Synthetic Accessibility.md",
-    "docs/De Novo Generation/Molecular Optimisation.md",
-    "docs/De Novo Generation/Reviews.md",
     "docs/images/Logo V1.afpub",
     "docs/images/LogoV1.png",
     "docs/images",

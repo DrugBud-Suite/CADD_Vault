@@ -30,6 +30,7 @@
 - [SECSE](https://github.com/KeenThera/SECSE)
 - [3D-Generative-SBDD](https://github.com/luost26/3D-Generative-SBDD)
 - [SBMolGen](https://github.com/clinfo/SBMolGen): integrates a recurrent neural network, a Monte Carlo tree search, and docking simulations
+- [PMDM](https://github.com/Layne-Huang/PMDM/tree/main): dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets
 
 - **Dual-target**
   - [Alx-Fuse](https://github.com/biomed-AI/AIxFuse)

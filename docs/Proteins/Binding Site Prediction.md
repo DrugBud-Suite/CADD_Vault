@@ -23,3 +23,4 @@
 ## **From Molecular Dynamics simulations**
 
 - [POVME2](https://durrantlab.pitt.edu/povme2/): POVME2 identifies druggable protein pockets and their unique conformations within molecular dynamics simulations, facilitating the discovery of novel pharmacologically active molecules.
+- [ColaBind](https://github.com/porekhov/CG_probeMD): Cloud-Based Approach for Prediction of Binding Sites Using Coarse-Grained Simulations with Molecular Probes
