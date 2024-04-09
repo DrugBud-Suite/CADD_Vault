@@ -54,5 +54,12 @@
 - [mol2vec](https://github.com/samoturk/mol2vec): Generates vector representations of molecular substructures for machine learning applications.
 - **Transformers**
   - [BERT](https://github.com/odb9402/MoleculeTransformer): A transformer model specifically designed for molecular property prediction tasks.
+  - [molfeat](https://molfeat-docs.datamol.io/stable/)
 - **Fragments**
   - [molZ](https://github.com/LiamWilbraham/molz): molZ offers a novel method for fragment-based molecular representation for machine learning models.
+- **Compressed Representation**
+  - [PaCh](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01720)
+
+## Graphs
+- [graphium](https://graphium-docs.datamol.io/stable/)
+- 

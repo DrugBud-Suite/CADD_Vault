@@ -37,6 +37,9 @@
 - [MolPMoFiT](https://github.com/XinhaoLi74/MolPMoFiT): transfer learning method based on self-supervised pre-training + task-specific fine-tuning for QSPR/QSAR modeling
 - [MolFeSCue](https://github.com/zhangruochi/MolFeSCue): Enhancing Molecular Property Prediction in Data-Limited and Imbalanced Contexts using Few-Shot and Contrastive Learning
 - [LGGA](https://github.com/songlei101/LGGA)
+- [PG-DERN](https://github.com/Bombtsti/PG-DERN)
+- [MolE](https://github.com/rolayoalarcon/MolE): Molecular representations through redundancy reduction of Embeddings
+- [MolFesCue](https://github.com/zhangruochi/MolFeSCue): molecular property prediction in Data-Limited and imbalanced contexts using Few-Shot and contrastive learning
 
 ## Pretrained Models
 

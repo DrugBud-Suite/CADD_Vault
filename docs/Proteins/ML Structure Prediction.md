@@ -7,6 +7,7 @@
 - [McGuffin Group Web Servers](https://www.reading.ac.uk/bioinf/index.html): This link points to the home page of the McGuffin Group Web Servers at the University of Reading, which provides various bioinformatics tools, although specific details about the tools were not provided.
 - [Robetta](https://robetta.bakerlab.org/): Robetta offers structure prediction using deep learning methods like RoseTTAFold and TrRosetta. It allows for custom sequence alignments, constraints, local fragments for homology modeling, and can model multi-chain complexes.
 - [DMFold](https://zhanggroup.org/DMFold/download/): DMFold standalone package is an integrated program of DeepMSA2 and AlphaFold2 for protein monomer and protein complex structure prediction
+- [Raptor-X](https://github.com/AndersJing/RaptorX-Single): RaptorX-Single: exploring the advantage of single sequence based protein structure prediction
 ## **Trans-membrane Proteins**
 
 - [PredMP](http://www.predmp.com/): The website's specific content was not retrievable due to request issues, but PredMP is designed for predicting membrane protein types and orientations.

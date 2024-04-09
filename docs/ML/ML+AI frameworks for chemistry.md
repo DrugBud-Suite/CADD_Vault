@@ -13,3 +13,5 @@
 - [chemprop](https://github.com/chemprop/chemprop) - Message Passing Neural Networks for Molecule Property Prediction .
 - [cgcnn](https://github.com/txie-93/cgcnn) - Crystal graph convolutional neural networks for predicting material properties.
 - [TorchDrug](https://torchdrug.ai/): A powerful and flexible machine learning platform for drug discovery
+- [MolFlux](https://exscientia.github.io/molflux/)
+- [sci-kit-mol](https://github.com/EBjerrum/scikit-mol/)

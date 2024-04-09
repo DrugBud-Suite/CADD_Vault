@@ -22,6 +22,7 @@
 - **[AutoDock-SS](https://www.semanticscholar.org/paper/AutoDock-SS%3A-AutoDock-for-Multiconformational-Ni-Wang/6a967759d3ab27e076e570238a7f8ce029bfc0e7)**: AutoDock-SS enhances AutoDock for multiconformational and flexible ligand docking, considering various ligand conformations for accurate docking predictions.
 - **[USR-VS](http://usr.marseille.inserm.fr/)**: USR-VS is a web server for ligand-based virtual screening using ultrafast shape recognition techniques to discover bioactive molecules.
 - **[SENSAAS](https://github.com/SENSAAS/sensaas)**: SENSAAS is a shape-based alignment software for superimposing molecules, utilizing a colored point-based surface representation for molecular comparison.
+- [SCRdkit](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py): assesses the 3D similarity between generated molecules and a reference molecule
 
 ## Hybrid
 

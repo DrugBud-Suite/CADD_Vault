@@ -11,6 +11,8 @@
 - [Conformer-Search](https://github.com/mcsorkun/Conformer-Search): This repository outlines a workflow for searching minimum energy conformers based on force field optimization methods (UFF and MMFF94) using RDKit.
 - [Conformer-RL](https://github.com/ZimmermanGroup/conformer-rl): An open-source deep reinforcement learning library for conformer generation.
 - [diffusion-conformer](https://github.com/nobiastx/diffusion-conformer): Physics-informed generative model for drug-like molecule conformers
+- [GeoMol](https://github.com/PattanaikL/GeoMol)
+- [TensorVAE](https://github.com/yuh8/TensorVAE)
 
 ## Reviews
 

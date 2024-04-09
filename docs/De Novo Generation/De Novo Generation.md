@@ -45,6 +45,7 @@
 - [hgraph2graph](https://github.com/wengong-jin/hgraph2graph): Hierarchical Generation of Molecular Graphs using Structural Motifs
 - [MolDQN](https://github.com/google-research/google-research/tree/master/mol_dqn): Optimization of Molecules via Deep Reinforcement Learning
 - [ChemTSv2](https://github.com/molecule-generator-collection/ChemTSv2): Functional molecular design using de novo molecule generator
+- [Mothra](https://github.com/sekijima-lab/Mothra)
 
 - **Fragment-based**
   - [CRem](https://github.com/DrrDom/crem): open-source Python framework to generate chemical structures using a fragment-based approach
@@ -60,3 +61,6 @@
   - [DeLinker](https://github.com/oxpig/DeLinker): Deep Generative Models for 3D Linker Design
   - [DRLinker](https://github.com/biomed-AI/DRlinker): Deep Reinforcement Learning for optimization in fragment linking Design
   - [GRELinker](https://github.com/howzh728/GRELinker): A Graph-based Generative Model for Molecular Linker Design with Reinforcement and Curriculum Learning
+
+- **Using Large Chemical Spaces**
+  - [SyntheMol](https://github.com/swansonk14/SyntheMol): SyntheMol is a generative AI method for designing structurally novel and diverse drug candidates with predicted bioactivity that are easy to synthesize.

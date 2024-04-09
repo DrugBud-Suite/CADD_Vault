@@ -42,6 +42,8 @@
 
 ## ML-based
 
+- **Reviews**
+  - [Zhang et al.](https://pubs.acs.org/doi/full/10.1021/acs.accounts.4c00093) : Advancing Ligand Docking through Deep Learning: Challenges and Prospects in Virtual Screening (2024)
 - [PointVS](https://github.com/jscant/PointVS): SE(3)-equivariant point cloud networks designed for virtual screening, enabling E(3)-invariant predictions of binding pose and affinity using networks based on the EGNN graph neural network layer.
 - [EViS](https://github.com/JingHuangLab/EViS): EViS is an enhanced virtual screening method integrating ligand docking, protein pocket template searching, and ligand template shape similarity calculations, utilizing a novel PL-score for evaluation.
 - [AQDNet](https://github.com/koji11235/AQDnet): Implements a Deep Neural Network for Protein-Ligand Docking Simulation, focusing on identifying correct binding poses through convolutional neural network approaches.
@@ -49,6 +51,7 @@
 - [TopoFormer](https://github.com/WeilabMSU/TopoFormer): A topological transformer for protein-ligand complex interaction prediction, integrating multiscale topology techniques with a structure-to-sequence transformer model.
 - [GNINA](https://github.com/gnina/gnina): GNINA is a molecular docking program that incorporates scoring and optimization of ligands using convolutional neural networks, aiming to combine the versatility of smina and AutoDock Vina with the predictive power of deep learning.
   - [gnina-torch](https://github.com/RMeli/gnina-torch/tree/0.0.2?tab=readme-ov-file): A PyTorch implementation of the GNINA molecular docking scoring function, designed for enhanced performance and adaptability.
+  - [GNINA_KD](https://github.com/YanjingLiLi/**GNINA_Knowledge_Distillation**)
 - [DiffDock](https://github.com/gcorso/DiffDock): A state-of-the-art method for molecular docking, incorporating diffusion steps and a significant improvement in performance and generalization capacity.
   - [DiffDock-Pocket](https://anonymous.4open.science/r/DiffDock-Pocket-AQ32/README.md) is a binding-pocket specific molecular docking program that uses diffusion to sample ligand and sidechain poses.
 - [ESF - scalar fields](https://github.com/bjing2016/scalar-fields): Implements Equivariant Scalar Fields for Molecular Docking with Fast Fourier Transforms, a machine learning-based ligand pose scoring function for rapid optimization.
@@ -60,6 +63,8 @@
 - [KarmaDock](https://github.com/schrojunzhang/KarmaDock/blob/main/README.md) : a deep learning paradigm for ultra-large library docking with fast speed and high accuracy
 - [SurfDock](https://github.com/CAODH/SurfDock): Surface-Informed Diffusion Generative Model for Reliable and Accurate Protein-ligand Complex Prediction
 - [NeuralPlexer](https://github.com/zrqiao/NeuralPLexer): deep generative model to jointly predict protein-ligand complex 3D structures and beyond.
+- [Interformer](https://assets.researchsquare.com/files/rs-3995849/v1_covered_1a7bca9a-ea43-4846-aade-5187b4ca1ab6.pdf?c=1711449538): code to be released, a unified model built upon the Graph-Transformer architecture, which specially crafted to capture non-covalent interactions through the interaction-aware mixture density network
+- [FABind](https://github.com/QizhiPei/FABind)
 
 ## Water
 

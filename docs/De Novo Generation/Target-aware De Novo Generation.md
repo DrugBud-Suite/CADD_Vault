@@ -31,6 +31,11 @@
 - [3D-Generative-SBDD](https://github.com/luost26/3D-Generative-SBDD)
 - [SBMolGen](https://github.com/clinfo/SBMolGen): integrates a recurrent neural network, a Monte Carlo tree search, and docking simulations
 - [PMDM](https://github.com/Layne-Huang/PMDM/tree/main): dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets
+- [DeepICL](https://github.com/ACE-KAIST/DeepICL): 3D molecular generative framework for interaction-guided drug design
+- [DEVELOP](https://github.com/oxpig/DEVELOP/tree/main)
+  - [SCRdkit](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py): assesses the 3D similarity between generated molecules and a reference molecule
+- [MolSnapper](https://github.com/oxpig/MolSnapper)
+- [FragGen](https://github.com/HaotianZhangAI4Science/FragGen): Fragment wise 3D Structure-based Molecular Generation
 
 - **Dual-target**
   - [Alx-Fuse](https://github.com/biomed-AI/AIxFuse)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SBVS/Scoring Functions.md",
+                "file": "docs/Cheminformatics/ADMET.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SBVS/Scoring Functions.md",
+                "file": "docs/Cheminformatics/ADMET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SBVS/Scoring Functions.md",
+                "file": "docs/Cheminformatics/ADMET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SBVS/Scoring Functions.md"
+                "file": "docs/Cheminformatics/ADMET.md"
               }
             }
           }
@@ -149,32 +149,33 @@
   },
   "active": "f57eaa011136df53",
   "lastOpenFiles": [
+    "docs/Cheminformatics/Conformer Generation.md",
+    "docs/De Novo Generation/Target-aware De Novo Generation.md",
+    "docs/De Novo Generation/De Novo Generation.md",
+    "docs/SBVS/Docking.md",
+    "docs/Cheminformatics/Data splitting.md",
+    "docs/Cheminformatics/Molecule Representations.md",
+    "docs/Cheminformatics/Library filtering.md",
+    "docs/Proteins/Conformational Ensemble Generation.md",
+    "docs/Proteins/Structure Refinement.md",
+    "docs/Proteins/Water Prediction.md",
+    "docs/Cheminformatics/Synthesis.md",
+    "docs/LBVS/LBVS.md",
+    "docs/Cheminformatics/Property Prediction.md",
+    "docs/Cheminformatics/General Tools.md",
+    "docs/SBVS/Scoring Functions.md",
+    "docs/Proteins/ML Structure Prediction.md",
+    "docs/ML/ML+AI frameworks for chemistry.md",
+    "docs/ML/Automatic Model Selection.md",
     "docs/SBVS/Performance Determination.md",
     "docs/images/LogoV1.png",
     "docs/Datasets/Datasets.md",
-    "docs/SBVS/Docking.md",
-    "docs/De Novo Generation/Target-aware De Novo Generation.md",
     "docs/Proteins/Binding Site Prediction.md",
-    "docs/Cheminformatics/Property Prediction.md",
-    "docs/Cheminformatics/Synthetic Accessibility.md",
-    "docs/LBVS/LBVS.md",
     "docs/Proteins/Other.md",
     "docs/Proteins/Protein Structure.md",
-    "docs/Proteins/Structure Refinement.md",
     "docs/Proteins/Structure Quality Assessment.md",
     "docs/Proteins/Structure Manipulation Librairies.md",
     "docs/Proteins/Sequence Alignment.md",
-    "docs/Proteins/Protonation.md",
-    "docs/Proteins/ML Structure Prediction.md",
-    "docs/Proteins/Homology Modelling.md",
-    "docs/Proteins/Databases.md",
-    "docs/Proteins/Conformational Ensemble Generation.md",
-    "docs/ML/Few-shot learning.md",
-    "docs/ML/ML+AI frameworks for chemistry.md",
-    "docs/ML/ML.md",
-    "docs/ML/Automatic Model Selection.md",
-    "docs/De Novo Generation/De Novo Generation.md",
-    "docs/FBDD/FBDD.md",
     "CADD_Vault.code-workspace",
     "docs/images/Logo V1.afpub",
     "docs/images",
