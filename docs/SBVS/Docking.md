@@ -19,6 +19,7 @@
 - [GLOW-IVES](https://github.com/drorlab/GLOW_IVES): Provides Python implementation of GLOW (auGmented sampLing with softened vdW potential) and IVES (Iterative Ensemble Sampling) protocols for pose sampling, along with new cross-docking datasets.
 - [HESS](https://github.com/Entroforce/Hess)
 - [JAMDA](https://doi.org/10.1021/acs.jcim.3c01573)
+- [DockThor](https://dockthor.lncc.br/v2/)
 
 ## Flexible Docking
 
@@ -65,6 +66,7 @@
 - [NeuralPlexer](https://github.com/zrqiao/NeuralPLexer): deep generative model to jointly predict protein-ligand complex 3D structures and beyond.
 - [Interformer](https://assets.researchsquare.com/files/rs-3995849/v1_covered_1a7bca9a-ea43-4846-aade-5187b4ca1ab6.pdf?c=1711449538): code to be released, a unified model built upon the Graph-Transformer architecture, which specially crafted to capture non-covalent interactions through the interaction-aware mixture density network
 - [FABind](https://github.com/QizhiPei/FABind)
+- [DiffBindFR](https://github.com/HBioquant/DiffBindFR)
 
 ## Water
 

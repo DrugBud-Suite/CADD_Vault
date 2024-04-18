@@ -40,6 +40,7 @@
 - [PG-DERN](https://github.com/Bombtsti/PG-DERN)
 - [MolE](https://github.com/rolayoalarcon/MolE): Molecular representations through redundancy reduction of Embeddings
 - [MolFesCue](https://github.com/zhangruochi/MolFeSCue): molecular property prediction in Data-Limited and imbalanced contexts using Few-Shot and contrastive learning
+- [MMGX](https://github.com/ohuelab/MMGX)
 
 ## Pretrained Models
 
