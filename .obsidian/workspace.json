@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/SBVS/Docking.md",
+                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/SBVS/Docking.md",
+                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/SBVS/Docking.md",
+                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/SBVS/Docking.md"
+                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md"
               }
             }
           }
@@ -149,22 +149,24 @@
   },
   "active": "f57eaa011136df53",
   "lastOpenFiles": [
+    "docs/SBVS/Scoring Functions.md",
+    "docs/Proteins/Conformational Ensemble Generation.md",
     "docs/Cheminformatics/Property Prediction.md",
-    "docs/Cheminformatics/ADMET.md",
-    "docs/Cheminformatics/Conformer Generation.md",
-    "docs/De Novo Generation/Target-aware De Novo Generation.md",
+    "docs/Cheminformatics/Molecule Representations.md",
     "docs/De Novo Generation/De Novo Generation.md",
+    "docs/Cheminformatics/ADMET.md",
+    "docs/De Novo Generation/Target-aware De Novo Generation.md",
+    "docs/Cheminformatics/Conformer Generation.md",
+    "docs/Target Identification/Target identification.md",
+    "docs/Proteins/Structure Quality Assessment.md",
     "docs/SBVS/Docking.md",
     "docs/Cheminformatics/Data splitting.md",
-    "docs/Cheminformatics/Molecule Representations.md",
     "docs/Cheminformatics/Library filtering.md",
-    "docs/Proteins/Conformational Ensemble Generation.md",
     "docs/Proteins/Structure Refinement.md",
     "docs/Proteins/Water Prediction.md",
     "docs/Cheminformatics/Synthesis.md",
     "docs/LBVS/LBVS.md",
     "docs/Cheminformatics/General Tools.md",
-    "docs/SBVS/Scoring Functions.md",
     "docs/Proteins/ML Structure Prediction.md",
     "docs/ML/ML+AI frameworks for chemistry.md",
     "docs/ML/Automatic Model Selection.md",
@@ -174,8 +176,6 @@
     "docs/Proteins/Binding Site Prediction.md",
     "docs/Proteins/Other.md",
     "docs/Proteins/Protein Structure.md",
-    "docs/Proteins/Structure Quality Assessment.md",
-    "docs/Proteins/Structure Manipulation Librairies.md",
     "CADD_Vault.code-workspace",
     "docs/images/Logo V1.afpub",
     "docs/images",

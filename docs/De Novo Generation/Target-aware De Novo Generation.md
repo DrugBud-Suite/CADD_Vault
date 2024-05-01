@@ -36,6 +36,8 @@
   - [SCRdkit](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py): assesses the 3D similarity between generated molecules and a reference molecule
 - [MolSnapper](https://github.com/oxpig/MolSnapper)
 - [FragGen](https://github.com/HaotianZhangAI4Science/FragGen): Fragment wise 3D Structure-based Molecular Generation
+- [DRAGONFLY](https://github.com/ETHmodlab/dragonfly_gen)
+- [HySonLab](https://github.com/HySonLab/Ligand_Generation)
 
 - **Dual-target**
   - [Alx-Fuse](https://github.com/biomed-AI/AIxFuse)

@@ -8,3 +8,5 @@
 - [Computation-ADME](https://github.com/molecularinformatics/Computational-ADME)
 - [adme-pred-py](https://github.com/ikmckenz/adme-pred-py)
 - [ADMET_XGBoost](https://github.com/smu-tao-group/ADMET_XGBoost)
+- [ProTox3](https://tox.charite.de/protox3/)
+- [admetSAR_3.0](http://lmmd.ecust.edu.cn/admetsar3/)

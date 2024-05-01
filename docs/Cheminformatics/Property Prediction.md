@@ -41,6 +41,7 @@
 - [MolE](https://github.com/rolayoalarcon/MolE): Molecular representations through redundancy reduction of Embeddings
 - [MolFesCue](https://github.com/zhangruochi/MolFeSCue): molecular property prediction in Data-Limited and imbalanced contexts using Few-Shot and contrastive learning
 - [MMGX](https://github.com/ohuelab/MMGX)
+- [PGM](https://www.nature.com/articles/s42004-024-01169-4.pdf)
 
 ## Pretrained Models
 
@@ -52,3 +53,6 @@
   - [CLOP-hERG](https://github.com/heshida01/CLOP-hERG/blob/main/README.md): Contrastive Learning Optimized Pretrained Model for Representation Learning in Predicting Drug-Induced hERG Channel Blockers
 - **PK Properties**
   - [PKSmart](https://github.com/srijitseal/PKSmart): This work used molecular structural fingerprints, physicochemical properties, and predicted animal PK data as features to model the human PK parameters VDss, CL, t½, fu and MRT for 1,283 unique compounds and developed a webhosted application [PKSmart](https://pk-predictor.serve.scilifelab.se/), the first work that publicly releases PK models on par with industry-standard models.
+- **Tox**
+  - [ProTox3](https://tox.charite.de/protox3/)
+

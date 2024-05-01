@@ -13,6 +13,9 @@
 - [diffusion-conformer](https://github.com/nobiastx/diffusion-conformer): Physics-informed generative model for drug-like molecule conformers
 - [GeoMol](https://github.com/PattanaikL/GeoMol)
 - [TensorVAE](https://github.com/yuh8/TensorVAE)
+- [GINGER](https://www.molsoft.com/gingerdemo.html)
+- [COSMIC](https://github.com/insilicomedicine/COSMIC)
+- 
 
 ## Reviews
 

@@ -7,3 +7,4 @@
 - CFold
 - [DANCE](https://github.com/PhyloSofS-Team/DANCE): DANCE is designed to process a set of input protein 3D structures provided in Crystallographic Information File (CIF) format and output protein or protein family-specific conformational collections in CIF or PDB format.
 - [GMdSilva](https://github.com/GMdSilva/gms_natcomms_1705932980_data)
+- [SMA-MD](https://github.com/olsson-group/sma-md)

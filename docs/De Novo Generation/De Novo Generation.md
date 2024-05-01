@@ -46,6 +46,9 @@
 - [MolDQN](https://github.com/google-research/google-research/tree/master/mol_dqn): Optimization of Molecules via Deep Reinforcement Learning
 - [ChemTSv2](https://github.com/molecule-generator-collection/ChemTSv2): Functional molecular design using de novo molecule generator
 - [Mothra](https://github.com/sekijima-lab/Mothra)
+- [FlowMol](https://github.com/dunni3/FlowMol)
+- [DRAGONFLY](https://github.com/ETHmodlab/dragonfly_gen)
+- [FraHMT](https://github.com/llldddmmm/Code-FraHMT)
 
 - **Fragment-based**
   - [CRem](https://github.com/DrrDom/crem): open-source Python framework to generate chemical structures using a fragment-based approach

@@ -63,6 +63,7 @@
 - [TankBind](https://github.com/luwei0917/TankBind): Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction
 - [ProtMD](https://github.com/smiles724/ProtMD): Pre-training Protein Geometric Models via Molecular Dynamics Trajectories
 - [ConBAP](https://github.com/DingLuoXMU/ConBAP): Protein-Ligand Binding Affinity Prediction with Multimodal Contrastive Learning
+- [SadNet](https://github.com/wardhong/SadNet)
 
 ## Hydration
 
