@@ -1,2 +1,3 @@
-- [SWISSModel](https://swissmodel.expasy.org/assess)
-- [ModFOLD9](https://www.reading.ac.uk/bioinf/ModFOLD/ModFOLD9_form.html): a webserver for estimating local and global quality of 3D protein models
+- **[SWISSModel](https://swissmodel.expasy.org/assess)**
+- **[ModFOLD9](https://www.reading.ac.uk/bioinf/ModFOLD/ModFOLD9_form.html)**: a webserver for estimating local and global quality of 3D protein models
+- **[iQDeep](http://fusion.cs.vt.edu/iQDeep)**: web server for protein scoring using multiscale deep learning models (evaluate quality of the 3D structure) (standalone)

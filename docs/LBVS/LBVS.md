@@ -14,7 +14,7 @@
 - **[pyADA](https://github.com/jeffrichardchemistry/pyADA)**: pyADA is a cheminformatics package for performing Applicability Domain Analysis of molecular fingerprints based on similarity calculation.
 - **[USearch](https://github.com/ashvardanian/usearch-molecules)**: USearch facilitates structural similarity searches across billions of molecules in milliseconds, focusing on chemoinformatics applications.
 - **[Chem-Faiss](https://github.com/ritabratamaiti/Chem-Faiss)**: Chem-Faiss utilizes vector similarity search from Faiss combined with chemical fingerprinting to build a scalable similarity search architecture for compounds/molecules.
-- [SmallWorld](https://sw.docking.org/search.html): web-based ligand similarity on a variety of commercial databases
+- **[SmallWorld](https://sw.docking.org/search.html)**: web-based ligand similarity on a variety of commercial databases
 
 ## 3D
 
@@ -22,13 +22,19 @@
 - **[AutoDock-SS](https://www.semanticscholar.org/paper/AutoDock-SS%3A-AutoDock-for-Multiconformational-Ni-Wang/6a967759d3ab27e076e570238a7f8ce029bfc0e7)**: AutoDock-SS enhances AutoDock for multiconformational and flexible ligand docking, considering various ligand conformations for accurate docking predictions.
 - **[USR-VS](http://usr.marseille.inserm.fr/)**: USR-VS is a web server for ligand-based virtual screening using ultrafast shape recognition techniques to discover bioactive molecules.
 - **[SENSAAS](https://github.com/SENSAAS/sensaas)**: SENSAAS is a shape-based alignment software for superimposing molecules, utilizing a colored point-based surface representation for molecular comparison.
-- [SCRdkit](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py): assesses the 3D similarity between generated molecules and a reference molecule
+- **[SCRdkit](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py)**: assesses the 3D similarity between generated molecules and a reference molecule
 
 ## Hybrid
 
-- [HybridSim](http://www.rcidm.org/HybridSim‐VS/) : HybridSim-VS is a tool for virtual screening that integrates both 2D and 3D similarity methods for improved screening performance and accuracy.
+- **[HybridSim](http://www.rcidm.org/HybridSim‐VS/)** : HybridSim-VS is a tool for virtual screening that integrates both 2D and 3D similarity methods for improved screening performance and accuracy.
 - **[LiSiCa](http://insilab.org/lisica/)**: (Already described above under 2D) Offers both 2D and 3D ligand similarity screening options based on graph-theoretical methods.
 
+## Sequence-based potency prediction
+
+- **[BIND](https://github.com/Chokyotager/BIND)**
 ## Reviews
 
-[Bajorath et al.](https://pubs.acs.org/doi/10.1021/ci900419k)
+**[Bajorath et al.](https://pubs.acs.org/doi/10.1021/ci900419k)**
+
+## Similarity calculations
+- **[iSIM](https://github.com/mqcomplab/iSIM/blob/main/iSIM_example.ipynb)**

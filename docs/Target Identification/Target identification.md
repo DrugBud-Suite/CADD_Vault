@@ -1,7 +1,7 @@
 ## Druggability Prediction
 
-- [DrugnomeAI](http://drugnomeai.public.cgr.astrazeneca.com/)
+- **[DrugnomeAI](http://drugnomeai.public.cgr.astrazeneca.com/)**
 
 ## Target prediction models
-- [PT-Finder](https://github.com/PT-Finder/PT-Finder)
+- **[PT-Finder](https://github.com/PT-Finder/PT-Finder)**
 - 

@@ -2,6 +2,8 @@
 
 Welcome to the CADD Vault, an open-source repository dedicated to sharing resources, tools, and knowledge in the field of computer-aided drug design. This vault aims to support researchers, students, and professionals by providing a comprehensive collection of materials related to CADD.
 
+Total number of hyperlinks: 1161
+
 ## About the Vault
 
 The CADD Vault includes resources on various topics within the domain of computer-aided drug design, including but not limited to:
@@ -21,11 +23,11 @@ The vault is structured into several sections, each dedicated to a specific aspe
 
 ## Contributing
 
-We welcome contributions from the community! If you have resources, tools, tutorials, or any other content that you believe would benefit others in the field of CADD, please see our [contributing guidelines](CONTRIBUTING.md) for how to get involved.
+We welcome contributions from the community! If you have resources, tools, tutorials, or any other content that you believe would benefit others in the field of CADD, please see our **[contributing guidelines](CONTRIBUTING.md)** for how to get involved.
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the **[MIT License](LICENSE)**.
 
 ## Acknowledgements
 

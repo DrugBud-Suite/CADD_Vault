@@ -1,0 +1,1 @@
+- **[MolFinder](https://github.com/duaibeom/MolFinder)**: an evolutionary algorithm for the global optimization of molecular properties and the extensive exploration of chemical space using SMILES (standalone)

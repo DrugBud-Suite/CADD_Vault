@@ -1,0 +1,2 @@
+- **[SiteMine](https://uhh.de/naomi)**: Large-scale binding site similarity searching in protein structure databases (online), 2024.
+- **[PDBspheres](https://github.com/LLNL/PDBspheres)**: a method for finding 3D similarities in local regions in proteins (pocket similarity) (standalone)

@@ -1,3 +1,3 @@
 # Crystallograpy
 
-- [cctbx](https://cctbx.github.io/) - The Computational Crystallography Toolbox.
+- **[cctbx](https://cctbx.github.io/)** - The Computational Crystallography Toolbox.

@@ -1,1 +1,7 @@
-- [propka](https://github.com/jensengroup/propka) - Predicts the pKa values of ionizable groups in proteins and protein-ligand complexes based in the 3D structure.
+- **[propka](https://github.com/jensengroup/propka)** - Predicts the pKa values of ionizable groups in proteins and protein-ligand complexes based in the 3D structure.
+- **[pypka](pypka.org)**: allows users to run physics-based, as well as ML-accelerated methods suitable for larger systems, to obtain pKa values, isoelectric points, titration curves, and structures with representative pH-dependent protonation states compatible with commonly used force fields
+- **[ProteinPrepare](http://www.playmolecule.org/)** Make your protein ready for molecular dynamics simulations by titrating and protonating the protein at a desired pH and by optimizing the H-bond network
+- **[DeepKa](http://www.computbiophys.com/DeepKa/main)**: deep-learning-based protein pKa predictor (online)
+- **[PypKa](https://github.com/mms-fcul/PypKa)**: a flexible Python module for Poisson-Boltzmann based pKa calculations (for proteins) (standalone)
+- **[Graph-pKa](https://pka.simm.ac.cn/en/)**: Multi-instance learning of graph neural networks for aqueous pKa prediction (online)
+- **[H++](http://biophysics.cs.vt.edu/)**: automated system that computes pK values of ionizable groups in macromolecules and adds missing hydrogen atoms according to the specified pH of the environment (online)

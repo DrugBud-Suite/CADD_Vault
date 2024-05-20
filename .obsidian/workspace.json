@@ -11,12 +11,8 @@
             "id": "f57eaa011136df53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 338.5
   },
   "right": {
     "id": "c3d581d8691bfaac",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/De Novo Generation/Target-aware De Novo Generation.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,44 +142,46 @@
   "active": "f57eaa011136df53",
   "lastOpenFiles": [
     "docs/SBVS/Scoring Functions.md",
-    "docs/Proteins/Conformational Ensemble Generation.md",
-    "docs/Cheminformatics/Property Prediction.md",
-    "docs/Cheminformatics/Molecule Representations.md",
-    "docs/De Novo Generation/De Novo Generation.md",
-    "docs/Cheminformatics/ADMET.md",
-    "docs/De Novo Generation/Target-aware De Novo Generation.md",
-    "docs/Cheminformatics/Conformer Generation.md",
-    "docs/Target Identification/Target identification.md",
-    "docs/Proteins/Structure Quality Assessment.md",
-    "docs/SBVS/Docking.md",
-    "docs/Cheminformatics/Data splitting.md",
-    "docs/Cheminformatics/Library filtering.md",
-    "docs/Proteins/Structure Refinement.md",
-    "docs/Proteins/Water Prediction.md",
-    "docs/Cheminformatics/Synthesis.md",
-    "docs/LBVS/LBVS.md",
-    "docs/Cheminformatics/General Tools.md",
-    "docs/Proteins/ML Structure Prediction.md",
-    "docs/ML/ML+AI frameworks for chemistry.md",
-    "docs/ML/Automatic Model Selection.md",
-    "docs/SBVS/Performance Determination.md",
+    "README copy.md",
+    "mkdocs copy.yml",
+    "LICENSE copy",
+    "site copy/sitemap.xml.gz",
+    "site copy/sitemap.xml",
+    "site copy/search.html",
+    "site copy/search/worker.js",
+    "site copy/search/search_index.json",
+    "site copy/search/main.js",
+    "site copy/search/lunr.js",
+    "site copy/search",
+    "site copy/css/fonts/fontawesome-webfont.svg",
+    "docs copy/index.md",
+    "docs copy/images/LogoV1.png",
+    "docs copy/Visualisation Tools/Visualisation Tools.md",
+    "docs copy/VS Workflows/VS Workflows.md",
+    "docs copy/Target Identification/Target identification.md",
+    "docs copy/SBVS/Scoring Functions.md",
+    "docs copy/SBVS/Performance Determination.md",
+    "docs copy/SBVS/Docking.md",
+    "docs copy/SBVS/Docking Score Prediction.md",
+    "docs copy/SBVS/Docking Pose Processing.md",
+    "docs copy/Retrosynthesis Prediction/Retrosynthesis Prediction.md",
+    "docs copy/Resources/Resources.md",
+    "docs copy/Proteins/Water Prediction.md",
+    "docs copy/Proteins/Structure Refinement.md",
+    "docs copy/Proteins/Structure Quality Assessment.md",
+    "docs copy/Proteins/Structure Manipulation Librairies.md",
+    "docs copy/Proteins/Sequence Alignment.md",
+    "docs copy/Proteins/Protonation.md",
+    "docs copy/Proteins/Protein-Protein Docking.md",
+    "docs copy/Proteins/Other.md",
+    "docs copy/Proteins/ML Structure Prediction.md",
+    "docs copy/Proteins/Loop Modelling.md",
+    "docs copy/Proteins/Homology Modelling.md",
+    "docs copy/Proteins/Databases.md",
+    "docs copy/Proteins/Conformational Ensemble Generation.md",
     "docs/images/LogoV1.png",
-    "docs/Datasets/Datasets.md",
-    "docs/Proteins/Binding Site Prediction.md",
-    "docs/Proteins/Other.md",
-    "docs/Proteins/Protein Structure.md",
-    "CADD_Vault.code-workspace",
-    "docs/images/Logo V1.afpub",
-    "docs/images",
     "images/LogoV1.png",
     "site/css/fonts/fontawesome-webfont.svg",
-    "site/css/fonts/fontawesome-webfont.eot",
-    "site/css/fonts/fontawesome-webfont.ttf",
-    "site/css/fonts/Roboto-Slab-Regular.woff2",
-    "site/css/fonts/Roboto-Slab-Bold.woff2",
-    "site/css/fonts/Roboto-Slab-Regular.woff",
-    "site/css/fonts/lato-normal.woff2",
-    "site/css/fonts/lato-normal.woff",
     "images/Logo V1.png",
     "_public/apple-touch-icon-precomposed.png",
     "public/apple-touch-icon-precomposed.png",

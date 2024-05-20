@@ -1,3 +1,3 @@
-- [pdb-tools](https://github.com/haddocking/pdb-tools) - A swiss army knife for manipulating and editing PDB files.
-- [biopandas](https://biopandas.github.io/biopandas/): Working with molecular structures of biological macromolecules (from PDB and MOL2 files) in pandas DataFrames
-- PDBFixer
+- **[pdb-tools](https://github.com/haddocking/pdb-tools)** - A swiss army knife for manipulating and editing PDB files.
+- **[biopandas](https://biopandas.github.io/biopandas/)**: Working with molecular structures of biological macromolecules (from PDB and MOL2 files) in pandas DataFrames
+- **[PDBFixer](https://github.com/openmm/pdbfixer)**: application for fixing problems in PDB - Protein Data Bank files, missing residues, loop... (standalone)

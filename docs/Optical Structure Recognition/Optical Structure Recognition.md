@@ -1,0 +1,9 @@
+- **[ChemPixCH](https://github.com/mtzgroup/ChemPixCH)**: Hand Drawn Hydrocarbon Recognition (image to smiles) (standalone)
+- **[DECIMER Image Transformer V2](https://github.com/Kohulan/DECIMER-Image_Transformer)**: Deep Learning for Chemical Image Recognition (image to smiles) (standalone)
+- **[ChemSAM](https://github.com/mindrank-ai/ChemSAM/tree/master)**: Automated molecular structure segmentation from documents (image to smiles) (standalone)
+- **[YoDe-Segmentation](https://github.com/OneChorm/YoDe-Segmentation)**: automated noise-free retrieval of molecular structures from scientific publications (standalone)
+- **[SwinOCSR](https://github.com/amine179/DrugDesign)**: end-to-end optical chemical structure recognition using a Swin Transformer (standalone)
+- **[DECIMER—hand-drawn molecule](https://zenodo.org/record/6456306#.YyRjsR19hl0)**: images dataset (dataset)
+- **[Img2Mol](https://github.com/bayer-science-for-a-better-life/Img2Mol)**: accurate SMILES recognition from molecular graphical depictions (image to smiles) (standalone)
+- **[DECIMER](https://decimer.ai/)**: online image to SMILES (image to smiles) (online)
+- 
