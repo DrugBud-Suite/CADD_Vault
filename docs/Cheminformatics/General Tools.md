@@ -25,3 +25,7 @@
 ## Database handling
 
 - **[MongoDB Chemistry](https://github.com/mcs07/mongodb-chemistry)**: Chemical similarity search implementation in MongoDB, with performance analysis.
+
+## Tool Collections
+
+- **[Elinson et al.](https://link.springer.com/article/10.1007/s11030-024-10889-7)**

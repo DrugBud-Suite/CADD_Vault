@@ -12,6 +12,7 @@
   - Graphlet fingerprint: **[Minervachem](https://github.com/lanl/minervachem)** - Provides a method for analyzing molecular graphlets, offering a unique approach to molecular characterization and comparison.
   - **[FPKit](https://github.com/davidbajusz/fpkit)**: Life beyond the Tanimoto coefcient: similarity measures for interaction fngerprints (Python-based cheminformatics package for fingerprint-related tasks) (standalone)
   - **[ChemDes](http://www.scbdd.com/chemdes/)**: An integrated web-based platform for molecular descriptor and fingerprint computation (online)
+  - **[MAPC](https://github.com/reymond-group/mapchiral)**: MinHashed Atom-Pair Fingerprint Chiral
 
 ## Protein-ligand interaction
 

@@ -21,13 +21,17 @@
 - **[PoseBusters](https://github.com/maabuu/posebusters)**: Plausibility checks for generated molecule poses.
 - **[PECAN](https://github.com/LLNL/PECAN2)**: Implements convolutional neural network approaches for improving virtual high-throughput screening, using 3D atomic representation as input data.
 - **[PoseCheck](https://github.com/cch1999/posecheck)**
+- **[PoseBench](https://github.com/BioinfoMachineLearning/PoseBench)**: comprehensive benchmark for practical protein-ligand docking
+- **[DockQ](https://wallnerlab.org/DockQ)**: DockQ is now also able to score interfaces between proteins, nucleic acids, and small molecules.
 
 ## Minimization
 
 - **[Vina_pose_Optimization](https://github.com/rongfengzou/vina_pose_optimization)**: optimize positions of ligand polar hydrogens in docking pose
 - **[DeepRMSD-Vina_Optimisation](<https://github.com/zchwang/DeepRMSD-Vina_Optimization>)**: This algorithm is based on deep learning and a classical scoring function (Vina score) and is designed to optimize ligand conformations.
+- **[Energy minimization post-processing used in PoseBusters](https://github.com/maabuu/posebusters_em)**
 
 ## ML Pose Selection
+
 - **[Classy_Pose](https://github.com/vktrannguyen/Classy_Pose)** : uses a SVM to select correct binding poses
 
 ## Other

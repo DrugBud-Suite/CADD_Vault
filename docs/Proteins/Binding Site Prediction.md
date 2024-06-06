@@ -44,6 +44,7 @@
 - **[SplitPocket](http://pocket.med.wayne.edu/patch/)**: geometry-based (online)
 - **[POCASA](http://altair.sci.hokudai.ac.jp/g6/service/pocasa/)**: geometry-based, pockets and cavities, volume... (online)
 - **[DeepSite](http://www.playmolecule.org/)** (binding pocket predictor, neural networks) (online)
+
 ## **Allosteric Site Prediction**
 
 - **[PASSer](https://passer.smu.edu/)**: Designed for accurate allosteric site prediction, PASSer offers three machine learning models for quick and extensive allosteric analysis.
@@ -52,12 +53,14 @@
 - **[APOP](https://github.com/Ambuj-UF/APOP)**: Predicting Allosteric Pockets in Protein Biological Assemblages (standalone)
 - **[Allo](https://github.com/fibonaccirabbits/allo)**: a tool for dicriminating and prioritizing allosteric pockets (standalone)
 - **[AlloSite](http://mdl.shsmu.edu.cn/AST/)**: allosteric site (online)
+
 ## **Fragment Site Prediction**
 
 - **[FTMap](https://ftmap.bu.edu/show_example.php?example=ace)**: FTMap maps unbound protein surfaces to identify druggable hot spots where small molecules may bind.
 ## **Metal-binding site**
 
 - **[PinMyMetal](https://github.com/hhz-lab/PinMyMetal.git)**: Specific details about PinMyMetal, presumably a tool for predicting metal-binding sites in proteins, were not provided in the data fetched.
+
 ## **From Molecular Dynamics simulations**
 
 - **[POVME2](https://durrantlab.pitt.edu/povme2/)**: POVME2 identifies druggable protein pockets and their unique conformations within molecular dynamics simulations, facilitating the discovery of novel pharmacologically active molecules.
@@ -67,4 +70,8 @@
 
 ## Cryptic Pockets
 
-- **[PocketMiner](https://github.com/Mickdub/gvp/tree/pocket_pred)**: predicting the locations of cryptic pockets from single protein structures (standalone)****
+- **[PocketMiner](https://github.com/Mickdub/gvp/tree/pocket_pred)**: predicting the locations of cryptic pockets from single protein structures (standalone)
+
+## Growth Site Prediction
+
+- **[SINCHO](https://github.com/genki-kudo/SINCHO-H2L)**: SINCHO protocol is a method for the prediction/suggestion of the desirable anchor atom and growth site pair for the modification of the hit compound in hit-to-lead process.

@@ -1,5 +1,3 @@
-# Molecule De Novo Generation
-
 ## Models
 
 - **[REINVENT 4](https://github.com/MolecularAI/REINVENT4)**: A molecular design tool for various design tasks like de novo design, scaffold hopping, and molecule optimization, using a reinforcement learning algorithm.
@@ -54,31 +52,42 @@
 - **[MACAW](https://github.com/LBLQMM/MACAW/)**: an accessible tool for molecular embedding and inverse molecular design (generative chemistry) (standalone)
 - **[MoLeR](https://github.com/microsoft/molecule-generation)**: a generative model of molecular graphs which supports scaffold-constrained generation (generative chemistry) (standalone)
 - **[VGAE-MCTS](https://github.com/clinfo/VGAE-MCTS)**: A New Molecular Generative Model Combining the Variational Graph Auto-Encoder and Monte Carlo Tree Search (generative chemistry combining deep learning and reinforcement learning based on a molecular graph representation) (standalone).
+- **[Saturn](https://github.com/schwallergroup/saturn)**: language model based molecular generative design framework that is focused on sample-efficient de novo small molecule design.
+  
+# Fragment-based
 
-- **Fragment-based**
-	- **[CRem](https://github.com/DrrDom/crem)**: open-source Python framework to generate chemical structures using a fragment-based approach
-	- **[Molecule Generator](https://github.com/akihoni/molecular_generation_GA)**: A fragment-based molecular generation method (standalone)
+- **[CRem](https://github.com/DrrDom/crem)**: open-source Python framework to generate chemical structures using a fragment-based approach
+- **[Molecule Generator](https://github.com/akihoni/molecular_generation_GA)**: A fragment-based molecular generation method (standalone)
 
-- **Pharmacophore**
-  - **[PGMG](https://github.com/CSUBioGroup/PGMG)**: A Pharmacophore-Guided Deep Learning Approach for Bioactive Molecule Generation, offering a strategy to generate molecules with structural diversity based on a pharmacophore hypothesis.
-    - **[Webserver](https://www.csuligroup.com/PGMG/)**
-  - **[DEVELOP](https://github.com/oxpig/DEVELOP)**: Implements Deep Generative Design with 3D Pharmacophoric Constraints for molecular design, focusing on linker design and scaffold elaboration using a combination of variational autoencoders and 3D pharmacophore modeling.
-  - **[TransPharmer](https://www.semanticscholar.org/reader/fac3d72a3e73f65e1c950104e010edd136cb4201)**: The provided link was unresponsive for extracting detailed information; typically, it would describe a tool or model for pharmacophore-based molecular design or analysis.
+# Pharmacophore
+- **[PGMG](https://github.com/CSUBioGroup/PGMG)**: A Pharmacophore-Guided Deep Learning Approach for Bioactive Molecule Generation, offering a strategy to generate molecules with structural diversity based on a pharmacophore hypothesis.
+  - **[Webserver](https://www.csuligroup.com/PGMG/)**
+- **[DEVELOP](https://github.com/oxpig/DEVELOP)**: Implements Deep Generative Design with 3D Pharmacophoric Constraints for molecular design, focusing on linker design and scaffold elaboration using a combination of variational autoencoders and 3D pharmacophore modeling.
+- **[TransPharmer](https://www.semanticscholar.org/reader/fac3d72a3e73f65e1c950104e010edd136cb4201)**: The provided link was unresponsive for extracting detailed information; typically, it would describe a tool or model for pharmacophore-based molecular design or analysis.
 
-- **Linker generation**
-  - **[DiffLinker](https://github.com/igashov/DiffLinker)**: An Equivariant 3D-conditional Diffusion Model for Molecular Linker Design that places missing atoms between disconnected fragments in 3D, designing molecules that incorporate all initial fragments with potential applications in linker generation for drug discovery.
-  - **[DeLinker](https://github.com/oxpig/DeLinker)**: Deep Generative Models for 3D Linker Design
-  - **[DRLinker](https://github.com/biomed-AI/DRlinker)**: Deep Reinforcement Learning for optimization in fragment linking Design
-  - **[GRELinker](https://github.com/howzh728/GRELinker)**: A Graph-based Generative Model for Molecular Linker Design with Reinforcement and Curriculum Learning
+# Linker generation
 
-- **Using Large Chemical Spaces**
-  - **[SyntheMol](https://github.com/swansonk14/SyntheMol)**: SyntheMol is a generative AI method for designing structurally novel and diverse drug candidates with predicted bioactivity that are easy to synthesize.
+- **[DiffLinker](https://github.com/igashov/DiffLinker)**: An Equivariant 3D-conditional Diffusion Model for Molecular Linker Design that places missing atoms between disconnected fragments in 3D, designing molecules that incorporate all initial fragments with potential applications in linker generation for drug discovery.
+- **[DeLinker](https://github.com/oxpig/DeLinker)**: Deep Generative Models for 3D Linker Design
+- **[DRLinker](https://github.com/biomed-AI/DRlinker)**: Deep Reinforcement Learning for optimization in fragment linking Design
+- **[GRELinker](https://github.com/howzh728/GRELinker)**: A Graph-based Generative Model for Molecular Linker Design with Reinforcement and Curriculum Learning
 
-- **Polypharmacology**
-  - **[POLYGON](https://github.com/bpmunson/polygon)**: POLYGON attempts to optimize the chemical space for multiple protein target domains
+# Using Large Chemical Spaces
 
-- **Scoring of generated compounds**
-  - **[MolScore](https://github.com/MorganCThomas/MolScore/tree/main?tab=readme-ov-file)** : A scoring, evaluation and benchmarking framework for de novo drug design
+- **[SyntheMol](https://github.com/swansonk14/SyntheMol)**: SyntheMol is a generative AI method for designing structurally novel and diverse drug candidates with predicted bioactivity that are easy to synthesize.
 
-- **Few-Shot**
-  - **[DrugLLM](https://github.com/ziyanglichuan/DrugLLM)**: not yet released
+# Polypharmacology
+
+- **[POLYGON](https://github.com/bpmunson/polygon)**: POLYGON attempts to optimize the chemical space for multiple protein target domains
+
+# Scoring of generated compounds
+
+- **[MolScore](https://github.com/MorganCThomas/MolScore/tree/main?tab=readme-ov-file)** : A scoring, evaluation and benchmarking framework for de novo drug design
+
+# Few-Shot
+
+- **[DrugLLM](https://github.com/ziyanglichuan/DrugLLM)**: not yet released
+
+## 3D
+
+- **[EMDS](https://github.com/nclabhzhang/EMDS)**: Equivariant Score-based Generative Diffusion Framework for 3D Molecules.

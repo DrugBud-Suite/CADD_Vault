@@ -66,12 +66,14 @@
 - **[GAABind](https://github.com/Mercuryhs/GAABind/blob/main/README.MD)**: GAABind is a Geometry-Aware Attention-Based Network for accurate protein-ligand binding pose and binding affinity prediction, featuring a comprehensive environment setup and dataset processing guide.
 - **[TankBind](https://github.com/luwei0917/TankBind)**: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction
 - **[Uni-Mol](https://github.com/dptech-corp/Uni-Mol)**: A Universal 3D Molecular Representation Learning Framework
+  - **[Uni-Mol v2](https://bohrium.dp.tech/apps/unimoldockingv2)**
 - **[PLANTAIN](https://github.com/molecularmodelinglab/plantain)**: Predicting LigANd pose wiTh an AI scoring functioN
 - **[KarmaDock](https://github.com/schrojunzhang/KarmaDock/blob/main/README.md)** : a deep learning paradigm for ultra-large library docking with fast speed and high accuracy
 - **[SurfDock](https://github.com/CAODH/SurfDock)**: Surface-Informed Diffusion Generative Model for Reliable and Accurate Protein-ligand Complex Prediction
 - **[NeuralPlexer](https://github.com/zrqiao/NeuralPLexer)**: deep generative model to jointly predict protein-ligand complex 3D structures and beyond.
 - **[Interformer](https://assets.researchsquare.com/files/rs-3995849/v1_covered_1a7bca9a-ea43-4846-aade-5187b4ca1ab6.pdf?c=1711449538)**: code to be released, a unified model built upon the Graph-Transformer architecture, which specially crafted to capture non-covalent interactions through the interaction-aware mixture density network
 - **[FABind](https://github.com/QizhiPei/FABind)**
+  - **[FABind+](https://github.com/QizhiPei/FABind)**
 - **[DiffBindFR](https://github.com/HBioquant/DiffBindFR)**
 - **[DiffusionProteinLigand](https://github.com/shuyana/DiffusionProteinLigand)**: End-to-end protein–ligand complex structure generation with diffusion-based generative models (standalone).
 - **[CarsiDock](https://github.com/carbonsilicon-ai/CarsiDock)**: a deep learning paradigm for accurate protein–ligand docking and screening based on large-scale pre-training (standalone, 2024).
@@ -137,4 +139,6 @@
 
 - **[Zhang et al.](https://doi.org/10.1021/acs.jctc.3c00943)**
 
-<https://github.com/AngelRuizMoreno/Jupyter_Dock>
+## WebServers
+
+- **[MolModa](https://durrantlab.com/molmoda)**: accessible and secure molecular docking in a web browser.

@@ -43,7 +43,9 @@
 - **[MMGX](https://github.com/ohuelab/MMGX)**
 - **[PGM](https://www.nature.com/articles/s42004-024-01169-4.pdf)**
 - **[DIG-Mol](https://github.com/ZeXingZ/DIG-Mol)**
-
+- **[TOML-BERT](https://github.com/yanjing-duan/TOML-BERT)** : Task-Oriented Multi-level Learning based on BERT (TOML-BERT): a dual-level pretraining framework that considers both structural patterns and domain knowledge for molecular property prediction.
+- **[MolProp](https://github.com/merck/MolPROP)**
+  
 ## Pretrained Models
 
 - **logP**

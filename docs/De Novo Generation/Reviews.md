@@ -126,3 +126,7 @@
 - **Inverse molecular design using machine learning: Generative models for matter engineering**[2018]  
     Sanchez-Lengeling, Benjamin, and Alán Aspuru-Guzik.  
     **[Science 361.6400 (2018)](https://www.science.org/doi/10.1126/science.aat2663)**
+
+## Blogs
+
+- **[Generative Molecular Design Isn't As Easy As People Make It Look](https://practicalcheminformatics.blogspot.com/2024/05/generative-molecular-design-isnt-as.html)**
