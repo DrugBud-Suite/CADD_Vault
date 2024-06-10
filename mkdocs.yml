@@ -1,27 +1,31 @@
 site_name: CADD Vault
-theme: 
+theme:
   name: material
   palette:
     primary: "grey"
     accent: "blue"
-    # Palette toggle for automatic mode
-    media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
+    toggle:
+      icon: material/brightness-auto
+      name: Switch to light mode
+
+  # Configuration specific for preferring color schemes
+  features:
+    - palette.toggle.auto
+    - palette.toggle.light
+    - palette.toggle.dark
+
+  # Palette toggle for automatic mode
+  media:
+    - "(prefers-color-scheme: no-preference)"
+      scheme: default 
 
     # Palette toggle for light mode
-    media: "(prefers-color-scheme: light)"
+    - "(prefers-color-scheme: light)"
       scheme: default 
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
 
     # Palette toggle for dark mode
-    media: "(prefers-color-scheme: dark)"
+    - "(prefers-color-scheme: dark)"
       scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to system preference
+
   logo: images/LogoV1.png
   favicon: images/LogoV1.png
