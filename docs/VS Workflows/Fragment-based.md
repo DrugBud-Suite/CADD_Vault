@@ -1,0 +1,3 @@
+- **ACFIS 2.0**: an improved web-server for fragment-based drug discovery via a dynamic screening strategy (online).
+	- [Publication](https://doi.org/10.1093%2Fnar%2Fgkad348) : Citations: 4.0
+	- [Link](http://chemyang.ccnu.edu.cn/ccb/server/ACFIS2/)

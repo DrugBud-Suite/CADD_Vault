@@ -1,0 +1,34 @@
+- **Auto3D**: Automatic Generation of the Low-energy 3D Structures with ANI Neural Network Potentials (standalone).
+	- [Code](https://github.com/isayevlab/Auto3D_pkg) : Last updated in May 2024, 0 months ago
+	- [Publication](https://doi.org/10.1021/acs.jcim.2c00817) : Citations: 19.0
+- **ConfGF**: ConfGF, as introduced in ICML 2021, learns gradient fields for molecular conformation generation, featuring an official implementation for their methodology.
+	- [Code](https://github.com/DeepGraphLearning/ConfGF) : Last updated in September 2021, 32 months ago
+	- [Publication](https://doi.org/10.48550/arXiv.2105.03902) : Citations: 0.0
+- **Conformer-RL**: An open-source deep reinforcement learning library for conformer generation.
+	- [Code](https://github.com/ZimmermanGroup/conformer-rl) : Last updated in February 2023, 16 months ago
+- **COSMIC**: 
+	- [Code](https://github.com/insilicomedicine/COSMIC) : Last updated in April 2024, 1 months ago
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c00989) : Citations: 0.0
+- **diffusion-conformer**: Physics-informed generative model for drug-like molecule conformers
+	- [Code](https://github.com/nobiastx/diffusion-conformer) : Last updated in March 2024, 2 months ago
+	- [Publication](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01816) : Citations: 0.0
+- **DMCG**: DMCG, featured in TMLR2022, is focused on direct molecular conformation generation, supporting both small-scale and large-scale GEOM datasets.
+	- [Code](https://github.com/DirectMolecularConfGen/DMCG) : Last updated in October 2022, 19 months ago
+	- [Publication](https://doi.org/10.48550/arXiv.2202.01356) : Citations: 0.0
+- **GeoDiff**: GeoDiff introduces a geometric diffusion model aimed at generating molecular conformations, as detailed in their ICLR 2022 presentation.
+	- [Code](https://github.com/MinkaiXu/GeoDiff) : Last updated in May 2023, 13 months ago
+	- [Publication](https://doi.org/10.48550/arXiv.2203.02923) : Citations: 0.0
+- **GeoMol**: Torsional Geometric Generation of Molecular 3D Conformer Ensembles (standalone).
+	- [Code](https://github.com/PattanaikL/GeoMol) : Last updated in February 2022, 27 months ago
+	- [Publication](https://doi.org/10.48550/arXiv.2106.07802) : Citations: 0.0
+- **GINGER**: 
+	- [Webserver](https://www.molsoft.com/gingerdemo.html)
+- **Gypsum-DL**: Gypsum-DL is a software that transforms 1D and 2D small-molecule representations into 3D models, considering various isomeric and conformational states.
+	- [Code](https://github.com/durrantlab/gypsum_dl/) : Last updated in October 2023, 8 months ago
+	- [Publication](https://doi.org/10.1186/s13321-019-0358-3) : Citations: 44.0
+	- [Link](https://durrantlab.pitt.edu/gypsum-dl/)
+- **TensorVAE**: 
+	- [Code](https://github.com/yuh8/TensorVAE) : Last updated in August 2023, 10 months ago
+- **Uni-Mol**: Uni-Mol offers a universal 3D molecular pretraining framework, enhancing representation capacity and scope in drug design with superior performance in multiple prediction tasks.
+	- [Code](https://github.com/dptech-corp/Uni-Mol) : Last updated in June 2024, 0 months ago
+	- [Publication](https://openreview.net/forum?id=6K2RM6wVqKu) : Citations: N/A

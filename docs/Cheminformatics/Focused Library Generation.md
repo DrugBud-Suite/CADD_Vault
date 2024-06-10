@@ -1,1 +1,0 @@
-- **[ChemoDOTS](https://chemodots.marseille.inserm.fr/)**: A Web Server for the Design of Chemistry-Driven Focused Libraries in Hit-to-Lead Drug Discovery

@@ -1,5 +1,0 @@
-- **[HydraProt](https://github.com/azamanos/HydraProt)**: Deep Learning Tool for Fast and Accurate Prediction of Water Molecule Positions for Protein Structures (standalone, 2024).
-- **[AQUASOL](http://lorentz.dynstr.pasteur.fr/suny/index.php?id0=aquasol)** predict water binding sites
-- **[DRoP](http://dropinthemattoslab.org/)**: Automated detection of conserved solvent binding sites on proteins
-- **[WatGNN](https://github.com/shadow1229/WatGNN)**
-- **[WATsite2.0](http://people.pharmacy.purdue.edu/~mlill/software/watsite/version2.shtml)** (water Pymol plugin)

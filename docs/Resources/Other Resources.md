@@ -1,0 +1,14 @@
+- **awesome-molecular-docking**: 
+	- [Code](https://github.com/yangnianzu0515/awesome-molecular-docking) : Last updated in February 2023, 15 months ago
+- **awesome-python-chemistry**: 
+	- [Code](https://github.com/lmmentel/awesome-python-chemistry) : Last updated in May 2024, 0 months ago
+- **awesome-small-molecule-ml**: 
+	- [Code](https://github.com/benb111/awesome-small-molecule-ml) : Last updated in November 2023, 6 months ago
+- **comp_chem_colab**: 
+	- [Code](https://github.com/yboulaamane/comp_chem_colab) : Last updated in March 2023, 15 months ago
+- **deeplearning-biology**: 
+	- [Code](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) : Last updated in May 2023, 13 months ago
+- **MolSSI Molecular Software Database**: 
+	- [Link](https://molssi.org/software-search/)
+- **Pages created by Tobias Kind, PhD**: 
+	- [Link](https://fiehnlab.ucdavis.edu/staff/kind/metabolomics)

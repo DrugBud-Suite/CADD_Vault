@@ -1,0 +1,3 @@
+- **C-SPADE**: interactive and innovative visualization tool for drug screening data (web-app)
+	- [Publication](https://doi.org/10.1093/nar/gkx384) : Citations: 17.0
+	- [Link](https://cspade.fimm.fi/help)

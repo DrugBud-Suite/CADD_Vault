@@ -1,0 +1,4 @@
+- **Pyrite**: A blender plugin for visualizing molecular dynamics simulations using industry-standard rendering techniques
+	- [Code](https://github.com/durrantlab/pyrite/) : Last updated in May 2020, 49 months ago
+	- [Publication](https://doi.org/10.1002/jcc.25155) : Citations: 10.0
+	- [Link](http://durrantlab.com/pyrite/)

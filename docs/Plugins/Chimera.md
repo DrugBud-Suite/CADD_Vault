@@ -1,4 +1,4 @@
-# Chimera plugins
-
-**[Chimera Pharmacophore](https://github.com/josan82/chimera_p4)**
-**[Tangram](https://github.com/insilichem/tangram)**
+- **Chimera Pharmacophore**: 
+	- [Code](https://github.com/josan82/chimera_p4) : Last updated in June 2019, 60 months ago
+- **Tangram**: 
+	- [Code](https://github.com/insilichem/tangram) : Last updated in March 2019, 63 months ago

@@ -1,0 +1,6 @@
+- **ChemPlot**: python library for chemical space visualization
+	- [Code](https://github.com/mcsorkun/ChemPlot) : Last updated in September 2022, 20 months ago
+	- [Publication](https://doi.org/10.1002/cmtd.202200005) : Citations: 21.0
+- **CIME**: allows users to interactively explore a fixed subspace of chemical compounds
+	- [Code](https://github.com/jku-vds-lab/cime) : Last updated in April 2022, 26 months ago
+	- [Publication](https://doi.org/10.1186/s13321-022-00600-z) : Citations: 13.0

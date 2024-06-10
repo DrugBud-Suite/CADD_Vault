@@ -1,7 +1,0 @@
-- **[SWISS-MODEL](http://swissmodel.expasy.org/)**: an automated protein structure homology-modelling server, accessible via the ExPASy web server
-- **[Phyre2](http://www.sbg.bio.ic.ac.uk/phyre2/html/page.cgi?id=index)**: Phyre2 is a tool for predicting and analyzing protein structure, function, and mutations. The server provides an expert mode for registered users and integrates models directly from the AlphaFold Protein Structure Database for one-to-one threading.
-- **[HHpred](https://toolkit.tuebingen.mpg.de/#/tools/hhpred)**: homology and structure prediction (online)
-- **Python Libraries**
-	- **[HOMELETTE](https://github.com/PhilippJunk/homelette)**: a unified interface to homology modelling software (standalone)
-- **Datasets**
-	- **[HUMMOD](https://www3.cmbi.umcn.nl/hommod/)**: Homology modeling (a database of all available human homology models can also be found) (online and database)

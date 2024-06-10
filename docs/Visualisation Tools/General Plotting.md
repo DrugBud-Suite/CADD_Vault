@@ -1,0 +1,8 @@
+- **InteractiVenn**: a web-based tool for Venn diagrams (up to 6 datasets - online)
+	- [Publication](https://doi.org/10.1186/s12859-015-0611-3) : Citations: 1479.0
+	- [Link](http://www.interactivenn.net/)
+- **Raincloud plots**: a multi-platform tool for robust data visualization (standalone)
+	- [Code](https://github.com/RainCloudPlots/RainCloudPlots) : Last updated in March 2023, 14 months ago
+	- [Publication](https://doi.org/10.12688/wellcomeopenres.15191.2) : Citations: 228.0
+- **Venny**: 
+	- [Link](http://bioinfogp.cnb.csic.es/tools/venny/)

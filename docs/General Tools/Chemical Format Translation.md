@@ -1,0 +1,9 @@
+- **Meeko**: preparation of small molecules for AutoDock suite (.pdbqt format).
+	- [Code](https://github.com/forlilab/Meeko) : Last updated in May 2024, 0 months ago
+	- [Publication](https://doi.org/10.1017/qrd.2022.18) : Citations: 3.0
+- **OpenBabel**: toolkit for drug discovery, file format etc (standalone)
+	- [Publication](https://doi.org/10.1186/1758-2946-3-33) : Citations: 5849.0
+	- [Link](http://openbabel.org/wiki/Main_Page)
+- **pybel**: Python wrapper for the OpenBabel cheminformatics toolkit
+	- [Publication](https://doi.org10.1186/1752-153X-2-5) : Citations: 287.0
+	- [Link](https://openbabel.org/docs/UseTheLibrary/Python_Pybel.html)

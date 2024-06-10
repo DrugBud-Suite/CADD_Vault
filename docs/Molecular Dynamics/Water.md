@@ -1,0 +1,3 @@
+- **PyRod**: PyRod is a Python software for generating dynamic molecular interaction fields and pharmacophore features based on the protein environment of water molecules in molecular dynamics simulations.
+	- [Code](https://github.com/wolberlab/pyrod) : Last updated in January 2021, 41 months ago
+	- [Publication](https://doi.org/10.1021/acs.jcim.9b00281).) : Citations: 0.0

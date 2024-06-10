@@ -1,0 +1,3 @@
+- **tmAligner**: tmAligner is an online alignment tool for transmembrane proteins, allowing users to paste or upload sequences in FASTA format for alignment.
+	- [Publication](https://doi.org/10.1093/nar/gki524) : Citations: 2598.0
+	- [Link](http://skuastk.org/tmaligner/)

@@ -1,0 +1,34 @@
+- **Asad's Blog**: 
+	- [Link](https://chembioinfo.com/)
+- **ChEMBL blog**: 
+	- [Link](http://chembl.github.io/)
+- **chem-bla-ics**: 
+	- [Link](http://chem-bla-ics.blogspot.tw/)
+- **Cheminformania**: 
+	- [Link](https://www.cheminformania.com)
+- **Cheminformatics 2.0**: 
+	- [Link](https://cheminf20.org/)
+- **Depth-First**: 
+	- [Link](https://depth-first.com/)
+- **DrugDiscovery.NET**: 
+	- [Link](http://www.drugdiscovery.net/)
+- **Is life worth living?**: 
+	- [Link](https://iwatobipen.wordpress.com/)
+- **Macs in Chemistry**: 
+	- [Link](http://www.macinchem.org/)
+- **Noel O'Blog**: 
+	- [Link](http://baoilleach.blogspot.tw/)
+- **Open Source Molecular Modeling**: 
+	- [Link](https://opensourcemolecularmodeling.github.io/README.html)
+- **Practical Cheminformatics**: 
+	- [Link](http://practicalcheminformatics.blogspot.com/)
+- **PubChem Blog**: 
+	- [Link](https://pubchemblog.ncbi.nlm.nih.gov/)
+- **So much to do, so little time - Trying to squeeze sense out of chemical data**: 
+	- [Link](http://blog.rguha.net/)
+- **steeveslab-blog**: 
+	- [Link](http://asteeves.github.io/)
+- **SteinBlog**: 
+	- [Link](http://www.steinbeck-molecular.de/steinblog/)
+- **The ChEMBL-og blog**: 
+	- [Link](http://chembl.blogspot.tw/)

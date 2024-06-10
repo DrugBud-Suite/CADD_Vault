@@ -1,9 +1,0 @@
-- **[active-learning-drug-discovery](https://github.com/gitter-lab/active-learning-drug-discovery)**: virtual screening (standalone)
-- **[HASTEN](https://github.com/TuomoKalliokoski/HASTEN)** : HASTEN (Machine Learning Boosted Docking) facilitates machine learning-enhanced virtual screening workflows, compatible with chemprop for machine learning methods and Glide for docking, supporting easy integration of user-specified methods and docking programs.
-- **[molpal](https://github.com/coleygroup/molpal)**: Molecular Pool-based Active Learning
-- **[AL-VS](github.com/molecularinformatics/PretrainedAL-VS)**: Large-Scale Pretraining Improves Sample Efficiency of Active Learning-Based Virtual Screening
-- **[DeepDocking](https://github.com/jamesgleave/Deep-Docking-NonAutomated)** : Deep Docking (DD) is a deep learning tool developed to accelerate docking-based virtual screening, capable of screening large chemical libraries like ZINC15 over 50 times faster than conventional docking methods.
-- **[RAD](https://github.com/keiserlab/rad)**: Retrieval Augmented Docking (standalone, 2024).
-- **[ChemSpaceAL](https://github.com/gregory-kyro/ChemSpaceAL)**: an Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation (generative chemistry) (standalone, 2024).
-- **[PyRMD2Dock](https://github.com/cosconatilab/PyRMD)**: Streamlining Large Chemical Library Docking with Artificial Intelligence: the PyRMD2Dock (and PyRMD) (ultralarge screening - 2023) (standalone).
-- **[Conformalpredictor](https://github.com/Carlssonlab/conformalpredictor)**: Rapid Traversal of Ultralarge Chemical Space using Machine Learning Guided Docking Screens (standalone).

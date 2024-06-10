@@ -1,21 +1,38 @@
-# Fragment-based Drug Design
-
-## Tools
-
-- **[MolOptimizer](https://github.com/csbarak/MolOpt_Students_2023)**: MolOptimizer is a Flask-based package useful for the optimization of fragment screening datasets, developed to assist researchers in the field of small fragment-based inhibitors by enabling the alignment of large ligand datasets, extracting chemical descriptors, and training machine learning models to predict binding scores.
-- **[DeepFrag](http://durrantlab.com/deepfragmodel)**:
-- **[CombiChem](https://github.com/karanicolaslab/combichem)**: CombiChem is a virtual screening approach that uses fragment screening techniques to identify and concatenate the best fragments into lead-like compounds, aiming to reduce computational resources while performing a comprehensive screen.
-- **[Fragmentstein](https://github.com/matteoferla/Fragmenstein)**: Fragmenstein performs merging, linking, and placing compounds by stitching bound compounds together like a reanimated corpse, operating as a 'placement' tool rather than traditional docking, and further energy minimizes the compounds within the protein environment.
-- **[Fragment-hit-followup](https://github.com/matteoferla/Fragment-hit-follow-up-chemistry)**: This repository contains a collection of notebooks and scripts for elaborating fragment hits identified crystallographically in the hit discovery stage of drug discovery, focusing on small fragments and including specific scripts for Diamond Light Source XChem targets.
-- **[CREM](https://github.com/DrrDom/crem)**: generate chemical structures using a fragment-based approach
-  - **[Software tools for fragment-based drug discovery (FBDD)](https://github.com/PatWalters/fragment_expansion/blob/master/fragment_expansion.ipynb)**
-- **[FBDD_suite](https://github.com/KeenThera/FBDD_suite)**: A collection of computational tools for fragment based drug design, including fragment selection, fragment docking, fragment growing, linking, merging etc.
-- **[LigBuilder](http://www.pkumdl.cn:8080/ligbuilder3/)**
-- **[AutoT&T](http://sioc-ccbg.ac.cn/software/att2/)**
-- **[OpenGrowth](https://sourceforge.net/projects/opengrowth/)**
-- **[AutoCouple](https://github.com/Caflisch-Group/AutoCouple_Python-based)**
+- **AutoCouple**: 
+	- [Code](https://github.com/Caflisch-Group/AutoCouple_Python-based) : Last updated in November 2017, 80 months ago
+- **AutoT&T**: 
+	- [Publication](https://doi.org/10.1021/acs.jcim.5b00691) : Citations: 23.0
+	- [Link](http://sioc-ccbg.ac.cn/software/att2/)
+- **CombiChem**: CombiChem is a virtual screening approach that uses fragment screening techniques to identify and concatenate the best fragments into lead-like compounds, aiming to reduce computational resources while performing a comprehensive screen.
+	- [Code](https://github.com/karanicolaslab/combichem) : Last updated in August 2021, 34 months ago
+	- [Publication](https://doi.org/10.1101/2021.06.01.446684) : Citations: 1.0
+- **CREM**: generate chemical structures using a fragment-based approach
+	- [Code](https://github.com/DrrDom/crem) : Last updated in April 2024, 1 months ago
+	- [Publication](https://doi.org/10.1186/s13321-020-00431-w) : Citations: 43.0
+- **DeepFrag**: 
+	- [Code](https://github.com/durrantlab/deepfrag/) : Last updated in December 2023, 5 months ago
+	- [Publication](https://doi.org/10.1021/acs.jcim.1c00103) : Citations: 22.0
+	- [Link](http://durrantlab.com/deepfragmodel)
+- **FBDD_suite**: A collection of computational tools for fragment based drug design, including fragment selection, fragment docking, fragment growing, linking, merging etc.
+	- [Code](https://github.com/KeenThera/FBDD_suite) : Last updated in March 2024, 2 months ago
+- **Fragment-hit-followup**: This repository contains a collection of notebooks and scripts for elaborating fragment hits identified crystallographically in the hit discovery stage of drug discovery, focusing on small fragments and including specific scripts for Diamond Light Source XChem targets.
+	- [Code](https://github.com/matteoferla/Fragment-hit-follow-up-chemistry) : Last updated in May 2024, 0 months ago
+- **Fragmentstein**: Fragmenstein performs merging, linking, and placing compounds by stitching bound compounds together like a reanimated corpse, operating as a 'placement' tool rather than traditional docking, and further energy minimizes the compounds within the protein environment.
+	- [Code](https://github.com/matteoferla/Fragmenstein) : Last updated in May 2024, 0 months ago
+- **LigBuilder**: 
+	- [Link](http://www.pkumdl.cn:8080/ligbuilder3/)
+- **MolOptimizer**: MolOptimizer is a Flask-based package useful for the optimization of fragment screening datasets, developed to assist researchers in the field of small fragment-based inhibitors by enabling the alignment of large ligand datasets, extracting chemical descriptors, and training machine learning models to predict binding scores.
+	- [Code](https://github.com/csbarak/MolOpt_Students_2023) : Last updated in July 2023, 10 months ago
+- **OpenGrowth**: 
+	- [Publication](http://dx.doi.org/10.1021/acs.jmedchem.5b00886) : Citations: 52.0
+	- [Link](https://sourceforge.net/projects/opengrowth/)
+- **Software tools for fragment-based drug discovery (FBDD)**: 
+	- [Code](https://github.com/PatWalters/fragment_expansion/blob/master/fragment_expansion.ipynb) : Last updated in April 2020, 50 months ago
 
 ## Linker Design
-
-- **[DiffLinker](https://github.com/igashov/DiffLinker)**: An Equivariant 3D-conditional Diffusion Model for Molecular Linker Design that places missing atoms between disconnected fragments in 3D, designing molecules that incorporate all initial fragments with potential applications in linker generation for drug discovery.
-- **[DeLinker](https://github.com/oxpig/DeLinker)**: Deep Generative Models for 3D Linker Design
+- **DeLinker**: Deep Generative Models for 3D Linker Design
+	- [Code](https://github.com/oxpig/DeLinker) : Last updated in June 2020, 48 months ago
+	- [Publication](https://doi.org/10.1021/acs.jcim.9b01120) : Citations: 131.0
+- **DiffLinker**: An Equivariant 3D-conditional Diffusion Model for Molecular Linker Design that places missing atoms between disconnected fragments in 3D, designing molecules that incorporate all initial fragments with potential applications in linker generation for drug discovery.
+	- [Code](https://github.com/igashov/DiffLinker) : Last updated in April 2024, 1 months ago
+	- [Publication](https://doi.org/10.5281/zenodo.10515726) : Citations: 0.0

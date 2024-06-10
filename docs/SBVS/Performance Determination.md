@@ -1,4 +1,0 @@
-- AUC
-- BEDROC
-- Enrichment Factor
-- **[Bayesian Enrichment Factor](https://arxiv.org/html/2403.10478v1)**

@@ -1,9 +1,0 @@
-- **ML / DL**
-	- **[DeepTracer-refine](https://www.semanticscholar.org/paper/Protein-Structure-Refinement-via-DeepTracer-and-Chen-Zia/8eb8e41af63e2b406a253347d1dfcd2185ffba16)**
-	- **[DeepRefiner](http://watson.cse.eng.auburn.edu/DeepRefiner/)**: high-accuracy protein structure refinement by deep network calibration (online)
-	- **[AIR](http://www.csbio.sjtu.edu.cn/bioinf/AIR/)**: Artificial Intelligence-Based Multi-Objective Optimization Protocol for Protein Structure Refinement (standalone)
-- **MD**
-	- **[PREFMD](http://feiglab.org/prefmd)**: protein structure refinement via molecular dynamics simulations (Online and Standalone scripts also available)
-	- **[FG-MD](http://zhanglab.ccmb.med.umich.edu/FG-MD/)**: molecular dynamics (MD) based algorithm for atomic-level protein structure refinement (online)
-- **[FASPR](https://zhanglab.ccmb.med.umich.edu/FASPR)**: An Open-Source Tool for Fast and Accurate Protein Side-Chain Packing (standalone on github and online)
-- **[ModRefiner](http://zhanglab.ccmb.med.umich.edu/ModRefiner/)**: atomic-level, high-resolution protein structure refinement (online)

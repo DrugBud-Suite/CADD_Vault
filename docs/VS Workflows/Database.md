@@ -1,0 +1,3 @@
+- **RingTail**: RingTail is a package for storage and analysis of virtual screenings run with AutoDock-GPU and AutoDock Vina, facilitating the creation of SQLite databases from virtual screening results, performing filtering, and exporting results.
+	- [Code](https://github.com/forlilab/Ringtail#getting-started) : Last updated in May 2024, 0 months ago
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c00166) : Citations: 0.0

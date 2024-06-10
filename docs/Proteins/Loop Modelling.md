@@ -1,1 +1,0 @@
-- **[MoMA-LoopSampler](https://moma.laas.fr/applications/LoopSampler/)**: A web server to exhaustively sample protein loop conformations (online)

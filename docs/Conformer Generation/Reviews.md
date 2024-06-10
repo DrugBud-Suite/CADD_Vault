@@ -1,0 +1,6 @@
+- **McNutt et al.**: 
+	- [Publication](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01245) : Citations: 4.0
+	- [Link](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01245)
+- **Wang et al.**: 
+	- [Publication](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01519) : Citations: 2.0
+	- [Link](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01519)

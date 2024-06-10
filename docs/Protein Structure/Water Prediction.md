@@ -1,0 +1,9 @@
+- **HydraProt**: Deep Learning Tool for Fast and Accurate Prediction of Water Molecule Positions for Protein Structures (standalone, 2024).
+	- [Code](https://github.com/azamanos/HydraProt) : Last updated in May 2024, 1 months ago
+	- [Publication](https://doi.org/10.5281/zenodo.10517963) : Citations: 0.0
+- **WatGNN**: 
+	- [Code](https://github.com/shadow1229/WatGNN) : Last updated in April 2024, 1 months ago
+	- [Publication](https://doi.org/10.1101/2024.03.25.586555v1) : Citations: 0.0
+- **WATsite2.0**: 
+	- [Publication](https://doi.org/10.1007/978-1-4939-7015-5_10) : Citations: 14.0
+	- [Webserver](http://people.pharmacy.purdue.edu/~mlill/software/watsite/version2.shtml)
