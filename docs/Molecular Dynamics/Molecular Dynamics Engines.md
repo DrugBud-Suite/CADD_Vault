@@ -50,28 +50,20 @@
 - **YAMACS**: graphical user interface for the GROMACS program (standalone)
 	- [Code](https://github.com/YAMACS-SML/YAMACS) : Last updated in January 2024, 5 months ago
 
-## ML-enabled
+## **ML-enabled**
 - **DeepDriveMD**: Deep-Learning Driven Adaptive Molecular Simulations (standalone)
 	- [Code](https://github.com/DeepDriveMD/DeepDriveMD-pipeline) : Last updated in May 2022, 25 months ago
 	- [Link](https://deepdrivemd.github.io/)
-
-## ML-enabled
 - **Medbi et al.**: 
 	- [Publication](https://doi.org/10.1146/annurev-physchem-083122-125941) : Citations: 7.0
 	- [Link](https://www.annualreviews.org/doi/pdf/10.1146/annurev-physchem-083122-125941)
-
-## ML-enabled
 - **MLCGMD**: Simulate Time-integrated Coarse-grained Molecular Dynamics with Multi-scale Graph Networks
 	- [Code](https://github.com/kyonofx/mlcgmd) : Last updated in August 2023, 9 months ago
 	- [Publication](https://doi.org/10.1126/sciadv.abc6216) : Citations: 83.0
-
-## ML-enabled
 - **NeuralMD**: 
 	- [Code](https://github.com/chao1224/NeuralMD) : Last updated in April 2024, 1 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2401.15122) : Citations: 0.0
 	- [Link](https://www.semanticscholar.org/paper/A-Multi-Grained-Symmetric-Differential-Equation-for-Liu-Du/0215dd9f346534bf4c4247220501d7ab7d7715c6)
-
-## ML-enabled
 - **torchmd**: 
 	- [Code](https://github.com/torchmd/torchmd) : Last updated in February 2024, 3 months ago
 	- [Publication](https://doi.org/10.1021/acs.jctc.0c01343) : Citations: 116.0

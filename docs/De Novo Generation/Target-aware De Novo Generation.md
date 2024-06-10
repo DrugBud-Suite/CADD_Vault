@@ -115,16 +115,16 @@
 	- [Code](https://github.com/guanjq/targetdiff) : Last updated in July 2023, 11 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2303.03543) : Citations: 0.0
 
-## Dual-target
+## **Dual-target**
 - **Alx-Fuse**: 
 	- [Code](https://github.com/biomed-AI/AIxFuse) : Last updated in December 2023, 5 months ago
 	- [Publication](https://doi.org/10.1101/2023.12.10.571029) : Citations: 0.0
 
-## Interaction fingerprint constrained
+## **Interaction fingerprint constrained**
 - **IFP-RNN**: A molecule generative model used interaction fingerprint (docking pose) as constraints.
 	- [Code](https://github.com/jeah-z/IFP-RNN) : Last updated in February 2022, 28 months ago
 
-## PROTACs
+## **PROTACs**
 - **PROTACable**: Integrative Computational Pipeline of 3-D Modeling and Deep Learning To Automate the De Novo Design of PROTACs (standalone, published 2024).
 	- [Code](https://github.com/giaguaro/PROTACable/) : Last updated in June 2024, 0 months ago
 	- [Publication](https://doi.org/10.1186/s13321-021-00522-2).) : Citations: 0.0

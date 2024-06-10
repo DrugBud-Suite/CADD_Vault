@@ -1,3 +1,4 @@
+
 ## **2D**
 - **Chem-Faiss**: Chem-Faiss utilizes vector similarity search from Faiss combined with chemical fingerprinting to build a scalable similarity search architecture for compounds/molecules.
 	- [Code](https://github.com/ritabratamaiti/Chem-Faiss) : Last updated in March 2021, 39 months ago
@@ -27,45 +28,37 @@
 	- [Code](https://github.com/grisoniFr/scaffold_hopping_whales/blob/master/code/virtual_screening_pipeline.ipynb) : Last updated in January 2021, 41 months ago
 	- [Publication](https://doi.org/10.1038%2Fs41598-018-34677-0) : Citations: 23.0
 
-## 3D
+## **3D**
 - **AutoDock-SS**: AutoDock-SS enhances AutoDock for multiconformational and flexible ligand docking, considering various ligand conformations for accurate docking predictions.
 	- [Publication](https://doi.org/10.1021/acs.jcim.4c00136) : Citations: 0.0
 	- [Link](https://www.semanticscholar.org/paper/AutoDock-SS%3A-AutoDock-for-Multiconformational-Ni-Wang/6a967759d3ab27e076e570238a7f8ce029bfc0e7)
-
-## 3D
 - **SCRdkit**: assesses the 3D similarity between generated molecules and a reference molecule
 	- [Code](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py) : Last updated in January 2022, 29 months ago
 	- [Publication](https://doi.org/10.1101/2021.04.27.441676v1.full) : Citations: 0.0
-
-## 3D
 - **SENSAAS**: SENSAAS is a shape-based alignment software for superimposing molecules, utilizing a colored point-based surface representation for molecular comparison.
 	- [Code](https://github.com/SENSAAS/sensaas) : Last updated in March 2024, 3 months ago
 	- [Publication](https://doi.org/10.1002/minf.202000081) : Citations: 2.0
-
-## 3D
 - **ShaEP**: ShaEP aligns two 3D molecular structures and computes a similarity index, useful for virtual screening and 3D QSAR methods.
 	- [Publication](https://doi.org/10.1021/ci800315d) : Citations: 163.0
 	- [Link](https://users.abo.fi/mivainio/shaep/)
 
-## Hybrid
+## **Hybrid**
 - **LiSiCa**: (Already described above under 2D) Offers both 2D and 3D ligand similarity screening options based on graph-theoretical methods.
 	- [Publication](https://doi.org/10.1021/acs.jcim.5b00136) : Citations: 71.0
 	- [Link](http://insilab.org/lisica/)
 
-## Precomputed Libraries
+## **Precomputed Libraries**
 - **USearch**: USearch facilitates structural similarity searches across billions of molecules in milliseconds, focusing on chemoinformatics applications.
 	- [Code](https://github.com/ashvardanian/usearch-molecules) : Last updated in March 2024, 2 months ago
 
-## Sequence-based potency prediction
+## **Sequence-based potency prediction**
 - **BIND**: 
 	- [Code](https://github.com/Chokyotager/BIND) : Last updated in June 2024, 0 months ago
 	- [Publication](https://doi.org/10.1101/2024.04.16.589765) : Citations: 0.0
 
-## Similarity calculations
+## **Similarity calculations**
 - **iSIM**: 
 	- [Code](https://github.com/mqcomplab/iSIM/blob/main/iSIM_example.ipynb) : Last updated in May 2024, 1 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.2c01073) : Citations: 51.0
-
-## Similarity calculations
 - **Surflex-Tools**: starting with version 4 (standalone).
 	- [Link](http://www.biopharmics.com/)

@@ -1,3 +1,4 @@
+
 ## **Model Building And Training**
 - **ChemSAR**: full workflow of building a Structure‑Activity/Property Relationship(SAR/SPR) model (online)
 	- [Link](http://chemsar.scbdd.com/)
@@ -19,24 +20,24 @@
 	- [Code](https://github.com/rougeth/Web-4D-QSAR) : Last updated in June 2020, 48 months ago
 - **QSAR_toolbox**: scripts for QSAR model building and fingerprint generation
 	- [Code](https://github.com/iwatobipen/QSAR_TOOLBOX) : Last updated in June 2019, 60 months ago
-### 3D
+### **3D**
 - **3D-MIL-QSAR**: 
 	- [Code](https://github.com/cimm-kzn/3D-MIL-QSAR) : Last updated in June 2022, 24 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.1c00692) : Citations: 16.0
-### Hyperparameter Optimization
+### **Hyperparameter Optimization**
 - **QPTuna**: QPTUNA is designed for building predictive QSAR models using hyperparameters optimized by Optuna, with features like Uncertainty Quantification and model explainability.
 	- [Code](https://github.com/MolecularAI/Qptuna) : Last updated in April 2024, 1 months ago
-### RF
+### **RF**
 - **QSAR Bioactivity Predictor**: 
 	- [Code](https://github.com/AtilMohAmine/QSAR-Bioactivity-Predictor) : Last updated in December 2023, 6 months ago
 	- [Publication](https://doi.org/10.1007/s42485-023-00124-6) : Citations: 0.0
 
-## QSAR data completion
+## **QSAR data completion**
 - **QComp**: Based on pre-existing QSAR models, QComp utilizes the correlation inherent in experimental data to enhance prediction accuracy across various tasks.
 	- [Code](https://github.com/iceplussss/QSAR-Complete) : Last updated in May 2024, 0 months ago
 	- [Publication](https://arxiv.org/pdf/2405.11703) : Citations: N/A
 
-## Representation Optimization
+## **Representation Optimization**
 - **EvoMPF**: EvoMPF is a framework for evolutionary molecular pattern finding using SMARTS.
 	- [Code](https://zivgitlab.uni-muenster.de/ag-glorius/published-paper/evompf) : Last updated in nan, nan
 	- [Publication](https://doi.org/10.1016/j.chempr.2024.02.004) : Citations: 1.0

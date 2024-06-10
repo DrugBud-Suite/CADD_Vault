@@ -159,7 +159,7 @@
 	- [Publication](https://doi.org/10.1371/journal.pone.0024657) : Citations: 489.0
 	- [Webserver](http://zdock.umassmed.edu/)
 
-## Quality Assessment
+## **Quality Assessment**
 - **DockQ**: A Quality Measure for Protein-Protein Docking Models (standalone)
 	- [Code](http://github.com/bjornwallner/DockQ/) : Last updated in nan, nan
 	- [Publication](https://doi.org/10.1371/journal.pone.0161879) : Citations: 221.0

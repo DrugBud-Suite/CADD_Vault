@@ -14,6 +14,6 @@
 - **rdkit-tutorials**: Offers RDKit basics through Jupyter notebooks, aiding users in starting with RDKit, including installation, configuration, and initial steps.
 	- [Code](https://github.com/suneelbvs/rdkit_tutorials) : Last updated in March 2023, 15 months ago
 
-## Nomenclature
+## **Nomenclature**
 - **CIRpy**: CIRpy is a Python wrapper for the NCI Chemical Identifier Resolver (CIR), simplifying the process of converting between various chemical identifiers using Python, such as converting chemical names to SMILES strings.
 	- [Code](https://github.com/mcs07/CIRpy) : Last updated in January 2016, 102 months ago

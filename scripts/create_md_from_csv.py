@@ -26,26 +26,29 @@ df = pd.read_csv('../processed_cadd_vault_data.csv')
 
 
 def update_md_file(file_path, content, subcategory, subsubcategory):
-    # Function to update markdown file with proper headers and content
-    if not os.path.exists(file_path):
-        with open(file_path, 'w', encoding='utf-8') as file:
-            if pd.notna(subcategory):
-                file.write(f"## **{subcategory}**\n")
-            if pd.notna(subsubcategory):
-                file.write(f"### **{subsubcategory}**\n")
-            file.write(content)
-    else:
-        with open(file_path, 'a+', encoding='utf-8') as file:
-            file.seek(0)
+    # Initialize headers as not written
+    header_written = {'subcategory': False, 'subsubcategory': False}
+
+    # Check if file exists and set headers as written if it does
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as file:
             existing_content = file.read()
-            if pd.notna(subcategory
-                        ) and f"## **{subcategory}**" not in existing_content:
-                file.write(f"\n## {subcategory}\n")
-            if pd.notna(
-                    subsubcategory
-            ) and f"### **{subsubcategory}**" not in existing_content:
-                file.write(f"### {subsubcategory}\n")
-            file.write(content)
+            if f"## **{subcategory}**" in existing_content:
+                header_written['subcategory'] = True
+            if f"### **{subsubcategory}**" in existing_content:
+                header_written['subsubcategory'] = True
+
+    # Write to file, appending if exists, otherwise create new
+    with open(file_path,
+              'a+' if os.path.exists(file_path) else 'w',
+              encoding='utf-8') as file:
+        if not header_written['subcategory'] and pd.notna(subcategory):
+            file.write(f"\n## **{subcategory}**\n")
+            header_written['subcategory'] = True
+        if not header_written['subsubcategory'] and pd.notna(subsubcategory):
+            file.write(f"### **{subsubcategory}**\n")
+            header_written['subsubcategory'] = True
+        file.write(content)
 
 
 # First, clean up the docs directory except for the specified files

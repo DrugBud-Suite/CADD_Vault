@@ -29,12 +29,10 @@
 - **Software tools for fragment-based drug discovery (FBDD)**: 
 	- [Code](https://github.com/PatWalters/fragment_expansion/blob/master/fragment_expansion.ipynb) : Last updated in April 2020, 50 months ago
 
-## Linker Design
+## **Linker Design**
 - **DeLinker**: Deep Generative Models for 3D Linker Design
 	- [Code](https://github.com/oxpig/DeLinker) : Last updated in June 2020, 48 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.9b01120) : Citations: 131.0
-
-## Linker Design
 - **DiffLinker**: An Equivariant 3D-conditional Diffusion Model for Molecular Linker Design that places missing atoms between disconnected fragments in 3D, designing molecules that incorporate all initial fragments with potential applications in linker generation for drug discovery.
 	- [Code](https://github.com/igashov/DiffLinker) : Last updated in April 2024, 1 months ago
 	- [Publication](https://doi.org/10.5281/zenodo.10515726) : Citations: 0.0
