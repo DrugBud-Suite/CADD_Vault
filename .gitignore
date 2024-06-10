@@ -1,3 +1,5 @@
 images/Logo V1.afpub
 docs/images/Logo V1.afpub
 CADD_Vault.code-workspace
+scripts/fix_excel_file.ipynb
+scripts/parse_excel_file.py
