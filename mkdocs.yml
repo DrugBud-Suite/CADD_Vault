@@ -4,28 +4,35 @@ theme:
   palette:
     primary: "grey"
     accent: "blue"
-    toggle:
-      icon: material/brightness-auto
-      name: Switch to light mode
 
-  # Configuration specific for preferring color schemes
+  # Define toggles and media queries correctly under 'features' or directly within 'theme' if applicable
   features:
     - palette.toggle.auto
     - palette.toggle.light
     - palette.toggle.dark
 
-  # Palette toggle for automatic mode
-  media:
-    - "(prefers-color-scheme: no-preference)"
-      scheme: default 
+  palette:
+    scheme: default  # Default color scheme
 
-    # Palette toggle for light mode
-    - "(prefers-color-scheme: light)"
-      scheme: default 
+    # Media queries for color scheme preferences
+    media:
+      - media: "(prefers-color-scheme: no-preference)"
+        scheme: default
+        toggle:
+          icon: material/brightness-auto
+          name: "Switch to light mode"
 
-    # Palette toggle for dark mode
-    - "(prefers-color-scheme: dark)"
-      scheme: slate
+      - media: "(prefers-color-scheme: light)"
+        scheme: default
+        toggle:
+          icon: material/brightness-7
+          name: "Switch to dark mode"
+
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        toggle:
+          icon: material/brightness-4
+          name: "Switch to system preference"
 
   logo: images/LogoV1.png
   favicon: images/LogoV1.png
