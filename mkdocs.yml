@@ -2,6 +2,8 @@ site_name: CADD Vault
 theme:
   name: material
   language: en
+  font:
+    text: "Ubuntu, sans-serif"
   palette:
       - media: "(prefers-color-scheme)"
         scheme: default

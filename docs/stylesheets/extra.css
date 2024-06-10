@@ -1,10 +1,5 @@
-@font-face {
-	font-family: "Ubuntu";
-	src: url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
-}
-
 @media (min-width: 60rem) {
 	.md-container {
-		max-width: 90%;
+		max-width: 95%;
 	}
 }
