@@ -1,26 +1,26 @@
 - **AL-VS**: Large-Scale Pretraining Improves Sample Efficiency of Active Learning-Based Virtual Screening
 	- [Code](github.com/molecularinformatics/PretrainedAL-VS) : Last updated in nan, nan
-	- [Publication](https://doi.org/10.1021/acs.jcim.3c01938) : Citations: 0.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c01938) : Citations: 0
 - **ChemProp**: 
 	- [Code](https://github.com/aamini/chemprop) : Last updated in July 2021, 34 months ago
-	- [Publication](https://doi.org/10.1021/acscentsci.1c00546) : Citations: 80.0
+	- [Publication](https://doi.org/10.1021/acscentsci.1c00546) : Citations: 80
 - **Conformalpredictor**: Rapid Traversal of Ultralarge Chemical Space using Machine Learning Guided Docking Screens (standalone).
 	- [Code](https://github.com/Carlssonlab/conformalpredictor) : Last updated in June 2023, 11 months ago
-	- [Publication](https://doi.org/10.26434/chemrxiv-2023-w3x36) : Citations: 1.0
+	- [Publication](https://doi.org/10.26434/chemrxiv-2023-w3x36) : Citations: 1
 - **DeepDocking**: 
 	- [Code](https://github.com/jamesgleave/Deep-Docking-NonAutomated) : Last updated in November 2022, 18 months ago
-	- [Publication](https://doi.org/10.1021/acscentsci.0c00229).) : Citations: 0.0
+	- [Publication](https://doi.org/10.1021/acscentsci.0c00229).) : Citations: 0
 - **DeepDockingGUI**: Deep docking (DD) is a deep learning-based tool developed to accelerate docking-based virtual screening (standalone).
 	- [Code](https://github.com/jamesgleave/DeepDockingGUI) : Last updated in October 2022, 19 months ago
-	- [Publication](https://doi.org/10.1021/acscentsci.0c00229).) : Citations: 0.0
+	- [Publication](https://doi.org/10.1021/acscentsci.0c00229).) : Citations: 0
 - **HASTEN**: 
 	- [Code](https://github.com/TuomoKalliokoski/HASTEN) : Last updated in April 2023, 13 months ago
-	- [Publication](https://doi.org/10.1002/minf.202100089) : Citations: 9.0
+	- [Publication](https://doi.org/10.1002/minf.202100089) : Citations: 9
 - **molpal**: Molecular Pool-based Active Learning
 	- [Code](https://github.com/coleygroup/molpal) : Last updated in April 2023, 13 months ago
-	- [Publication](https://doi.org/10.1039/D0SC06805E) : Citations: 126.0
+	- [Publication](https://doi.org/10.1039/D0SC06805E) : Citations: 126
 - **PyRMD2Dock**: Streamlining Large Chemical Library Docking with Artificial Intelligence: the PyRMD2Dock (and PyRMD) (ultralarge screening - 2023) (standalone).
 	- [Code](https://github.com/cosconatilab/PyRMD) : Last updated in June 2023, 11 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.1c00653) : Citations: 23.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.1c00653) : Citations: 23
 - **RAD**: Retrieval Augmented Docking (standalone, 2024).
 	- [Code](https://github.com/keiserlab/rad) : Last updated in April 2024, 1 months ago

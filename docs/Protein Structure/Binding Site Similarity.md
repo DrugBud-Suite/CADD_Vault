@@ -1,9 +1,9 @@
 - **IsoMIF**: 
 	- [Code](https://github.com/NRGlab/IsoMif) : Last updated in March 2015, 112 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.5b00333) : Citations: 40.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.5b00333) : Citations: 40
 - **PDBspheres**: a method for finding 3D similarities in local regions in proteins (pocket similarity) (standalone)
 	- [Code](https://github.com/LLNL/PDBspheres) : Last updated in August 2022, 22 months ago
-	- [Publication](https://doi.org/10.1101/2022.01.04.474934) : Citations: 4.0
+	- [Publication](https://doi.org/10.1101/2022.01.04.474934) : Citations: 4
 - **SiteMine**: Large-scale binding site similarity searching in protein structure databases (online), 2024.
-	- [Publication](https://doi.org/10.1002/ardp.202300661) : Citations: 2.0
+	- [Publication](https://doi.org/10.1002/ardp.202300661) : Citations: 2
 	- [Link](https://uhh.de/naomi)

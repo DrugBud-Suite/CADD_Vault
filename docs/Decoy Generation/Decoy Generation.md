@@ -2,6 +2,6 @@
 	- [Publication](http://disco.csb.pitt.edu/Targets_top1.php?ligands) : Citations: N/A
 - **MUDB-DecoyMaker2.0**: A Python GUI application to generate maximal unbiased benchmarking sets data sets for virtual drug screening.
 	- [Code](https://github.com/jwxia2014/MUBD-DecoyMaker2.0) : Last updated in October 2023, 7 months ago
-	- [Publication](https://doi.org/10.1002/minf.201900151) : Citations: 10.0
+	- [Publication](https://doi.org/10.1002/minf.201900151) : Citations: 10
 - **TocoDecoy**: A new approach to design unbiased datasets for training and benchmarking machine-learning scoring functions.
 	- [Code](https://github.com/5AGE-zhang/TocoDecoy) : Last updated in April 2022, 26 months ago

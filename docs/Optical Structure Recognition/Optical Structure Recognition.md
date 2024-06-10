@@ -6,14 +6,14 @@
 	- [Link](https://decimer.ai/)
 - **DECIMER Image Transformer V2**: Deep Learning for Chemical Image Recognition (image to smiles) (standalone)
 	- [Code](https://github.com/Kohulan/DECIMER-Image_Transformer) : Last updated in May 2024, 1 months ago
-	- [Publication](https://doi.org/10.5281/zenodo.7624994.svg) : Citations: 0.0
+	- [Publication](https://doi.org/10.5281/zenodo.7624994.svg) : Citations: 0
 - **DECIMER—hand-drawn molecule**: images dataset (dataset)
 	- [Link](https://zenodo.org/record/6456306#.YyRjsR19hl0)
 - **Img2Mol**: accurate SMILES recognition from molecular graphical depictions (image to smiles) (standalone)
 	- [Code](https://github.com/bayer-science-for-a-better-life/Img2Mol) : Last updated in March 2023, 14 months ago
-	- [Publication](https://doi.org/10.1039/D1SC01839F) : Citations: 36.0
+	- [Publication](https://doi.org/10.1039/D1SC01839F) : Citations: 36
 - **SwinOCSR**: end-to-end optical chemical structure recognition using a Swin Transformer (standalone)
 	- [Code](https://github.com/amine179/DrugDesign) : Last updated in September 2022, 20 months ago
-	- [Publication](https://doi.org/10.1186/s13321-022-00643-2) : Citations: 2.0
+	- [Publication](https://doi.org/10.1186/s13321-022-00643-2) : Citations: 2
 - **YoDe-Segmentation**: automated noise-free retrieval of molecular structures from scientific publications (standalone)
 	- [Code](https://github.com/OneChorm/YoDe-Segmentation) : Last updated in November 2023, 6 months ago

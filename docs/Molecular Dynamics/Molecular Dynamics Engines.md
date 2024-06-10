@@ -1,47 +1,47 @@
 - **AMBER**: suite of biomolecular simulation programs (standalone)
-	- [Publication](https://doi.org/10.1021/acs.jcim.3c01153) : Citations: 121.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c01153) : Citations: 121
 	- [Link](http://ambermd.org/)
 - **CHARMM**: Chemistry at HARvard Macromolecular Mechanics (standalone)
-	- [Publication](https://doi.org/10.1002/jcc.21287) : Citations: 6813.0
+	- [Publication](https://doi.org/10.1002/jcc.21287) : Citations: 6813
 	- [Link](https://academiccharmm.org/)
 - **CHARMM-GUI**: 
 	- [Webserver](http://www.charmm-gui.org/?doc=input)
 - **GaMD**: Gaussian Accelerated Molecular Dynamics (GaMD) is a biomolecular enhanced sampling method that works by adding a harmonic boost potential to smoothen the system potential energy surface.
 	- [Code](https://github.com/MiaoLab20/gamd-openmm) : Last updated in May 2023, 13 months ago
-	- [Publication](https://doi.org/10.1021/acs.jpcb.2c03765) : Citations: 9.0
+	- [Publication](https://doi.org/10.1021/acs.jpcb.2c03765) : Citations: 9
 - **Gromacs**: GROMACS is a versatile package for performing molecular dynamics simulations, primarily designed for simulations of proteins, lipids, and nucleic acids.
 	- [Link](http://www.gromacs.org/)
 - **HTMD**: 
 	- [Code](https://github.com/Acellera/htmd) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1021/acs.jctc.6b00049) : Citations: 324.0
+	- [Publication](https://doi.org/10.1021/acs.jctc.6b00049) : Citations: 324
 - **HTMD**: a molecular-specific programmable environment to prepare, handle, simulate, visualize and analyze molecular systems (standalone)
-	- [Publication](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00049) : Citations: 324.0
+	- [Publication](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00049) : Citations: 324
 	- [Link](https://www.htmd.org/)
 - **LAMMPS**: Molecular Dynamics Simulator and much more
-	- [Publication](https://doi.org/10.1016/j.cpc.2021.108171) : Citations: 3700.0
+	- [Publication](https://doi.org/10.1016/j.cpc.2021.108171) : Citations: 3700
 	- [Link](https://www.lammps.org/)
 - **NAMD**: NAMD is a parallel molecular dynamics code for high-performance simulation of large biomolecular systems, recognized for its scalability and efficiency.
 	- [Link](https://www.ks.uiuc.edu/Research/namd/)
 - **openff-toolkit**: 
 	- [Code](https://github.com/openforcefield/openff-toolkit) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.5281/zenodo.10967071.svg) : Citations: 0.0
+	- [Publication](https://doi.org/10.5281/zenodo.10967071.svg) : Citations: 0
 - **OpenMM**: OpenMM is a high-performance toolkit for molecular simulation, offering extensive language bindings and a flexible platform for developing high-performance algorithms.
 	- [Code](https://github.com/openmm/openmm) : Last updated in May 2024, 0 months ago
-	- [Publication](https://doi.org/10.1021/acs.jpcb.3c06662) : Citations: 7.0
+	- [Publication](https://doi.org/10.1021/acs.jpcb.3c06662) : Citations: 7
 	- [Link](http://openmm.org/)
 - **OpenMMDL**: Interface to **OpenMM** for easy setup of molecular dynamic simulations of protein-ligand complexes
 	- [Code](https://github.com/wolberlab/OpenMMDL) : Last updated in June 2024, 0 months ago
 - **openmmtools**: 
 	- [Code](https://github.com/choderalab/openmmtools) : Last updated in December 2023, 6 months ago
-	- [Publication](https://doi.org/10.1021/jp411770f) : Citations: 52.0
+	- [Publication](https://doi.org/10.1021/jp411770f) : Citations: 52
 - **QwikMD**: 
-	- [Publication](https://doi.org/10.1038/srep26536) : Citations: 147.0
+	- [Publication](https://doi.org/10.1038/srep26536) : Citations: 147
 	- [Link](http://www.ks.uiuc.edu/Research/qwikmd/)
 - **SENPAI**: SENPAI is a molecular dynamics simulation software aimed at students and academia, designed to simulate molecular systems of educational and academic interest efficiently.
 	- [Code](https://github.com/SENPAI-Molecular-Dynamics/SENPAI) : Last updated in June 2023, 11 months ago
 	- [Link](https://senpaimd.org/)
 - **STORMM**: 
-	- [Publication](https://doi.org/10.1101/2024.03.27.587048) : Citations: 0.0
+	- [Publication](https://doi.org/10.1101/2024.03.27.587048) : Citations: 0
 	- [Link](code to be release)
 - **Visual dynamics**: a WEB application for molecular dynamics simulation using GROMACS (online)
 	- [Webserver](https://visualdynamics.fiocruz.br/login)
@@ -55,15 +55,15 @@
 	- [Code](https://github.com/DeepDriveMD/DeepDriveMD-pipeline) : Last updated in May 2022, 25 months ago
 	- [Link](https://deepdrivemd.github.io/)
 - **Medbi et al.**: 
-	- [Publication](https://doi.org/10.1146/annurev-physchem-083122-125941) : Citations: 7.0
+	- [Publication](https://doi.org/10.1146/annurev-physchem-083122-125941) : Citations: 7
 	- [Link](https://www.annualreviews.org/doi/pdf/10.1146/annurev-physchem-083122-125941)
 - **MLCGMD**: Simulate Time-integrated Coarse-grained Molecular Dynamics with Multi-scale Graph Networks
 	- [Code](https://github.com/kyonofx/mlcgmd) : Last updated in August 2023, 9 months ago
-	- [Publication](https://doi.org/10.1126/sciadv.abc6216) : Citations: 83.0
+	- [Publication](https://doi.org/10.1126/sciadv.abc6216) : Citations: 83
 - **NeuralMD**: 
 	- [Code](https://github.com/chao1224/NeuralMD) : Last updated in April 2024, 1 months ago
-	- [Publication](https://doi.org/10.48550/arXiv.2401.15122) : Citations: 0.0
+	- [Publication](https://doi.org/10.48550/arXiv.2401.15122) : Citations: 0
 	- [Link](https://www.semanticscholar.org/paper/A-Multi-Grained-Symmetric-Differential-Equation-for-Liu-Du/0215dd9f346534bf4c4247220501d7ab7d7715c6)
 - **torchmd**: 
 	- [Code](https://github.com/torchmd/torchmd) : Last updated in February 2024, 3 months ago
-	- [Publication](https://doi.org/10.1021/acs.jctc.0c01343) : Citations: 116.0
+	- [Publication](https://doi.org/10.1021/acs.jctc.0c01343) : Citations: 116

@@ -2,14 +2,14 @@
 	- [Code](https://github.com/XiaohuaZhangLLNL/conveyorlc) : Last updated in October 2023, 8 months ago
 - **gmx_qk**: An Automated Protein/Protein–Ligand Complex Simulation Workflow Bridged to MM/PBSA, Based on Gromacs and Zenity-Dependent GUI for Beginners in MD Simulation Study (standalone)
 	- [Code](https://github.com/harry-maan/gmx_qk) : Last updated in June 2023, 11 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.3c00341) : Citations: 3.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c00341) : Citations: 3
 - **iPBSA**: Improving virtual screening results with MM/GBSA and MM/PBSA rescoring (standalone).
 	- [Code](https://github.com/sahakyanhk/iPBSA) : Last updated in October 2023, 8 months ago
-	- [Publication](https://doi.org/10.1007/s10822-021-00389-3) : Citations: 40.0
+	- [Publication](https://doi.org/10.1007/s10822-021-00389-3) : Citations: 40
 - **Uni-GBSA**: open-source and web-based automatic workflow to perform MM/GB(PB)SA calculations for virtual screening (online)
 	- [Code](https://github.com/dptech-corp/Uni-GBSA) : Last updated in August 2023, 9 months ago
-	- [Publication](https://doi.org/10.1093/bib/bbad218/7199492) : Citations: 0.0
+	- [Publication](https://doi.org/10.1093/bib/bbad218/7199492) : Citations: 0
 	- [Link](https://labs.dp.tech/projects/uni-gbsa/)
 - **VAD-MM/GBSA**: webserver (VDGB) for protein-ligand binding free energy prediction by the variable atomic dielectric MM/GBSA method (online).
-	- [Publication](https://doi.org/10.1021/acs.jcim.1c00091) : Citations: 30.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.1c00091) : Citations: 30
 	- [Link](http://cadd.zju.edu.cn/vdgb)

@@ -39,5 +39,5 @@
 - **TeachOpenCADD**: 
 	- [Code](https://github.com/volkamerlab/TeachOpenCADD) : Last updated in June 2023, 11 months ago
 - **TeachOpenCADD**: a teaching platform offering tutorials on central topics in cheminformatics and structural bioinformatics.
-	- [Publication](https://doi.org/10.1186/s13321-019-0351-x) : Citations: 37.0
+	- [Publication](https://doi.org/10.1186/s13321-019-0351-x) : Citations: 37
 	- [Link](https://volkamerlab.org/projects/teachopencadd/)

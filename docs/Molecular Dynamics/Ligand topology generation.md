@@ -1,4 +1,4 @@
 - **ACPYPE**: small molecule MD topology generation (standalone)
 	- [Code](https://github.com/alanwilter/acpype) : Last updated in May 2024, 1 months ago
-	- [Publication](https://doi.org/10.1016/j.softx.2019.100241) : Citations: 46.0
+	- [Publication](https://doi.org/10.1016/j.softx.2019.100241) : Citations: 46
 	- [Link](https://www.bio2byte.be/acpype/)

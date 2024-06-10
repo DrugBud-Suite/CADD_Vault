@@ -2,25 +2,25 @@
 	- [Link](http://www.tcd.uni-konstanz.de/research/spores.php)
 - **Gypsum-DL**: Gypsum-DL is a software that transforms 1D and 2D small-molecule representations into 3D models, considering various isomeric and conformational states.
 	- [Code](https://github.com/durrantlab/gypsum_dl/) : Last updated in October 2023, 8 months ago
-	- [Publication](https://doi.org/10.1186/s13321-019-0358-3) : Citations: 44.0
+	- [Publication](https://doi.org/10.1186/s13321-019-0358-3) : Citations: 44
 	- [Link](https://durrantlab.pitt.edu/gypsum-dl/)
 
 ## **Protonation**
 - **DiMorphite-DL**: 
 	- [Code](https://github.com/durrantlab/dimorphite_dl/) : Last updated in June 2020, 48 months ago
-	- [Publication](https://doi.org/10.1186/s13321-019-0336-9) : Citations: 35.0
+	- [Publication](https://doi.org/10.1186/s13321-019-0336-9) : Citations: 35
 	- [Link](<https://durrantlab.pitt.edu/dimorphite-dl/>)
 
 ## **Reviews**
 - **Sherman et al**: 
-	- [Publication](https://doi.org/10.1007/s10822-013-9644-8) : Citations: 3992.0
+	- [Publication](https://doi.org/10.1007/s10822-013-9644-8) : Citations: 3992
 
 ## **Standardization**
 - **Ambitcli**: no 3D but Java application for standardization (standalone).
 	- [Link](http://ambit.sourceforge.net/download_ambitcli.html)
 - **ChEMBL_Structure_Pipeline (formerly standardiser)**: 
 	- [Code](https://github.com/chembl/ChEMBL_Structure_Pipeline) : Last updated in October 2023, 7 months ago
-	- [Publication](https://doi.org/10.1186/s13321-020-00456-1) : Citations: 174.0
+	- [Publication](https://doi.org/10.1186/s13321-020-00456-1) : Citations: 174
 - **MolVS**: 
 	- [Code](https://github.com/mcs07/MolVS) : Last updated in March 2019, 63 months ago
 - **QSAR-Ready (KNIME)**: Standardization workflow for QSAR-ready chemical structures pretreatment
@@ -40,5 +40,5 @@
 
 ## **pKa**
 - **Graph-pKa**: Multi-instance learning of graph neural networks for aqueous pKa prediction (online)
-	- [Publication](doi:10.1093/bioinformatics/btab714) : Citations: 22.0
+	- [Publication](doi:10.1093/bioinformatics/btab714) : Citations: 22
 	- [Link](https://pka.simm.ac.cn/en/)

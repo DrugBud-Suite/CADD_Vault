@@ -1,49 +1,49 @@
 - **ChemFlow**: ChemFlow provides a series of computational chemistry workflows designed to automatize and simplify the drug discovery pipeline and scoring function benchmarking, consisting of BASH and PYTHON scripts.
 	- [Code](https://github.com/IFMlab/ChemFlow) : Last updated in July 2022, 23 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.2c00919) : Citations: 5.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.2c00919) : Citations: 5
 - **ConveyorLC**: A Parallel Virtual Screening Pipeline for Docking and MM/GSBA (standalone).
 	- [Code](https://github.com/XiaohuaZhangLLNL/conveyorlc) : Last updated in October 2023, 8 months ago
 - **DataPype**: 
-	- [Publication](https://doi.org/10.1021/acsomega.3c05207) : Citations: 1.0
+	- [Publication](https://doi.org/10.1021/acsomega.3c05207) : Citations: 1
 - **DeepScreen**: DEEPScreen utilizes deep convolutional neural networks for drug-target interaction prediction, employing compound images for virtual screening and offering high-performance interaction prediction capabilities.
 	- [Code](https://github.com/cansyl/DEEPScreen) : Last updated in April 2024, 1 months ago
-	- [Publication](https://doi.org/10.1039/C9SC03414E).) : Citations: 0.0
+	- [Publication](https://doi.org/10.1039/C9SC03414E).) : Citations: 0
 - **Dockey**: Dockey is an integrated tool for molecular docking and virtual screening, providing a graphical user interface that simplifies the docking pipeline, including molecular preparation and interaction detection.
 	- [Code](https://github.com/lmdu/dockey) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1093/bib/bbad047) : Citations: 12.0
+	- [Publication](https://doi.org/10.1093/bib/bbad047) : Citations: 12
 - **Docking Python**: Docking_py is a Python library that simplifies the use of Smina, vina, qvina2, and qvinaw docking software, making docking tasks more scriptable and automated.
 	- [Code](https://github.com/samuelmurail/docking_py) : Last updated in November 2021, 30 months ago
-	- [Publication](https://doi.org/10.5281/zenodo.4506970.svg) : Citations: 0.0
+	- [Publication](https://doi.org/10.5281/zenodo.4506970.svg) : Citations: 0
 - **DockStream**: DockStream is a docking wrapper offering access to various ligand embedders and docking backends, aimed at enhancing de novo molecular design through integration with the REINVENT platform.
 	- [Code](https://github.com/MolecularAI/DockStream) : Last updated in March 2023, 15 months ago
-	- [Publication](https://doi.org/10.1186/s13321-021-00563-7) : Citations: 26.0
+	- [Publication](https://doi.org/10.1186/s13321-021-00563-7) : Citations: 26
 - **Dockstring**: A Python package for easy molecular docking (with Vina)… machine learning..(standalone).
 	- [Code](https://github.com/dockstring/dockstring) : Last updated in May 2024, 0 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.1c01334) : Citations: 31.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.1c01334) : Citations: 31
 - **DrugSniffer**: Drug Sniffer is a virtual screening pipeline capable of screening billions of molecules using a combination of ligand-based and structure-based methods, designed to streamline and accelerate the drug discovery process.
-	- [Publication](https://doi.org/10.3389%2Ffphar.2022.874746) : Citations: 7.0
+	- [Publication](https://doi.org/10.3389%2Ffphar.2022.874746) : Citations: 7
 	- [Link](https://drugsniffer.org/)
 - **EasyDock**: EasyDock is a fully automatic pipeline for molecular docking, featuring a simple setup for using vina and gnina/smina for docking operations, intended to streamline the docking process.
 	- [Code](https://github.com/ci-lab-cz/easydock/tree/master) : Last updated in May 2024, 0 months ago
-	- [Publication](https://doi.org/10.1186/s13321-023-00772-2) : Citations: 2.0
+	- [Publication](https://doi.org/10.1186/s13321-023-00772-2) : Citations: 2
 - **Py Screener**: PyScreener is a pythonic interface to virtual screening software, offering a library and tools for conducting high-throughput virtual screening (HTVS) via Python calls.
 	- [Code](https://github.com/coleygroup/pyscreener) : Last updated in December 2022, 18 months ago
-	- [Publication](https://doi.org/10.21105/joss.03950/status.svg) : Citations: 0.0
+	- [Publication](https://doi.org/10.21105/joss.03950/status.svg) : Citations: 0
 - **PyRMD2Dock**: Streamlining Large Chemical Library Docking with Artificial Intelligence: the PyRMD2Dock (and PyRMD) (ultralarge screening - 2023) (standalone).
 	- [Code](https://github.com/cosconatilab/PyRMD) : Last updated in June 2023, 11 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.1c00653) : Citations: 23.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.1c00653) : Citations: 23
 - **Scipion**: Scipion is a framework plugin that defines objects and protocols for CHEMoinformatics, incorporating various tools from the Autodock software suite and other computational chemistry tools.
 	- [Code](https://github.com/scipion-chem) : Last updated in nan, nan
-	- [Publication](https://doi.org/10.1021/acs.jcim.3c01085) : Citations: 0.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c01085) : Citations: 0
 - **VFLP**: VFLP (VirtualFlow for Ligand Preparation) is also part of the VirtualFlow project, focusing on preparing ligands for virtual screening tasks, utilizing the same core technology as VFVS.
 	- [Code](https://github.com/VirtualFlow/VFLP?tab=readme-ov-file) : Last updated in October 2022, 19 months ago
-	- [Publication](https://doi.org/10.1038/s41586-020-2117-z) : Citations: 349.0
+	- [Publication](https://doi.org/10.1038/s41586-020-2117-z) : Citations: 349
 - **VFVS**: VFVS (VirtualFlow for Virtual Screening) is part of the VirtualFlow project, a parallel workflow platform for virtual screening tasks on Linux-based clusters, tailored for large-scale virtual screenings.
 	- [Code](https://github.com/VirtualFlow/VFVS) : Last updated in January 2024, 4 months ago
-	- [Publication](https://doi.org/10.1038/s41586-020-2117-z) : Citations: 349.0
+	- [Publication](https://doi.org/10.1038/s41586-020-2117-z) : Citations: 349
 - **VSpipe-GUI**: an Interactive Graphical User Interface for Virtual Screening and Hit Selection (examples with fragment docking...) (standalone, published 2024).
 	- [Code](https://github.com/rashid-bioinfo/vspipe-gui/tree/master/Installation_Guide) : Last updated in October 2023, 7 months ago
-	- [Publication](https://doi.org/10.3390%2Fijms25042002) : Citations: 1.0
+	- [Publication](https://doi.org/10.3390%2Fijms25042002) : Citations: 1
 - **warpDOCK**: Large-Scale Virtual Drug Discovery Using Cloud Infrastructure (ultralarge screening) (standalone).
 	- [Code](https://github.com/BruningLab/warpDOCK) : Last updated in October 2023, 8 months ago
-	- [Publication](https://doi.org/10.1021/acsomega.3c02249) : Citations: 1.0
+	- [Publication](https://doi.org/10.1021/acsomega.3c02249) : Citations: 1

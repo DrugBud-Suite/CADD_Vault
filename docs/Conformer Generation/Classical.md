@@ -1,11 +1,11 @@
 - **Balloon**: tools to predict 3D structure of small molecules (standalone).
-	- [Publication](https://doi.org/10.1021/ci6005646) : Citations: 315.0
+	- [Publication](https://doi.org/10.1021/ci6005646) : Citations: 315
 	- [Link](http://users.abo.fi/mivainio/balloon/)
 - **confgen-webapp**: A simple web application for generating small ligand conformers for docking purposes using RDKit, accessible at **[http://confgen.net](http://confgen.net/)**.
 	- [Code](https://github.com/Et9797/confgen-webapp) : Last updated in November 2023, 7 months ago
 	- [Webserver](http://confgen.net/)
 - **Conformator**: a novel method for the Generation of Conformer Ensembles (standalone).
-	- [Publication](https://doi.org/10.1021/acs.jcim.8b00704) : Citations: 49.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.8b00704) : Citations: 49
 	- [Link](https://www.zbh.uni-hamburg.de/forschung/amd/software/conformator.html)
 - **Conformer-Search**: This repository outlines a workflow for searching minimum energy conformers based on force field optimization methods (UFF and MMFF94) using RDKit.
 	- [Code](https://github.com/mcsorkun/Conformer-Search) : Last updated in May 2020, 49 months ago
@@ -13,11 +13,11 @@
 	- [Webserver](https://mobyle2.rpbs.univ-paris-diderot.fr/cgi-bin/portal.py#forms::Frog2)
 	- [Link](http://mobyle.rpbs.univ-paris-diderot.fr/cgi-bin/portal.py#welcome)
 - **PrepFlow**: A Toolkit for Chemical Library Preparation and Management for Virtual Screening (not 3D per se) (standalone).
-	- [Publication](https://doi.org/doi.org/10.1002/minf.202100139) : Citations: 5.0
+	- [Publication](https://doi.org/doi.org/10.1002/minf.202100139) : Citations: 5
 	- [Link](https://ifm.chimie.unistra.fr/prepflow)
 - **smi2sdf3d**: 3D diverse conformers generation using rdkit (Python) (standalone).
 	- [Code](https://github.com/UnixJunkie/smi2sdf3d) : Last updated in March 2022, 27 months ago
-	- [Publication](https://doi.org/10.1021/ci2004658) : Citations: 172.0
+	- [Publication](https://doi.org/10.1021/ci2004658) : Citations: 172
 - **GuideMol**: A tool for guiding molecular design through machine learning models.
 	- [Code](https://github.com/jairesdesousa/guidemol) : Last updated in January 2024, 4 months ago
-	- [Publication](https://doi.org/10.1002/minf.202300190) : Citations: 0.0
+	- [Publication](https://doi.org/10.1002/minf.202300190) : Citations: 0

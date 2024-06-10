@@ -1,36 +1,36 @@
 - **AMPL**: A Data-Driven Modeling Pipeline for Drug Discovery (ATOM Modeling PipeLine) (standalone)
 	- [Code](https://github.com/ATOMconsortium/AMPL) : Last updated in May 2024, 1 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.9b01053) : Citations: 54.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.9b01053) : Citations: 54
 - **cgcnn**: 
 	- [Code](https://github.com/txie-93/cgcnn) : Last updated in September 2021, 33 months ago
-	- [Publication](https://doi.org/10.1103/PhysRevLett.120.145301) : Citations: 1168.0
+	- [Publication](https://doi.org/10.1103/PhysRevLett.120.145301) : Citations: 1168
 - **chainer-chemistry**: 
 	- [Code](https://github.com/chainer/chainer-chemistry) : Last updated in October 2020, 44 months ago
 	- [Publication](https://arxiv.org/abs/1807.01985) : Citations: N/A
 - **ChemML**: 
 	- [Code](https://github.com/hachmannlab/chemml) : Last updated in October 2023, 8 months ago
-	- [Publication](https://doi.org/10.1002/wcms.1458) : Citations: 38.0
+	- [Publication](https://doi.org/10.1002/wcms.1458) : Citations: 38
 - **chemml**: 
 	- [Code](https://github.com/hachmannlab/chemml) : Last updated in October 2023, 8 months ago
 	- [Link](https://hachmannlab.github.io/chemml/)
 - **chemprop**: 
 	- [Code](https://github.com/chemprop/chemprop) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.9b00237) : Citations: 816.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.9b00237) : Citations: 816
 - **DeepChem**: 
 	- [Code](https://github.com/deepchem/deepchem) : Last updated in June 2024, 0 months ago
 	- [Publication](https://books.google.fr/books/about/Deep_Learning_for_the_Life_Sciences.html?id=5uiRDwAAQBAJ&redir_esc=y) : Citations: N/A
 - **DeepMol**: a python-based machine and deep learning framework for drug discovery (standalone)
 	- [Code](https://github.com/BioSystemsUM/DeepMol) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1101/2024.05.27.595849) : Citations: 0.0
+	- [Publication](https://doi.org/10.1101/2024.05.27.595849) : Citations: 0
 - **DGL-LifeSci**: 
 	- [Code](https://github.com/awslabs/dgl-lifesci) : Last updated in April 2023, 14 months ago
-	- [Publication](https://doi.org/10.1021/acsomega.1c04017) : Citations: 83.0
+	- [Publication](https://doi.org/10.1021/acsomega.1c04017) : Citations: 83
 - **Minervachem**: 
 	- [Code](https://github.com/lanl/minervachem) : Last updated in May 2024, 0 months ago
-	- [Publication](https://doi.org/10.26434/chemrxiv-2024-r81c8) : Citations: 0.0
+	- [Publication](https://doi.org/10.26434/chemrxiv-2024-r81c8) : Citations: 0
 - **Minerva-Chem**: 
 	- [Code](https://github.com/lanl/minervachem) : Last updated in May 2024, 0 months ago
-	- [Publication](https://doi.org/10.26434/chemrxiv-2024-r81c8) : Citations: 0.0
+	- [Publication](https://doi.org/10.26434/chemrxiv-2024-r81c8) : Citations: 0
 - **MolFlux**: 
 	- [Code](https://github.com/Exscientia/molflux) : Last updated in June 2024, 0 months ago
 	- [Link](https://exscientia.github.io/molflux/)
@@ -40,7 +40,7 @@
 	- [Code](https://github.com/Oloren-AI/olorenchemengine) : Last updated in August 2023, 9 months ago
 - **OpenChem**: 
 	- [Code](https://github.com/Mariewelt/OpenChem) : Last updated in April 2022, 25 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.0c00971) : Citations: 44.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.0c00971) : Citations: 44
 - **pytorch-geometric**: 
 	- [Link](https://pytorch-geometric.readthedocs.io/en/latest/)
 - **Scikit-mol**: Scikit-Learn classes for molecular vectorization using RDKit (standalone)
@@ -48,8 +48,8 @@
 	- [Link](https://pypi.org/project/scikit-mol/)
 - **Summit**: 
 	- [Code](https://github.com/sustainable-processes/summit) : Last updated in July 2023, 10 months ago
-	- [Publication](https://doi.org/10.1002/cmtd.202000051).) : Citations: 0.0
+	- [Publication](https://doi.org/10.1002/cmtd.202000051).) : Citations: 0
 - **TorchDrug**: A powerful and flexible machine learning platform for drug discovery
 	- [Code](https://github.com/DeepGraphLearning/torchdrug/) : Last updated in July 2023, 10 months ago
-	- [Publication](https://doi.org/10.48550/arXiv.2202.08320) : Citations: 0.0
+	- [Publication](https://doi.org/10.48550/arXiv.2202.08320) : Citations: 0
 	- [Link](https://torchdrug.ai/)

@@ -1,9 +1,9 @@
 - **biopandas**: Working with molecular structures of biological macromolecules (from PDB and MOL2 files) in pandas DataFrames
 	- [Code](https://github.com/BioPandas/biopandas) : Last updated in September 2023, 8 months ago
-	- [Publication](http://dx.doi.org/10.21105/joss.00279) : Citations: 41.0
+	- [Publication](http://dx.doi.org/10.21105/joss.00279) : Citations: 41
 	- [Link](https://biopandas.github.io/biopandas/)
 - **PDBFixer**: application for fixing problems in PDB - Protein Data Bank files, missing residues, loop... (standalone)
 	- [Code](https://github.com/openmm/pdbfixer) : Last updated in May 2023, 13 months ago
 - **pdb-tools**: 
 	- [Code](https://github.com/haddocking/pdb-tools) : Last updated in December 2023, 6 months ago
-	- [Publication](https://doi.org/10.12688/f1000research.17456.1) : Citations: 101.0
+	- [Publication](https://doi.org/10.12688/f1000research.17456.1) : Citations: 101

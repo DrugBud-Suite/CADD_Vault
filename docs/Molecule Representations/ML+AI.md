@@ -12,7 +12,7 @@
 ### **SELFIES**
 - **SELFormer**: A transformer-based model utilizing SELFIES notations for learning high-quality molecular representations.
 	- [Code](https://github.com/HUBioDataLab/SELFormer) : Last updated in May 2024, 0 months ago
-	- [Publication](https://doi.org/10.1088/2632-2153/acdb30) : Citations: 6.0
+	- [Publication](https://doi.org/10.1088/2632-2153/acdb30) : Citations: 6
 ### **SMILES**
 - **BERT**: A transformer model specifically designed for molecular property prediction tasks.
 	- [Code](https://github.com/odb9402/MoleculeTransformer) : Last updated in November 2020, 43 months ago

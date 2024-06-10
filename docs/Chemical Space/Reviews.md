@@ -1,3 +1,3 @@
 - **Schapira et al.**: Emerging structure-based computational methods to screen the exploding accessible chemical space
-	- [Publication](https://doi.org/10.1016/j.sbi.2024.102812) : Citations: 0.0
+	- [Publication](https://doi.org/10.1016/j.sbi.2024.102812) : Citations: 0
 	- [Link](https://www.sciencedirect.com/science/article/pii/S0959440X24000393?via%3Dihub)

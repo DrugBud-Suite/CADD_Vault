@@ -68,7 +68,9 @@ for index, row in df.iterrows():
     if pd.notna(row['CODE']):
         entry_content += f"\t- [Code]({row['CODE']}) : Last updated in {row['LAST_COMMIT']}, {row['LAST_COMMIT_AGO']}\n"
     if pd.notna(row['PUBLICATION']):
-        entry_content += f"\t- [Publication]({row['PUBLICATION']}) : Citations: {row['CITATIONS'] if pd.notna(row['CITATIONS']) else 'N/A'}\n"
+        citations = int(row['CITATIONS']) if pd.notna(
+            row['CITATIONS']) else 'N/A'  # Convert float to int here
+        entry_content += f"\t- [Publication]({row['PUBLICATION']}) : Citations: {citations}\n"
     if pd.notna(row['WEBSERVER']):
         entry_content += f"\t- [Webserver]({row['WEBSERVER']})\n"
     if pd.notna(row['LINK']):

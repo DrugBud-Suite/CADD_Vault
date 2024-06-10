@@ -1,28 +1,28 @@
 - **Avogadro**: advanced molecule editor and visualizer designed for cross-platform use (draw molecules...) (standalone)
-	- [Publication](https://doi.org/10.1186/1758-2946-4-17) : Citations: 6154.0
+	- [Publication](https://doi.org/10.1186/1758-2946-4-17) : Citations: 6154
 	- [Link](https://avogadro.cc/)
 - **BlendMol**: Advanced Macromolecular Visualization in Blender (standalone)
-	- [Publication](https://doi.org/10.1093/bioinformatics/bty968) : Citations: 30.0
+	- [Publication](https://doi.org/10.1093/bioinformatics/bty968) : Citations: 30
 	- [Link](http://durrantlab.com/blendmol/)
 - **Chimera**: (standalone)
-	- [Publication](https://doi.org/10.1002/jcc.20084) : Citations: 35943.0
+	- [Publication](https://doi.org/10.1002/jcc.20084) : Citations: 35943
 	- [Link](https://www.cgl.ucsf.edu/chimera/)
 - **ChimeraX**: molecular graphics (standalone)
-	- [Publication](https://doi.org/10.1002/pro.3235) : Citations: 3562.0
+	- [Publication](https://doi.org/10.1002/pro.3235) : Citations: 3562
 	- [Link](https://www.cgl.ucsf.edu/chimerax/)
 - **MichelaNGLO**: An interactive protein on your website with a few clicks (standalone)
 	- [Link](https://michelanglo.sgc.ox.ac.uk/)
 - **MolView**: draw and viewer in 2D or 3D of small molecules and proteins (online)
-	- [Publication](https://doi.org/10.1016/0263-7855(94)00019-O) : Citations: 83.0
+	- [Publication](https://doi.org/10.1016/0263-7855(94)00019-O) : Citations: 83
 	- [Link](http://molview.org/)
 - **Nglviewer**: view molecular 3D structures (online)
-	- [Publication](https://doi.org/10.1093/nar/gkv402) : Citations: 359.0
+	- [Publication](https://doi.org/10.1093/nar/gkv402) : Citations: 359
 	- [Link](http://nglviewer.org/ngl/)
 - **OpenStructure**: look at molecular structures (standalone)
-	- [Publication](https://doi.org/10.1107%2FS0907444913007051) : Citations: 88.0
+	- [Publication](https://doi.org/10.1107%2FS0907444913007051) : Citations: 88
 	- [Link](http://www.openstructure.org/)
 - **Protein Imager**: 3D molecular structure display (online)
-	- [Publication](https://doi.org/10.1093/bioinformatics/btaa009) : Citations: 140.0
+	- [Publication](https://doi.org/10.1093/bioinformatics/btaa009) : Citations: 140
 	- [Link](https://3dproteinimaging.com/protein-imager/)
 - **PyMol**: molecular graphics (standalone)
 	- [Link](https://www.pymol.org/)
@@ -30,19 +30,19 @@
 	- [Code](https://github.com/Pymol-Scripts/Pymol-script-repo) : Last updated in June 2024, 0 months ago
 - **PyMolshortcuts**: Shortcuts For Faster Image Creation in PyMOL - Scripts (standalone)
 	- [Code](https://github.com/MooersLab/pymolshortcuts) : Last updated in May 2024, 1 months ago
-	- [Publication](https://doi.org/10.1002/pro.3781) : Citations: 94.0
+	- [Publication](https://doi.org/10.1002/pro.3781) : Citations: 94
 - **QuteMol**: (standalone)
 	- [Link](http://qutemol.sourceforge.net/)
 - **SAMSON**: software for adaptative modeling and simulation (nano), GROMACS can be launched from SAMSON... (standalone)
 	- [Link](https://www.samson-connect.net/app/main?execution=e1s1)
 - **VMD**: molecular visualization program (standalone)
-	- [Publication](https://doi.org/10.1016/0263-7855(96)00018-5) : Citations: 46559.0
+	- [Publication](https://doi.org/10.1016/0263-7855(96)00018-5) : Citations: 46559
 	- [Link](http://www.ks.uiuc.edu/Research/vmd/)
 - **VTX**: High performance molecular visualization software (Windows, Linux) (standalone)
 	- [Code](https://gitlab.com/VTX_mol/VTX) : Last updated in nan, nan
 - **Web3DMol**: view protein in 3D and sequences (online)
-	- [Publication](https://doi.org/10.1093/nar/gkx383) : Citations: 20.0
+	- [Publication](https://doi.org/10.1093/nar/gkx383) : Citations: 20
 	- [Link](http://web3dmol.net/)
 - **YASARA**: molecular-graphics, -modeling and -simulation program (standalone)
-	- [Publication](https://doi.org/10.1007/978-1-4939-7366-8_4) : Citations: 294.0
+	- [Publication](https://doi.org/10.1007/978-1-4939-7366-8_4) : Citations: 294
 	- [Link](http://www.yasara.org/)

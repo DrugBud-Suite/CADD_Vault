@@ -2,7 +2,7 @@
 	- [Code](https://github.com/zixiaodan-99/FewGS) : Last updated in July 2022, 23 months ago
 - **Few-Shot-Learning-for-Low-Data-Drug-Discovery**: 
 	- [Code](https://github.com/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery) : Last updated in June 2022, 23 months ago
-	- [Publication](https://doi.org/10.1021/acscentsci.6b00367).) : Citations: 0.0
+	- [Publication](https://doi.org/10.1021/acscentsci.6b00367).) : Citations: 0
 - **FS-Mol**: A Few-Shot Learning Dataset of Molecules
 	- [Code](https://github.com/microsoft/FS-Mol/) : Last updated in December 2021, 30 months ago
 	- [Publication](https://arxiv.org/abs/2002.08264v1) : Citations: N/A
@@ -15,4 +15,4 @@
 	- [Code](https://github.com/zhangruochi/MolFeSCue) : Last updated in June 2024, 0 months ago
 - **PG-DERN**: 
 	- [Code](https://github.com/Bombtsti/PG-DERN) : Last updated in March 2024, 2 months ago
-	- [Publication](https://doi.org/10.48550/arXiv.2107.07994) : Citations: 0.0
+	- [Publication](https://doi.org/10.48550/arXiv.2107.07994) : Citations: 0

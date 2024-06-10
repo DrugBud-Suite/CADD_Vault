@@ -1,18 +1,18 @@
 - **AIR**: Artificial Intelligence-Based Multi-Objective Optimization Protocol for Protein Structure Refinement (standalone)
-	- [Publication](https://doi.org/10.3390/ijms22094408) : Citations: 2.0
+	- [Publication](https://doi.org/10.3390/ijms22094408) : Citations: 2
 	- [Link](http://www.csbio.sjtu.edu.cn/bioinf/AIR/)
 - **DeepRefiner**: high-accuracy protein structure refinement by deep network calibration (online)
-	- [Publication](https://doi.org/10.1093/nar/gkab361) : Citations: 17.0
+	- [Publication](https://doi.org/10.1093/nar/gkab361) : Citations: 17
 	- [Webserver](http://watson.cse.eng.auburn.edu/DeepRefiner/)
 - **DeepTracer-refine**: 
 	- [Link](https://www.semanticscholar.org/paper/Protein-Structure-Refinement-via-DeepTracer-and-Chen-Zia/8eb8e41af63e2b406a253347d1dfcd2185ffba16)
 - **FASPR**: An Open-Source Tool for Fast and Accurate Protein Side-Chain Packing (standalone on github and online)
 	- [Code](https://github.com/tommyhuangthu/FASPR) : Last updated in June 2023, 11 months ago
-	- [Publication](https://doi.org/10.1093/bioinformatics/btaa234) : Citations: 60.0
+	- [Publication](https://doi.org/10.1093/bioinformatics/btaa234) : Citations: 60
 	- [Webserver](https://zhanglab.ccmb.med.umich.edu/FASPR)
 - **FG-MD**: molecular dynamics (MD) based algorithm for atomic-level protein structure refinement (online)
-	- [Publication](https://doi.org/10.1016/j.str.2011.09.022) : Citations: 280.0
+	- [Publication](https://doi.org/10.1016/j.str.2011.09.022) : Citations: 280
 	- [Webserver](http://zhanglab.ccmb.med.umich.edu/FG-MD/)
 - **ModRefiner**: atomic-level, high-resolution protein structure refinement (online)
-	- [Publication](https://doi.org/10.1016/j.bpj.2011.10.024) : Citations: 0.0
+	- [Publication](https://doi.org/10.1016/j.bpj.2011.10.024) : Citations: 0
 	- [Webserver](http://zhanglab.ccmb.med.umich.edu/ModRefiner/)

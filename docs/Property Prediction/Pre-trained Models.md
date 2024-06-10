@@ -1,3 +1,3 @@
 - **pQSAR**: build massively multitask, two-step machine learning models with unprecedented scope, accuracy, and applicability domain
 	- [Code](https://github.com/Novartis/pQSAR) : Last updated in August 2021, 34 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.0c01342) : Citations: 13.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.0c01342) : Citations: 13

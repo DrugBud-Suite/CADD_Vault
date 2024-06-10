@@ -1,12 +1,12 @@
 - **DeLinker**: Deep Generative Models for 3D Linker Design
 	- [Code](https://github.com/oxpig/DeLinker) : Last updated in June 2020, 48 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.9b01120) : Citations: 131.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.9b01120) : Citations: 131
 - **DiffLinker**: An Equivariant 3D-conditional Diffusion Model for Molecular Linker Design that places missing atoms between disconnected fragments in 3D, designing molecules that incorporate all initial fragments with potential applications in linker generation for drug discovery.
 	- [Code](https://github.com/igashov/DiffLinker) : Last updated in April 2024, 1 months ago
-	- [Publication](https://doi.org/10.5281/zenodo.10515726) : Citations: 0.0
+	- [Publication](https://doi.org/10.5281/zenodo.10515726) : Citations: 0
 - **DRLinker**: Deep Reinforcement Learning for optimization in fragment linking Design
 	- [Code](https://github.com/biomed-AI/DRlinker) : Last updated in October 2022, 19 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.2c00982) : Citations: 20.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.2c00982) : Citations: 20
 - **GRELinker**: A Graph-based Generative Model for Molecular Linker Design with Reinforcement and Curriculum Learning
 	- [Code](https://github.com/howzh728/GRELinker) : Last updated in January 2024, 4 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.3c01700) : Citations: 0.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c01700) : Citations: 0

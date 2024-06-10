@@ -1,17 +1,17 @@
 - **AMPL**: The ATOM Modeling PipeLine (AMPL) is an open-source, modular, extensible software pipeline for building and sharing models to advance in silico drug discovery, extending the functionality of DeepChem and supporting an array of machine learning and molecular featurization tools.
 	- [Code](https://github.com/ATOMScience-org/AMPL?tab=readme-ov-file#Example-AMPL-usage) : Last updated in May 2024, 1 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.9b01053) : Citations: 54.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.9b01053) : Citations: 54
 - **CHVS**: This repository contains Python code for model evaluation in regression tasks, exploring various regression models and helping select the best-performing model for your dataset using PCA and Mutual Information for feature selection.
 	- [Code](https://github.com/Saeedmomo/Consensus_Holistic_Virtual_Screening) : Last updated in June 2024, 0 months ago
 - **PREFER**: The PREFER framework automates the evaluation of different combinations of molecular representations and machine learning models for predicting molecular properties, utilizing AutoSklearn for model selection and hyperparameter tuning.
 	- [Code](https://github.com/rdkit/PREFER) : Last updated in May 2023, 12 months ago
-	- [Publication](https://doi.org/10.1039/C8SC04175J) : Citations: 292.0
+	- [Publication](https://doi.org/10.1039/C8SC04175J) : Citations: 292
 - **ROBERT**: 
 	- [Code](https://github.com/jvalegre/robert) : Last updated in February 2024, 3 months ago
-	- [Publication](https://doi.org/10.26434/chemrxiv-2023-k994h.) : Citations: 0.0
+	- [Publication](https://doi.org/10.26434/chemrxiv-2023-k994h.) : Citations: 0
 - **SPOC**: An integrated Python package for molecular descriptor generation, data processing, model training, and hyper-parameter optimization, aimed at facilitating the development of predictive models in the field of cheminformatics.
 	- [Code](https://github.com/WhitestoneYang/spoc) : Last updated in January 2024, 4 months ago
-	- [Publication](https://doi.org/10.1002/cphc.202200255).) : Citations: 0.0
+	- [Publication](https://doi.org/10.1002/cphc.202200255).) : Citations: 0
 - **TDC**: 
 	- [Code](https://github.com/mims-harvard/TDC) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.7910/DVN/21LKWG):) : Citations: 0.0
+	- [Publication](https://doi.org/10.7910/DVN/21LKWG):) : Citations: 0

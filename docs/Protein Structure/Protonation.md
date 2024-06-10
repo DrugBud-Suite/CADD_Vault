@@ -1,18 +1,18 @@
 - **DeepKa**: deep-learning-based protein pKa predictor (online)
-	- [Publication](https://doi.org/10.1021/acs.jcim.3c02013) : Citations: 0.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c02013) : Citations: 0
 	- [Webserver](http://www.computbiophys.com/DeepKa/main)
 - **H++**: automated system that computes pK values of ionizable groups in macromolecules and adds missing hydrogen atoms according to the specified pH of the environment (online)
-	- [Publication](https://doi.org/10.1093%2Fnar%2Fgki464) : Citations: 1256.0
+	- [Publication](https://doi.org/10.1093%2Fnar%2Fgki464) : Citations: 1256
 	- [Webserver](http://biophysics.cs.vt.edu/)
 - **propka**: 
 	- [Code](https://github.com/jensengroup/propka) : Last updated in February 2024, 3 months ago
-	- [Publication](https://doi.org/10.1021/ct200133y) : Citations: 1417.0
+	- [Publication](https://doi.org/10.1021/ct200133y) : Citations: 1417
 - **ProteinPrepare**: 
 	- [Webserver](http://www.playmolecule.org/)
 - **PypKa**: a flexible Python module for Poisson-Boltzmann based pKa calculations (for proteins) (standalone)
 	- [Code](https://github.com/mms-fcul/PypKa) : Last updated in February 2024, 4 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.0c00718) : Citations: 37.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.0c00718) : Citations: 37
 - **pypka**: allows users to run physics-based, as well as ML-accelerated methods suitable for larger systems, to obtain pKa values, isoelectric points, titration curves, and structures with representative pH-dependent protonation states compatible with commonly used force fields
 	- [Code](https://github.com/mms-fcul/PypKa) : Last updated in February 2024, 4 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.0c00718) : Citations: 37.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.0c00718) : Citations: 37
 	- [Webserver](https://pypka.org/)

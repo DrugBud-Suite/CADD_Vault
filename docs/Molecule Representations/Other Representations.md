@@ -1,6 +1,6 @@
 - **EvoMPF**: EvoMPF is a framework for evolutionary molecular pattern finding using SMARTS.
 	- [Code](https://zivgitlab.uni-muenster.de/ag-glorius/published-paper/evompf) : Last updated in nan, nan
-	- [Publication](https://doi.org/10.1016/j.chempr.2024.02.004) : Citations: 1.0
+	- [Publication](https://doi.org/10.1016/j.chempr.2024.02.004) : Citations: 1
 - **TUCAN**: TUCAN is a tool for transforming unstructured chemical annotations into normalized expressions.
 	- [Code](https://github.com/TUCAN-nest/TUCAN) : Last updated in January 2024, 4 months ago
-	- [Publication](https://doi.org/10.1186/s13321-022-00640-5) : Citations: 7.0
+	- [Publication](https://doi.org/10.1186/s13321-022-00640-5) : Citations: 7

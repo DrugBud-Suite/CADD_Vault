@@ -3,122 +3,122 @@
 	- [Publication](https://arxiv.org/abs/2203.10446) : Citations: N/A
 - **AlphaDrug**: protein target specific de novo molecular generation (generative chemistry) (standalone).
 	- [Code](https://github.com/CMACH508/AlphaDrug) : Last updated in October 2022, 19 months ago
-	- [Publication](https://doi.org/10.1093/pnasnexus/pgac227) : Citations: 16.0
+	- [Publication](https://doi.org/10.1093/pnasnexus/pgac227) : Citations: 16
 - **BindDM**: BindDM extracts subcomplex from protein-ligand complex, and utilizes it to enhance the binding-adaptive 3D molecule generation in complex
 	- [Code](https://github.com/YangLing0818/BindDM) : Last updated in March 2024, 2 months ago
-	- [Publication](https://doi.org/10.1609/aaai.v38i11.29162) : Citations: 0.0
+	- [Publication](https://doi.org/10.1609/aaai.v38i11.29162) : Citations: 0
 - **ChemSpaceAL**: an Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation (generative chemistry) (standalone, 2024).
 	- [Code](https://github.com/gregory-kyro/ChemSpaceAL) : Last updated in December 2023, 5 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.3c01456) : Citations: 0.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c01456) : Citations: 0
 - **cMolGPT**: cMolGPT, a Conditional Generative Pre-trained Transformer, aims for de novo molecular design by enforcing target specificity during the generation process, emphasizing the incorporation of target embeddings.
 	- [Code](https://github.com/VV123/cMolGPT) : Last updated in July 2023, 11 months ago
-	- [Publication](https://doi.org/10.3390/molecules28114430) : Citations: 10.0
+	- [Publication](https://doi.org/10.3390/molecules28114430) : Citations: 10
 - **DeepICL**: 3D molecular generative framework for interaction-guided drug design
 	- [Code](https://github.com/ACE-KAIST/DeepICL) : Last updated in May 2024, 1 months ago
-	- [Publication](https://doi.org/10.1038/s41467-024-47011-2)).) : Citations: 0.0
+	- [Publication](https://doi.org/10.1038/s41467-024-47011-2)).) : Citations: 0
 - **DeepICL**: 
 	- [Code](https://github.com/ACE-KAIST/DeepICL) : Last updated in May 2024, 1 months ago
-	- [Publication](https://doi.org/10.1038/s41467-024-47011-2)).) : Citations: 0.0
+	- [Publication](https://doi.org/10.1038/s41467-024-47011-2)).) : Citations: 0
 - **DeepTarget**: 
 	- [Code](https://github.com/ehoogeboom/e3_diffusion_for_molecules) : Last updated in July 2022, 23 months ago
-	- [Publication](https://doi.org/10.48550/arXiv.2203.17003) : Citations: 0.0
+	- [Publication](https://doi.org/10.48550/arXiv.2203.17003) : Citations: 0
 - **DESERT**: Zero-shot 3D drug design by sketching and generating, as presented at NeurIPS 2022.
 	- [Code](https://github.com/longlongman/DESERT) : Last updated in October 2022, 19 months ago
-	- [Publication](https://doi.org/10.48550/arXiv.2209.13865) : Citations: 0.0
+	- [Publication](https://doi.org/10.48550/arXiv.2209.13865) : Citations: 0
 - **DEVELOP**: 
 	- [Code](https://github.com/oxpig/DEVELOP/tree/main) : Last updated in January 2022, 29 months ago
-	- [Publication](https://doi.org/10.1101/2021.04.27.441676v1.full) : Citations: 0.0
+	- [Publication](https://doi.org/10.1101/2021.04.27.441676v1.full) : Citations: 0
 - **DiffDec**: A model that uses an end-to-end equivariant diffusion process for optimizing molecular structures through scaffold decoration conditioned on 3D protein pockets.
 	- [Code](https://github.com/biomed-AI/DiffDec/blob/master/README.md) : Last updated in January 2024, 4 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.3c01466) : Citations: 1.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c01466) : Citations: 1
 - **DiffSBDD**: Structure-based Drug Design with Equivariant Diffusion Models (standalone, 2024).
 	- [Code](https://github.com/arneschneuing/DiffSBDD) : Last updated in September 2023, 8 months ago
-	- [Publication](https://doi.org/10.48550/arXiv.2210.13695) : Citations: 0.0
+	- [Publication](https://doi.org/10.48550/arXiv.2210.13695) : Citations: 0
 - **DRAGONFLY**: 
 	- [Code](https://github.com/ETHmodlab/dragonfly_gen) : Last updated in April 2024, 1 months ago
-	- [Publication](https://doi.org/10.1038/s41557--023--01360--5-green) : Citations: 0.0
+	- [Publication](https://doi.org/10.1038/s41557--023--01360--5-green) : Citations: 0
 - **DrugGEN**: 
 	- [Code](https://github.com/asarigun/DrugGEN) : Last updated in October 2023, 7 months ago
-	- [Publication](https://doi.org/10.48550/arXiv.2302.07868) : Citations: 0.0
+	- [Publication](https://doi.org/10.48550/arXiv.2302.07868) : Citations: 0
 - **DrugGPS**: Focuses on learning subpocket prototypes for generalizable structure-based drug design, introduced at ICML 2023.
 	- [Code](https://github.com/zaixizhang/DrugGPS_ICML23) : Last updated in February 2024, 3 months ago
-	- [Publication](https://doi.org/10.48550/arXiv.2305.13997) : Citations: 0.0
+	- [Publication](https://doi.org/10.48550/arXiv.2305.13997) : Citations: 0
 - **FLAG**: A Fragment-based Ligand Generation framework to generate 3D molecules with valid and realistic substructures fragment-by-fragment.
 	- [Code](https://github.com/zaixizhang/FLAG) : Last updated in April 2024, 1 months ago
-	- [Publication](https://doi.org/10.48550/arXiv.2305.13997) : Citations: 0.0
+	- [Publication](https://doi.org/10.48550/arXiv.2305.13997) : Citations: 0
 - **FragGen**: Fragment wise 3D Structure-based Molecular Generation
 	- [Code](https://github.com/HaotianZhangAI4Science/FragGen) : Last updated in May 2024, 1 months ago
-	- [Publication](https://doi.org/10.5281/zenodo.7758282).) : Citations: 0.0
+	- [Publication](https://doi.org/10.5281/zenodo.7758282).) : Citations: 0
 - **GraphBP**: Implements a method for generating 3D molecules targeting protein binding, presented at ICML 2022.
 	- [Code](https://github.com/divelab/GraphBP) : Last updated in July 2023, 10 months ago
-	- [Publication](https://doi.org/10.48550/arXiv.2204.09410) : Citations: 0.0
+	- [Publication](https://doi.org/10.48550/arXiv.2204.09410) : Citations: 0
 - **HySonLab**: 
 	- [Code](https://github.com/HySonLab/Ligand_Generation) : Last updated in May 2024, 0 months ago
-	- [Publication](https://doi.org/10.1088/2632-2153/ad3ee4) : Citations: 0.0
+	- [Publication](https://doi.org/10.1088/2632-2153/ad3ee4) : Citations: 0
 - **KGDiff**: A model for explainable target-aware molecule generation with knowledge guidance.
 	- [Code](https://github.com/CMACH508/KGDiff) : Last updated in January 2024, 4 months ago
-	- [Publication](https://doi.org/10.5281/zenodo.8419944) : Citations: 0.0
+	- [Publication](https://doi.org/10.5281/zenodo.8419944) : Citations: 0
 - **liGAN**: A project for structure-based drug discovery using deep generative models of atomic density grids.
 	- [Code](https://github.com/mattragoza/liGAN) : Last updated in March 2023, 15 months ago
-	- [Publication](https://doi.org/10.1039/D1SC05976A) : Citations: 66.0
+	- [Publication](https://doi.org/10.1039/D1SC05976A) : Citations: 66
 - **Ligand_Generation**: This project focuses on target-aware variational autoencoders for ligand generation, employing multimodal protein representation learning for structure-based drug design.
 	- [Code](https://github.com/HySonLab/Ligand_Generation) : Last updated in May 2024, 0 months ago
-	- [Publication](https://doi.org/10.1088/2632-2153/ad3ee4) : Citations: 0.0
+	- [Publication](https://doi.org/10.1088/2632-2153/ad3ee4) : Citations: 0
 - **Lingo3DMol**: A pocket-based 3D molecule generation method that combines language model capabilities with 3D coordinate generation and geometric deep learning.
 	- [Code](https://github.com/stonewiseAIDrugDesign/Lingo3DMol) : Last updated in November 2023, 6 months ago
-	- [Publication](https://doi.org/10.48550/arXiv.2305.10133) : Citations: 0.0
+	- [Publication](https://doi.org/10.48550/arXiv.2305.10133) : Citations: 0
 - **LS-MolGen**: A ligand-and-structure dual-driven deep reinforcement learning method for target-specific molecular generation, integrating docking scores and bioactivity data for molecule optimization.
 	- [Code](https://github.com/songleee/LS-MolGen) : Last updated in June 2023, 11 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.3c00587) : Citations: 3.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c00587) : Citations: 3
 - **MolSnapper**: 
 	- [Code](https://github.com/oxpig/MolSnapper) : Last updated in March 2024, 2 months ago
-	- [Publication](https://doi.org/10.1101/2024.03.28.586278v1).) : Citations: 0.0
+	- [Publication](https://doi.org/10.1101/2024.03.28.586278v1).) : Citations: 0
 - **PCMol**: A multi-target model for de novo molecule generation, using AlphaFold protein embeddings for thousands of protein targets.
 	- [Code](https://github.com/CDDLeiden/PCMol) : Last updated in March 2024, 3 months ago
-	- [Publication](https://doi.org/10.5281/zenodo.10512870.svg) : Citations: 0.0
+	- [Publication](https://doi.org/10.5281/zenodo.10512870.svg) : Citations: 0
 - **PETrans**: 
 	- [Code](https://github.com/Chinafor/PETrans) : Last updated in October 2022, 20 months ago
-	- [Publication](https://doi.org/10.3390/ijms24021146) : Citations: 10.0
+	- [Publication](https://doi.org/10.3390/ijms24021146) : Citations: 10
 - **PMDM**: dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets
 	- [Code](https://github.com/Layne-Huang/PMDM/tree/main) : Last updated in May 2024, 1 months ago
-	- [Publication](https://doi.org/10.1038/s41467-024-46569-1) : Citations: 2.0
+	- [Publication](https://doi.org/10.1038/s41467-024-46569-1) : Citations: 2
 - **Pocket2Mol**: Uses equivariant graph neural networks for efficient molecular sampling based on 3D protein pockets.
 	- [Code](https://github.com/pengxingang/Pocket2Mol) : Last updated in November 2023, 6 months ago
-	- [Publication](https://doi.org/10.48550/arXiv.2205.07249) : Citations: 0.0
+	- [Publication](https://doi.org/10.48550/arXiv.2205.07249) : Citations: 0
 - **PocketFlow**: data-and-knowledge driven structure-based molecular generative model
 	- [Code](https://github.com/Saoge123/PocketFlow) : Last updated in May 2024, 0 months ago
 	- [Publication](https://openreview.net/pdf?id=H1fWoYhdim) : Citations: N/A
 - **PocketOptimizer 2.0**: Design of small molecule‐binding pockets in proteins (standalone)
 	- [Code](https://github.com/Hoecker-Lab/pocketoptimizer) : Last updated in May 2024, 0 months ago
-	- [Publication](https://doi.org/10.1021/acs.jctc.5b00255) : Citations: 7043.0
+	- [Publication](https://doi.org/10.1021/acs.jctc.5b00255) : Citations: 7043
 - **RELATION**: A software for DL-based de novo drug design, focusing on generating molecules based on target protein interactions.
 	- [Code](https://github.com/micahwang/RELATION) : Last updated in November 2022, 19 months ago
-	- [Publication](https://doi.org/10.1021/acs.jmedchem.2c00732) : Citations: 38.0
+	- [Publication](https://doi.org/10.1021/acs.jmedchem.2c00732) : Citations: 38
 - **ResGen**: pocket-aware 3D molecular generation model based on parallel multiscale modelling (standalone).
 	- [Code](https://github.com/HaotianZhangAI4Science/ResGen) : Last updated in October 2023, 7 months ago
-	- [Publication](https://doi.org/10.5281/zenodo.7759114) : Citations: 0.0
+	- [Publication](https://doi.org/10.5281/zenodo.7759114) : Citations: 0
 - **RGA**: A reinforcement learning-based genetic algorithm for structure-based drug design, introduced at NeurIPS 2022.
 	- [Code](https://github.com/futianfan/reinforced-genetic-algorithm) : Last updated in July 2023, 10 months ago
-	- [Publication](https://doi.org/10.48550/arXiv.2211.16508) : Citations: 0.0
+	- [Publication](https://doi.org/10.48550/arXiv.2211.16508) : Citations: 0
 - **SBMolGen**: integrates a recurrent neural network, a Monte Carlo tree search, and docking simulations
 	- [Code](https://github.com/clinfo/SBMolGen) : Last updated in April 2022, 26 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.1c00679) : Citations: 33.0
+	- [Publication](https://doi.org/10.1021/acs.jcim.1c00679) : Citations: 33
 - **SCRdkit**: assesses the 3D similarity between generated molecules and a reference molecule
 	- [Code](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py) : Last updated in January 2022, 29 months ago
-	- [Publication](https://doi.org/10.1101/2021.04.27.441676v1.full) : Citations: 0.0
+	- [Publication](https://doi.org/10.1101/2021.04.27.441676v1.full) : Citations: 0
 - **SECSE**: 
 	- [Code](https://github.com/KeenThera/SECSE) : Last updated in May 2024, 1 months ago
-	- [Publication](https://doi.org/10.1186/s13321-022-00598-4) : Citations: 10.0
+	- [Publication](https://doi.org/10.1186/s13321-022-00598-4) : Citations: 10
 - **SINGA**: SINGA is a Molecular Sampling model with Protein-Ligand Interactions aware Generative Adversarial Network, focusing on generating molecules considering their interactions with proteins.
 	- [Code](https://github.com/Isomorpfishm/SINGA) : Last updated in October 2023, 7 months ago
 - **TargetDiff**: 3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction (standalone, 2024).
 	- [Code](https://github.com/guanjq/targetdiff) : Last updated in July 2023, 11 months ago
-	- [Publication](https://doi.org/10.48550/arXiv.2303.03543) : Citations: 0.0
+	- [Publication](https://doi.org/10.48550/arXiv.2303.03543) : Citations: 0
 
 ## **Dual-target**
 - **Alx-Fuse**: 
 	- [Code](https://github.com/biomed-AI/AIxFuse) : Last updated in December 2023, 5 months ago
-	- [Publication](https://doi.org/10.1101/2023.12.10.571029) : Citations: 0.0
+	- [Publication](https://doi.org/10.1101/2023.12.10.571029) : Citations: 0
 
 ## **Interaction fingerprint constrained**
 - **IFP-RNN**: A molecule generative model used interaction fingerprint (docking pose) as constraints.
@@ -127,4 +127,4 @@
 ## **PROTACs**
 - **PROTACable**: Integrative Computational Pipeline of 3-D Modeling and Deep Learning To Automate the De Novo Design of PROTACs (standalone, published 2024).
 	- [Code](https://github.com/giaguaro/PROTACable/) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1186/s13321-021-00522-2).) : Citations: 0.0
+	- [Publication](https://doi.org/10.1186/s13321-021-00522-2).) : Citations: 0

@@ -2,7 +2,7 @@
 ## **Other Representations**
 - **selfies**: 
 	- [Code](https://github.com/aspuru-guzik-group/selfies) : Last updated in April 2024, 2 months ago
-	- [Publication](https://doi.org/10.1039/D3DD00044C) : Citations: 2.0
+	- [Publication](https://doi.org/10.1039/D3DD00044C) : Citations: 2
 
 ## **SMARTS-related**
 - **SMARTS**: SMARTS is like a regular expression for chemical compounds
@@ -14,7 +14,7 @@
 ## **SMILES-related**
 - **maxsmi**: 
 	- [Code](https://github.com/volkamerlab/maxsmi) : Last updated in October 2022, 19 months ago
-	- [Publication](https://doi.org/10.1016/j.ailsci.2021.100014) : Citations: 5.0
+	- [Publication](https://doi.org/10.1016/j.ailsci.2021.100014) : Citations: 5
 - **SMILESAugmentation**: A tool for augmenting SMILES strings to enhance the performance of machine learning models in cheminformatics.
 	- [Code](https://github.com/jcorreia11/SMILESAugmentation) : Last updated in June 2022, 24 months ago
 - **t-SMILES**: Transforms SMILES strings for improved molecular representation and machine learning model performance.
