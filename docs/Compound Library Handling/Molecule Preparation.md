@@ -18,18 +18,30 @@
 ## Standardization
 - **Ambitcli**: no 3D but Java application for standardization (standalone).
 	- [Link](http://ambit.sourceforge.net/download_ambitcli.html)
+
+## Standardization
 - **ChEMBL_Structure_Pipeline (formerly standardiser)**: 
 	- [Code](https://github.com/chembl/ChEMBL_Structure_Pipeline) : Last updated in October 2023, 7 months ago
 	- [Publication](https://doi.org/10.1186/s13321-020-00456-1) : Citations: 174.0
+
+## Standardization
 - **MolVS**: 
 	- [Code](https://github.com/mcs07/MolVS) : Last updated in March 2019, 63 months ago
+
+## Standardization
 - **QSAR-Ready (KNIME)**: Standardization workflow for QSAR-ready chemical structures pretreatment
 	- [Code](https://github.com/NIEHS/QSAR-ready) : Last updated in May 2020, 49 months ago
+
+## Standardization
 - **Standardiser**: standardize molecules, it requires RDKIt (standalone).
 	- [Code](https://github.com/flatkinson/standardiser) : Last updated in November 2018, 67 months ago
+
+## Standardization
 - **Standardize**: PubChem chemical structure standardization (online).
 	- [Webserver](https://pubchem.ncbi.nlm.nih.gov/standardize)
 	- [Link](https://pubchem.ncbi.nlm.nih.gov/standardize)
+
+## Standardization
 - **Standardized-smiles**: Python script to standardize small molecules (use RDKIT) (standalone).
 	- [Code](https://gist.github.com/jvansan/e331ac29c00806c993b3709ad8d11fce) : Last updated in nan, nan
 

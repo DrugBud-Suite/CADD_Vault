@@ -174,6 +174,8 @@
 - **E3_diffusion**: This project develops equivariant diffusion models for molecule generation in 3D, providing a novel approach to generating molecular structures by leveraging the properties of diffusion models within a 3D space.
 	- [Code](https://github.com/ehoogeboom/e3_diffusion_for_molecules) : Last updated in July 2022, 23 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2203.17003) : Citations: 0.0
+
+## 3D
 - **EMDS**: Equivariant Score-based Generative Diffusion Framework for 3D Molecules.
 	- [Code](https://github.com/nclabhzhang/EMDS) : Last updated in May 2024, 0 months ago
 	- [Publication](https://doi.org/10.1186/s12859-024-05810-w) : Citations: 0.0

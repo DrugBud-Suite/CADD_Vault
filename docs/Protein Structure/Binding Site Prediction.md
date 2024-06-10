@@ -123,18 +123,28 @@
 - **Allo**: a tool for dicriminating and prioritizing allosteric pockets (standalone)
 	- [Code](https://github.com/fibonaccirabbits/allo) : Last updated in August 2018, 70 months ago
 	- [Publication](https://doi.org/10.1111/cbdd.13161) : Citations: 16.0
+
+## Allosteric Site Prediction
 - **AlloReverse**: AlloReverse predicts multi-scale allosteric regulation information based on reversed allosteric communication theory, aiding in drug design and biological mechanism understanding.
 	- [Publication](https://doi.org/10.1093/nar/gkad279) : Citations: 7.0
 	- [Webserver](http://www.allostery.net/AlloReverse/)
+
+## Allosteric Site Prediction
 - **AlloSite**: allosteric site (online)
 	- [Publication](https://doi.org/10.1093/bioinformatics/btt399) : Citations: 148.0
 	- [Webserver](http://mdl.shsmu.edu.cn/AST/)
+
+## Allosteric Site Prediction
 - **APOP**: Predicting Allosteric Pockets in Protein Biological Assemblages (standalone)
 	- [Code](https://github.com/Ambuj-UF/APOP) : Last updated in February 2022, 28 months ago
 	- [Webserver](https://apop.bb.iastate.edu/)
+
+## Allosteric Site Prediction
 - **PASSer**: Designed for accurate allosteric site prediction, PASSer offers three machine learning models for quick and extensive allosteric analysis.
 	- [Publication](https://doi.org/10.1088/2632-2153/abe6d6) : Citations: 36.0
 	- [Webserver](https://passer.smu.edu/)
+
+## Allosteric Site Prediction
 - **PASSerRank**: Prediction of allosteric sites with learning to rank (standalone)
 	- [Code](https://github.com/smu-tao-group/PASSerRank) : Last updated in June 2023, 12 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2302.01117) : Citations: 0.0
@@ -152,13 +162,19 @@
 ## From Molecular Dynamics simulations
 - **CHARMM-GUI LBS Finder & Refiner**: Ligand Binding Site Prediction and Refinement (standalone)
 	- [Link](https://charmm-gui.org/?doc=input/lbsfinder)
+
+## From Molecular Dynamics simulations
 - **ColaBind**: Cloud-Based Approach for Prediction of Binding Sites Using Coarse-Grained Simulations with Molecular Probes
 	- [Code](https://github.com/porekhov/CG_probeMD) : Last updated in March 2024, 3 months ago
 	- [Publication](https://doi.org/10.1073/pnas.2214024119);) : Citations: 0.0
+
+## From Molecular Dynamics simulations
 - **POVME2**: POVME2 identifies druggable protein pockets and their unique conformations within molecular dynamics simulations, facilitating the discovery of novel pharmacologically active molecules.
 	- [Code](https://github.com/durrantlab/POVME/) : Last updated in June 2023, 12 months ago
 	- [Publication](https://doi.org/10.1021%2Fct500381c) : Citations: 201.0
 	- [Link](https://durrantlab.pitt.edu/povme2/)
+
+## From Molecular Dynamics simulations
 - **TACTICS**: machine-learning algorithm (trajectory-based analysis of conformations to identify cryptic sites), which uses an ensemble of molecular structures (such as molecular dynamics simulation data) as input (standalone)
 	- [Code](https://github.com/Albert-Lau-Lab/tactics_protein_analysis) : Last updated in February 2024, 4 months ago
 	- [Publication](https://doi.org/10.1021%2Facs.jcim.1c00204) : Citations: 13.0

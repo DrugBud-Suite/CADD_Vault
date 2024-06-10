@@ -1,4 +1,4 @@
-## Partial Charge Calculation
+## **Partial Charge Calculation**
 - **alphaCharges**: 
 	- [Code](https://github.com/sb-ncbr/AlphaCharges) : Last updated in February 2024, 3 months ago
 	- [Publication](https://doi.org/10.1093/nar/gkad349) : Citations: 1.0

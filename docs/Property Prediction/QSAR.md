@@ -1,4 +1,4 @@
-## Model Building And Training
+## **Model Building And Training**
 - **ChemSAR**: full workflow of building a Structure‑Activity/Property Relationship(SAR/SPR) model (online)
 	- [Link](http://chemsar.scbdd.com/)
 - **FL-QSAR**: an horizontal federated-learning based QSAR platform

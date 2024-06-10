@@ -23,6 +23,11 @@ The [CADD Vault](https://drugbud-suite.github.io/CADD_Vault/) includes resources
 - Fragment-Based Drug Design (FBDD)
 - Datasets for Drug Design
 
+Number of publications: 778  
+Number of code repositories: 713  
+Number of webserver links: 112  
+  
+  
 ## How to Use the Vault
 
 The vault can be accessed here : [Computer-Aided Drug Design (CADD) Vault](https://drugbud-suite.github.io/CADD_Vault/)

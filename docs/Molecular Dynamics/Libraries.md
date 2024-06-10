@@ -12,6 +12,8 @@
 	- [Code](https://github.com/MDAnalysis/mdanalysis) : Last updated in May 2024, 0 months ago
 	- [Publication](https://doi.org/10.25080/majora-629e541a-00e) : Citations: 830.0
 	- [Link](http://www.mdanalysis.org/)
+
+## Analysis
 - **MDTraj**: MDTraj is a Python library for analyzing molecular dynamics trajectories, offering a wide range of functionalities for trajectory manipulation and analysis.
 	- [Code](https://github.com/simtk/mdtraj) : Last updated in June 2024, 0 months ago
 	- [Publication](https://doi.org/10.1016/j.bpj.2015.08.015) : Citations: 1565.0

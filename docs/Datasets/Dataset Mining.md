@@ -1,4 +1,4 @@
-## Chemical
+## **Chemical**
 - **chembl_downloader**: A Python package designed to automatically download and extract versions of the ChemBL database, simplifying data access for research purposes.
 	- [Code](https://github.com/cthoyt/chembl-downloader) : Last updated in January 2024, 4 months ago
 - **chembl_tools**: A collection of scripts to leverage the ChemBL API for retrieving information on compounds, including ChEMBL IDs and target information.

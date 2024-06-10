@@ -1,4 +1,4 @@
-## Druggability Prediction
+## **Druggability Prediction**
 - **DrugnomeAI**: 
 	- [Publication](https://doi.org/10.1038/s42003-022-04245-4) : Citations: 9.0
 	- [Webserver](http://drugnomeai.public.cgr.astrazeneca.com/)

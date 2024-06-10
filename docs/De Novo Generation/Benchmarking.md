@@ -1,4 +1,4 @@
-## Expert Feedback
+## **Expert Feedback**
 - **GuacaMol**: Framework for benchmarking models in de novo molecular design, providing a standard suite of tests to evaluate the performance of generative models in producing molecules with desired properties.
 	- [Code](https://github.com/BenevolentAI/guacamol) : Last updated in July 2022, 23 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.8b00839) : Citations: 386.0

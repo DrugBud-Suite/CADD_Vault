@@ -7,6 +7,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Set the path to the docs folder, which is at the same level as the scripts folder
 docs_dir = os.path.join(script_dir, '../docs')
+readme = os.path.join(script_dir, '../README.md')
 
 
 # Function to clear the docs directory except for specified files
@@ -29,19 +30,20 @@ def update_md_file(file_path, content, subcategory, subsubcategory):
     if not os.path.exists(file_path):
         with open(file_path, 'w', encoding='utf-8') as file:
             if pd.notna(subcategory):
-                file.write(f"## {subcategory}\n")
+                file.write(f"## **{subcategory}**\n")
             if pd.notna(subsubcategory):
-                file.write(f"### {subsubcategory}\n")
+                file.write(f"### **{subsubcategory}**\n")
             file.write(content)
     else:
         with open(file_path, 'a+', encoding='utf-8') as file:
             file.seek(0)
             existing_content = file.read()
             if pd.notna(subcategory
-                        ) and f"## {subcategory}" not in existing_content:
+                        ) and f"## **{subcategory}**" not in existing_content:
                 file.write(f"\n## {subcategory}\n")
-            if pd.notna(subsubcategory
-                        ) and f"### {subsubcategory}" not in existing_content:
+            if pd.notna(
+                    subsubcategory
+            ) and f"### **{subsubcategory}**" not in existing_content:
                 file.write(f"### {subsubcategory}\n")
             file.write(content)
 
@@ -77,8 +79,8 @@ total_code_repos = len(df['CODE'].dropna())
 total_webserver_links = len(df['WEBSERVER'].dropna())
 
 
-def update_index_file(docs_directory, total_publications, total_code_repos,
-                      total_webserver_links):
+def update_index_file(docs_directory, readme, total_publications,
+                      total_code_repos, total_webserver_links):
     index_file_path = os.path.join(docs_directory, "index.md")
     if not os.path.exists(index_file_path):
         print(f"{index_file_path} does not exist.")
@@ -91,13 +93,31 @@ def update_index_file(docs_directory, total_publications, total_code_repos,
         print("The index.md file has less than 5 lines.")
         return
 
-    lines[4] = f"Number of publications: {total_publications}\n"
-    lines[5] = f"Number of code repositories: {total_code_repos}\n"
-    lines[6] = f"Number of webserver links: {total_webserver_links}\n"
+    lines[4] = f"Number of publications: {total_publications}  \n"
+    lines[5] = f"Number of code repositories: {total_code_repos}  \n"
+    lines[6] = f"Number of webserver links: {total_webserver_links}  \n  \n"
 
     with open(index_file_path, "w", encoding='utf-8') as f:
         f.writelines(lines)
 
+    if not os.path.exists(readme):
+        print(f"{readme} does not exist.")
+        return
 
-update_index_file(docs_dir, total_publications, total_code_repos,
+    with open(readme, "r", encoding='utf-8') as f:
+        lines = f.readlines()
+
+    if len(lines) < 5:
+        print("The index.md file has less than 5 lines.")
+        return
+
+    lines[25] = f"Number of publications: {total_publications}  \n"
+    lines[26] = f"Number of code repositories: {total_code_repos}  \n"
+    lines[27] = f"Number of webserver links: {total_webserver_links}  \n"
+
+    with open(readme, "w", encoding='utf-8') as f:
+        f.writelines(lines)
+
+
+update_index_file(docs_dir, readme, total_publications, total_code_repos,
                   total_webserver_links)
