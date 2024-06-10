@@ -1,26 +1,31 @@
 site_name: CADD Vault
 theme:
   name: material
+  language: en
   palette:
-    primary: "grey"
-    accent: "blue"
-    - media: "(prefers-color-scheme: no-preference)"
-      scheme: default
-      toggle:
-        icon: material/brightness-auto
-        name: "Switch to light mode"
+      - media: "(prefers-color-scheme)"
+        scheme: default
+        primary: grey
+        accent: blue
+        toggle:
+          icon: material/brightness-auto
+          name: Switch to light mode
 
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: "Switch to dark mode"
+      - media: "(prefers-color-scheme: light)"
+        scheme: default
+        primary: grey
+        accent: blue
+        toggle:
+          icon: material/brightness-7
+          name: "Switch to dark mode"
 
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: "Switch to system preference"
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        primary: grey
+        accent: blue
+        toggle:
+          icon: material/brightness-4
+          name: Switch to system preference
 
   logo: images/LogoV1.png
   favicon: images/LogoV1.png
