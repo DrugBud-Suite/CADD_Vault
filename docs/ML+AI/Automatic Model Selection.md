@@ -4,13 +4,13 @@
 - **CHVS**: This repository contains Python code for model evaluation in regression tasks, exploring various regression models and helping select the best-performing model for your dataset using PCA and Mutual Information for feature selection.
 	- [Code](https://github.com/Saeedmomo/Consensus_Holistic_Virtual_Screening) : Last updated in June 2024, 0 months ago
 - **PREFER**: The PREFER framework automates the evaluation of different combinations of molecular representations and machine learning models for predicting molecular properties, utilizing AutoSklearn for model selection and hyperparameter tuning.
-	- [Code](https://github.com/rdkit/PREFER) : Last updated in May 2023, 12 months ago
-	- [Publication](https://doi.org/10.1039/C8SC04175J) : Citations: 292
+	- [Code](https://github.com/rdkit/PREFER) : Last updated in May 2023, 13 months ago
+	- [Publication](https://doi.org/10.1039/C8SC04175J) : Citations: 293
 - **ROBERT**: 
-	- [Code](https://github.com/jvalegre/robert) : Last updated in February 2024, 3 months ago
+	- [Code](https://github.com/jvalegre/robert) : Last updated in June 2024, 0 months ago
 	- [Publication](https://doi.org/10.26434/chemrxiv-2023-k994h.) : Citations: 0
 - **SPOC**: An integrated Python package for molecular descriptor generation, data processing, model training, and hyper-parameter optimization, aimed at facilitating the development of predictive models in the field of cheminformatics.
-	- [Code](https://github.com/WhitestoneYang/spoc) : Last updated in January 2024, 4 months ago
+	- [Code](https://github.com/WhitestoneYang/spoc) : Last updated in January 2024, 5 months ago
 	- [Publication](https://doi.org/10.1002/cphc.202200255).) : Citations: 0
 - **TDC**: 
 	- [Code](https://github.com/mims-harvard/TDC) : Last updated in June 2024, 0 months ago

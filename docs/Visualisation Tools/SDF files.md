@@ -1,3 +1,3 @@
 - **DataWarrior**: open-source data visualization and analysis program with embedded chemical intelligence (standalone)
-	- [Publication](https://doi.org/10.1021/ci500588j) : Citations: 1108
+	- [Publication](https://doi.org/10.1021/ci500588j) : Citations: 1112
 	- [Link](http://www.openmolecules.org/datawarrior/download.html)

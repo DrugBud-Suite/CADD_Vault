@@ -1,35 +1,35 @@
 
 ## **ADMET**
 - **Computation-ADME**: 
-	- [Code](https://github.com/molecularinformatics/Computational-ADME) : Last updated in February 2024, 3 months ago
+	- [Code](https://github.com/molecularinformatics/Computational-ADME) : Last updated in February 2024, 4 months ago
 
 ## **Chemical**
 - **ChemBL**: A manually curated database of bioactive molecules with drug-like properties, integrating chemical, bioactivity, and genomic data to aid drug discovery.
-	- [Publication](https://doi.org/10.1093/nar/gkr777) : Citations: 2818
+	- [Publication](https://doi.org/10.1093/nar/gkr777) : Citations: 2823
 	- [Link](https://www.ebi.ac.uk/chembl/)
 - **ChemMine**: A compound mining portal to facilitate drug and agrochemical discovery, offering chemical genomics screens and a toolbox for cheminformatics research.
-	- [Publication](https://doi.org/10.1104/pp.105.062687) : Citations: 50
+	- [Publication](https://doi.org/10.1104/pp.105.062687) : Citations: 51
 	- [Link](http://chemminedb.ucr.edu/)
 - **ChemSpider**: commercially-available compounds
-	- [Publication](https://doi.org/10.1021/ed100697w) : Citations: 813
+	- [Publication](https://doi.org/10.1021/ed100697w) : Citations: 814
 	- [Link](http://www.chemspider.com/)
 - **DrugBank**: Offers structured drug information, including emerging research and novel connections, to support drug discovery, clinical software, and academic research.
-	- [Publication](https://doi.org/10.1093%2Fnar%2Fgkm958) : Citations: 2050
+	- [Publication](https://doi.org/10.1093%2Fnar%2Fgkm958) : Citations: 2053
 	- [Link](https://go.drugbank.com/)
 - **DrugMAP**: a comprehensive structural resource of protein complexes (online)
 	- [Publication](https://doi.org/10.1093/nar/gkac813) : Citations: 44
 	- [Link](https://idrblab.org/drugmap/)
 - **GDB-17**: The GDB-17 database represents a comprehensive collection of hypothetical organic molecules for use in computational chemistry and drug discovery.
-	- [Publication](https://doi.org/10.1021/ci300415d) : Citations: 874
+	- [Publication](https://doi.org/10.1021/ci300415d) : Citations: 877
 	- [Link](https://gdb.unibe.ch/downloads/)
 - **PubChem**: The world's largest collection of freely accessible chemical information, offering chemical and physical properties, biological activities, safety and toxicity information, patents, literature citations, and more.
-	- [Publication](https://doi.org/10.1093/nar/gkac956) : Citations: 727
+	- [Publication](https://doi.org/10.1093/nar/gkac956) : Citations: 750
 	- [Link](https://pubchem.ncbi.nlm.nih.gov/)
 
 ## **Chemical Reactions**
 - **Open Reaction Database**: open access chemical reaction database to support machine learning and related efforts in reaction prediction, chemical synthesis planning, and experiment design
 	- [Code](https://github.com/open-reaction-database/ord-schema) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1021/jacs.1c09820) : Citations: 128
+	- [Publication](https://doi.org/10.1021/jacs.1c09820) : Citations: 129
 	- [Link](https://docs.open-reaction-database.org/en/latest/)
 
 ## **Commercial Libraries**
@@ -40,33 +40,33 @@
 - **Molport**: commercially-available compounds
 	- [Link](https://www.molport.com/shop/index)
 - **Zinc**: a free database of commercially-available compounds
-	- [Publication](https://doi.org/10.1021/acs.jcim.0c00675) : Citations: 357
+	- [Publication](https://doi.org/10.1021/acs.jcim.0c00675) : Citations: 359
 	- [Link](http://zinc15.docking.org/)
 - **ZINC Express**: A Virtual Assistant for Purchasing Compounds Annotated in the ZINC Database (online)
-	- [Publication](https://doi.org/10.1021/acs.jcim.0c00675) : Citations: 357
+	- [Publication](https://doi.org/10.1021/acs.jcim.0c00675) : Citations: 359
 	- [Link](https://zincexpress.mml.unc.edu/)
 - **ZINC20**: 
-	- [Publication](https://doi.org/10.1021/acs.jcim.0c00675) : Citations: 357
+	- [Publication](https://doi.org/10.1021/acs.jcim.0c00675) : Citations: 359
 	- [Link](http://zinc20.docking.org/)
 
 ## **Docking and Scoring Function Benchmarks**
 - **BigBind and BayesBind**: 
 	- [Code](https://github.com/molecularmodelinglab/bigbind) : Last updated in April 2024, 2 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.3c01211) : Citations: 2
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c01211) : Citations: 3
 - **CASF**: CASF offers benchmark packages for the assessment of scoring functions, with versions CASF-2016, CASF-2013, and CASF-2007 available for download upon registration.
-	- [Publication](https://doi.org/10.1021/acs.jcim.8b00545) : Citations: 378
+	- [Publication](https://doi.org/10.1021/acs.jcim.8b00545) : Citations: 383
 	- [Link](http://www.pdbbind.org.cn/casf.php)
 - **DEKOIS**: Provides DEKOIS 2.0, a library of benchmark data sets for objective in silico screening.
-	- [Publication](https://doi.org/10.1021/ci2001549) : Citations: 65
+	- [Publication](https://doi.org/10.1021/ci2001549) : Citations: 66
 	- [Link](http://www.pharmchem.uni-tuebingen.de/dekois/)
 - **Disco**: A default benchmark containing 95 targets selected from the DUD-E Targets list for docking datasets generation.
 	- [Publication](http://disco.csb.pitt.edu/Targets_top1.php?ligands) : Citations: N/A
 - **Lit-PCBA**: A dataset for virtual screening and machine learning with 15 target sets, 7761 actives, and 382674 unique inactives selected from high-confidence PubChem Bioassay data.
-	- [Publication](https://doi.org/10.1021/acs.jcim.0c00155) : Citations: 96
+	- [Publication](https://doi.org/10.1021/acs.jcim.0c00155) : Citations: 98
 	- [Link](https://drugdesign.unistra.fr/LIT-PCBA/index.html)
 - **MF-PCBA**: A repository containing code for downloading, filtering, and assembling the MF-PCBA datasets for machine learning in drug discovery.
-	- [Code](https://github.com/davidbuterez/mf-pcba) : Last updated in May 2023, 12 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.2c01569) : Citations: 7
+	- [Code](https://github.com/davidbuterez/mf-pcba) : Last updated in May 2023, 13 months ago
+	- [Publication](https://doi.org/10.1021/acs.jcim.2c01569) : Citations: 8
 - **MUDB-DecoyMaker2.0**: A Python GUI application to generate maximal unbiased benchmarking sets data sets for virtual drug screening.
 	- [Code](https://github.com/jwxia2014/MUBD-DecoyMaker2.0) : Last updated in October 2023, 7 months ago
 	- [Publication](https://doi.org/10.1002/minf.201900151) : Citations: 10
@@ -83,13 +83,13 @@
 
 ## **GPCRs**
 - **GproteinDb**: The G protein database (online)
-	- [Publication](https://dx.doi.org/10.1093/nar/gkx1109) : Citations: 395
+	- [Publication](https://dx.doi.org/10.1093/nar/gkx1109) : Citations: 396
 	- [Link](https://gproteindb.org/)
 
 ## **Kinases**
 - **CORAL**: Clear and customizable visualization of human kinome data (Kinase) (online)
 	- [Code](https://github.com/dphansti/CORAL) : Last updated in August 2021, 34 months ago
-	- [Publication](http://dx.doi.org/10.1016/j.cels.2018.07.001) : Citations: 118
+	- [Publication](http://dx.doi.org/10.1016/j.cels.2018.07.001) : Citations: 119
 	- [Link](http://phanstiel-lab.med.unc.edu/CORAL/)
 - **KIBA**: An integrated drug–target bioactivity matrix across 52498 chemical compounds and 467 kinase targets (dataset)
 	- [Publication](https://doi.org/doi:10.1021/ci400709d) : Citations: 294
@@ -103,7 +103,7 @@
 - **KinBase**: kinase (online)
 	- [Link](http://kinase.com/web/current/kinbase/)
 - **KinCoRe**: A web resource for protein kinase sequence, structure and phylogeny (online)
-	- [Publication](https://doi.org/10.1101/2023.07.21.550125) : Citations: 11
+	- [Publication](https://doi.org/10.1101/2023.07.21.550125) : Citations: 13
 	- [Link](http://dunbrack.fccc.edu/kincore/)
 - **KinMap**: a web-based tool for interactive navigation through human kinome data (kinase) (online)
 	- [Publication](https://doi.org/10.1186/s12859-016-1433-7) : Citations: 225
@@ -141,7 +141,7 @@
 - **BIOFACQUIM**: novel compounds databse with natural products isolated and charcterized in Mexico (online)
 	- [Link](https://www.difacquim.com/d-tools/)
 - **COCONUT**: COCONUT hosts one of the largest and best annotated natural product databases, freely available and undergoing continuous curation and improvement.
-	- [Publication](https://doi.org/10.1186%2Fs13321-020-00478-9) : Citations: 243
+	- [Publication](https://doi.org/10.1186%2Fs13321-020-00478-9) : Citations: 245
 	- [Link](https://coconut.naturalproducts.net/)
 - **HIT 2.0**: an enhanced platform for Herbal Ingredients' Targets (online)
 	- [Publication](https://doi.org/10.1093/nar/gkq1165) : Citations: 246
@@ -167,7 +167,7 @@
 	- [Publication](https://doi.org/10.1093/nar/gkac1008.) : Citations: 0
 	- [Link](http://bioinf-applied.charite.de/supernatural_new/index.php)
 - **SymMap**: SymMap integrates traditional Chinese medicine with modern medicine through molecular mechanisms and symptom mapping, offering information on herbs, ingredients, targets, symptoms, and diseases.
-	- [Publication](https://doi.org/10.1186/s13321-020-00478-9) : Citations: 243
+	- [Publication](https://doi.org/10.1186/s13321-020-00478-9) : Citations: 245
 	- [Link](http://www.symmap.org/)
 - **TCM Database@Taiwan**: the world's largest traditional Chinese medicine database for drug screening in silico (online)
 	- [Link](http://tcm.cmu.edu.tw/)
@@ -185,7 +185,7 @@
 
 ## **Properties**
 - **MoleculeNet**: - Selection of data sets of molecules (SMILES) and physicochemical properties
-	- [Code](https://github.com/GLambard/Molecules_Dataset_Collection?tab=readme-ov-file) : Last updated in June 2018, 72 months ago
+	- [Code](https://github.com/GLambard/Molecules_Dataset_Collection?tab=readme-ov-file) : Last updated in June 2018, 73 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.1703.00564) : Citations: 0
 
 ## **Protein Sequences**
@@ -195,7 +195,7 @@
 
 ## **Protein Structures**
 - **PDB**: The RCSB Protein Data Bank provides access to experimentally determined 3D structures from the PDB archive and computed structure models, offering tools for exploration, visualization, and analysis.
-	- [Publication](https://doi.org/10.1093/nar/28.1.235) : Citations: 28739
+	- [Publication](https://doi.org/10.1093/nar/28.1.235) : Citations: 28786
 	- [Link](https://www.rcsb.org/)
 - **PDB-redo**: Offers optimized versions of PDB entries through an automated procedure that refines, rebuilds, and validates structural models, combining popular crystallographic software with specially developed tools.
 	- [Publication](https://doi.org/10.1107/s0907444911054515) : Citations: 185
@@ -203,19 +203,19 @@
 
 ## **Protein Targets**
 - **OpenTargets**: A partnership to transform drug discovery through the systematic identification and prioritisation of targets
-	- [Publication](https://doi.org/10.1093/nar/gkw1055) : Citations: 347
+	- [Publication](https://doi.org/10.1093/nar/gkw1055) : Citations: 348
 	- [Link](https://www.opentargets.org/)
 
 ## **Protein-Ligand Interaction**
 - **BindingDB**: BindingDB contains data for over 1.2 million compounds and 9.2k targets, supporting research, education, and practice in drug discovery, pharmacology, and related fields.
-	- [Publication](https://doi.org/10.1093/nar/gkv1072) : Citations: 978
+	- [Publication](https://doi.org/10.1093/nar/gkv1072) : Citations: 979
 	- [Link](https://www.bindingdb.org/bind/index.jsp)
 - **BindingNet**: BindingNet is a dataset for analyzing protein-ligand interactions, containing modeled poses for compounds similar to the crystal ligands found in PDBbind, along with corresponding activities from ChEMBL.
 	- [Code](https://github.com/hnlab/BindingNet) : Last updated in January 2024, 5 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.3c01170) : Citations: 1
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c01170) : Citations: 2
 	- [Link](http://bindingnet.huanglab.org.cn/)
 - **BioLip2**: BioLiP is a semi-manually curated database for high-quality, biologically relevant ligand-protein binding interactions, aiming to serve the needs of ligand-protein docking, virtual ligand screening, and protein function annotation.
-	- [Publication](https://doi.org/10.1093/nar/gkad630) : Citations: 12
+	- [Publication](https://doi.org/10.1093/nar/gkad630) : Citations: 13
 	- [Link](https://zhanggroup.org/BioLiP/index.cgi)
 - **Leak Proof PDBBind**: This work presents a cleaned PDBBind dataset of non-covalent binders, reorganized to avoid data leakage, allowing for more generalizable binding affinity prediction.
 	- [Code](https://github.com/THGLab/LP-PDBBind) : Last updated in January 2024, 4 months ago

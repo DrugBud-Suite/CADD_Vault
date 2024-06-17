@@ -1,5 +1,5 @@
 - **Balloon**: tools to predict 3D structure of small molecules (standalone).
-	- [Publication](https://doi.org/10.1021/ci6005646) : Citations: 315
+	- [Publication](https://doi.org/10.1021/ci6005646) : Citations: 316
 	- [Link](http://users.abo.fi/mivainio/balloon/)
 - **confgen-webapp**: A simple web application for generating small ligand conformers for docking purposes using RDKit, accessible at **[http://confgen.net](http://confgen.net/)**.
 	- [Code](https://github.com/Et9797/confgen-webapp) : Last updated in November 2023, 7 months ago

@@ -1,5 +1,5 @@
 - **awesome-molecular-docking**: 
-	- [Code](https://github.com/yangnianzu0515/awesome-molecular-docking) : Last updated in February 2023, 15 months ago
+	- [Code](https://github.com/yangnianzu0515/awesome-molecular-docking) : Last updated in February 2023, 16 months ago
 - **awesome-python-chemistry**: 
 	- [Code](https://github.com/lmmentel/awesome-python-chemistry) : Last updated in May 2024, 0 months ago
 - **awesome-small-molecule-ml**: 

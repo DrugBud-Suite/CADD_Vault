@@ -1,7 +1,7 @@
 
 ## **Complete Package**
 - **SPOC**: A tool for calculating spatial and physicochemical descriptors from molecular dynamics simulations.
-	- [Code](https://github.com/WhitestoneYang/spoc) : Last updated in January 2024, 4 months ago
+	- [Code](https://github.com/WhitestoneYang/spoc) : Last updated in January 2024, 5 months ago
 	- [Publication](https://doi.org/10.1002/cphc.202200255) : Citations: 14
 
 ## **Model Building And Training**
@@ -9,7 +9,7 @@
 	- [Code](https://github.com/Merck/DeepNeuralNet-QSAR) : Last updated in October 2018, 68 months ago
 - **DeepPurpose**: A Deep Learning Library for Compound and Protein Modeling, DTI, Drug Property, PPI, DDI, Protein Function Prediction
 	- [Code](https://github.com/kexinhuang12345/DeepPurpose) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1093/bioinformatics/btaa1005) : Citations: 175
+	- [Publication](https://doi.org/10.1093/bioinformatics/btaa1005) : Citations: 176
 - **MolE**: Molecular representations through redundancy reduction of Embeddings
 	- [Code](https://github.com/rolayoalarcon/MolE) : Last updated in April 2024, 2 months ago
 	- [Publication](https://doi.org/10.1101/2024.03.11.584456v1) : Citations: 0
@@ -17,7 +17,7 @@
 	- [Code](https://github.com/XinhaoLi74/MolPMoFiT) : Last updated in August 2022, 21 months ago
 	- [Publication](https://doi.org/10.1186/s13321-020-00430-x) : Citations: 74
 - **Oloren ChemEngine**: unified API for the development and use of molecular property predictors
-	- [Code](https://github.com/Oloren-AI/olorenchemengine/tree/master) : Last updated in August 2023, 9 months ago
+	- [Code](https://github.com/Oloren-AI/olorenchemengine/tree/master) : Last updated in August 2023, 10 months ago
 - **PGM**: 
 	- [Code](https://zenodo.org/records/10071500) : Last updated in nan, nan
 	- [Publication](https://www.nature.com/articles/s42004-024-01169-4.pdf) : Citations: N/A
@@ -26,7 +26,7 @@
 	- [Publication](https://doi.org/10.1021/acs.jcim.0c01342) : Citations: 13
 - **ZairaChem**: Automated ML-based (Q)SAR
 	- [Code](https://github.com/ersilia-os/zaira-chem) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1038/s41467-023-41512-2) : Citations: 12
+	- [Publication](https://doi.org/10.1038/s41467-023-41512-2) : Citations: 13
 ### **CNN**
 - **conv_qsar_fast**: QSAR/QSPR using descriptor-free molecular embedding
 	- [Code](https://github.com/connorcoley/conv_qsar_fast) : Last updated in June 2017, 85 months ago
@@ -34,20 +34,20 @@
 - **FewGS**: This repository contains source code and datasets for "Few-Shot Graph and SMILES Learning for Molecular Property Prediction."
 	- [Code](https://github.com/zixiaodan-99/FewGS) : Last updated in July 2022, 23 months ago
 - **Few-Shot-Learning-for-Low-Data-Drug-Discovery**: 
-	- [Code](https://github.com/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery) : Last updated in June 2022, 23 months ago
+	- [Code](https://github.com/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery) : Last updated in June 2022, 24 months ago
 	- [Publication](https://doi.org/10.1021/acscentsci.6b00367).) : Citations: 0
 - **FS-Mol**: A Few-Shot Learning Dataset of Molecules
 	- [Code](https://github.com/microsoft/FS-Mol/) : Last updated in December 2021, 30 months ago
 	- [Publication](https://arxiv.org/abs/2002.08264v1) : Citations: N/A
 - **Meta-MGNN**: 
-	- [Code](https://github.com/zhichunguo/Meta-MGNN) : Last updated in February 2023, 15 months ago
+	- [Code](https://github.com/zhichunguo/Meta-MGNN) : Last updated in February 2023, 16 months ago
 - **MHNfs**: Context-enriched molecule representations improve few-shot drug discovery, available on **[HuggingFace](https://huggingface.co/spaces/ml-jku/mhnfs)**
-	- [Code](https://github.com/ml-jku/MHNfs?tab=readme-ov-file#setup) : Last updated in April 2024, 1 months ago
+	- [Code](https://github.com/ml-jku/MHNfs?tab=readme-ov-file#setup) : Last updated in April 2024, 2 months ago
 	- [Publication](https://openreview.net/pdf?id=XrMWUuEevr) : Citations: N/A
 - **MolFesCue**: molecular property prediction in Data-Limited and imbalanced contexts using Few-Shot and contrastive learning
 	- [Code](https://github.com/zhangruochi/MolFeSCue) : Last updated in June 2024, 0 months ago
 - **PG-DERN**: 
-	- [Code](https://github.com/Bombtsti/PG-DERN) : Last updated in March 2024, 2 months ago
+	- [Code](https://github.com/Bombtsti/PG-DERN) : Last updated in March 2024, 3 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2107.07994) : Citations: 0
 ### **GAT**
 - **LGGA**: 
@@ -64,9 +64,9 @@
 	- [Publication](https://doi.org/10.1038/s42004-024-01155-w) : Citations: 0
 - **MolCLR**: Molecular Contrastive Learning of Representations via Graph Neural Networks
 	- [Code](https://github.com/yuyangw/MolCLR) : Last updated in July 2022, 23 months ago
-	- [Publication](https://doi.org/10.1038/s42256-022-00447-x) : Citations: 207
+	- [Publication](https://doi.org/10.1038/s42256-022-00447-x) : Citations: 210
 - **molgraph**: Offers graph neural networks with TensorFlow and Keras for molecular machine learning, focusing on compatibility and ease of use.
-	- [Code](https://github.com/akensert/molgraph) : Last updated in May 2024, 0 months ago
+	- [Code](https://github.com/akensert/molgraph) : Last updated in June 2024, 0 months ago
 ### **Graph-Fusion**
 - **MolProp**: 
 	- [Code](https://github.com/merck/MolPROP) : Last updated in June 2024, 0 months ago
@@ -77,14 +77,14 @@
 	- [Publication](https://doi.org/10.48550/arXiv.2203.04810) : Citations: 0
 ### **Other NN**
 - **ChemProp**: Features a deep learning approach for molecular property prediction, focusing on scalability and fast uncertainty quantification.
-	- [Code](https://github.com/aamini/chemprop) : Last updated in July 2021, 34 months ago
+	- [Code](https://github.com/aamini/chemprop) : Last updated in July 2021, 35 months ago
 	- [Publication](https://doi.org/10.1021/acscentsci.1c00546) : Citations: 80
 - **GeminiMol**: Incorporates conformational space profile into molecular representation learning, enhancing drug discovery including virtual screening, target identification, and QSAR.
 	- [Code](https://github.com/Wang-Lin-boop/GeminiMol) : Last updated in June 2024, 0 months ago
 	- [Publication](https://doi.org/10.1101/2023.12.14.571629) : Citations: 0
 ### **Transformer**
 - **ChemBERTa**: BERT-like models applied to chemical SMILES data for drug design, chemical modelling, and property prediction
-	- [Code](https://github.com/seyonechithrananda/bert-loves-chemistry) : Last updated in October 2022, 19 months ago
+	- [Code](https://github.com/seyonechithrananda/bert-loves-chemistry) : Last updated in October 2022, 20 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2209.01712) : Citations: 0
 - **GPT-MolBERTa**: A text-based molecular property prediction model utilizing a novel approach to represent SMILES molecules.
 	- [Code](https://github.com/Suryanarayanan-Balaji/GPT-MolBERTa) : Last updated in November 2023, 7 months ago

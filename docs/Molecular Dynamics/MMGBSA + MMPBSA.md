@@ -7,7 +7,7 @@
 	- [Code](https://github.com/sahakyanhk/iPBSA) : Last updated in October 2023, 8 months ago
 	- [Publication](https://doi.org/10.1007/s10822-021-00389-3) : Citations: 40
 - **Uni-GBSA**: open-source and web-based automatic workflow to perform MM/GB(PB)SA calculations for virtual screening (online)
-	- [Code](https://github.com/dptech-corp/Uni-GBSA) : Last updated in August 2023, 9 months ago
+	- [Code](https://github.com/dptech-corp/Uni-GBSA) : Last updated in August 2023, 10 months ago
 	- [Publication](https://doi.org/10.1093/bib/bbad218/7199492) : Citations: 0
 	- [Link](https://labs.dp.tech/projects/uni-gbsa/)
 - **VAD-MM/GBSA**: webserver (VDGB) for protein-ligand binding free energy prediction by the variable atomic dielectric MM/GBSA method (online).

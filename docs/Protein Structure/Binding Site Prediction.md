@@ -13,7 +13,7 @@
 	- [Code](https://github.com/i-Molecule/bitenet) : Last updated in March 2021, 39 months ago
 	- [Publication](https://doi.org/10.5281/zenodo.4043664) : Citations: 0
 - **Caviar**: Protein cavity identification and automatic subpocket decomposition (standalone)
-	- [Code](https://github.com/jr-marchand/caviar) : Last updated in February 2023, 15 months ago
+	- [Code](https://github.com/jr-marchand/caviar) : Last updated in February 2023, 16 months ago
 	- [Publication](https://doi.org/10.26434/chemrxiv.12806819) : Citations: 0
 - **CavityPlus**: A web server for protein cavity detection with pharmacophore modeling, allosteric site identification, and covalent ligand binding ability prediction.
 	- [Code](https://github.com/PKUMDL2017/CavityPlus?tab=readme-ov-file) : Last updated in April 2018, 74 months ago
@@ -22,7 +22,7 @@
 	- [Publication](https://doi.org/10.1093/nar/gky439) : Citations: 162
 	- [Webserver](https://zhanggroup.org/COACH/)
 - **ConCavity**: prediction from protein sequence and structure (geometry-based) (online)
-	- [Publication](https://doi.org/10.1371/journal.pcbi.1000585) : Citations: 338
+	- [Publication](https://doi.org/10.1371/journal.pcbi.1000585) : Citations: 339
 	- [Webserver](http://compbio.cs.princeton.edu/concavity)
 - **CRAFT**: cavity prediction tool based on flow transfer algorithm (standalone), 2024.
 	- [Code](https://github.com/PGlab-NIPER/CRAFT/) : Last updated in December 2023, 5 months ago
@@ -37,19 +37,19 @@
 - **DeepSite**: 
 	- [Webserver](http://www.playmolecule.org/)
 - **DeepSurf**: a surface-based deep learning approach for the prediction of ligand binding sites on proteins (standalone)
-	- [Code](https://github.com/stemylonas/DeepSurf.git) : Last updated in December 2022, 17 months ago
+	- [Code](https://github.com/stemylonas/DeepSurf.git) : Last updated in December 2022, 18 months ago
 	- [Publication](https://doi.org/10.1093/bioinformatics/btab009) : Citations: 62
 - **DogSiteScorer**: This proteins.plus platform offers DogSiteScorer for predicting and scoring protein-ligand binding sites.
-	- [Publication](https://doi.org/10.1093/bioinformatics/bts310) : Citations: 369
+	- [Publication](https://doi.org/10.1093/bioinformatics/bts310) : Citations: 373
 	- [Webserver](https://proteins.plus/)
 - **ESSA**: Essential site scanning analysis: A new approach for detecting sites that modulate the dispersion of protein global motions (Essential sites are defined as residues that would significantly alter the protein’s global dynamics if bound to a ligand) (standalone)
 	- [Publication](https://doi.org/10.1016/j.csbj.2020.06.020) : Citations: 39
 	- [Link](http://prody.csb.pitt.edu/tutorials/essa_tutorial/)
 - **fpocket**: mainly geometry-based (standalone)
 	- [Code](https://github.com/Discngine/fpocket) : Last updated in April 2024, 2 months ago
-	- [Publication](https://doi.org/10.1186/1471-2105-10-168) : Citations: 968
+	- [Publication](https://doi.org/10.1186/1471-2105-10-168) : Citations: 970
 - **FPocketWeb**: FpocketWeb is a browser app for identifying pockets on protein surfaces where small-molecule ligands might bind, running calculations locally on the user's computer.
-	- [Code](https://github.com/durrantlab/fpocketweb/) : Last updated in July 2022, 22 months ago
+	- [Code](https://github.com/durrantlab/fpocketweb/) : Last updated in July 2022, 23 months ago
 	- [Publication](https://doi.org/10.1186/s13321-022-00637-0) : Citations: 7
 	- [Link](https://durrantlab.pitt.edu/fpocketweb-download/)
 - **FrustraPocket**: A protein–ligand binding site predictor using energetic local frustration (standalone)
@@ -59,10 +59,10 @@
 	- [Code](https://github.com/NRGlab/Get_Cleft) : Last updated in January 2019, 65 months ago
 	- [Link](http://biophys.umontreal.ca/nrg/resources.html)
 - **Graphsite-classifier**: deep graph neural network to classify ligand-binding sites on proteins (standalone)
-	- [Code](https://github.com/shiwentao00/Graphsite-classifier) : Last updated in December 2022, 17 months ago
+	- [Code](https://github.com/shiwentao00/Graphsite-classifier) : Last updated in December 2022, 18 months ago
 	- [Publication](https://doi.org/10.3390/biom12081053) : Citations: 4
 - **GrASP**: GrASP (Graph Attention Site Prediction) identifies druggable binding sites using graph neural networks with attention.
-	- [Code](https://github.com/tiwarylab/GrASP/tree/main) : Last updated in May 2024, 0 months ago
+	- [Code](https://github.com/tiwarylab/GrASP/tree/main) : Last updated in May 2024, 1 months ago
 	- [Publication](https://doi.org/10.1101/2023.07.25.550565) : Citations: 3
 - **GRaSP-py**: a graph-based residue neighborhood strategy to predict binding sites (standalone)
 	- [Code](https://github.com/charles-abreu/GRaSP) : Last updated in December 2021, 30 months ago
@@ -73,10 +73,10 @@
 	- [Publication](https://doi.org/10.1186/s13321-024-00821-4) : Citations: 0
 - **Kalasanty**: Improving detection of protein-ligand binding sites with 3D segmentation (standalone)
 	- [Code](http://gitlab.com/cheminfIBB/kalasanty) : Last updated in nan, nan
-	- [Publication](https://doi.org/10.1038/s41598-020-61860-z) : Citations: 60
+	- [Publication](https://doi.org/10.1038/s41598-020-61860-z) : Citations: 61
 - **P2rank**: P2Rank is a machine learning-based tool for predicting ligand-binding sites from protein structures, capable of handling various structure formats including AlphaFold models.
 	- [Code](https://github.com/rdk/p2rank) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1186/s13321-018-0285-8) : Citations: 208
+	- [Publication](https://doi.org/10.1186/s13321-018-0285-8) : Citations: 209
 - **POCASA**: geometry-based, pockets and cavities, volume... (online)
 	- [Publication](https://doi.org/10.1111%2Fcgf.13158) : Citations: 32
 	- [Webserver](http://altair.sci.hokudai.ac.jp/g6/service/pocasa/)
@@ -84,7 +84,7 @@
 	- [Link](http://sourceforge.net/projects/papca/)
 - **PocketDruggability**: A model that predicts the “attainable binding affinity” for a given binding pocket on a protein; this model relies on 13 physiochemical and structural features calculated using the protein structure (standalone)
 	- [Code](https://github.com/ShipraMalhotra/PocketDruggability) : Last updated in April 2020, 50 months ago
-	- [Publication](https://doi.org/10.1021/ci5006004) : Citations: 75
+	- [Publication](https://doi.org/10.1021/ci5006004) : Citations: 76
 - **PocketQuery**: energy-based (online)
 	- [Publication](https://doi.org/10.1093/nar/gks336) : Citations: 70
 	- [Webserver](http://pocketquery.csb.pitt.edu/upload.html)
@@ -92,12 +92,12 @@
 	- [Code](https://github.com/PointSite/PointSite) : Last updated in April 2020, 50 months ago
 	- [Publication](https://doi.org/10.1101/831131) : Citations: 1
 - **PrankWeb 3**: accelerated ligand-binding site predictions for experimental and modelled protein structures (online)
-	- [Publication](https://doi.org/10.1093/nar/gkz424) : Citations: 223
+	- [Publication](https://doi.org/10.1093/nar/gkz424) : Citations: 225
 	- [Link](https://prankweb.cz/)
 - **ProteinPocketDetection**: Protein pocket detection via convex hull surface evolution and associated Reeb graph (standalone)
 	- [Code](https://github.com/rdzhao/ProteinPocketDetection) : Last updated in May 2018, 73 months ago
 - **PUResNet**: Predicting protein-ligand binding sites using deep convolutional neural network (binding pocket) (standalone)
-	- [Code](https://github.com/jivankandel/PUResNet) : Last updated in January 2024, 4 months ago
+	- [Code](https://github.com/jivankandel/PUResNet) : Last updated in January 2024, 5 months ago
 	- [Publication](https://doi.org/10.1186/s13321-021-00547-7) : Citations: 54
 	- [Webserver](https://nsclbio.jbnu.ac.kr/tools/jmol)
 - **pyKVFinder**: Python package for biomolecular cavity detection and characterization in data science (standalone)
@@ -107,21 +107,25 @@
 	- [Publication](https://doi.org/10.1101/816702) : Citations: 28
 	- [Link](https://schlessinger-lab.github.io/pyvol/introduction.html)
 - **SGPocket**: A Graph Convolutional Neural Network to predict protein binding site.
-	- [Code](https://github.com/KevinCrp/SGPocket) : Last updated in November 2023, 6 months ago
+	- [Code](https://github.com/KevinCrp/SGPocket) : Last updated in November 2023, 7 months ago
 	- [Publication](https://doi.org/10.2174/0109298673289137240304165758) : Citations: 0
 - **SiteFerret**: beyond simple pocket identification in proteins (standalone)
-	- [Code](https://github.com/concept-lab/SiteFerret) : Last updated in March 2023, 14 months ago
-	- [Publication](https://doi.org/10.1371/journal.pone.0059744) : Citations: 90
+	- [Code](https://github.com/concept-lab/SiteFerret) : Last updated in March 2023, 15 months ago
+	- [Publication](https://doi.org/10.1371/journal.pone.0059744) : Citations: 91
 - **SiteHound-web**: energy-based (send chemical probes) (online)
 	- [Publication](https://doi.org/10.1093%2Fnar%2Fgkp281) : Citations: 162
 	- [Webserver](http://scbx.mssm.edu/sitehound/sitehound-web/Input.html)
 - **SplitPocket**: geometry-based (online)
 	- [Publication](https://doi.org/10.1093/nar/gkp308) : Citations: 31
 	- [Webserver](http://pocket.med.wayne.edu/patch/)
+- **PUResNetV2.0**: state-of-the-art deep learning model designed to predict ligand binding sites in protein structures.
+	- [Code](https://github.com/jivankandel/PUResNetV2.0) : Last updated in June 2024, 0 months ago
+	- [Publication](https://doi.org/10.1186/s13321-024-00865-6) : Citations: 0
+	- [Webserver](https://nsclbio.jbnu.ac.kr/tools/jmol/docs)
 
 ## **Allosteric Site Prediction**
 - **Allo**: a tool for dicriminating and prioritizing allosteric pockets (standalone)
-	- [Code](https://github.com/fibonaccirabbits/allo) : Last updated in August 2018, 70 months ago
+	- [Code](https://github.com/fibonaccirabbits/allo) : Last updated in August 2018, 71 months ago
 	- [Publication](https://doi.org/10.1111/cbdd.13161) : Citations: 16
 - **AlloReverse**: AlloReverse predicts multi-scale allosteric regulation information based on reversed allosteric communication theory, aiding in drug design and biological mechanism understanding.
 	- [Publication](https://doi.org/10.1093/nar/gkad279) : Citations: 7
@@ -157,7 +161,7 @@
 	- [Publication](https://doi.org/10.1073/pnas.2214024119);) : Citations: 0
 - **POVME2**: POVME2 identifies druggable protein pockets and their unique conformations within molecular dynamics simulations, facilitating the discovery of novel pharmacologically active molecules.
 	- [Code](https://github.com/durrantlab/POVME/) : Last updated in June 2023, 12 months ago
-	- [Publication](https://doi.org/10.1021%2Fct500381c) : Citations: 201
+	- [Publication](https://doi.org/10.1021%2Fct500381c) : Citations: 202
 	- [Link](https://durrantlab.pitt.edu/povme2/)
 - **TACTICS**: machine-learning algorithm (trajectory-based analysis of conformations to identify cryptic sites), which uses an ensemble of molecular structures (such as molecular dynamics simulation data) as input (standalone)
 	- [Code](https://github.com/Albert-Lau-Lab/tactics_protein_analysis) : Last updated in February 2024, 4 months ago

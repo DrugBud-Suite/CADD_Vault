@@ -27,7 +27,7 @@
 - **Molecular modeling course**: 
 	- [Link](https://dasher.wustl.edu/chem478/)
 - **Practical Chemoinformatics**: tutorials in chemoinformatics (standalone)
-	- [Code](https://github.com/PatWalters/practical_cheminformatics_tutorials) : Last updated in May 2024, 0 months ago
+	- [Code](https://github.com/PatWalters/practical_cheminformatics_tutorials) : Last updated in May 2024, 1 months ago
 - **Practical Deep Learning**: open courses - training in ML and AI (standalone)
 	- [Link](https://course.fast.ai/)
 - **Python for chemoinformatics**: 
@@ -35,7 +35,7 @@
 - **Simulation in Chemistry and Biochemistry**: 
 	- [Link](https://dasher.wustl.edu/chem430/)
 - **teachmecadd**: repository intended for tutorials related to computational drug discovery.
-	- [Code](https://github.com/med-sci/teachmecadd/tree/feature/tutorials) : Last updated in January 2022, 28 months ago
+	- [Code](https://github.com/med-sci/teachmecadd/tree/feature/tutorials) : Last updated in January 2022, 29 months ago
 - **TeachOpenCADD**: 
 	- [Code](https://github.com/volkamerlab/TeachOpenCADD) : Last updated in June 2023, 11 months ago
 - **TeachOpenCADD**: a teaching platform offering tutorials on central topics in cheminformatics and structural bioinformatics.

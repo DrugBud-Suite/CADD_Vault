@@ -1,18 +1,18 @@
 - **FewGS**: This repository contains source code and datasets for "Few-Shot Graph and SMILES Learning for Molecular Property Prediction."
 	- [Code](https://github.com/zixiaodan-99/FewGS) : Last updated in July 2022, 23 months ago
 - **Few-Shot-Learning-for-Low-Data-Drug-Discovery**: 
-	- [Code](https://github.com/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery) : Last updated in June 2022, 23 months ago
+	- [Code](https://github.com/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery) : Last updated in June 2022, 24 months ago
 	- [Publication](https://doi.org/10.1021/acscentsci.6b00367).) : Citations: 0
 - **FS-Mol**: A Few-Shot Learning Dataset of Molecules
 	- [Code](https://github.com/microsoft/FS-Mol/) : Last updated in December 2021, 30 months ago
 	- [Publication](https://arxiv.org/abs/2002.08264v1) : Citations: N/A
 - **Meta-MGNN**: 
-	- [Code](https://github.com/zhichunguo/Meta-MGNN) : Last updated in February 2023, 15 months ago
+	- [Code](https://github.com/zhichunguo/Meta-MGNN) : Last updated in February 2023, 16 months ago
 - **MHNfs**: Context-enriched molecule representations improve few-shot drug discovery, available on **[HuggingFace](https://huggingface.co/spaces/ml-jku/mhnfs)**
-	- [Code](https://github.com/ml-jku/MHNfs?tab=readme-ov-file#setup) : Last updated in April 2024, 1 months ago
+	- [Code](https://github.com/ml-jku/MHNfs?tab=readme-ov-file#setup) : Last updated in April 2024, 2 months ago
 	- [Publication](https://openreview.net/pdf?id=XrMWUuEevr) : Citations: N/A
 - **MolFesCue**: molecular property prediction in Data-Limited and imbalanced contexts using Few-Shot and contrastive learning
 	- [Code](https://github.com/zhangruochi/MolFeSCue) : Last updated in June 2024, 0 months ago
 - **PG-DERN**: 
-	- [Code](https://github.com/Bombtsti/PG-DERN) : Last updated in March 2024, 2 months ago
+	- [Code](https://github.com/Bombtsti/PG-DERN) : Last updated in March 2024, 3 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2107.07994) : Citations: 0

@@ -5,22 +5,22 @@
 	- [Publication](https://doi.org/10.1021/acs.jcim.2c01499) : Citations: 4
 	- [Link](https://affinity.cuhk.edu.cn/)
 - **Arpeggio**: A webserver for calculating interatomic interactions in protein structures (online & standalone)
-	- [Publication](https://doi.org/10.1016/j.jmb.2016.12.004) : Citations: 337
+	- [Publication](https://doi.org/10.1016/j.jmb.2016.12.004) : Citations: 338
 	- [Webserver](http://biosig.unimelb.edu.au/arpeggioweb/)
 - **BAlaS**: fast, interactive and accessible computational alanine-scanning using BudeAlaScan (online)
 	- [Code](https://github.com/wells-wood-research/balas) : Last updated in March 2021, 39 months ago
 	- [Publication](https://doi.org/10.1093/bioinformatics/btaa026) : Citations: 42
 - **Cluspro**: protein docking (online)
-	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1949
+	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1963
 	- [Webserver](https://cluspro.bu.edu/login.php)
 - **ClusPro FMFT-SAXS**: Ultra-fast Filtering Using Small-Angle X-ray Scattering Data in Protein Docking (online and standalone)
-	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1949
+	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1963
 	- [Link](https://beta.cluspro.org/)
 - **ClusPro TBM**: Toward combining template-based methods with free docking (protein-protein docking) (online)
-	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1949
+	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1963
 	- [Link](https://tbm.cluspro.org/)
 - **ClusPro-DC**: discrimination between Xray and biological dimers (online requires login)
-	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1949
+	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1963
 	- [Webserver](https://cluspro.bu.edu/)
 - **CoDockPP**: A Multistage Approach for Global and Site-Specific Protein-Protein Docking (online)
 	- [Publication](https://doi.org/10.1021/acs.jcim.9b00445) : Citations: 30
@@ -62,7 +62,7 @@
 	- [Webserver](http://filtrest3d.genesilico.pl/filtrest3d/help.html)
 - **FoldDock**: simultaneous folding and docking protocol FoldDock and AlphaFold (standalone)
 	- [Code](https://gitlab.com/ElofssonLab/FoldDock/) : Last updated in nan, nan
-	- [Publication](http://dx.doi.org/10.1038/s41467-022-28865-w) : Citations: 376
+	- [Publication](http://dx.doi.org/10.1038/s41467-022-28865-w) : Citations: 384
 - **FRODOCK**: Fast Rotational DOCKing (online)
 	- [Publication](https://doi.org/10.1093/bioinformatics/btw141) : Citations: 117
 	- [Webserver](http://frodock.chaconlab.org/)
@@ -76,7 +76,7 @@
 	- [Publication](https://doi.org/10.1038%2Fsrep32153) : Citations: 94
 	- [Webserver](http://galaxy.seoklab.org/cgi-bin/submit.cgi?type=COMPLEX)
 - **GalaxyTongDock**: Symmetric and asymmetric ab initio protein-protein docking web server with improved energy parameters (online)
-	- [Publication](https://doi.org/10.1093/nar/gks493) : Citations: 597
+	- [Publication](https://doi.org/10.1093/nar/gks493) : Citations: 600
 	- [Link](http://galaxy.seoklab.org/tongdock)
 - **GRAMM**: Protein-Protein Docking Web Server (online)
 	- [Publication](https://doi.org/10.1007/978-1-0716-3441-7_5) : Citations: 4
@@ -91,10 +91,10 @@
 	- [Publication](https://doi.org/10.21769%2FBioProtoc.3793) : Citations: 7
 	- [Webserver](http://haddock.chem.uu.nl/)
 - **HawkDock**: to predict and analyze the protein-protein complex based on computational docking and MM/GBSA (online)
-	- [Publication](https://doi.org/10.1093/nar/gkz397) : Citations: 339
+	- [Publication](https://doi.org/10.1093/nar/gkz397) : Citations: 342
 	- [Link](http://cadd.zju.edu.cn/hawkdock/)
 - **HDOCK**: hybrid protein–protein and protein–DNA/RNA docking, Pushing the accuracy limit of shape complementarity for protein-protein docking (online)
-	- [Publication](https://doi.org/10.1093%2Fnar%2Fgkx407) : Citations: 690
+	- [Publication](https://doi.org/10.1093%2Fnar%2Fgkx407) : Citations: 696
 	- [Link](http://hdock.phys.hust.edu.cn/)
 - **HMI-PRED**: A Web Server for Structural Prediction of Host-Microbe Interactions Based on Interface Mimicry (online)
 	- [Publication](https://doi.org/10.1093/bioinformatics/btac633) : Citations: 1
@@ -126,16 +126,16 @@
 	- [Publication](https://doi.org/10.1021/acs.jproteome.2c00020) : Citations: 28
 	- [Webserver](https://protdcal.zmb.uni-due.de/PPIAffinity)
 - **PRODIGY**: PROtein binDIng enerGY prediction (online)
-	- [Publication](https://doi.org/10.1093/bioinformatics/btw514) : Citations: 754
+	- [Publication](https://doi.org/10.1093/bioinformatics/btw514) : Citations: 759
 	- [Webserver](https://wenmr.science.uu.nl/prodigy/)
 - **PRODIGY-crystal**: classification of biological interfaces in protein complexes (online)
 	- [Publication](https://doi.org/10.1093/bioinformatics/btz437) : Citations: 27
 	- [Link](https://wenmr.science.uu.nl/prodigy/)
 - **pyDock**: 
-	- [Publication](https://doi.org/10.1093/bioinformatics/btt262) : Citations: 210
+	- [Publication](https://doi.org/10.1093/bioinformatics/btt262) : Citations: 211
 	- [Webserver](https://life.bsc.es/pid/pydock/)
 - **pyDockDNA**: A new web server for energy-based protein-DNA docking and scoring (online)
-	- [Publication](https://doi.org/10.3389/fmolb.2022.988996) : Citations: 5
+	- [Publication](https://doi.org/10.3389/fmolb.2022.988996) : Citations: 6
 	- [Webserver](https://model3dbio.csic.es/pydockdna)
 - **pyDockEneRes**: per-residue decomposition of protein-protein docking energy (online)
 	- [Publication](https://doi.org/10.1093/bioinformatics/btz884) : Citations: 17
@@ -147,7 +147,7 @@
 	- [Publication](https://doi.org/10.1093%2Fnar%2Fgkn216) : Citations: 464
 	- [Link](https://www.rosettacommons.org/)
 - **SPServer**: split-statistical potentials for the analysis of protein structures and protein-protein interactions (PPI) (online) (or http://sbi.upf.edu/spserver/)
-	- [Publication](https://doi.org/10.1186/s12859-020-03770-5) : Citations: 7
+	- [Publication](https://doi.org/10.1186/s12859-020-03770-5) : Citations: 8
 	- [Link](https://sbi.upf.edu/spserver/)
 - **SwarmDock**: webservice for generating 3D structures of protein-protein complexes (online)
 	- [Publication](https://doi.org/10.1007/978-1-0716-0708-4_11) : Citations: 1
@@ -162,4 +162,4 @@
 ## **Quality Assessment**
 - **DockQ**: A Quality Measure for Protein-Protein Docking Models (standalone)
 	- [Code](http://github.com/bjornwallner/DockQ/) : Last updated in nan, nan
-	- [Publication](https://doi.org/10.1371/journal.pone.0161879) : Citations: 221
+	- [Publication](https://doi.org/10.1371/journal.pone.0161879) : Citations: 222

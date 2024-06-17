@@ -4,4 +4,4 @@
 	- [Webserver](https://chemodots.marseille.inserm.fr/)
 - **MolFinder**: an evolutionary algorithm for the global optimization of molecular properties and the extensive exploration of chemical space using SMILES (standalone)
 	- [Code](https://github.com/duaibeom/MolFinder) : Last updated in March 2021, 39 months ago
-	- [Publication](https://doi.org/10.1186/s13321-021-00501-7) : Citations: 31
+	- [Publication](https://doi.org/10.1186/s13321-021-00501-7) : Citations: 32

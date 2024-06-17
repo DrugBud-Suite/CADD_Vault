@@ -7,26 +7,26 @@
 
 ## **Protonation**
 - **DiMorphite-DL**: 
-	- [Code](https://github.com/durrantlab/dimorphite_dl/) : Last updated in June 2020, 48 months ago
-	- [Publication](https://doi.org/10.1186/s13321-019-0336-9) : Citations: 35
+	- [Code](https://github.com/durrantlab/dimorphite_dl/) : Last updated in June 2020, 49 months ago
+	- [Publication](https://doi.org/10.1186/s13321-019-0336-9) : Citations: 36
 	- [Link](<https://durrantlab.pitt.edu/dimorphite-dl/>)
 
 ## **Reviews**
 - **Sherman et al**: 
-	- [Publication](https://doi.org/10.1007/s10822-013-9644-8) : Citations: 3992
+	- [Publication](https://doi.org/10.1007/s10822-013-9644-8) : Citations: 4003
 
 ## **Standardization**
 - **Ambitcli**: no 3D but Java application for standardization (standalone).
 	- [Link](http://ambit.sourceforge.net/download_ambitcli.html)
 - **ChEMBL_Structure_Pipeline (formerly standardiser)**: 
 	- [Code](https://github.com/chembl/ChEMBL_Structure_Pipeline) : Last updated in October 2023, 7 months ago
-	- [Publication](https://doi.org/10.1186/s13321-020-00456-1) : Citations: 174
+	- [Publication](https://doi.org/10.1186/s13321-020-00456-1) : Citations: 175
 - **MolVS**: 
 	- [Code](https://github.com/mcs07/MolVS) : Last updated in March 2019, 63 months ago
 - **QSAR-Ready (KNIME)**: Standardization workflow for QSAR-ready chemical structures pretreatment
 	- [Code](https://github.com/NIEHS/QSAR-ready) : Last updated in May 2020, 49 months ago
 - **Standardiser**: standardize molecules, it requires RDKIt (standalone).
-	- [Code](https://github.com/flatkinson/standardiser) : Last updated in November 2018, 67 months ago
+	- [Code](https://github.com/flatkinson/standardiser) : Last updated in November 2018, 68 months ago
 - **Standardize**: PubChem chemical structure standardization (online).
 	- [Webserver](https://pubchem.ncbi.nlm.nih.gov/standardize)
 	- [Link](https://pubchem.ncbi.nlm.nih.gov/standardize)

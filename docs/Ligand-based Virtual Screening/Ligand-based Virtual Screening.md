@@ -6,9 +6,9 @@
 - **eiR**: eiR is a Bioconductor package for accelerated structure similarity searching of small molecules using an embedding and indexing approach.
 	- [Code](https://github.com/girke-lab/eiR) : Last updated in April 2023, 14 months ago
 - **FiBeFTa**: FiBeFTa is an online tool for virtual screening and fingerprint evaluation, comparing the performance of different molecular fingerprints for target-specific discernment.
-	- [Code](https://github.com/OriolVillaro/FiBeFTa) : Last updated in September 2021, 32 months ago
+	- [Code](https://github.com/OriolVillaro/FiBeFTa) : Last updated in September 2021, 33 months ago
 - **FPSim2**: FPSim2 is a RDKit-based package for fast compound similarity searches, offering high performance with high search thresholds.
-	- [Code](https://github.com/chembl/FPSim2) : Last updated in February 2024, 3 months ago
+	- [Code](https://github.com/chembl/FPSim2) : Last updated in February 2024, 4 months ago
 	- [Publication](https://doi.org/10.1021/ci600358f) : Citations: 71
 - **gpusimilarity**: gpusimilarity provides a GPU implementation of chemical fingerprint similarity searching for large-scale chemical libraries.
 	- [Code](https://github.com/schrodinger/gpusimilarity) : Last updated in January 2024, 4 months ago
@@ -22,7 +22,7 @@
 - **SmallWorld**: web-based ligand similarity on a variety of commercial databases
 	- [Webserver](https://sw.docking.org/search.html)
 - **SwissSimilarity**: SwissSimilarity offers an online service for small molecule similarity screening against selected compound libraries using various cheminformatics methods.
-	- [Publication](https://doi.org/10.3390%2Fijms23020811) : Citations: 60
+	- [Publication](https://doi.org/10.3390%2Fijms23020811) : Citations: 62
 	- [Link](http://www.swisssimilarity.ch/)
 - **WHALES**: WHALES provides a virtual screening pipeline focusing on scaffold hopping and ligand-based drug discovery through a Jupyter notebook example.
 	- [Code](https://github.com/grisoniFr/scaffold_hopping_whales/blob/master/code/virtual_screening_pipeline.ipynb) : Last updated in January 2021, 41 months ago
@@ -59,6 +59,6 @@
 ## **Similarity calculations**
 - **iSIM**: 
 	- [Code](https://github.com/mqcomplab/iSIM/blob/main/iSIM_example.ipynb) : Last updated in May 2024, 1 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.2c01073) : Citations: 51
+	- [Publication](https://doi.org/10.1021/acs.jcim.2c01073) : Citations: 52
 - **Surflex-Tools**: starting with version 4 (standalone).
 	- [Link](http://www.biopharmics.com/)

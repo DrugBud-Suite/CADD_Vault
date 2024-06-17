@@ -1,6 +1,6 @@
 - **DScribe**: Python package for transforming atomic structures into fixed-size numerical fingerprints.
 	- [Code](https://github.com/SINGROUP/dscribe) : Last updated in May 2024, 0 months ago
-	- [Publication](https://doi.org/10.1016/j.cpc.2019.106949) : Citations: 416
+	- [Publication](https://doi.org/10.1016/j.cpc.2019.106949) : Citations: 417
 - **FPKit**: Python-based cheminformatics package for fingerprint-related tasks.
 	- [Code](https://github.com/davidbajusz/fpkit) : Last updated in May 2021, 37 months ago
 	- [Publication](https://doi.org/10.1186/s13321-018-0302-y) : Citations: 75
@@ -17,12 +17,12 @@
 - **ChemDes**: An integrated web-based platform for molecular descriptor and fingerprint computation.
 	- [Webserver](http://www.scbdd.com/chemdes/)
 - **ChemoPy**: A Python library for calculating chemical descriptors for QSAR/SAR/QSPR studies.
-	- [Code](https://github.com/ifyoungnet/Chemopy?tab=readme-ov-file) : Last updated in May 2021, 36 months ago
+	- [Code](https://github.com/ifyoungnet/Chemopy?tab=readme-ov-file) : Last updated in May 2021, 37 months ago
 
 ## **3D**
 - **E3FP**: Extended 3-Dimensional FingerPrint
-	- [Code](https://github.com/keiserlab/e3fp) : Last updated in December 2022, 17 months ago
-	- [Publication](http://dx.doi.org/10.1021/acs.jmedchem.7b00696) : Citations: 73
+	- [Code](https://github.com/keiserlab/e3fp) : Last updated in December 2022, 18 months ago
+	- [Publication](http://dx.doi.org/10.1021/acs.jmedchem.7b00696) : Citations: 74
 
 ## **Protein-ligand interaction fingerprints**
 - **LUNA**: 
@@ -32,11 +32,11 @@
 	- [Code](https://bitbucket.org/zchl/sift2d/src/master/) : Last updated in nan, nan
 - **BINANA**: BINANA is a tool for characterizing the binding interactions of ligands with proteins.
 	- [Code](https://github.com/durrantlab/binana/) : Last updated in June 2023, 12 months ago
-	- [Publication](https://doi.org/10.1016%2Fj.jmgm.2011.01.004) : Citations: 187
+	- [Publication](https://doi.org/10.1016%2Fj.jmgm.2011.01.004) : Citations: 189
 	- [Link](https://durrantlab.pitt.edu/binana-download/)
 - **PLIP**: An easy and fast web tool for identifying non-covalent interactions between biological macromolecules and their ligands.
-	- [Code](https://github.com/pharmai/plip) : Last updated in August 2023, 9 months ago
-	- [Publication](https://doi.org/10.1093/nar/gkab294) : Citations: 788
+	- [Code](https://github.com/pharmai/plip) : Last updated in August 2023, 10 months ago
+	- [Publication](https://doi.org/10.1093/nar/gkab294) : Citations: 795
 	- [Webserver](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index)
 - **ProLIF**: ProLIF (Protein-Ligand Interaction Fingerprints) generates interaction fingerprints for complexes made of ligands, protein, DNA, or RNA molecules extracted from molecular dynamics trajectories, docking simulations, and experimental structures.
 	- [Code](https://github.com/chemosim-lab/ProLIF) : Last updated in March 2024, 3 months ago

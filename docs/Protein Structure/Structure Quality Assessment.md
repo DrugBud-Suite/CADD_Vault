@@ -5,5 +5,5 @@
 	- [Publication](https://doi.org/10.1016/j.jmb.2024.168531) : Citations: 1
 	- [Webserver](https://www.reading.ac.uk/bioinf/ModFOLD/ModFOLD9_form.html)
 - **SWISSModel**: 
-	- [Publication](https://doi.org/10.1093/nar/gky427) : Citations: 8461
+	- [Publication](https://doi.org/10.1093/nar/gky427) : Citations: 8501
 	- [Webserver](https://swissmodel.expasy.org/assess)

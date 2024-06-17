@@ -7,7 +7,7 @@
 - **Computational chemistry toolkit**: A virtual screening pipeline for pharmaceutical compounds using similarity-based analysis, ligand-based, and structure-based techniques, including modules for various analyses.
 	- [Code](https://github.com/francescopatane96/Computer_aided_drug_discovery_kit/tree/main) : Last updated in August 2023, 10 months ago
 - **datamol**: - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
-	- [Code](https://github.com/datamol-org/datamol) : Last updated in February 2024, 4 months ago
+	- [Code](https://github.com/datamol-org/datamol) : Last updated in June 2024, 0 months ago
 	- [Publication](https://zenodo.org/doi/10.5281/zenodo.5131279) : Citations: 0
 - **MayaChemTools**: MayaChemTools is a collection of Perl and Python scripts, modules, and classes that support a variety of computational discovery needs, with functionalities for processing, analyzing, and visualizing chemical data.
 	- [Link](http://www.mayachemtools.org/index.html)

@@ -20,11 +20,11 @@
 ## **NMR**
 - **nmrglue**: 
 	- [Code](https://github.com/jjhelmus/nmrglue) : Last updated in February 2024, 4 months ago
-	- [Publication](http://dx.doi.org/10.1007/s10858-013-9718-x) : Citations: 238
+	- [Publication](http://dx.doi.org/10.1007/s10858-013-9718-x) : Citations: 239
 
 ## **Other**
 - **LillyMol**: Eli Lilly set of cheminformatic tools (standalone)
-	- [Code](https://github.com/elilillyco/LillyMol) : Last updated in March 2024, 2 months ago
+	- [Code](https://github.com/elilillyco/LillyMol) : Last updated in March 2024, 3 months ago
 - **MayaChemTools**: Cheminformatics tool kit. A growing collection of Perl and Python scripts, modules, and classes to support a variety of day-to-day computational discovery needs (standalone)
 	- [Code](http://www.mayachemtools.org/) : Last updated in nan, nan
 
@@ -37,7 +37,7 @@
 	- [Code](https://github.com/aglanger/CDPKit) : Last updated in June 2024, 0 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.3c00563) : Citations: 3
 - **chemfunc**: 
-	- [Code](https://github.com/swansonk14/chemfunc) : Last updated in May 2024, 0 months ago
+	- [Code](https://github.com/swansonk14/chemfunc) : Last updated in June 2024, 0 months ago
 - **Chython**: Library for processing molecules and reactions in python way.
 	- [Code](https://github.com/chython/chython) : Last updated in May 2024, 0 months ago
 - **cinfony**: 
@@ -50,9 +50,9 @@
 	- [Publication](https://doi.org/10.1093/bib/bbaa194) : Citations: 25
 	- [Link](https://www.rdkit.org/)
 - **rdkit-scripts**: rdkit scripts making life easier (standalone)
-	- [Code](https://github.com/DrrDom/rdkit-scripts) : Last updated in May 2024, 0 months ago
+	- [Code](https://github.com/DrrDom/rdkit-scripts) : Last updated in May 2024, 1 months ago
 - **OpenBabel**: toolkit for drug discovery, file format etc (standalone)
-	- [Publication](https://doi.org/10.1186/1758-2946-3-33) : Citations: 5849
+	- [Publication](https://doi.org/10.1186/1758-2946-3-33) : Citations: 5874
 	- [Link](http://openbabel.org/wiki/Main_Page)
 
 ## **QM**

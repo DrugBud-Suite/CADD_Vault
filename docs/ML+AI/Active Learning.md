@@ -4,20 +4,20 @@
 	- [Code](github.com/molecularinformatics/PretrainedAL-VS) : Last updated in nan, nan
 	- [Publication](https://doi.org/10.1021/acs.jcim.3c01938) : Citations: 0
 - **ChemSpaceAL**: an Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation (generative chemistry) (standalone, 2024).
-	- [Code](https://github.com/gregory-kyro/ChemSpaceAL) : Last updated in December 2023, 5 months ago
+	- [Code](https://github.com/gregory-kyro/ChemSpaceAL) : Last updated in December 2023, 6 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.3c01456) : Citations: 0
 - **Conformalpredictor**: Rapid Traversal of Ultralarge Chemical Space using Machine Learning Guided Docking Screens (standalone).
-	- [Code](https://github.com/Carlssonlab/conformalpredictor) : Last updated in June 2023, 11 months ago
+	- [Code](https://github.com/Carlssonlab/conformalpredictor) : Last updated in June 2023, 12 months ago
 	- [Publication](https://doi.org/10.26434/chemrxiv-2023-w3x36) : Citations: 1
 - **DeepDocking**: 
-	- [Code](https://github.com/jamesgleave/Deep-Docking-NonAutomated) : Last updated in November 2022, 18 months ago
+	- [Code](https://github.com/jamesgleave/Deep-Docking-NonAutomated) : Last updated in November 2022, 19 months ago
 	- [Publication](https://doi.org/10.1021/acscentsci.0c00229).) : Citations: 0
 - **HASTEN**: 
-	- [Code](https://github.com/TuomoKalliokoski/HASTEN) : Last updated in April 2023, 13 months ago
+	- [Code](https://github.com/TuomoKalliokoski/HASTEN) : Last updated in April 2023, 14 months ago
 	- [Publication](https://doi.org/10.1002/minf.202100089) : Citations: 9
 - **molpal**: Molecular Pool-based Active Learning
-	- [Code](https://github.com/coleygroup/molpal) : Last updated in April 2023, 13 months ago
-	- [Publication](https://doi.org/10.1039/D0SC06805E) : Citations: 126
+	- [Code](https://github.com/coleygroup/molpal) : Last updated in April 2023, 14 months ago
+	- [Publication](https://doi.org/10.1039/D0SC06805E) : Citations: 128
 - **PyRMD2Dock**: Streamlining Large Chemical Library Docking with Artificial Intelligence: the PyRMD2Dock (and PyRMD) (ultralarge screening - 2023) (standalone).
 	- [Code](https://github.com/cosconatilab/PyRMD) : Last updated in June 2023, 11 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.1c00653) : Citations: 23

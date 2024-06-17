@@ -12,5 +12,5 @@
 	- [Code](https://github.com/hagax8/ugtm) : Last updated in February 2021, 40 months ago
 	- [Publication](https://doi.org/10.5334/jors.235/):) : Citations: 0
 - **UMAP**: Uniform Manifold Approximation and Projection
-	- [Publication](https://doi.org/10.21105/joss.00861) : Citations: 5040
+	- [Publication](https://doi.org/10.21105/joss.00861) : Citations: 5077
 	- [Link](https://umap-learn.readthedocs.io/en/latest/basic_usage.html)

@@ -12,7 +12,7 @@
 	- [Publication](https://doi.org/10.26434/chemrxiv-2023-bdkgm) : Citations: 1
 - **CRem**: open-source Python framework to generate chemical structures using a fragment-based approach
 	- [Code](https://github.com/DrrDom/crem) : Last updated in April 2024, 1 months ago
-	- [Publication](https://doi.org/10.1186/s13321-020-00431-w) : Citations: 43
+	- [Publication](https://doi.org/10.1186/s13321-020-00431-w) : Citations: 44
 - **DEVELOP**: Implements Deep Generative Design with 3D Pharmacophoric Constraints for molecular design, focusing on linker design and scaffold elaboration using a combination of variational autoencoders and 3D pharmacophore modeling.
 	- [Code](https://github.com/oxpig/DEVELOP) : Last updated in January 2022, 29 months ago
 	- [Publication](https://doi.org/10.1101/2021.04.27.441676v1.full) : Citations: 0
@@ -23,12 +23,12 @@
 	- [Code](https://github.com/CDDLeiden/DrugEx) : Last updated in May 2024, 1 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.3c00434) : Citations: 6
 - **DST**: Differentiable Scaffolding Tree (DST) enables gradient-based optimization on a chemical graph for molecule optimization, providing a novel approach for de novo molecule design.
-	- [Code](https://github.com/futianfan/DST) : Last updated in July 2023, 10 months ago
+	- [Code](https://github.com/futianfan/DST) : Last updated in July 2023, 11 months ago
 - **FASMIFRA**: Generate molecules fast from a molecular training set while also doing training-set distribution matching
 	- [Code](https://github.com/UnixJunkie/FASMIFRA) : Last updated in November 2023, 6 months ago
-	- [Publication](https://doi.org/10.1186/s13321-021-00566-4) : Citations: 10
+	- [Publication](https://doi.org/10.1186/s13321-021-00566-4) : Citations: 11
 - **FlowMol**: 
-	- [Code](https://github.com/dunni3/FlowMol) : Last updated in May 2024, 0 months ago
+	- [Code](https://github.com/dunni3/FlowMol) : Last updated in May 2024, 1 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2404.19739) : Citations: 0
 - **FraHMT**: 
 	- [Code](https://github.com/llldddmmm/Code-FraHMT) : Last updated in January 2024, 4 months ago
@@ -39,8 +39,8 @@
 - **GAN-Drug-Generator**: Proposes a framework based on Feedback Generative Adversarial Network (GAN) for the generation and optimization of drug-like molecules, including a multiobjective optimization selection technique.
 	- [Code](https://github.com/larngroup/GAN-Drug-Generator) : Last updated in April 2022, 26 months ago
 - **GENTRL (Generative Tensorial Reinforcement Learning)**: A variational autoencoder with a rich prior distribution of the latent space, trained to find molecules with high reward, emphasizing the relations between molecular structures and their properties.
-	- [Code](https://github.com/insilicomedicine/GENTRL) : Last updated in September 2019, 57 months ago
-	- [Publication](https://doi.org/10.1038/s41587-019-0224-x) : Citations: 684
+	- [Code](https://github.com/insilicomedicine/GENTRL) : Last updated in September 2019, 58 months ago
+	- [Publication](https://doi.org/10.1038/s41587-019-0224-x) : Citations: 687
 - **GenUI**: Offers API and GUI for molecular generators, QSAR modelling, and chemical space visualization.
 	- [Code](https://github.com/martin-sicho/genui) : Last updated in September 2022, 20 months ago
 	- [Publication](https://doi.org/10.1186/s13321-021-00550-y) : Citations: 11
@@ -48,13 +48,13 @@
 	- [Code](https://github.com/MolecularAI/GraphINVENT) : Last updated in March 2023, 15 months ago
 	- [Publication](https://doi.org/10.1088/2632-2153/abcf91).) : Citations: 0
 - **hgraph2graph**: Hierarchical Generation of Molecular Graphs using Structural Motifs
-	- [Code](https://github.com/wengong-jin/hgraph2graph) : Last updated in April 2021, 37 months ago
+	- [Code](https://github.com/wengong-jin/hgraph2graph) : Last updated in April 2021, 38 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2002.03230) : Citations: 0
 - **HierDiff**: HierDiff is a hierarchical diffusion model for 3D molecule generation, presenting a coarse-to-fine approach that aims to efficiently and effectively generate drug-like molecules in 3D space.
-	- [Code](https://github.com/qiangbo1222/HierDiff) : Last updated in July 2023, 10 months ago
+	- [Code](https://github.com/qiangbo1222/HierDiff) : Last updated in July 2023, 11 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2305.13266) : Citations: 0
 - **HyFactor (Hydrogen-count Labelled Graph-based Defactorization Autoencoder)**: An open-source architecture for structure generation using graph-based approaches, focusing on a new molecular graph type that considers hydrogen counts for enhanced molecular representation and generation.
-	- [Code](https://github.com/Laboratoire-de-Chemoinformatique/HyFactor) : Last updated in January 2023, 16 months ago
+	- [Code](https://github.com/Laboratoire-de-Chemoinformatique/HyFactor) : Last updated in January 2023, 17 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.2c00744)__) : Citations: 0
 - **JODO**: JODO focuses on learning joint 2D and 3D diffusion models for complete molecule generation, representing molecules as both 3D point clouds and 2D bonding graphs to enhance molecular design.
 	- [Code](https://github.com/graph-0/jodo) : Last updated in November 2023, 7 months ago
@@ -64,10 +64,10 @@
 	- [Publication](https://doi.org/10.1186/s13321-022-00582-y) : Citations: 17
 - **LigDream**: Generates novel molecules from a reference shape but is no longer actively supported.
 	- [Code](https://github.com/playmolecule/ligdream/tree/master) : Last updated in January 2024, 4 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.8b00706) : Citations: 148
+	- [Publication](https://doi.org/10.1021/acs.jcim.8b00706) : Citations: 149
 - **LSTM_Chem**: Implements generative recurrent networks for drug design.
 	- [Code](https://github.com/topazape/LSTM_Chem) : Last updated in September 2021, 33 months ago
-	- [Publication](https://doi.org/10.1002/minf.201700111) : Citations: 286
+	- [Publication](https://doi.org/10.1002/minf.201700111) : Citations: 287
 - **MACAW**: an accessible tool for molecular embedding and inverse molecular design (generative chemistry) (standalone)
 	- [Code](https://github.com/LBLQMM/MACAW/) : Last updated in July 2022, 23 months ago
 	- [Publication](https://doi.org/10.26434/chemrxiv-2022-x647j).) : Citations: 0
@@ -75,24 +75,24 @@
 	- [Code](https://github.com/tencent-ailab/MDM) : Last updated in February 2024, 4 months ago
 	- [Publication](https://arxiv.org/abs/2209.05710) : Citations: N/A
 - **MiCaM (De Novo Molecular Generation via Connection-aware Motif Mining)**: Introduces a novel approach for de novo molecular generation by mining connection-aware motifs from molecular structures, aiming to enhance molecule generation processes.
-	- [Code](https://github.com/miralab-ustc/ai4sci-micam) : Last updated in September 2023, 8 months ago
+	- [Code](https://github.com/miralab-ustc/ai4sci-micam) : Last updated in September 2023, 9 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2302.01129) : Citations: 0
 - **MoFlowGAN**: MoFlowGAN is a normalizing flow for molecular graphs that is heuristically biased towards easily synthesized, drug-like molecules, aiming to generate high-quality molecular graphs through a process similar to GANs.
 	- [Code](https://github.com/thisisntnathan/MoFlowGAN) : Last updated in June 2023, 11 months ago
 	- [Publication](https://doi.org/10.26434/chemrxiv-2023-kwwv3) : Citations: 0
 - **MolCode**: MolCode introduces a roto-translation equivariant generative framework for co-designing molecular 2D graph structures and 3D geometries, aiming to efficiently learn the structure-property relationship for molecule generation.
-	- [Code](https://github.com/zaixizhang/MolCode) : Last updated in June 2023, 11 months ago
+	- [Code](https://github.com/zaixizhang/MolCode) : Last updated in June 2023, 12 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2304.12436) : Citations: 0
 - **MolDQN**: Optimization of Molecules via Deep Reinforcement Learning
 	- [Code](https://github.com/google-research/google-research/tree/master/mol_dqn) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1038/s41598-019-47148-x) : Citations: 220
+	- [Publication](https://doi.org/10.1038/s41598-019-47148-x) : Citations: 223
 - **MolDrug**: MolDrug is a Python package for drug-oriented optimization in the chemical space, using a Genetic Algorithm as a search engine and CReM library as the chemical structure generator.
-	- [Code](https://github.com/ale94mleon/MolDrug) : Last updated in May 2024, 0 months ago
+	- [Code](https://github.com/ale94mleon/MolDrug) : Last updated in June 2024, 0 months ago
 	- [Publication](https://zenodo.org/badge/latestdoi/496163299) : Citations: N/A
 - **Molecule Generator**: A fragment-based molecular generation method (standalone)
 	- [Code](https://github.com/akihoni/molecular_generation_GA) : Last updated in October 2021, 32 months ago
 - **moleculegen-ml**: Moleculegen-ML is a Python package for de novo drug design based on generative language modeling, featuring tools for molecular data processing and SMILES-based language modeling.
-	- [Code](https://github.com/sanjaradylov/moleculegen-ml) : Last updated in May 2022, 24 months ago
+	- [Code](https://github.com/sanjaradylov/moleculegen-ml) : Last updated in May 2022, 25 months ago
 	- [Publication](https://doi.org/10.26434/chemrxiv.14700831.v1) : Citations: 0
 - **Molecule-RNN**: Molecule-RNN is a recurrent neural network designed to generate drug-like molecules for drug discovery, learning the distribution of a training dataset to sample similar molecules.
 	- [Code](https://github.com/shiwentao00/Molecule-RNN) : Last updated in May 2022, 25 months ago
@@ -103,7 +103,7 @@
 	- [Code](https://github.com/MolFilterGAN/MolFilterGAN) : Last updated in April 2023, 14 months ago
 	- [Publication](https://doi.org/10.1186/s13321-023-00711-1).) : Citations: 0
 - **MolGrad**: MolGrad is a Jugend forscht project that introduces score-based generative modeling for molecules, aiming to aid the drug development process by generating and optimizing new, high-quality molecules.
-	- [Code](https://github.com/pwolle/MolGrad) : Last updated in May 2021, 36 months ago
+	- [Code](https://github.com/pwolle/MolGrad) : Last updated in May 2021, 37 months ago
 	- [Publication](https://github.com/unitdeterminant/MolGrad/raw/main/paper.pdf) : Citations: N/A
 - **MolScore**: 
 	- [Code](https://github.com/MorganCThomas/MolScore/tree/main?tab=readme-ov-file) : Last updated in June 2024, 0 months ago
@@ -115,16 +115,16 @@
 	- [Code](https://github.com/sekijima-lab/Mothra) : Last updated in May 2024, 1 months ago
 - **NYAN (NotYetAnotherNightshade)**: A graph variational encoder designed for embedding molecules into a continuous latent space for molecular property prediction and high-throughput virtual screening in drug discovery.
 	- [Code](https://github.com/Chokyotager/NotYetAnotherNightshade) : Last updated in July 2023, 11 months ago
-	- [Publication](https://doi.org/10.1038/s42256-023-00683-9) : Citations: 7
+	- [Publication](https://doi.org/10.1038/s42256-023-00683-9) : Citations: 8
 - **PGMG**: A Pharmacophore-Guided Deep Learning Approach for Bioactive Molecule Generation, offering a strategy to generate molecules with structural diversity based on a pharmacophore hypothesis.
-	- [Code](https://github.com/CSUBioGroup/PGMG) : Last updated in November 2023, 6 months ago
+	- [Code](https://github.com/CSUBioGroup/PGMG) : Last updated in November 2023, 7 months ago
 	- [Publication](https://doi.org/10.1038%2Fs41467-023-41454-9) : Citations: 6
 	- [Webserver](https://www.csuligroup.com/PGMG/)
 - **Pytorch_VAE**: This repository provides a PyTorch implementation of the paper "Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules" by Gómez-Bombarelli, et al., focusing on a variational autoencoder for molecular design using the ChEMBL dataset.
-	- [Code](https://github.com/Ishan-Kumar2/Molecular_VAE_Pytorch) : Last updated in March 2021, 39 months ago
-	- [Publication](https://doi.org/10.1021/acscentsci.7b00572) : Citations: 1732
+	- [Code](https://github.com/Ishan-Kumar2/Molecular_VAE_Pytorch) : Last updated in March 2021, 40 months ago
+	- [Publication](https://doi.org/10.1021/acscentsci.7b00572) : Citations: 1741
 - **QADD**: QADD is a novel de novo multi-objective quality assessment-based drug design approach that integrates an iterative refinement framework with a graph-based molecular quality assessment model to generate molecules with multiple desired properties.
-	- [Code](https://github.com/yifang000/QADD) : Last updated in March 2023, 14 months ago
+	- [Code](https://github.com/yifang000/QADD) : Last updated in March 2023, 15 months ago
 	- [Publication](https://doi.org/10.1093/bioinformatics/btad157) : Citations: 7
 - **REINVENT 4**: A molecular design tool for various design tasks like de novo design, scaffold hopping, and molecule optimization, using a reinforcement learning algorithm.
 	- [Code](https://github.com/MolecularAI/REINVENT4) : Last updated in April 2024, 1 months ago
@@ -134,7 +134,7 @@
 	- [Publication](https://doi.org/10.1186/s13321-022-00667-8) : Citations: 12
 - **ReLeaSE**: Utilizes deep reinforcement learning for de novo drug design.
 	- [Code](https://github.com/isayev/ReLeaSE) : Last updated in December 2021, 30 months ago
-	- [Publication](https://doi.org/10.1126/sciadv.aap7885) : Citations: 736
+	- [Publication](https://doi.org/10.1126/sciadv.aap7885) : Citations: 740
 - **RL-GraphInvent**: An extension using reinforcement learning for targeted molecular generation.
 	- [Code](https://github.com/olsson-group/RL-GraphINVENT) : Last updated in June 2021, 36 months ago
 	- [Publication](https://doi.org/10.1088/2632-2153/abcf91).) : Citations: 0
@@ -150,7 +150,7 @@
 	- [Code](https://github.com/ecust-hc/ScaffoldGVAE) : Last updated in September 2023, 8 months ago
 	- [Publication](https://doi.org/10.1186/s13321-023-00766-0) : Citations: 4
 - **SiMGen**: The provided link was unresponsive for extracting detailed information.
-	- [Code](https://github.com/rokasel/simgen) : Last updated in February 2024, 3 months ago
+	- [Code](https://github.com/rokasel/simgen) : Last updated in February 2024, 4 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2402.08708) : Citations: 0
 	- [Webserver](https://zndraw.icp.uni-stuttgart.de/)
 - **SpotGAN**: SpotGAN, a PyTorch implementation of a reverse-transformer GAN, generates scaffold-constrained molecules with property optimization, demonstrating advanced capabilities in generating molecules that adhere to specific structural constraints while optimizing for desired properties.

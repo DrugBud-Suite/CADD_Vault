@@ -12,12 +12,12 @@
 - **QSAR_toolbox**: scripts for QSAR model building and fingerprint generation
 	- [Code](https://github.com/iwatobipen/QSAR_TOOLBOX) : Last updated in June 2019, 60 months ago
 - **qsar-tools**: Provides scripts for modeling quantitative structure-activity relationships (QSAR) from 2D chemical data, including creating descriptors and training linear models.
-	- [Code](https://github.com/dkoes/qsar-tools) : Last updated in February 2022, 27 months ago
+	- [Code](https://github.com/dkoes/qsar-tools) : Last updated in February 2022, 28 months ago
 - **QSPRpred**: QSPRpred is open-source software for building Quantitative Structure Property Relationship (QSPR) models, supporting research with a unified interface for different descriptors and machine learning algorithms.
 	- [Code](https://github.com/CDDLeiden/QSPRpred) : Last updated in March 2024, 2 months ago
 	- [Publication](https://doi.org/10.26434/chemrxiv-2024-m9989) : Citations: 0
 - **Web 4D-QSAR**: Open source web system to generate and validate QSAR modules.
-	- [Code](https://github.com/rougeth/Web-4D-QSAR) : Last updated in June 2020, 48 months ago
+	- [Code](https://github.com/rougeth/Web-4D-QSAR) : Last updated in June 2020, 49 months ago
 - **QSAR_toolbox**: scripts for QSAR model building and fingerprint generation
 	- [Code](https://github.com/iwatobipen/QSAR_TOOLBOX) : Last updated in June 2019, 60 months ago
 ### **3D**

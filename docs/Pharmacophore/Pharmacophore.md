@@ -1,7 +1,7 @@
 
 ## **De Novo Generation**
 - **PGMG**: PGMG is a pharmacophore-guided deep learning approach for bioactive molecule generation, providing a strategy to generate molecules with structural diversity through the guidance of pharmacophore hypotheses.
-	- [Code](https://github.com/CSUBioGroup/PGMG) : Last updated in November 2023, 6 months ago
+	- [Code](https://github.com/CSUBioGroup/PGMG) : Last updated in November 2023, 7 months ago
 	- [Publication](https://doi.org/10.1038%2Fs41467-023-41454-9) : Citations: 6
 	- [Webserver](https://www.csuligroup.com/PGMG)
 
@@ -14,7 +14,7 @@
 	- [Code](https://github.com/wolberlab/dynophores) : Last updated in April 2024, 1 months ago
 	- [Publication](https://doi.org/10.18452/14267) : Citations: 0
 - **PharMD**: PharMD retrieves pharmacophore models from molecular dynamics (MD) trajectories of protein-ligand complexes, identifies redundant pharmacophores, and performs virtual screening using multiple pharmacophore models.
-	- [Code](https://github.com/ci-lab-cz/pharmd) : Last updated in December 2023, 5 months ago
+	- [Code](https://github.com/ci-lab-cz/pharmd) : Last updated in December 2023, 6 months ago
 	- [Publication](https://doi.org/10.3390/ijms20235834) : Citations: 15
 - **Pharmmaker**: Pharmacophore modeling model using outputs of druggability simulations. Uses multiple target conformations dependent on the binding poses of probes where they interact during druggability simulations (standalone and online).
 	- [Code](https://github.com/prody/ProDy) : Last updated in June 2024, 0 months ago
@@ -24,7 +24,7 @@
 - **2DPharmSearch**: 2DPharmSearch is a simple RDKit script for scaffold hopping experiments, utilizing 2D pharmacophore comparisons against a library of compounds to identify structurally similar molecules.
 	- [Code](https://github.com/arthuc01/2d-pharmacophore-search) : Last updated in November 2015, 104 months ago
 - **ACP4**: 3D-Sensitive Encoding of Pharmacophore Features (compare ligand in 3D or ligand-binding sites (holo structures) can compare pockets) (standalone)
-	- [Code](https://github.com/tsudalab/ACP4) : Last updated in February 2023, 15 months ago
+	- [Code](https://github.com/tsudalab/ACP4) : Last updated in February 2023, 16 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.2c01623) : Citations: 3
 - **Align-it**: Align-it is a tool for aligning molecules according to their pharmacophores, facilitating the comparison and matching of molecular structures based on pharmacophoric features.
 	- [Code](https://github.com/OliverBScott/align-it) : Last updated in January 2022, 29 months ago
@@ -43,16 +43,16 @@
 	- [Code](https://github.com/Prasanth-Kumar87/PharmRF) : Last updated in March 2022, 27 months ago
 	- [Publication](https://doi.org/10.1002/jcc.26840.) : Citations: 0
 - **PMapper**: PMapper is a Python module designed to generate 3D pharmacophore signatures and fingerprints, enabling fast identification of identical pharmacophores through unique hash encoding.
-	- [Code](https://github.com/DrrDom/pmapper) : Last updated in November 2023, 6 months ago
-	- [Publication](https://doi.org/10.3390/molecules23123094) : Citations: 40
+	- [Code](https://github.com/DrrDom/pmapper) : Last updated in November 2023, 7 months ago
+	- [Publication](https://doi.org/10.3390/molecules23123094) : Citations: 41
 - **PSearch**: PSearch is a Python tool for generating 3D ligand-based pharmacophore models and performing virtual screening, facilitating the differentiation of active and inactive compounds via pharmacophore feature labeling.
-	- [Code](https://github.com/meddwl/psearch) : Last updated in February 2021, 39 months ago
-	- [Publication](https://doi.org/10.3390/molecules23123094) : Citations: 40
+	- [Code](https://github.com/meddwl/psearch) : Last updated in February 2021, 40 months ago
+	- [Publication](https://doi.org/10.3390/molecules23123094) : Citations: 41
 - **QPhar**: QPhar provides code for quantitative pharmacophore activity relationship modeling, offering a method and validation for quantitative pharmacophore modeling documented in a publication.
 	- [Code](https://github.com/StefanKohlbacher/QuantPharmacophore) : Last updated in September 2022, 21 months ago
 	- [Publication](https://doi.org/10.1186/s13321-021-00537-9) : Citations: 9
 
 ## **Web-Servers**
 - **Pharmit**: Pharmit provides an interactive environment for the identification and visualization of pharmacophore models, enabling virtual screening against millions of compounds. It offers tools for specifying pharmacophores, flexibly searching chemical databases, and viewing results in 3D directly in the web browser.
-	- [Publication](https://doi.org/10.1093%2Fnar%2Fgkw287) : Citations: 218
+	- [Publication](https://doi.org/10.1093%2Fnar%2Fgkw287) : Citations: 219
 	- [Webserver](https://pharmit.csb.pitt.edu/)

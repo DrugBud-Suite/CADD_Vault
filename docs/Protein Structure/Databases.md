@@ -9,10 +9,10 @@
 
 ## **Databases**
 - **EMDB**: Electron Microscopy Data Bank
-	- [Publication](https://doi.org/10.1093/nar/gkad1019) : Citations: 8
+	- [Publication](https://doi.org/10.1093/nar/gkad1019) : Citations: 9
 	- [Webserver](https://www.ebi.ac.uk/emdb/)
 - **PDB**: The RCSB Protein Data Bank provides access to experimentally determined 3D structures from the PDB archive and computed structure models, offering tools for exploration, visualization, and analysis.
-	- [Publication](https://doi.org/10.1093/nar/28.1.235) : Citations: 28739
+	- [Publication](https://doi.org/10.1093/nar/28.1.235) : Citations: 28786
 	- [Webserver](https://www.rcsb.org/)
 - **PDBe**: 
 	- [Publication](http://dx.doi.org/10.1093/nar/gkz990) : Citations: 39

@@ -4,3 +4,8 @@
 - **UAlign**: 
 	- [Code](https://github.com/zengkaipeng/UAlign) : Last updated in June 2024, 0 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2404.00044) : Citations: 0
+
+## **LLM**
+- **SynAsk**: a comprehensive organic chemistry domain-specific LLM platform
+	- [Publication](https://doi.org/10.48550/arXiv.2406.04593) : Citations: 0
+	- [Webserver](http://synask.aichemeco.com)

@@ -11,7 +11,7 @@
 	- [Publication](https://doi.org/10.1093/bioinformatics/btaa234) : Citations: 60
 	- [Webserver](https://zhanglab.ccmb.med.umich.edu/FASPR)
 - **FG-MD**: molecular dynamics (MD) based algorithm for atomic-level protein structure refinement (online)
-	- [Publication](https://doi.org/10.1016/j.str.2011.09.022) : Citations: 280
+	- [Publication](https://doi.org/10.1016/j.str.2011.09.022) : Citations: 281
 	- [Webserver](http://zhanglab.ccmb.med.umich.edu/FG-MD/)
 - **ModRefiner**: atomic-level, high-resolution protein structure refinement (online)
 	- [Publication](https://doi.org/10.1016/j.bpj.2011.10.024) : Citations: 0

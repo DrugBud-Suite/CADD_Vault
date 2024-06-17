@@ -1,3 +1,3 @@
 - **AIC_Finder**: 
-	- [Code](https://github.com/dahvida/AIC_Finder) : Last updated in March 2024, 2 months ago
+	- [Code](https://github.com/dahvida/AIC_Finder) : Last updated in March 2024, 3 months ago
 	- [Publication](https://pubs.acs.org/doi/10.1021/acscentsci.3c01517) : Citations: 1

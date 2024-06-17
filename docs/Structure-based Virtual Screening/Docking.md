@@ -4,7 +4,7 @@
 	- [Code](https://github.com/zrqiao/NeuralPLexer) : Last updated in April 2024, 1 months ago
 	- [Publication](https://doi.org/10.1038/s42256-024-00792-z.) : Citations: 0
 - **RoseTTAFold-AllAtom**: RoseTTAFold All-Atom (RFAA) is a deep network capable of modeling full biological assemblies containing proteins, nucleic acids, small molecules, metals, and covalent modifications with high accuracy.
-	- [Publication](https://doi.org/10.1126/science.adl2528) : Citations: 28
+	- [Publication](https://doi.org/10.1126/science.adl2528) : Citations: 34
 	- [Link](https://www.biorxiv.org/content/10.1101/2023.10.09.561603v1)
 
 ## **Allosteric sites**
@@ -14,7 +14,7 @@
 
 ## **Blind Docking**
 - **CBDock2**: CBDock2 is an improved protein-ligand blind docking tool integrating cavity detection, docking, and homologous template fitting to suggest novel therapeutic targets for biological and pharmaceutical studies.
-	- [Publication](https://doi.org/10.1093/nar/gkac394) : Citations: 275
+	- [Publication](https://doi.org/10.1093/nar/gkac394) : Citations: 283
 	- [Webserver](https://cadd.labshare.cn/cb-dock2/php/index.php)
 - **CoBDock**: CoBDock is a reference implementation of the COBDock algorithm, detailing steps for setup and execution on Linux, with a focus on integrating various molecular docking and pocket identification algorithms.
 	- [Code](https://github.com/DavidMcDonald1993/cobdock) : Last updated in October 2023, 7 months ago
@@ -22,19 +22,19 @@
 ## **Classical**
 - **AutoDock Vina**: 
 	- [Code](https://github.com/ccsb-scripps/AutoDock-Vina) : Last updated in May 2024, 1 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.1c00203) : Citations: 1783
+	- [Publication](https://doi.org/10.1021/acs.jcim.1c00203) : Citations: 1824
 	- [Link](https://autodock-vina.readthedocs.io/en/latest/index.html)
 - **BR-NiB**: Brute Force Negative Image-Based Optimization. A docking rescoring method that relyes on shape/ electrostatic potential similarity between the docking poses of ligands and the cavity-based negative images (standalone).
-	- [Code](https://github.com/jvlehtonen/brutenib) : Last updated in August 2023, 9 months ago
+	- [Code](https://github.com/jvlehtonen/brutenib) : Last updated in August 2023, 10 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.1c01145) : Citations: 2
 - **DockThor**: 
 	- [Publication](https://www.nature.com/articles/s41598-021-84700-0) : Citations: N/A
 	- [Link](https://dockthor.lncc.br/v2/)
 - **FitDock**: protein–ligand docking by template fitting (Linux or Windows, need registration) (standalone).
-	- [Publication](https://doi.org/10.1093/bib/bbac087) : Citations: 51
+	- [Publication](https://doi.org/10.1093/bib/bbac087) : Citations: 52
 	- [Link](http://cao.labshare.cn/fitdock/php/register.php)
 - **FWAVina**: The content for FWAVina was not accessible due to restrictions or an error from the URL provided.
-	- [Code](https://github.com/eddyblue/FWAVina/tree/master) : Last updated in February 2020, 52 months ago
+	- [Code](https://github.com/eddyblue/FWAVina/tree/master) : Last updated in February 2020, 53 months ago
 - **GeauxDock**: An ultra-fast automated docking program from LSU, predicting how small ligands bind to macromolecules using a novel hybrid force field and a Monte Carlo protocol.
 	- [Code](http://www.brylinski.org/geauxdock) : Last updated in nan, nan
 	- [Publication](https://doi.org/10.1371/journal.pone.0158898) : Citations: 23
@@ -51,7 +51,7 @@
 	- [Code](https://github.com/RyanZR/labodock) : Last updated in October 2023, 8 months ago
 	- [Publication](https://doi.org/10.5281/zenodo.8246977-blue) : Citations: 0
 - **MzDock**: 
-	- [Code](https://github.com/Muzatheking12/MzDOCK) : Last updated in May 2024, 1 months ago
+	- [Code](https://github.com/Muzatheking12/MzDOCK) : Last updated in June 2024, 0 months ago
 	- [Publication](https://doi.org/10.1002/jcc.27390) : Citations: 0
 - **PANTHER**: A tool designed for effective virtual screening, considering protein structure flexibility and physico-chemical properties, and available under a GPL license.
 	- [Publication](https://doi.org/10.1007/s10822-015-9870-3) : Citations: 31
@@ -69,14 +69,14 @@
 	- [Code](https://github.com/li-jin-xing/RDPSOVina) : Last updated in September 2021, 33 months ago
 	- [Publication](https://doi.org/10.1007/s10822-022-00455-4) : Citations: 3
 - **restretto**: Effective Protein–Ligand Docking Strategy via Fragment Reuse and a Proof-of-Concept Implementation (standalone).
-	- [Code](https://github.com/akiyamalab/restretto) : Last updated in April 2024, 1 months ago
+	- [Code](https://github.com/akiyamalab/restretto) : Last updated in April 2024, 2 months ago
 	- [Publication](https://doi.org/10.1021/acsomega.2c03470) : Citations: 3
 - **RxDock**: a fast, versatile, and open-source program for docking ligands to proteins and nucleic acids (standalone).
-	- [Code](https://github.com/rxdock/rxdock) : Last updated in August 2022, 21 months ago
-	- [Publication](https://doi.org/10.1371/journal.pcbi.1003571) : Citations: 390
+	- [Code](https://github.com/rxdock/rxdock) : Last updated in August 2022, 22 months ago
+	- [Publication](https://doi.org/10.1371/journal.pcbi.1003571) : Citations: 394
 - **SMINA**: A fork of AutoDock Vina that supports scoring function development and high-performance energy minimization, maintained by the University of Pittsburgh.
 	- [Code](https://sourceforge.net/projects/smina/) : Last updated in nan, nan
-	- [Publication](https://doi.org/10.1021/ci300604z) : Citations: 654
+	- [Publication](https://doi.org/10.1021/ci300604z) : Citations: 658
 - **Uni-Dock**: Uni-Dock is a GPU-accelerated molecular docking program that supports various scoring functions and achieves significant speed-up compared with AutoDock Vina on a single CPU core.
 	- [Code](https://github.com/dptech-corp/Uni-Dock) : Last updated in June 2024, 0 months ago
 	- [Publication](https://doi.org/10.1021/acs.jctc.2c01145) : Citations: 18
@@ -85,10 +85,10 @@
 	- [Link](https://glycam.org/docs/othertoolsservice/download-docs/publication-materials/vina-carb/index.html)
 - **VinaGPU2.0**: 
 	- [Code](https://github.com/DeltaGroupNJUPT/Vina-GPU-2.0) : Last updated in October 2023, 7 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.2c01504) : Citations: 22
+	- [Publication](https://doi.org/10.1021/acs.jcim.2c01504) : Citations: 23
 - **VinaXB (halogen-bonding)**: Introduces a halogen bonding scoring function (XBSF) in AutoDock Vina, termed AutoDock VinaXB, to improve docking accuracy with halogenated ligands.
 	- [Code](https://github.com/sirimullalab/vinaXB/tree/master) : Last updated in June 2016, 96 months ago
-	- [Publication](https://doi.org/10.1186/s13321-016-0139-1) : Citations: 97
+	- [Publication](https://doi.org/10.1186/s13321-016-0139-1) : Citations: 98
 	- [Link](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-016-0139-1)
 - **Surflex-Tools**: starting with version 4 (standalone).
 	- [Link](http://www.biopharmics.com/)
@@ -98,8 +98,8 @@
 	- [Code](https://github.com/rochoa85/dockECR) : Last updated in October 2021, 32 months ago
 	- [Publication](https://doi.org/10.1016/j.jmgm.2021.108023) : Citations: 9
 - **DockingPie**: DockingPie is a PyMOL plugin that facilitates consensus docking and scoring analyses, integrating four docking programs (Smina, Autodock Vina, RxDock, and ADFR) to offer a versatile platform for molecular and consensus docking.
-	- [Code](https://github.com/paiardin/DockingPie) : Last updated in May 2024, 0 months ago
-	- [Publication](https://doi.org/10.1093/bioinformatics/btac452) : Citations: 15
+	- [Code](https://github.com/paiardin/DockingPie) : Last updated in June 2024, 0 months ago
+	- [Publication](https://doi.org/10.1093/bioinformatics/btac452) : Citations: 18
 - **Exponential Consensus Ranking**: 
 	- [Publication](https://www.nature.com/articles/s41598-019-41594-3#Sec8) : Citations: N/A
 - **VoteDock**: 
@@ -112,21 +112,21 @@
 
 ## **Flexible Docking**
 - **ADFR**: AutoDockFR is a protein-ligand docking program supporting selective receptor flexibility and covalent docking, part of the ADFR suite for streamlined docking procedures.
-	- [Publication](https://doi.org/10.1371/journal.pcbi.1004586) : Citations: 307
+	- [Publication](https://doi.org/10.1371/journal.pcbi.1004586) : Citations: 310
 	- [Link](https://ccsb.scripps.edu/adfr/)
 - **DSDPFlex**: 
 	- [Code](https://github.com/PKUGaoGroup/DSDP) : Last updated in June 2024, 0 months ago
 	- [Publication](https://doi.org/10.26434/chemrxiv-2023-bcw0g-v2) : Citations: 0
 	- [Link](https://chemrxiv.org/engage/chemrxiv/article-details/6572d98429a13c4d47f6b4c6)
 - **DynamicBind**: DynamicBind recovers ligand-specific conformations from unbound protein structures (e.g. AF2-predicted structures), promoting efficient transitions between different equilibrium states.
-	- [Code](https://github.com/luwei0917/DynamicBind) : Last updated in May 2024, 0 months ago
+	- [Code](https://github.com/luwei0917/DynamicBind) : Last updated in May 2024, 1 months ago
 	- [Publication](https://doi.org/10.1038/s41467-024-45461-2) : Citations: 4
 - **FlexAID**: 
 	- [Code](https://doi.org/10.1021/acs.jcim.5b00333) : Last updated in nan, nan
 	- [Publication](https://doi.org/10.1021/acs.jcim.5b00078) : Citations: 49
 - **GNINA**: GNINA is a molecular docking program that incorporates scoring and optimization of ligands using convolutional neural networks, aiming to combine the versatility of smina and AutoDock Vina with the predictive power of deep learning.
-	- [Code](https://github.com/gnina/gnina) : Last updated in May 2024, 0 months ago
-	- [Publication](https://doi.org/10.1186/s13321-021-00522-2) : Citations: 199
+	- [Code](https://github.com/gnina/gnina) : Last updated in May 2024, 1 months ago
+	- [Publication](https://doi.org/10.1186/s13321-021-00522-2) : Citations: 203
 - **iDock**: iDock is a multithreaded virtual screening tool for flexible ligand docking in computational drug discovery, inspired by AutoDock Vina and hosted on GitHub under Apache License 2.0.
 	- [Code](https://github.com/gloglita/idock) : Last updated in June 2013, 133 months ago
 	- [Publication](https://doi.org/10.1109/CIBCB.2012.6217214) : Citations: 59
@@ -134,11 +134,16 @@
 	- [Code](https://github.com/Zhang-Runze/PackDock) : Last updated in April 2024, 1 months ago
 	- [Publication](https://doi.org/10.1101/2024.01.31.578200) : Citations: 0
 - **tiny_IFD**: Offers lightweight induced fit docking capabilities.
-	- [Code](https://github.com/darrenjhsu/tiny_IFD) : Last updated in May 2023, 12 months ago
+	- [Code](https://github.com/darrenjhsu/tiny_IFD) : Last updated in May 2023, 13 months ago
+
+## **Fragment-based**
+- **Spresso**: an ultrafast compound pre-screening method based on compound decomposition
+	- [Publication](https://doi.org/10.1093/bioinformatics/btx178) : Citations: 13
+	- [Link](https://www.bi.cs.titech.ac.jp/spresso/)
 
 ## **HPC enabled**
 - **POAP**: 
-	- [Code](https://github.com/inpacdb/POAP) : Last updated in March 2018, 75 months ago
+	- [Code](https://github.com/inpacdb/POAP) : Last updated in March 2018, 76 months ago
 	- [Publication](https://doi.org/10.1016/j.compbiolchem.2018.02.012) : Citations: 61
 - **VinaLC**: 
 	- [Code](https://github.com/XiaohuaZhangLLNL/VinaLC) : Last updated in September 2018, 69 months ago
@@ -155,25 +160,25 @@
 ## **ML-based**
 - **AQDNet**: Implements a Deep Neural Network for Protein-Ligand Docking Simulation, focusing on identifying correct binding poses through convolutional neural network approaches.
 	- [Code](https://github.com/koji11235/AQDnet) : Last updated in May 2023, 13 months ago
-	- [Publication](https://doi.org/10.1021/acsomega.3c02411) : Citations: 4
+	- [Publication](https://doi.org/10.1021/acsomega.3c02411) : Citations: 5
 - **CarsiDock**: a deep learning paradigm for accurate protein–ligand docking and screening based on large-scale pre-training (standalone, 2024).
 	- [Code](https://github.com/carbonsilicon-ai/CarsiDock) : Last updated in March 2024, 3 months ago
 	- [Publication](https://doi.org/10.1039/D3SC05552C) : Citations: 3
 - **DeepBindBC**: A practical deep learning method for identifying native-like protein-ligand complexes in virtual screening (online).
-	- [Publication](https://doi.org/10.1016/j.ymeth.2022.07.009) : Citations: 14
+	- [Publication](https://doi.org/10.1016/j.ymeth.2022.07.009) : Citations: 15
 	- [Link](http://cbblab.siat.ac.cn/DeepBindBC/index.php)
 - **DiffBindFR**: 
 	- [Code](https://github.com/HBioquant/DiffBindFR) : Last updated in June 2024, 0 months ago
 	- [Publication](https://doi.org/10.1039/D3SC06803J) : Citations: 0
 - **DiffDock**: A state-of-the-art method for molecular docking, incorporating diffusion steps and a significant improvement in performance and generalization capacity.
-	- [Code](https://github.com/gcorso/DiffDock) : Last updated in May 2024, 1 months ago
+	- [Code](https://github.com/gcorso/DiffDock) : Last updated in June 2024, 0 months ago
 	- [Publication](https://arxiv.org/abs/2210.01776) : Citations: N/A
 - **DiffDock-Pocket**: 
 	- [Code](https://github.com/plainerman/DiffDock-Pocket) : Last updated in March 2024, 2 months ago
 	- [Publication](https://www.mlsb.io/papers_2023/DiffDock-Pocket_Diffusion_for_Pocket-Level_Docking_with_Sidechain_Flexibility.pdf) : Citations: N/A
 - **DiffusionProteinLigand**: End-to-end protein–ligand complex structure generation with diffusion-based generative models (standalone).
 	- [Code](https://github.com/shuyana/DiffusionProteinLigand) : Last updated in February 2024, 3 months ago
-	- [Publication](https://doi.org/10.1186/s12859-023-05354-5) : Citations: 8
+	- [Publication](https://doi.org/10.1186/s12859-023-05354-5) : Citations: 9
 - **ESF - scalar fields**: Implements Equivariant Scalar Fields for Molecular Docking with Fast Fourier Transforms, a machine learning-based ligand pose scoring function for rapid optimization.
 	- [Code](https://github.com/bjing2016/scalar-fields) : Last updated in December 2023, 6 months ago
 	- [Publication](https://arxiv.org/abs/2312.04323) : Citations: N/A
@@ -187,11 +192,11 @@
 	- [Code](https://github.com/QizhiPei/FABind) : Last updated in June 2024, 0 months ago
 	- [Publication](https://arxiv.org/abs/2310.06763) : Citations: N/A
 - **GAABind**: GAABind is a Geometry-Aware Attention-Based Network for accurate protein-ligand binding pose and binding affinity prediction, featuring a comprehensive environment setup and dataset processing guide.
-	- [Code](https://github.com/Mercuryhs/GAABind/blob/main/README.MD) : Last updated in November 2023, 6 months ago
+	- [Code](https://github.com/Mercuryhs/GAABind/blob/main/README.MD) : Last updated in November 2023, 7 months ago
 	- [Publication](https://doi.org/10.1093/bib/bbad462) : Citations: 0
 - **GNINA**: GNINA is a molecular docking program that incorporates scoring and optimization of ligands using convolutional neural networks, aiming to combine the versatility of smina and AutoDock Vina with the predictive power of deep learning.
-	- [Code](https://github.com/gnina/gnina) : Last updated in May 2024, 0 months ago
-	- [Publication](https://doi.org/10.1186/s13321-021-00522-2) : Citations: 199
+	- [Code](https://github.com/gnina/gnina) : Last updated in May 2024, 1 months ago
+	- [Publication](https://doi.org/10.1186/s13321-021-00522-2) : Citations: 203
 - **GNINA_KD**: 
 	- [Code](https://github.com/YanjingLiLi/GNINA_Knowledge_Distillation) : Last updated in April 2024, 2 months ago
 	- [Publication](https://doi.org/10.26434/chemrxiv-2024-0jh8g) : Citations: 0
@@ -203,7 +208,7 @@
 	- [Link](https://assets.researchsquare.com/files/rs-3995849/v1_covered_1a7bca9a-ea43-4846-aade-5187b4ca1ab6.pdf?c=1711449538)
 - **KarmaDock**: 
 	- [Code](https://github.com/schrojunzhang/KarmaDock/blob/main/README.md) : Last updated in October 2023, 8 months ago
-	- [Publication](https://doi.org/10.1038/s43588-023-00511-5) : Citations: 17
+	- [Publication](https://doi.org/10.1038/s43588-023-00511-5) : Citations: 18
 - **NeuralPlexer**: deep generative model to jointly predict protein-ligand complex 3D structures and beyond.
 	- [Code](https://github.com/zrqiao/NeuralPLexer) : Last updated in April 2024, 1 months ago
 	- [Publication](https://doi.org/10.1038/s42256-024-00792-z.) : Citations: 0
@@ -241,7 +246,7 @@
 
 ## **MetalloProteins**
 - **MetalDock**: 
-	- [Code](https://github.com/MatthijsHak/MetalDock) : Last updated in May 2024, 0 months ago
+	- [Code](https://github.com/MatthijsHak/MetalDock) : Last updated in June 2024, 0 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.3c01582) : Citations: 3
 
 ## **Multi-Ligand**
@@ -252,7 +257,7 @@
 ## **Pose Optimisation**
 - **DeepRMSD-Vina**: DeepRMSD+Vina is a computational framework integrating ligand binding pose optimization and screening, utilizing deep learning alongside the classical Vina scoring function.
 	- [Code](https://github.com/zchwang/DeepRMSD-Vina_Optimization) : Last updated in January 2024, 4 months ago
-	- [Publication](https://doi.org/10.1093/bib/bbac520) : Citations: 22
+	- [Publication](https://doi.org/10.1093/bib/bbac520) : Citations: 23
 
 ## **Protein Docking**
 - **EquiDock**: EquiDock employs geometric deep learning for fast and accurate rigid 3D protein-protein docking, focusing on efficiency and accessibility with comprehensive preprocessing and training guidelines.
@@ -268,7 +273,7 @@
 
 ## **Water**
 - **WatVina**: Watvina facilitates drug design with support for explicit or implicit waters, pharmacophore, or position-constrained docking, and external torsion parameters, enhancing the Autodock Vina engine.
-	- [Code](https://github.com/biocheming/watvina) : Last updated in May 2024, 0 months ago
+	- [Code](https://github.com/biocheming/watvina) : Last updated in May 2024, 1 months ago
 
 ## **WebServers**
 - **MolModa**: accessible and secure molecular docking in a web browser.

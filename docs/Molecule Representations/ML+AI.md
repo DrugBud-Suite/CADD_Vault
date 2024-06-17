@@ -1,10 +1,10 @@
 
 ## **General**
 - **graphium**: 
-	- [Code](https://github.com/datamol-io/graphium) : Last updated in March 2024, 2 months ago
+	- [Code](https://github.com/datamol-io/graphium) : Last updated in March 2024, 3 months ago
 	- [Link](https://graphium-docs.datamol.io/stable/)
 - **molfeat**: 
-	- [Code](https://github.com/datamol-io/molfeat) : Last updated in December 2023, 5 months ago
+	- [Code](https://github.com/datamol-io/molfeat) : Last updated in December 2023, 6 months ago
 	- [Publication](https://zenodo.org/badge/latestdoi/613548667) : Citations: N/A
 	- [Link](https://molfeat.datamol.io/)
 
