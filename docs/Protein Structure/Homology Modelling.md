@@ -1,12 +1,12 @@
 - **HHpred**: homology and structure prediction (online)
-	- [Publication](https://doi.org/10.1093%2Fnar%2Fgki408) : Citations: 2947
+	- [Publication](https://doi.org/10.1093%2Fnar%2Fgki408) : Citations: 2948
 	- [Webserver](https://toolkit.tuebingen.mpg.de/#/tools/hhpred)
 - **HOMELETTE**: a unified interface to homology modelling software (standalone)
 	- [Code](https://github.com/PhilippJunk/homelette) : Last updated in September 2023, 8 months ago
 	- [Publication](https://doi.org/10.1093/bioinformatics/btab866):) : Citations: 0
 - **Phyre2**: Phyre2 is a tool for predicting and analyzing protein structure, function, and mutations. The server provides an expert mode for registered users and integrates models directly from the AlphaFold Protein Structure Database for one-to-one threading.
-	- [Publication](https://doi.org/10.1038%2Fnprot.2015.053) : Citations: 7926
+	- [Publication](https://doi.org/10.1038%2Fnprot.2015.053) : Citations: 7931
 	- [Webserver](http://www.sbg.bio.ic.ac.uk/phyre2/html/page.cgi?id=index)
 - **SWISS-MODEL**: an automated protein structure homology-modelling server, accessible via the ExPASy web server
-	- [Publication](https://doi.org/10.1093/nar/gky427) : Citations: 8501
+	- [Publication](https://doi.org/10.1093/nar/gky427) : Citations: 8515
 	- [Webserver](http://swissmodel.expasy.org/)

@@ -1,3 +1,3 @@
 - **Pan-Canadian Chemical Library**: a collection of nearly 150 billion diverse compounds that does not overlap with other ultra-large libraries such as Enamine REAL or SAVI
-	- [Code](https://github.com/cbedart/PCCL) : Last updated in December 2023, 5 months ago
+	- [Code](https://github.com/cbedart/PCCL) : Last updated in June 2024, 0 months ago
 	- [Publication](https://doi.org/10.1038/s41597-024-03443-5) : Citations: 0

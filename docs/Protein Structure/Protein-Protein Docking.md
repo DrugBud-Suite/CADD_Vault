@@ -11,16 +11,16 @@
 	- [Code](https://github.com/wells-wood-research/balas) : Last updated in March 2021, 39 months ago
 	- [Publication](https://doi.org/10.1093/bioinformatics/btaa026) : Citations: 42
 - **Cluspro**: protein docking (online)
-	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1963
+	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1965
 	- [Webserver](https://cluspro.bu.edu/login.php)
 - **ClusPro FMFT-SAXS**: Ultra-fast Filtering Using Small-Angle X-ray Scattering Data in Protein Docking (online and standalone)
-	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1963
+	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1965
 	- [Link](https://beta.cluspro.org/)
 - **ClusPro TBM**: Toward combining template-based methods with free docking (protein-protein docking) (online)
-	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1963
+	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1965
 	- [Link](https://tbm.cluspro.org/)
 - **ClusPro-DC**: discrimination between Xray and biological dimers (online requires login)
-	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1963
+	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1965
 	- [Webserver](https://cluspro.bu.edu/)
 - **CoDockPP**: A Multistage Approach for Global and Site-Specific Protein-Protein Docking (online)
 	- [Publication](https://doi.org/10.1021/acs.jcim.9b00445) : Citations: 30
@@ -62,7 +62,7 @@
 	- [Webserver](http://filtrest3d.genesilico.pl/filtrest3d/help.html)
 - **FoldDock**: simultaneous folding and docking protocol FoldDock and AlphaFold (standalone)
 	- [Code](https://gitlab.com/ElofssonLab/FoldDock/) : Last updated in nan, nan
-	- [Publication](http://dx.doi.org/10.1038/s41467-022-28865-w) : Citations: 384
+	- [Publication](http://dx.doi.org/10.1038/s41467-022-28865-w) : Citations: 387
 - **FRODOCK**: Fast Rotational DOCKing (online)
 	- [Publication](https://doi.org/10.1093/bioinformatics/btw141) : Citations: 117
 	- [Webserver](http://frodock.chaconlab.org/)
@@ -88,13 +88,13 @@
 	- [Publication](https://doi.org/10.1186/1479-7364-6-7) : Citations: 14
 	- [Webserver](http://gwidd.compbio.ku.edu/)
 - **Haddock**: High Ambiguity Driven protein-protein DOCKing (online requires login)
-	- [Publication](https://doi.org/10.21769%2FBioProtoc.3793) : Citations: 7
+	- [Publication](https://doi.org/10.21769%2FBioProtoc.3793) : Citations: 8
 	- [Webserver](http://haddock.chem.uu.nl/)
 - **HawkDock**: to predict and analyze the protein-protein complex based on computational docking and MM/GBSA (online)
-	- [Publication](https://doi.org/10.1093/nar/gkz397) : Citations: 342
+	- [Publication](https://doi.org/10.1093/nar/gkz397) : Citations: 343
 	- [Link](http://cadd.zju.edu.cn/hawkdock/)
 - **HDOCK**: hybrid protein–protein and protein–DNA/RNA docking, Pushing the accuracy limit of shape complementarity for protein-protein docking (online)
-	- [Publication](https://doi.org/10.1093%2Fnar%2Fgkx407) : Citations: 696
+	- [Publication](https://doi.org/10.1093%2Fnar%2Fgkx407) : Citations: 697
 	- [Link](http://hdock.phys.hust.edu.cn/)
 - **HMI-PRED**: A Web Server for Structural Prediction of Host-Microbe Interactions Based on Interface Mimicry (online)
 	- [Publication](https://doi.org/10.1093/bioinformatics/btac633) : Citations: 1
@@ -123,10 +123,10 @@
 - **PIIMS**: Mutation Hotspot Scanning at the Protein-Protein Interface (online)
 	- [Link](http://chemyang.ccnu.edu.cn/ccb/server/PIIMS/index.php)
 - **PPI-Affinity**: Prediction and Optimization of Protein-Peptide and Protein-Protein Binding Affinity (online)
-	- [Publication](https://doi.org/10.1021/acs.jproteome.2c00020) : Citations: 28
+	- [Publication](https://doi.org/10.1021/acs.jproteome.2c00020) : Citations: 30
 	- [Webserver](https://protdcal.zmb.uni-due.de/PPIAffinity)
 - **PRODIGY**: PROtein binDIng enerGY prediction (online)
-	- [Publication](https://doi.org/10.1093/bioinformatics/btw514) : Citations: 759
+	- [Publication](https://doi.org/10.1093/bioinformatics/btw514) : Citations: 761
 	- [Webserver](https://wenmr.science.uu.nl/prodigy/)
 - **PRODIGY-crystal**: classification of biological interfaces in protein complexes (online)
 	- [Publication](https://doi.org/10.1093/bioinformatics/btz437) : Citations: 27
@@ -162,4 +162,4 @@
 ## **Quality Assessment**
 - **DockQ**: A Quality Measure for Protein-Protein Docking Models (standalone)
 	- [Code](http://github.com/bjornwallner/DockQ/) : Last updated in nan, nan
-	- [Publication](https://doi.org/10.1371/journal.pone.0161879) : Citations: 222
+	- [Publication](https://doi.org/10.1371/journal.pone.0161879) : Citations: 223

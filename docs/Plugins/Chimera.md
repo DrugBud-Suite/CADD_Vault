@@ -1,4 +1,4 @@
 - **Chimera Pharmacophore**: 
-	- [Code](https://github.com/josan82/chimera_p4) : Last updated in June 2019, 60 months ago
+	- [Code](https://github.com/josan82/chimera_p4) : Last updated in June 2019, 61 months ago
 - **Tangram**: 
 	- [Code](https://github.com/insilichem/tangram) : Last updated in March 2019, 63 months ago

@@ -1,8 +1,8 @@
 - **AMBER**: suite of biomolecular simulation programs (standalone)
-	- [Publication](https://doi.org/10.1021/acs.jcim.3c01153) : Citations: 130
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c01153) : Citations: 132
 	- [Link](http://ambermd.org/)
 - **CHARMM**: Chemistry at HARvard Macromolecular Mechanics (standalone)
-	- [Publication](https://doi.org/10.1002/jcc.21287) : Citations: 6827
+	- [Publication](https://doi.org/10.1002/jcc.21287) : Citations: 6831
 	- [Link](https://academiccharmm.org/)
 - **CHARMM-GUI**: 
 	- [Webserver](http://www.charmm-gui.org/?doc=input)
@@ -13,12 +13,12 @@
 	- [Link](http://www.gromacs.org/)
 - **HTMD**: 
 	- [Code](https://github.com/Acellera/htmd) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1021/acs.jctc.6b00049) : Citations: 326
+	- [Publication](https://doi.org/10.1021/acs.jctc.6b00049) : Citations: 327
 - **HTMD**: a molecular-specific programmable environment to prepare, handle, simulate, visualize and analyze molecular systems (standalone)
-	- [Publication](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00049) : Citations: 326
+	- [Publication](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00049) : Citations: 327
 	- [Link](https://www.htmd.org/)
 - **LAMMPS**: Molecular Dynamics Simulator and much more
-	- [Publication](https://doi.org/10.1016/j.cpc.2021.108171) : Citations: 3751
+	- [Publication](https://doi.org/10.1016/j.cpc.2021.108171) : Citations: 3771
 	- [Link](https://www.lammps.org/)
 - **NAMD**: NAMD is a parallel molecular dynamics code for high-performance simulation of large biomolecular systems, recognized for its scalability and efficiency.
 	- [Link](https://www.ks.uiuc.edu/Research/namd/)
@@ -27,7 +27,7 @@
 	- [Publication](https://doi.org/10.5281/zenodo.10967071.svg) : Citations: 0
 - **OpenMM**: OpenMM is a high-performance toolkit for molecular simulation, offering extensive language bindings and a flexible platform for developing high-performance algorithms.
 	- [Code](https://github.com/openmm/openmm) : Last updated in May 2024, 1 months ago
-	- [Publication](https://doi.org/10.1021/acs.jpcb.3c06662) : Citations: 7
+	- [Publication](https://doi.org/10.1021/acs.jpcb.3c06662) : Citations: 8
 	- [Link](http://openmm.org/)
 - **OpenMMDL**: Interface to **OpenMM** for easy setup of molecular dynamic simulations of protein-ligand complexes
 	- [Code](https://github.com/wolberlab/OpenMMDL) : Last updated in June 2024, 0 months ago
@@ -49,6 +49,9 @@
 	- [Webserver](https://simlab.uams.edu/index.php)
 - **YAMACS**: graphical user interface for the GROMACS program (standalone)
 	- [Code](https://github.com/YAMACS-SML/YAMACS) : Last updated in January 2024, 5 months ago
+- **GENESIS**: The GENESIS package contains two MD programs (atdyn and spdyn), trajectory analysis programs, and other useful tools.
+	- [Publication](https://doi.org/10.1021/acs.jpcb.4c02096) : Citations: 0
+	- [Link](https://www.r-ccs.riken.jp/labs/cbrt/)
 
 ## **ML-enabled**
 - **DeepDriveMD**: Deep-Learning Driven Adaptive Molecular Simulations (standalone)
@@ -66,4 +69,14 @@
 	- [Link](https://www.semanticscholar.org/paper/A-Multi-Grained-Symmetric-Differential-Equation-for-Liu-Du/0215dd9f346534bf4c4247220501d7ab7d7715c6)
 - **torchmd**: 
 	- [Code](https://github.com/torchmd/torchmd) : Last updated in February 2024, 3 months ago
-	- [Publication](https://doi.org/10.1021/acs.jctc.0c01343) : Citations: 117
+	- [Publication](https://doi.org/10.1021/acs.jctc.0c01343) : Citations: 118
+
+## **Water**
+- **PyRod**: PyRod is a Python software for generating dynamic molecular interaction fields and pharmacophore features based on the protein environment of water molecules in molecular dynamics simulations.
+	- [Code](https://github.com/wolberlab/pyrod) : Last updated in January 2021, 42 months ago
+	- [Publication](https://doi.org/10.1021/acs.jcim.9b00281).) : Citations: 0
+
+## **interOperable**
+- **SIRE**: An interoperability engine for prototyping algorithms and exchanging information between molecular simulation programs
+	- [Publication](https://doi.org/10.1063/5.0200458) : Citations: 0
+	- [Link](https://try.openbiosim.org)

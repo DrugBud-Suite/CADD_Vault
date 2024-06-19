@@ -6,4 +6,4 @@
 	- [Code](https://github.com/openmm/pdbfixer) : Last updated in May 2023, 13 months ago
 - **pdb-tools**: 
 	- [Code](https://github.com/haddocking/pdb-tools) : Last updated in December 2023, 6 months ago
-	- [Publication](https://doi.org/10.12688/f1000research.17456.1) : Citations: 102
+	- [Publication](https://doi.org/10.12688/f1000research.17456.1) : Citations: 104

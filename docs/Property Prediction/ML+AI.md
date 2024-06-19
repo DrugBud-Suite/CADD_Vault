@@ -4,17 +4,22 @@
 	- [Code](https://github.com/WhitestoneYang/spoc) : Last updated in January 2024, 5 months ago
 	- [Publication](https://doi.org/10.1002/cphc.202200255) : Citations: 14
 
+## **Ensemble**
+- **AIS-Ensemble**: 
+	- [Code](https://github.com/jlinghu/AIS-Ensemble-model) : Last updated in May 2024, 1 months ago
+	- [Publication](https://doi.org/10.48550/arXiv.2406.06553) : Citations: 0
+
 ## **Model Building And Training**
 - **DeepNeuralNet-QSAR**: For training a multi-task DNN with dense QSAR dataset(s)
 	- [Code](https://github.com/Merck/DeepNeuralNet-QSAR) : Last updated in October 2018, 68 months ago
 - **DeepPurpose**: A Deep Learning Library for Compound and Protein Modeling, DTI, Drug Property, PPI, DDI, Protein Function Prediction
 	- [Code](https://github.com/kexinhuang12345/DeepPurpose) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1093/bioinformatics/btaa1005) : Citations: 176
+	- [Publication](https://doi.org/10.1093/bioinformatics/btaa1005) : Citations: 177
 - **MolE**: Molecular representations through redundancy reduction of Embeddings
 	- [Code](https://github.com/rolayoalarcon/MolE) : Last updated in April 2024, 2 months ago
 	- [Publication](https://doi.org/10.1101/2024.03.11.584456v1) : Citations: 0
 - **MolPMoFiT**: transfer learning method based on self-supervised pre-training + task-specific fine-tuning for QSPR/QSAR modeling
-	- [Code](https://github.com/XinhaoLi74/MolPMoFiT) : Last updated in August 2022, 21 months ago
+	- [Code](https://github.com/XinhaoLi74/MolPMoFiT) : Last updated in August 2022, 22 months ago
 	- [Publication](https://doi.org/10.1186/s13321-020-00430-x) : Citations: 74
 - **Oloren ChemEngine**: unified API for the development and use of molecular property predictors
 	- [Code](https://github.com/Oloren-AI/olorenchemengine/tree/master) : Last updated in August 2023, 10 months ago
@@ -51,20 +56,20 @@
 	- [Publication](https://doi.org/10.48550/arXiv.2107.07994) : Citations: 0
 ### **GAT**
 - **LGGA**: 
-	- [Code](https://github.com/songlei101/LGGA) : Last updated in December 2023, 5 months ago
+	- [Code](https://github.com/songlei101/LGGA) : Last updated in December 2023, 6 months ago
 ### **GNN**
 - **CheMixNet**: A mixed DNN architecture that predicts chemical properties using multiple molecular representations.
 	- [Code](https://github.com/NU-CUCIS/CheMixNet) : Last updated in November 2019, 55 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.1811.08283) : Citations: 0
 - **DeepDelta**: A pairwise deep learning approach predicting property differences between two molecules.
 	- [Code](https://github.com/RekerLab/DeepDelta) : Last updated in March 2024, 3 months ago
-	- [Publication](https://doi.org/10.1186/s13321-023-00769-x) : Citations: 4
+	- [Publication](https://doi.org/10.1186/s13321-023-00769-x) : Citations: 5
 - **MMGX**: 
 	- [Code](https://github.com/ohuelab/MMGX) : Last updated in April 2024, 2 months ago
-	- [Publication](https://doi.org/10.1038/s42004-024-01155-w) : Citations: 0
+	- [Publication](https://doi.org/10.1038/s42004-024-01155-w) : Citations: 1
 - **MolCLR**: Molecular Contrastive Learning of Representations via Graph Neural Networks
 	- [Code](https://github.com/yuyangw/MolCLR) : Last updated in July 2022, 23 months ago
-	- [Publication](https://doi.org/10.1038/s42256-022-00447-x) : Citations: 210
+	- [Publication](https://doi.org/10.1038/s42256-022-00447-x) : Citations: 213
 - **molgraph**: Offers graph neural networks with TensorFlow and Keras for molecular machine learning, focusing on compatibility and ease of use.
 	- [Code](https://github.com/akensert/molgraph) : Last updated in June 2024, 0 months ago
 ### **Graph-Fusion**

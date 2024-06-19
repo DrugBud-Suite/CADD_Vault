@@ -1,0 +1,28 @@
+- **BindingDB**: BindingDB contains data for over 1.2 million compounds and 9.2k targets, supporting research, education, and practice in drug discovery, pharmacology, and related fields.
+	- [Publication](https://doi.org/10.1093/nar/gkv1072) : Citations: 980
+	- [Link](https://www.bindingdb.org/bind/index.jsp)
+- **BindingNet**: BindingNet is a dataset for analyzing protein-ligand interactions, containing modeled poses for compounds similar to the crystal ligands found in PDBbind, along with corresponding activities from ChEMBL.
+	- [Code](https://github.com/hnlab/BindingNet) : Last updated in January 2024, 5 months ago
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c01170) : Citations: 2
+	- [Link](http://bindingnet.huanglab.org.cn/)
+- **BioLip2**: BioLiP is a semi-manually curated database for high-quality, biologically relevant ligand-protein binding interactions, aiming to serve the needs of ligand-protein docking, virtual ligand screening, and protein function annotation.
+	- [Publication](https://doi.org/10.1093/nar/gkad630) : Citations: 13
+	- [Link](https://zhanggroup.org/BioLiP/index.cgi)
+- **Leak Proof PDBBind**: This work presents a cleaned PDBBind dataset of non-covalent binders, reorganized to avoid data leakage, allowing for more generalizable binding affinity prediction.
+	- [Code](https://github.com/THGLab/LP-PDBBind) : Last updated in January 2024, 4 months ago
+	- [Publication](https://doi.org/10.48550/arXiv.2308.09639) : Citations: 0
+	- [Link](https://github.com/THGLab/LP-PDBBind)
+- **PDBBind**: 
+	- [Publication](https://doi.org/10.1021/acs.accounts.6b00491) : Citations: 266
+	- [Link](http://pdbbind.org.cn/)
+- **PDBscreen**: PDBscreen provides a dataset with multiple data augmentation strategies suitable for training protein-ligand interaction prediction methods.
+	- [Link](https://zenodo.org/records/8049380)
+- **PLAS-20K**: 
+	- [Publication](https://doi.org/10.26434/chemrxiv-2023-mg07d) : Citations: 0
+	- [Link](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/64cca66569bfb8925a5514c5/original/plas-20k-extended-dataset-of-protein-ligand-affinities-from-md-simulations-for-machine-learning-applications.pdf)
+- **PDBBind+**: 
+	- [Link](https://www.pdbbind-plus.org.cn/)
+- **SIU**: Million-Scale Structural Small Molecule-Protein Interaction Dataset for Unbiased Bioactivity Prediction
+	- [Code](https://github.com/bowen-gao/SIU) : Last updated in June 2024, 0 months ago
+	- [Publication](https://doi.org/10.48550/arXiv.2406.08961) : Citations: 0
+	- [Link](https://huggingface.co/datasets/bgao95/SIU)

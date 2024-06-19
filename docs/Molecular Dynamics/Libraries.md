@@ -9,14 +9,14 @@
 
 ## **Analysis**
 - **MDAnalysis**: 
-	- [Code](https://github.com/MDAnalysis/mdanalysis) : Last updated in May 2024, 0 months ago
-	- [Publication](https://doi.org/10.25080/majora-629e541a-00e) : Citations: 837
+	- [Code](https://github.com/MDAnalysis/mdanalysis) : Last updated in June 2024, 0 months ago
+	- [Publication](https://doi.org/10.25080/majora-629e541a-00e) : Citations: 840
 	- [Link](http://www.mdanalysis.org/)
 - **MDTraj**: MDTraj is a Python library for analyzing molecular dynamics trajectories, offering a wide range of functionalities for trajectory manipulation and analysis.
 	- [Code](https://github.com/simtk/mdtraj) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1016/j.bpj.2015.08.015) : Citations: 1580
+	- [Publication](https://doi.org/10.1016/j.bpj.2015.08.015) : Citations: 1586
 
 ## **Preparation**
 - **Packmol**: Packmol creates initial configurations for molecular dynamics simulations by packing molecules to meet specified conditions, aiding in the setup of simulation boxes.
-	- [Publication](https://doi.org/10.1002/jcc.21224) : Citations: 5964
+	- [Publication](https://doi.org/10.1002/jcc.21224) : Citations: 5976
 	- [Link](https://m3g.github.io/packmol/)

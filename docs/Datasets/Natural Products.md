@@ -1,0 +1,38 @@
+- **BIOFACQUIM**: novel compounds databse with natural products isolated and charcterized in Mexico (online)
+	- [Link](https://www.difacquim.com/d-tools/)
+- **COCONUT**: COCONUT hosts one of the largest and best annotated natural product databases, freely available and undergoing continuous curation and improvement.
+	- [Publication](https://doi.org/10.1186%2Fs13321-020-00478-9) : Citations: 246
+	- [Link](https://coconut.naturalproducts.net/)
+- **HIT 2.0**: an enhanced platform for Herbal Ingredients' Targets (online)
+	- [Publication](https://doi.org/10.1093/nar/gkq1165) : Citations: 246
+	- [Link](http://hit2.badd-cao.net/)
+- **iSMART**: an integrated cloud computing web server for traditional Chinese medicine for online virtual screening, de novo evolution and drug design (online)
+	- [Link](http://ismart.cmu.edu.tw/)
+- **LOTUS**: LOTUS is a significant, well-annotated resource for natural products, offering a user-friendly experience including structural search, taxonomy-oriented queries, and exports.
+	- [Publication](https://doi.org/10.7554/eLife.70780) : Citations: 102
+	- [Link](https://lotus.naturalproducts.net/)
+- **Natural product subsets (DIFACQUIM)**: Natural product datasets (diverse with Python code to generate diversity) (dataset)
+	- [Code](https://github.com/DIFACQUIM/Natural-products-subsets-generation) : Last updated in October 2023, 8 months ago
+	- [Publication](https://doi.org/10.1016/j.ailsci.2023.100066) : Citations: 2
+- **NPASS**: Natural product activity and species source database
+	- [Publication](https://doi.org/10.1093/nar/gkac1069) : Citations: 12
+	- [Link](https://bidd.group/NPASS/)
+- **npatlas**: The Natural Products Atlas 2.0: A Database of Microbially-Derived Natural Products (online)
+	- [Link](https://www.npatlas.org/)
+- **Nubbe**: a natural products database from the biodiversity of Brazil (online)
+	- [Link](http://nubbe.iq.unesp.br/portal/nubbe-search.html)
+- **PeruNPDB**: the Peruvian Natural Products Database for in silico drug screening (database)
+	- [Link](https://perunpdb.com.pe/)
+- **Super Natural II**: a database of natural products (online)
+	- [Publication](https://doi.org/10.1093/nar/gkac1008.) : Citations: 0
+	- [Link](http://bioinf-applied.charite.de/supernatural_new/index.php)
+- **SymMap**: SymMap integrates traditional Chinese medicine with modern medicine through molecular mechanisms and symptom mapping, offering information on herbs, ingredients, targets, symptoms, and diseases.
+	- [Publication](https://doi.org/10.1186/s13321-020-00478-9) : Citations: 246
+	- [Link](http://www.symmap.org/)
+- **TCM Database@Taiwan**: the world's largest traditional Chinese medicine database for drug screening in silico (online)
+	- [Link](http://tcm.cmu.edu.tw/)
+- **TCMSID**: a simplified integrated database for drug discovery from traditional chinese medicine (online)
+	- [Publication](https://doi.org/10.1186/s13321-022-00670-z) : Citations: 6
+	- [Link](https://tcm.scbdd.com/)
+- **VIETHERB**: A Database for Vietnamese Herbal Species - Natural products (online)
+	- [Link](http://vietherb.com.vn/)

@@ -17,13 +17,13 @@
 	- [Publication](https://doi.org/10.1021/acs.jcim.6b00565).) : Citations: 0
 - **mordred**: A molecular descriptor calculator that is extendable and supports various chemical informatics tasks.
 	- [Code](https://github.com/mordred-descriptor/mordred) : Last updated in June 2019, 61 months ago
-	- [Publication](https://doi.org/10.1186/s13321-018-0258-y) : Citations: 651
+	- [Publication](https://doi.org/10.1186/s13321-018-0258-y) : Citations: 654
 - **PaDEL**: A software for calculating molecular descriptors and fingerprints.
-	- [Publication](https://doi.org/10.1002/jcc.21707) : Citations: 1958
+	- [Publication](https://doi.org/10.1002/jcc.21707) : Citations: 1960
 	- [Link](http://yapcwsoft.com/dd/padeldescriptor/)
 - **PadelPy**: A Python wrapper for PaDEL-Descriptor software (standalone)
 	- [Code](https://github.com/ecrl/padelpy) : Last updated in November 2023, 7 months ago
-	- [Publication](https://doi.org/10.1002/jcc.21707) : Citations: 1958
+	- [Publication](https://doi.org/10.1002/jcc.21707) : Citations: 1960
 - **Spectrophores**: Calculates spectrophoric descriptors that capture electronic and spatial properties of molecules.
 	- [Code](https://github.com/silicos-it/spectrophore) : Last updated in December 2020, 42 months ago
 	- [Publication](https://doi.org/10.1186/s13321-018-0268-9) : Citations: 13
@@ -44,7 +44,7 @@
 ## **Drug-Likeness**
 - **QED**: Offers the Quantitative Estimate of Drug-likeness for a given molecular structure.
 	- [Code](https://github.com/silicos-it/qed) : Last updated in December 2022, 18 months ago
-	- [Publication](http://dx.doi.org/10.1038/nchem.1243) : Citations: 1198
+	- [Publication](http://dx.doi.org/10.1038/nchem.1243) : Citations: 1200
 
 ## **Fragment-Based Descriptors**
 - **Afgen**: Fragment-based descriptors (standalone)
@@ -63,13 +63,13 @@
 	- [Code](https://github.com/Hwoo-Kim/DFRscore) : Last updated in May 2024, 0 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.3c01134) : Citations: 4
 - **Emin**: 
-	- [Code](https://github.com/andrewlee1030/Emin-A-First-Principles-Thermochemical-Descriptor-for-Predicting-Molecular-Synthesizability) : Last updated in September 2023, 8 months ago
+	- [Code](https://github.com/andrewlee1030/Emin-A-First-Principles-Thermochemical-Descriptor-for-Predicting-Molecular-Synthesizability) : Last updated in September 2023, 9 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.3c01583) : Citations: 0
 - **RAScore**: rapid machine learned synthesizability classification from AI driven retrosynthetic planning.
 	- [Code](https://github.com/reymond-group/RAscore) : Last updated in August 2021, 34 months ago
-	- [Publication](https://doi.org/10.1039/d0sc05401a) : Citations: 65
+	- [Publication](https://doi.org/10.1039/d0sc05401a) : Citations: 67
 - **SAScore**: The Synthetic Accessibility Score (SAScore) aims to assess the synthetic difficulty of chemical compounds.
 	- [Code](https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1186/1758-2946-1-8) : Citations: 799
+	- [Publication](https://doi.org/10.1186/1758-2946-1-8) : Citations: 802
 - **SCscore**: SCScore is a synthetic complexity score that assigns a value between 1 and 5 to a molecule, based on the premise that published reactions should exhibit an increase in synthetic complexity.
 	- [Code](https://github.com/connorcoley/scscore) : Last updated in February 2018, 77 months ago

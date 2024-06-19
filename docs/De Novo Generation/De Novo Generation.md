@@ -40,9 +40,9 @@
 	- [Code](https://github.com/larngroup/GAN-Drug-Generator) : Last updated in April 2022, 26 months ago
 - **GENTRL (Generative Tensorial Reinforcement Learning)**: A variational autoencoder with a rich prior distribution of the latent space, trained to find molecules with high reward, emphasizing the relations between molecular structures and their properties.
 	- [Code](https://github.com/insilicomedicine/GENTRL) : Last updated in September 2019, 58 months ago
-	- [Publication](https://doi.org/10.1038/s41587-019-0224-x) : Citations: 687
+	- [Publication](https://doi.org/10.1038/s41587-019-0224-x) : Citations: 689
 - **GenUI**: Offers API and GUI for molecular generators, QSAR modelling, and chemical space visualization.
-	- [Code](https://github.com/martin-sicho/genui) : Last updated in September 2022, 20 months ago
+	- [Code](https://github.com/martin-sicho/genui) : Last updated in September 2022, 21 months ago
 	- [Publication](https://doi.org/10.1186/s13321-021-00550-y) : Citations: 11
 - **GRAPHINVENT**: A platform for graph-based molecular generation using graph neural networks, emphasizing probabilistic generation one bond at a time.
 	- [Code](https://github.com/MolecularAI/GraphINVENT) : Last updated in March 2023, 15 months ago
@@ -67,7 +67,7 @@
 	- [Publication](https://doi.org/10.1021/acs.jcim.8b00706) : Citations: 149
 - **LSTM_Chem**: Implements generative recurrent networks for drug design.
 	- [Code](https://github.com/topazape/LSTM_Chem) : Last updated in September 2021, 33 months ago
-	- [Publication](https://doi.org/10.1002/minf.201700111) : Citations: 287
+	- [Publication](https://doi.org/10.1002/minf.201700111) : Citations: 288
 - **MACAW**: an accessible tool for molecular embedding and inverse molecular design (generative chemistry) (standalone)
 	- [Code](https://github.com/LBLQMM/MACAW/) : Last updated in July 2022, 23 months ago
 	- [Publication](https://doi.org/10.26434/chemrxiv-2022-x647j).) : Citations: 0
@@ -122,7 +122,7 @@
 	- [Webserver](https://www.csuligroup.com/PGMG/)
 - **Pytorch_VAE**: This repository provides a PyTorch implementation of the paper "Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules" by Gómez-Bombarelli, et al., focusing on a variational autoencoder for molecular design using the ChEMBL dataset.
 	- [Code](https://github.com/Ishan-Kumar2/Molecular_VAE_Pytorch) : Last updated in March 2021, 40 months ago
-	- [Publication](https://doi.org/10.1021/acscentsci.7b00572) : Citations: 1741
+	- [Publication](https://doi.org/10.1021/acscentsci.7b00572) : Citations: 1745
 - **QADD**: QADD is a novel de novo multi-objective quality assessment-based drug design approach that integrates an iterative refinement framework with a graph-based molecular quality assessment model to generate molecules with multiple desired properties.
 	- [Code](https://github.com/yifang000/QADD) : Last updated in March 2023, 15 months ago
 	- [Publication](https://doi.org/10.1093/bioinformatics/btad157) : Citations: 7
@@ -134,7 +134,7 @@
 	- [Publication](https://doi.org/10.1186/s13321-022-00667-8) : Citations: 12
 - **ReLeaSE**: Utilizes deep reinforcement learning for de novo drug design.
 	- [Code](https://github.com/isayev/ReLeaSE) : Last updated in December 2021, 30 months ago
-	- [Publication](https://doi.org/10.1126/sciadv.aap7885) : Citations: 740
+	- [Publication](https://doi.org/10.1126/sciadv.aap7885) : Citations: 743
 - **RL-GraphInvent**: An extension using reinforcement learning for targeted molecular generation.
 	- [Code](https://github.com/olsson-group/RL-GraphINVENT) : Last updated in June 2021, 36 months ago
 	- [Publication](https://doi.org/10.1088/2632-2153/abcf91).) : Citations: 0
@@ -162,21 +162,31 @@
 - **SyntheMol**: SyntheMol is a generative AI method for designing structurally novel and diverse drug candidates with predicted bioactivity that are easy to synthesize.
 	- [Code](https://github.com/swansonk14/SyntheMol) : Last updated in April 2024, 1 months ago
 - **TransformerVAE**: A VAE model with Transformer backbone for molecule generation.
-	- [Code](https://github.com/mizuno-group/TransformerVAE) : Last updated in May 2024, 0 months ago
+	- [Code](https://github.com/mizuno-group/TransformerVAE) : Last updated in May 2024, 1 months ago
 - **TransPharmer**: The provided link was unresponsive for extracting detailed information; typically, it would describe a tool or model for pharmacophore-based molecular design or analysis.
 	- [Publication](https://doi.org/10.48550/arXiv.2401.01059) : Citations: 0
 	- [Link](https://www.semanticscholar.org/reader/fac3d72a3e73f65e1c950104e010edd136cb4201)
 - **VGAE-MCTS**: A New Molecular Generative Model Combining the Variational Graph Auto-Encoder and Monte Carlo Tree Search (generative chemistry combining deep learning and reinforcement learning based on a molecular graph representation) (standalone).
 	- [Code](https://github.com/clinfo/VGAE-MCTS) : Last updated in August 2023, 10 months ago
 	- [Publication](https://doi.org/10.26434/chemrxiv-2023-q8419) : Citations: 0
+- **glownet**: The main focus of this library (although it can do other things) is to construct graphs (e.g. graphs of atoms), which are constructed node by node.
+	- [Code](https://github.com/recursionpharma/gflownet) : Last updated in May 2024, 1 months ago
 
 ## **3D**
 - **E3_diffusion**: This project develops equivariant diffusion models for molecule generation in 3D, providing a novel approach to generating molecular structures by leveraging the properties of diffusion models within a 3D space.
 	- [Code](https://github.com/ehoogeboom/e3_diffusion_for_molecules) : Last updated in July 2022, 23 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2203.17003) : Citations: 0
 - **EMDS**: Equivariant Score-based Generative Diffusion Framework for 3D Molecules.
-	- [Code](https://github.com/nclabhzhang/EMDS) : Last updated in May 2024, 0 months ago
+	- [Code](https://github.com/nclabhzhang/EMDS) : Last updated in May 2024, 1 months ago
 	- [Publication](https://doi.org/10.1186/s12859-024-05810-w) : Citations: 0
+### **Reviews**
+- **Washburn et al.**: 
+	- [Publication](https://doi.org/10.48550/arXiv.2406.08511) : Citations: 0
+
+## **Multiobjective**
+- **MOMO**: multiobjective molecule optimization framework (MOMO)
+	- [Code](https://github.com/ahu-bioinf-lab/MOMO-master) : Last updated in October 2023, 7 months ago
+	- [Publication](https://doi.org/10.1021/acs.jcim.4c00031) : Citations: 0
 
 ## **Polypharmacology**
 - **POLYGON**: POLYGON attempts to optimize the chemical space for multiple protein target domains

@@ -2,13 +2,13 @@
 	- [Code](https://github.com/Hwoo-Kim/DFRscore) : Last updated in May 2024, 0 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.3c01134) : Citations: 4
 - **Emin**: 
-	- [Code](https://github.com/andrewlee1030/Emin-A-First-Principles-Thermochemical-Descriptor-for-Predicting-Molecular-Synthesizability) : Last updated in September 2023, 8 months ago
+	- [Code](https://github.com/andrewlee1030/Emin-A-First-Principles-Thermochemical-Descriptor-for-Predicting-Molecular-Synthesizability) : Last updated in September 2023, 9 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.3c01583) : Citations: 0
 - **RAScore**: rapid machine learned synthesizability classification from AI driven retrosynthetic planning.
 	- [Code](https://github.com/reymond-group/RAscore) : Last updated in August 2021, 34 months ago
-	- [Publication](https://doi.org/10.1039/d0sc05401a) : Citations: 65
+	- [Publication](https://doi.org/10.1039/d0sc05401a) : Citations: 67
 - **SAScore**: The Synthetic Accessibility Score (SAScore) aims to assess the synthetic difficulty of chemical compounds.
 	- [Code](https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1186/1758-2946-1-8) : Citations: 799
+	- [Publication](https://doi.org/10.1186/1758-2946-1-8) : Citations: 802
 - **SCscore**: SCScore is a synthetic complexity score that assigns a value between 1 and 5 to a molecule, based on the premise that published reactions should exhibit an increase in synthetic complexity.
 	- [Code](https://github.com/connorcoley/scscore) : Last updated in February 2018, 77 months ago

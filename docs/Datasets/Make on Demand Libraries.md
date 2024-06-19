@@ -1,0 +1,4 @@
+- **Enamine REAL**: 
+	- [Link](https://enamine.net/compound-collections/real-compounds/real-database)
+- **FreedomSpace**: 
+	- [Link](https://chem-space.com/compounds/freedom-space)

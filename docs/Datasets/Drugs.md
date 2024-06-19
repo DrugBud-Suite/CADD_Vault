@@ -1,0 +1,3 @@
+- **DrugCentral**: DrugCentral provides information on active ingredients in medicinal substances, offering access to drug labels, FDA and EMA datasets, pharmacological action, and more.
+	- [Publication](https://doi.org/10.1007/s10822-023-00529-x) : Citations: 1
+	- [Link](https://drugcentral.org/)

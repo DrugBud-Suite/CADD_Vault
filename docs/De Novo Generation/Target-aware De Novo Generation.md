@@ -12,7 +12,7 @@
 	- [Publication](https://doi.org/10.1021/acs.jcim.3c01456) : Citations: 0
 - **cMolGPT**: cMolGPT, a Conditional Generative Pre-trained Transformer, aims for de novo molecular design by enforcing target specificity during the generation process, emphasizing the incorporation of target embeddings.
 	- [Code](https://github.com/VV123/cMolGPT) : Last updated in July 2023, 11 months ago
-	- [Publication](https://doi.org/10.3390/molecules28114430) : Citations: 10
+	- [Publication](https://doi.org/10.3390/molecules28114430) : Citations: 11
 - **DeepICL**: 3D molecular generative framework for interaction-guided drug design
 	- [Code](https://github.com/ACE-KAIST/DeepICL) : Last updated in May 2024, 1 months ago
 	- [Publication](https://doi.org/10.1038/s41467-024-47011-2)).) : Citations: 0
@@ -41,7 +41,7 @@
 	- [Code](https://github.com/asarigun/DrugGEN) : Last updated in October 2023, 7 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2302.07868) : Citations: 0
 - **DrugGPS**: Focuses on learning subpocket prototypes for generalizable structure-based drug design, introduced at ICML 2023.
-	- [Code](https://github.com/zaixizhang/DrugGPS_ICML23) : Last updated in February 2024, 3 months ago
+	- [Code](https://github.com/zaixizhang/DrugGPS_ICML23) : Last updated in February 2024, 4 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2305.13997) : Citations: 0
 - **FLAG**: A Fragment-based Ligand Generation framework to generate 3D molecules with valid and realistic substructures fragment-by-fragment.
 	- [Code](https://github.com/zaixizhang/FLAG) : Last updated in April 2024, 2 months ago
@@ -60,7 +60,7 @@
 	- [Publication](https://doi.org/10.5281/zenodo.8419944) : Citations: 0
 - **liGAN**: A project for structure-based drug discovery using deep generative models of atomic density grids.
 	- [Code](https://github.com/mattragoza/liGAN) : Last updated in March 2023, 15 months ago
-	- [Publication](https://doi.org/10.1039/D1SC05976A) : Citations: 66
+	- [Publication](https://doi.org/10.1039/D1SC05976A) : Citations: 67
 - **Ligand_Generation**: This project focuses on target-aware variational autoencoders for ligand generation, employing multimodal protein representation learning for structure-based drug design.
 	- [Code](https://github.com/HySonLab/Ligand_Generation) : Last updated in May 2024, 1 months ago
 	- [Publication](https://doi.org/10.1088/2632-2153/ad3ee4) : Citations: 0
@@ -81,7 +81,7 @@
 	- [Publication](https://doi.org/10.3390/ijms24021146) : Citations: 10
 - **PMDM**: dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets
 	- [Code](https://github.com/Layne-Huang/PMDM/tree/main) : Last updated in May 2024, 1 months ago
-	- [Publication](https://doi.org/10.1038/s41467-024-46569-1) : Citations: 2
+	- [Publication](https://doi.org/10.1038/s41467-024-46569-1) : Citations: 3
 - **Pocket2Mol**: Uses equivariant graph neural networks for efficient molecular sampling based on 3D protein pockets.
 	- [Code](https://github.com/pengxingang/Pocket2Mol) : Last updated in November 2023, 7 months ago
 	- [Publication](https://doi.org/10.48550/arXiv.2205.07249) : Citations: 0
@@ -90,7 +90,7 @@
 	- [Publication](https://openreview.net/pdf?id=H1fWoYhdim) : Citations: N/A
 - **PocketOptimizer 2.0**: Design of small molecule‐binding pockets in proteins (standalone)
 	- [Code](https://github.com/Hoecker-Lab/pocketoptimizer) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1021/acs.jctc.5b00255) : Citations: 7077
+	- [Publication](https://doi.org/10.1021/acs.jctc.5b00255) : Citations: 7092
 - **RELATION**: A software for DL-based de novo drug design, focusing on generating molecules based on target protein interactions.
 	- [Code](https://github.com/micahwang/RELATION) : Last updated in November 2022, 19 months ago
 	- [Publication](https://doi.org/10.1021/acs.jmedchem.2c00732) : Citations: 39

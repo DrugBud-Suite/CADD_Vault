@@ -15,7 +15,7 @@
 - **pyADA**: pyADA is a cheminformatics package for performing Applicability Domain Analysis of molecular fingerprints based on similarity calculation.
 	- [Code](https://github.com/jeffrichardchemistry/pyADA) : Last updated in February 2024, 4 months ago
 - **PyRMD**: PyRMD is an AI-powered Ligand-Based Virtual Screening tool powered by machine learning, developed for fast and efficient virtual screening.
-	- [Code](https://github.com/cosconatilab/PyRMD?tab=readme-ov-file) : Last updated in June 2023, 11 months ago
+	- [Code](https://github.com/cosconatilab/PyRMD?tab=readme-ov-file) : Last updated in June 2023, 12 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.1c00653) : Citations: 23
 - **ScreenLamp**: ScreenLamp is a modular toolkit for virtual screening, offering various command-line tools for different stages of the virtual screening process.
 	- [Link](https://psa-lab.github.io/screenlamp/user_guide/tools/)

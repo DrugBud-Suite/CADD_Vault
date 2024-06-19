@@ -1,5 +1,5 @@
 - **LigPlot+**: view protein-ligand interactions in 2D (standalone)
-	- [Publication](https://doi.org/10.1021/ci200227u) : Citations: 4084
+	- [Publication](https://doi.org/10.1021/ci200227u) : Citations: 4091
 	- [Link](http://www.ebi.ac.uk/thornton-srv/software/LigPlus/)
 - **PLEXVIEW**: 2D interaction diagrams (play molecule account required)
 	- [Link](https://open.playmolecule.org/login?from=/tools/plexview)

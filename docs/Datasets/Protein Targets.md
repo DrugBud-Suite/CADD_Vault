@@ -1,0 +1,3 @@
+- **OpenTargets**: A partnership to transform drug discovery through the systematic identification and prioritisation of targets
+	- [Publication](https://doi.org/10.1093/nar/gkw1055) : Citations: 348
+	- [Link](https://www.opentargets.org/)

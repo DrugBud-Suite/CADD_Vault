@@ -11,7 +11,7 @@
 
 ## **General**
 - **ADMET_XGBoost**: 
-	- [Code](https://github.com/smu-tao-group/ADMET_XGBoost) : Last updated in March 2023, 14 months ago
+	- [Code](https://github.com/smu-tao-group/ADMET_XGBoost) : Last updated in March 2023, 15 months ago
 	- [Publication](https://doi.org/10.1007/s00894-022-05373-8) : Citations: 25
 - **admet-ai**: 
 	- [Code](https://github.com/swansonk14/admet_ai) : Last updated in May 2024, 1 months ago
@@ -32,7 +32,7 @@
 
 ## **Toxicity**
 - **ProTox3**: Webserver for toxicity prediction
-	- [Publication](https://doi.org/10.1093/nar/gkae303) : Citations: 2
+	- [Publication](https://doi.org/10.1093/nar/gkae303) : Citations: 3
 	- [Webserver](https://tox.charite.de/protox3/)
 
 ## **hERG**

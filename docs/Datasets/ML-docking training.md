@@ -1,0 +1,4 @@
+- **Smiles2Dock**: 
+	- [Code](https://github.com/rivas-lab/Smiles2Dock) : Last updated in June 2024, 0 months ago
+	- [Publication](https://doi.org/10.48550/arXiv.2406.05738) : Citations: 0
+	- [Link](https://huggingface.co/datasets/tlemenestrel/Smiles2Dock)

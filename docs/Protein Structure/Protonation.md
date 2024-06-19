@@ -5,8 +5,8 @@
 	- [Publication](https://doi.org/10.1093%2Fnar%2Fgki464) : Citations: 1262
 	- [Webserver](http://biophysics.cs.vt.edu/)
 - **propka**: 
-	- [Code](https://github.com/jensengroup/propka) : Last updated in February 2024, 3 months ago
-	- [Publication](https://doi.org/10.1021/ct200133y) : Citations: 1420
+	- [Code](https://github.com/jensengroup/propka) : Last updated in February 2024, 4 months ago
+	- [Publication](https://doi.org/10.1021/ct200133y) : Citations: 1422
 - **ProteinPrepare**: 
 	- [Webserver](http://www.playmolecule.org/)
 - **PypKa**: a flexible Python module for Poisson-Boltzmann based pKa calculations (for proteins) (standalone)

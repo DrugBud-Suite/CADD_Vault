@@ -52,7 +52,7 @@
 - **rdkit-scripts**: rdkit scripts making life easier (standalone)
 	- [Code](https://github.com/DrrDom/rdkit-scripts) : Last updated in May 2024, 1 months ago
 - **OpenBabel**: toolkit for drug discovery, file format etc (standalone)
-	- [Publication](https://doi.org/10.1186/1758-2946-3-33) : Citations: 5874
+	- [Publication](https://doi.org/10.1186/1758-2946-3-33) : Citations: 5883
 	- [Link](http://openbabel.org/wiki/Main_Page)
 
 ## **QM**

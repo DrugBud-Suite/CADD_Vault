@@ -5,7 +5,7 @@
 	- [Code](https://github.com/davidbajusz/fpkit) : Last updated in May 2021, 37 months ago
 	- [Publication](https://doi.org/10.1186/s13321-018-0302-y) : Citations: 75
 - **MAPC**: MinHashed Atom-Pair Fingerprint Chiral
-	- [Code](https://github.com/reymond-group/mapchiral) : Last updated in December 2023, 5 months ago
+	- [Code](https://github.com/reymond-group/mapchiral) : Last updated in December 2023, 6 months ago
 - **MoleculaPy**: A command-line application that utilizes the RDKit library to compute molecular descriptors and fingerprints, aiding in the analysis and characterization of chemical structures.
 	- [Code](https://github.com/kamilpytlak/MoleculaPy) : Last updated in May 2024, 1 months ago
 - **QSAR_toolbox**: scripts for QSAR model building and fingerprint generation
@@ -36,11 +36,11 @@
 	- [Link](https://durrantlab.pitt.edu/binana-download/)
 - **PLIP**: An easy and fast web tool for identifying non-covalent interactions between biological macromolecules and their ligands.
 	- [Code](https://github.com/pharmai/plip) : Last updated in August 2023, 10 months ago
-	- [Publication](https://doi.org/10.1093/nar/gkab294) : Citations: 795
+	- [Publication](https://doi.org/10.1093/nar/gkab294) : Citations: 801
 	- [Webserver](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index)
 - **ProLIF**: ProLIF (Protein-Ligand Interaction Fingerprints) generates interaction fingerprints for complexes made of ligands, protein, DNA, or RNA molecules extracted from molecular dynamics trajectories, docking simulations, and experimental structures.
 	- [Code](https://github.com/chemosim-lab/ProLIF) : Last updated in March 2024, 3 months ago
-	- [Publication](https://doi.org/10.1186/s13321-021-00548-6) : Citations: 112
+	- [Publication](https://doi.org/10.1186/s13321-021-00548-6) : Citations: 113
 - **SPLIF**: Structural Protein–Ligand Interaction Fingerprints (SPLIF)
 	- [Code](https://oddt.readthedocs.io/en/latest/rst/oddt.html#oddt.fingerprints.SPLIF) : Last updated in nan, nan
 	- [Publication](https://doi.org/10.1021%2Fci500319f) : Citations: 125

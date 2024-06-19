@@ -1,0 +1,4 @@
+- **Open Reaction Database**: open access chemical reaction database to support machine learning and related efforts in reaction prediction, chemical synthesis planning, and experiment design
+	- [Code](https://github.com/open-reaction-database/ord-schema) : Last updated in June 2024, 0 months ago
+	- [Publication](https://doi.org/10.1021/jacs.1c09820) : Citations: 129
+	- [Link](https://docs.open-reaction-database.org/en/latest/)

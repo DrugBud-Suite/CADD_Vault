@@ -1,6 +1,6 @@
 - **ENCoM**: 
 	- [Code](https://github.com/NRGlab/ENCoM) : Last updated in July 2017, 83 months ago
-	- [Publication](https://doi.org/10.1093/nar/gkv343) : Citations: 151
+	- [Publication](https://doi.org/10.1093/nar/gkv343) : Citations: 153
 - **AWSEM-MD**: a coarse-grained protein simulation package (Associative Memory, Water Mediated, Structure and Energy Model) which is implemented as a package for the LAMMPS tool
 	- [Publication](https://doi.org/10.1021/jp212541y) : Citations: 269
 	- [Link](http://awsem-md.org/index.html)

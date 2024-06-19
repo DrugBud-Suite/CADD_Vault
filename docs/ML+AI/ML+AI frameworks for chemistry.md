@@ -6,7 +6,7 @@
 	- [Publication](https://doi.org/10.1021/acs.jcim.9b01053) : Citations: 54
 - **cgcnn**: 
 	- [Code](https://github.com/txie-93/cgcnn) : Last updated in September 2021, 33 months ago
-	- [Publication](https://doi.org/10.1103/PhysRevLett.120.145301) : Citations: 1177
+	- [Publication](https://doi.org/10.1103/PhysRevLett.120.145301) : Citations: 1179
 - **chainer-chemistry**: 
 	- [Code](https://github.com/chainer/chainer-chemistry) : Last updated in October 2020, 44 months ago
 	- [Publication](https://arxiv.org/abs/1807.01985) : Citations: N/A
@@ -18,7 +18,7 @@
 	- [Link](https://hachmannlab.github.io/chemml/)
 - **chemprop**: 
 	- [Code](https://github.com/chemprop/chemprop) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.9b00237) : Citations: 823
+	- [Publication](https://doi.org/10.1021/acs.jcim.9b00237) : Citations: 824
 - **DeepChem**: 
 	- [Code](https://github.com/deepchem/deepchem) : Last updated in June 2024, 0 months ago
 	- [Publication](https://books.google.fr/books/about/Deep_Learning_for_the_Life_Sciences.html?id=5uiRDwAAQBAJ&redir_esc=y) : Citations: N/A

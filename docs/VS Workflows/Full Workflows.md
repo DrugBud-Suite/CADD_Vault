@@ -16,7 +16,7 @@
 	- [Publication](https://doi.org/10.5281/zenodo.4506970.svg) : Citations: 0
 - **DockStream**: DockStream is a docking wrapper offering access to various ligand embedders and docking backends, aimed at enhancing de novo molecular design through integration with the REINVENT platform.
 	- [Code](https://github.com/MolecularAI/DockStream) : Last updated in March 2023, 15 months ago
-	- [Publication](https://doi.org/10.1186/s13321-021-00563-7) : Citations: 26
+	- [Publication](https://doi.org/10.1186/s13321-021-00563-7) : Citations: 27
 - **Dockstring**: A Python package for easy molecular docking (with Vina)… machine learning..(standalone).
 	- [Code](https://github.com/dockstring/dockstring) : Last updated in May 2024, 1 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.1c01334) : Citations: 32
@@ -30,7 +30,7 @@
 	- [Code](https://github.com/coleygroup/pyscreener) : Last updated in December 2022, 18 months ago
 	- [Publication](https://doi.org/10.21105/joss.03950/status.svg) : Citations: 0
 - **PyRMD2Dock**: Streamlining Large Chemical Library Docking with Artificial Intelligence: the PyRMD2Dock (and PyRMD) (ultralarge screening - 2023) (standalone).
-	- [Code](https://github.com/cosconatilab/PyRMD) : Last updated in June 2023, 11 months ago
+	- [Code](https://github.com/cosconatilab/PyRMD) : Last updated in June 2023, 12 months ago
 	- [Publication](https://doi.org/10.1021/acs.jcim.1c00653) : Citations: 23
 - **Scipion**: Scipion is a framework plugin that defines objects and protocols for CHEMoinformatics, incorporating various tools from the Autodock software suite and other computational chemistry tools.
 	- [Code](https://github.com/scipion-chem) : Last updated in nan, nan

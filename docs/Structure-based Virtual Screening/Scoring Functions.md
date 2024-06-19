@@ -53,7 +53,7 @@
 ## **Machine-learning scoring functions**
 - **AEScore**: Learning protein-ligand binding affinity using atomic environment vectors.
 	- [Code](https://github.com/bigginlab/aescore) : Last updated in March 2022, 27 months ago
-	- [Publication](https://doi.org/10.1039/C6SC05720A) : Citations: 1148
+	- [Publication](https://doi.org/10.1039/C6SC05720A) : Citations: 1151
 - **AKScore**: This model uses an ensemble of multiple independently trained 3-D convolutional neural networks to predict protein-ligand complex binding affinity, showing high correlation with experimental data.
 	- [Publication](https://doi.org/10.3390/ijms21228424) : Citations: 56
 	- [Link](https://pubmed.ncbi.nlm.nih.gov/33182567/)
@@ -84,7 +84,7 @@
 	- [Code](https://github.com/haiping1010/DeepBindGCN) : Last updated in April 2023, 14 months ago
 	- [Publication](https://doi.org/10.3390/molecules28124691) : Citations: 3
 - **DeepBindRG**: A deep learning based method for estimating effective protein-ligand affinity.
-	- [Code](https://github.com/haiping1010/DeepBindRG) : Last updated in August 2019, 58 months ago
+	- [Code](https://github.com/haiping1010/DeepBindRG) : Last updated in August 2019, 59 months ago
 	- [Publication](https://doi.org/10.7717%2Fpeerj.7362) : Citations: 67
 - **DeepGLSTM**: A model predicting binding affinity values between FDA-approved drugs and viral proteins of SARS-CoV-2.
 	- [Code](https://github.com/MLlab4CS/DeepGLSTM) : Last updated in November 2022, 19 months ago
@@ -117,7 +117,7 @@
 	- [Publication](https://doi.org/10.1039/D3CP03651K) : Citations: 2
 - **FusionDTA**: A framework focusing on protein-ligand binding affinity prediction with deep learning techniques.
 	- [Code](https://github.com/yuanweining/FusionDTA) : Last updated in February 2024, 3 months ago
-	- [Publication](https://doi.org/10.1093/bib/bbab506) : Citations: 45
+	- [Publication](https://doi.org/10.1093/bib/bbab506) : Citations: 46
 - **GBScore**: A scoring function based on Gradient Boosting Trees algorithm for predicting ligand-protein binding affinity.
 	- [Code](https://github.com/miladrayka/GB_Score) : Last updated in July 2023, 11 months ago
 	- [Publication](https://doi.org/10.1002/minf.202200135) : Citations: 2
@@ -138,7 +138,7 @@
 	- [Publication](https://doi.org/10.1093/bioinformatics/btad340) : Citations: 14
 - **HAC-Net**: A Hybrid Attention-Based Convolutional Neural Network for Highly Accurate Protein-Ligand Binding Affinity Prediction.
 	- [Code](https://github.com/gregory-kyro/HAC-Net/) : Last updated in May 2024, 1 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.3c00251) : Citations: 19
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c00251) : Citations: 20
 - **HaPPy**: Utilizes multi-perspective graphs for protein-ligand binding affinity prediction.
 	- [Code](https://github.com/Jthy-af/HaPPy) : Last updated in June 2023, 12 months ago
 	- [Publication](https://doi.org/10.1007/s12539-023-00582-y) : Citations: 0
@@ -152,13 +152,13 @@
 	- [Code](https://github.com/RuiqiangLu/KIDA) : Last updated in April 2023, 14 months ago
 	- [Publication](https://doi.org/10.1093/bib/bbad145) : Citations: 5
 - **Lee2023a**: Meta-modeling of ligand-protein binding affinity.
-	- [Code](https://github.com/Lee1701/Lee2023a) : Last updated in May 2024, 0 months ago
+	- [Code](https://github.com/Lee1701/Lee2023a) : Last updated in May 2024, 1 months ago
 	- [Publication](https://arxiv.org/abs/2310.03946) : Citations: N/A
 - **MBI-Score**: Utilizes graph representation for protein-ligand interfacial atoms in native complexes for scoring.
 	- [Link](https://khashanlab.org/mbi-score/)
 - **MGraphDTA**: Implements a high-efficiency concordance index for performance evaluation of drug-target affinity prediction.
 	- [Code](https://github.com/guaguabujianle/MGraphDTA) : Last updated in April 2024, 2 months ago
-	- [Publication](https://doi.org/10.1039/D1SC05180F) : Citations: 108
+	- [Publication](https://doi.org/10.1039/D1SC05180F) : Citations: 109
 - **ML-PLIC**: 
 	- [Publication](https://doi.org/10.1093/bib/bbad295) : Citations: 1
 	- [Webserver](http://cadd.zju.edu.cn/plic/)
@@ -171,7 +171,7 @@
 	- [Link](https://github.uconn.edu/mldrugdiscovery/OctSurf)
 - **OnionNet**: A multiple-layer inter-molecular contact based deep neural network for protein-ligand binding affinity prediction.
 	- [Code](https://github.com/zhenglz/onionnet/) : Last updated in November 2020, 43 months ago
-	- [Publication](https://doi.org/10.1021/acsomega.9b01997) : Citations: 188
+	- [Publication](https://doi.org/10.1021/acsomega.9b01997) : Citations: 190
 - **OnionNet-2**: OnionNet-2 is constructed based on convolutional neural network (CNN) to predict the protein-ligand binding affinity.
 	- [Code](https://github.com/zchwang/OnionNet-2/) : Last updated in March 2024, 3 months ago
 	- [Publication](https://doi.org/10.3389/fchem.2021.753002/full) : Citations: 0
@@ -188,8 +188,8 @@
 	- [Code](https://github.com/ACE-KAIST/PIGNet2) : Last updated in March 2024, 3 months ago
 	- [Publication](https://doi.org/10.1039/D3DD00149K) : Citations: 3
 - **PLANET**: A graph neural network model for predicting protein-ligand binding affinity and virtual screening.
-	- [Code](https://github.com/ComputArtCMCG/PLANET) : Last updated in December 2023, 5 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.3c00253) : Citations: 14
+	- [Code](https://github.com/ComputArtCMCG/PLANET) : Last updated in December 2023, 6 months ago
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c00253) : Citations: 13
 - **PLAPT**: A state-of-the-art protein-ligand binding affinity predictor leveraging transfer learning from pre-trained transformers to predict binding affinities with high accuracy.
 	- [Code](https://github.com/trrt-good/WELP-PLAPT/tree/main) : Last updated in February 2024, 4 months ago
 	- [Publication](https://doi.org/10.1101/2024.02.08.575577) : Citations: 0
@@ -212,7 +212,7 @@
 	- [Code](https://github.com/wardhong/SadNet) : Last updated in March 2024, 3 months ago
 	- [Publication](https://doi.org/10.1039/D3CP05664C) : Citations: 0
 - **SCORCH**: Houses deployable code for the SCORCH scoring function and docking pipeline.
-	- [Code](https://github.com/SMVDGroup/SCORCH) : Last updated in July 2022, 22 months ago
+	- [Code](https://github.com/SMVDGroup/SCORCH) : Last updated in July 2022, 23 months ago
 	- [Publication](https://doi.org/10.1111/cbdd.13764) : Citations: 15
 - **SIEVE-Score**: A virtual screening method based on random forest using interaction energy-based scoring.
 	- [Code](https://github.com/sekijima-lab/SIEVE-Score) : Last updated in September 2023, 9 months ago
@@ -250,11 +250,11 @@
 ## **Protein-ligand interaction fingerprints**
 - **ECIFGraph**: Introduces a water network-augmented two-state model for protein-ligand binding affinity prediction, incorporating extended connectivity interaction features and graph transformer operators.
 	- [Code](https://github.com/xiaoyangqu/ECIFGraph) : Last updated in June 2023, 12 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.3c00567) : Citations: 4
+	- [Publication](https://doi.org/10.1021/acs.jcim.3c00567) : Citations: 3
 
 ## **Quantum-mechanical**
 - **SQM2.20**: Semiempirical quantum-mechanical scoring function yields DFT-quality protein–ligand binding affinity predictions in minutes
-	- [Publication](https://doi.org/10.1038/s41467-024-45431-8) : Citations: 2
+	- [Publication](https://doi.org/10.1038/s41467-024-45431-8) : Citations: 3
 	- [Link](https://chemrxiv.org/engage/chemrxiv/article-details/64afd3aeae3d1a7b0d9ac7c0)
 
 ## **RNA-specific**

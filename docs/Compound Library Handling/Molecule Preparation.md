@@ -13,14 +13,14 @@
 
 ## **Reviews**
 - **Sherman et al**: 
-	- [Publication](https://doi.org/10.1007/s10822-013-9644-8) : Citations: 4003
+	- [Publication](https://doi.org/10.1007/s10822-013-9644-8) : Citations: 4009
 
 ## **Standardization**
 - **Ambitcli**: no 3D but Java application for standardization (standalone).
 	- [Link](http://ambit.sourceforge.net/download_ambitcli.html)
 - **ChEMBL_Structure_Pipeline (formerly standardiser)**: 
 	- [Code](https://github.com/chembl/ChEMBL_Structure_Pipeline) : Last updated in October 2023, 7 months ago
-	- [Publication](https://doi.org/10.1186/s13321-020-00456-1) : Citations: 175
+	- [Publication](https://doi.org/10.1186/s13321-020-00456-1) : Citations: 177
 - **MolVS**: 
 	- [Code](https://github.com/mcs07/MolVS) : Last updated in March 2019, 63 months ago
 - **QSAR-Ready (KNIME)**: Standardization workflow for QSAR-ready chemical structures pretreatment

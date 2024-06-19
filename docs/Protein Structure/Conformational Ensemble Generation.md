@@ -27,7 +27,7 @@
 	- [Publication](https://doi.org/10.48550/arXiv.2402.04845) : Citations: 0
 - **Str2Str**: Str2Str is a score-based framework for zero-shot protein conformation sampling, drawing inspiration from traditional methods to sample conformations guided by a neural score network trained on the PDB database.
 	- [Code](https://github.com/lujiarui/Str2Str) : Last updated in March 2024, 3 months ago
-	- [Publication](https://doi.org/10.1126/science.ade2574) : Citations: 861
+	- [Publication](https://doi.org/10.1126/science.ade2574) : Citations: 867
 
 ## **Other**
 - **AlphTraj**: AlphaTraj is software designed for analyzing pocket dynamics.

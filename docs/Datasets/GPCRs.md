@@ -1,0 +1,3 @@
+- **GproteinDb**: The G protein database (online)
+	- [Publication](https://dx.doi.org/10.1093/nar/gkx1109) : Citations: 397
+	- [Link](https://gproteindb.org/)

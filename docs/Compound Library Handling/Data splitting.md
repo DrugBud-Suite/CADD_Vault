@@ -1,3 +1,3 @@
 - **splito**: 
-	- [Code](https://github.com/datamol-io/splito) : Last updated in April 2024, 1 months ago
+	- [Code](https://github.com/datamol-io/splito) : Last updated in April 2024, 2 months ago
 	- [Link](https://splito-docs.datamol.io/stable/tutorials/The_Basics.html)

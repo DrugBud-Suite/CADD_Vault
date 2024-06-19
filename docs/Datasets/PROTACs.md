@@ -1,0 +1,4 @@
+- **PROTAC-DB**: an online database of PROTACs (online)
+	- [Link](http://cadd.zju.edu.cn/protacdb/)
+- **PROTAC-DB 2.0**: an updated database of PROTACs (online)
+	- [Link](http://cadd.zju.edu.cn/protacdb/)
