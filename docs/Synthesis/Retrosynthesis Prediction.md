@@ -1,11 +1,13 @@
-- **AiZynthFinder**: package for retrosynthesis planning.
-	- [Code](https://github.com/MolecularAI/aizynthfinder) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.26434/chemrxiv.12465371.v1) : Citations: 0
-- **UAlign**: 
-	- [Code](https://github.com/zengkaipeng/UAlign) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.48550/arXiv.2404.00044) : Citations: 0
+- **AiZynthFinder**: package for retrosynthesis planning.  
+	[![Code](https://img.shields.io/github/stars/MolecularAI/aizynthfinder?style=for-the-badge&logo=github)](https://github.com/MolecularAI/aizynthfinder)  
+	[![Last Commit](https://img.shields.io/github/last-commit/MolecularAI/aizynthfinder?style=for-the-badge&logo=github)](https://github.com/MolecularAI/aizynthfinder)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=arxiv)](https://doi.org/10.26434/chemrxiv.12465371.v1)  
+- **UAlign**:   
+	[![Code](https://img.shields.io/github/stars/zengkaipeng/UAlign?style=for-the-badge&logo=github)](https://github.com/zengkaipeng/UAlign)  
+	[![Last Commit](https://img.shields.io/github/last-commit/zengkaipeng/UAlign?style=for-the-badge&logo=github)](https://github.com/zengkaipeng/UAlign)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2404.00044)  
 
 ## **LLM**
-- **SynAsk**: a comprehensive organic chemistry domain-specific LLM platform
-	- [Publication](https://doi.org/10.48550/arXiv.2406.04593) : Citations: 0
-	- [Webserver](http://synask.aichemeco.com)
+- **SynAsk**: a comprehensive organic chemistry domain-specific LLM platform  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2406.04593)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://synask.aichemeco.com)  

@@ -1,10 +1,11 @@
 
 ## **Druggability Prediction**
-- **DrugnomeAI**: 
-	- [Publication](https://doi.org/10.1038/s42003-022-04245-4) : Citations: 10
-	- [Webserver](http://drugnomeai.public.cgr.astrazeneca.com/)
+- **DrugnomeAI**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42003-022-04245-4)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://drugnomeai.public.cgr.astrazeneca.com/)  
 
 ## **Target prediction models**
-- **PT-Finder**: 
-	- [Code](https://github.com/PT-Finder/PT-Finder) : Last updated in April 2024, 2 months ago
-	- [Publication](https://doi.org/10.1016/j.compbiomed.2024.108444) : Citations: 1
+- **PT-Finder**:   
+	[![Code](https://img.shields.io/github/stars/PT-Finder/PT-Finder?style=for-the-badge&logo=github)](https://github.com/PT-Finder/PT-Finder)  
+	[![Last Commit](https://img.shields.io/github/last-commit/PT-Finder/PT-Finder?style=for-the-badge&logo=github)](https://github.com/PT-Finder/PT-Finder)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.compbiomed.2024.108444)  

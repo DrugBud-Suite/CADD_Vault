@@ -1,2 +1,3 @@
-- **Computation-ADME**: 
-	- [Code](https://github.com/molecularinformatics/Computational-ADME) : Last updated in February 2024, 4 months ago
+- **Computation-ADME**:   
+	[![Code](https://img.shields.io/github/stars/molecularinformatics/Computational-ADME?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/Computational-ADME)  
+	[![Last Commit](https://img.shields.io/github/last-commit/molecularinformatics/Computational-ADME?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/Computational-ADME)  

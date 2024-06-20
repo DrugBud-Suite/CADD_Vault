@@ -1,22 +1,22 @@
-- **BKchem**: chemical drawing program (standalone)
-	- [Link](http://bkchem.zirael.org/)
-- **Chemfig**: draw molecules with easy syntax (standalone)
-	- [Link](https://www.ctan.org/pkg/chemfig)
-- **Chemtools**: program for drawing chemical structures (standalone)
-	- [Publication](https://doi.org/10.1016/j.cplett.2016.07.039) : Citations: 49
-	- [Link](http://ruby.chemie.uni-freiburg.de/~martin/chemtool)
-- **JChemPaint**: chemical 2D structure editor (standalone)
-	- [Link](http://jchempaint.github.io/)
-- **Molsketch**: 2D molecular editing tool (standalone)
-	- [Link](http://sourceforge.net/projects/molsketch)
-- **PubChem Sketcher**: A web-based tool for chemical sketching...(online)
-	- [Publication](https://doi.org/10.1186%2F1758-2946-1-20) : Citations: 75
-	- [Link](http://pubchem.ncbi.nlm.nih.gov/edit2/index.html)
-- **SketchEl**: interactive chemical molecule sketching tool (standalone)
-	- [Link](http://sketchel.sourceforge.net/)
-- **SMARTS-plus**: 
-	- [Publication](https://doi.org/10.1002/minf.202000216) : Citations: 8
-	- [Link](https://smarts.plus/)
-- **SmilesDrawer**: 
-	- [Publication](https://doi.org/10.1021/acs.jcim.7b00425) : Citations: 50
-	- [Link](https://doc.gdb.tools/smilesDrawer/)
+- **BKchem**: chemical drawing program (standalone)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://bkchem.zirael.org/)  
+- **Chemfig**: draw molecules with easy syntax (standalone)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.ctan.org/pkg/chemfig)  
+- **Chemtools**: program for drawing chemical structures (standalone)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:49-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cplett.2016.07.039)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://ruby.chemie.uni-freiburg.de/~martin/chemtool)  
+- **JChemPaint**: chemical 2D structure editor (standalone)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://jchempaint.github.io/)  
+- **Molsketch**: 2D molecular editing tool (standalone)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://sourceforge.net/projects/molsketch)  
+- **PubChem Sketcher**: A web-based tool for chemical sketching...(online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:75-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186%2F1758-2946-1-20)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://pubchem.ncbi.nlm.nih.gov/edit2/index.html)  
+- **SketchEl**: interactive chemical molecule sketching tool (standalone)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://sketchel.sourceforge.net/)  
+- **SMARTS-plus**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/minf.202000216)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://smarts.plus/)  
+- **SmilesDrawer**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:50-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.7b00425)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://doc.gdb.tools/smilesDrawer/)  

@@ -1,3 +1,4 @@
-- **mol2vec**: Generates vector representations of molecular substructures for machine learning applications.
-	- [Code](https://github.com/samoturk/mol2vec) : Last updated in December 2019, 54 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.7b00616) : Citations: 414
+- **mol2vec**: Generates vector representations of molecular substructures for machine learning applications.  
+	[![Code](https://img.shields.io/github/stars/samoturk/mol2vec?style=for-the-badge&logo=github)](https://github.com/samoturk/mol2vec)  
+	[![Last Commit](https://img.shields.io/github/last-commit/samoturk/mol2vec?style=for-the-badge&logo=github)](https://github.com/samoturk/mol2vec)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:414-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.7b00616)  

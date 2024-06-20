@@ -1,49 +1,60 @@
 
 ## **BBB**
-- **BBB-score**: 
-	- [Code](https://github.com/gkxiao/BBB-score) : Last updated in July 2021, 35 months ago
-	- [Publication](https://doi.org/10.1021/acs.jmedchem.9b01220) : Citations: 175
+- **BBB-score**:   
+	[![Code](https://img.shields.io/github/stars/gkxiao/BBB-score?style=for-the-badge&logo=github)](https://github.com/gkxiao/BBB-score)  
+	[![Last Commit](https://img.shields.io/github/last-commit/gkxiao/BBB-score?style=for-the-badge&logo=github)](https://github.com/gkxiao/BBB-score)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:175-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.9b01220)  
 
 ## **CYP450**
-- **D-CyPre**: Tool for Accurately Predicting the Site of Metabolism of Human Cytochrome P450 Metabolism
-	- [Code](https://github.com/67520/D-CyPre) : Last updated in April 2023, 13 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.1c00144) : Citations: 17
+- **D-CyPre**: Tool for Accurately Predicting the Site of Metabolism of Human Cytochrome P450 Metabolism  
+	[![Code](https://img.shields.io/github/stars/67520/D-CyPre?style=for-the-badge&logo=github)](https://github.com/67520/D-CyPre)  
+	[![Last Commit](https://img.shields.io/github/last-commit/67520/D-CyPre?style=for-the-badge&logo=github)](https://github.com/67520/D-CyPre)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00144)  
 
 ## **General**
-- **ADMET_XGBoost**: 
-	- [Code](https://github.com/smu-tao-group/ADMET_XGBoost) : Last updated in March 2023, 15 months ago
-	- [Publication](https://doi.org/10.1007/s00894-022-05373-8) : Citations: 25
-- **admet-ai**: 
-	- [Code](https://github.com/swansonk14/admet_ai) : Last updated in May 2024, 1 months ago
-	- [Publication](https://doi.org/10.1101/2023.12.28.573531) : Citations: 3
-- **ADMETlab**: 
-	- [Code](https://github.com/ifyoungnet/ADMETlab) : Last updated in July 2021, 35 months ago
-- **ADMETlab3.0**: 
-	- [Link](https://admetlab3.scbdd.com)
-- **ChemMORT**: 
-	- [Code](https://github.com/leelasd/ChemMORT) : Last updated in October 2020, 44 months ago
-	- [Publication](https://doi.org/10.1093/bib/bbae008) : Citations: 1
-- **Computation-ADME**: 
-	- [Code](https://github.com/molecularinformatics/Computational-ADME) : Last updated in February 2024, 4 months ago
+- **ADMET_XGBoost**:   
+	[![Code](https://img.shields.io/github/stars/smu-tao-group/ADMET_XGBoost?style=for-the-badge&logo=github)](https://github.com/smu-tao-group/ADMET_XGBoost)  
+	[![Last Commit](https://img.shields.io/github/last-commit/smu-tao-group/ADMET_XGBoost?style=for-the-badge&logo=github)](https://github.com/smu-tao-group/ADMET_XGBoost)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:25-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s00894-022-05373-8)  
+- **admet-ai**:   
+	[![Code](https://img.shields.io/github/stars/swansonk14/admet_ai?style=for-the-badge&logo=github)](https://github.com/swansonk14/admet_ai)  
+	[![Last Commit](https://img.shields.io/github/last-commit/swansonk14/admet_ai?style=for-the-badge&logo=github)](https://github.com/swansonk14/admet_ai)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2023.12.28.573531)  
+- **ADMETlab**:   
+	[![Code](https://img.shields.io/github/stars/ifyoungnet/ADMETlab?style=for-the-badge&logo=github)](https://github.com/ifyoungnet/ADMETlab)  
+	[![Last Commit](https://img.shields.io/github/last-commit/ifyoungnet/ADMETlab?style=for-the-badge&logo=github)](https://github.com/ifyoungnet/ADMETlab)  
+- **ADMETlab3.0**:   
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://admetlab3.scbdd.com)  
+- **ChemMORT**:   
+	[![Code](https://img.shields.io/github/stars/leelasd/ChemMORT?style=for-the-badge&logo=github)](https://github.com/leelasd/ChemMORT)  
+	[![Last Commit](https://img.shields.io/github/last-commit/leelasd/ChemMORT?style=for-the-badge&logo=github)](https://github.com/leelasd/ChemMORT)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbae008)  
+- **Computation-ADME**:   
+	[![Code](https://img.shields.io/github/stars/molecularinformatics/Computational-ADME?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/Computational-ADME)  
+	[![Last Commit](https://img.shields.io/github/last-commit/molecularinformatics/Computational-ADME?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/Computational-ADME)  
 
 ## **PK**
-- **PKSmart**: This work used molecular structural fingerprints, physicochemical properties, and predicted animal PK data as features to model the human PK parameters VDss, CL, t½, fu and MRT for 1,283 unique compounds and developed a webhosted application **[PKSmart](https://pk-predictor.serve.scilifelab.se/)**, the first work that publicly releases PK models on par with industry-standard models.
-	- [Code](https://github.com/srijitseal/PKSmart) : Last updated in February 2024, 4 months ago
+- **PKSmart**: This work used molecular structural fingerprints, physicochemical properties, and predicted animal PK data as features to model the human PK parameters VDss, CL, t½, fu and MRT for 1,283 unique compounds and developed a webhosted application **[PKSmart](https://pk-predictor.serve.scilifelab.se/)**, the first work that publicly releases PK models on par with industry-standard models.  
+	[![Code](https://img.shields.io/github/stars/srijitseal/PKSmart?style=for-the-badge&logo=github)](https://github.com/srijitseal/PKSmart)  
+	[![Last Commit](https://img.shields.io/github/last-commit/srijitseal/PKSmart?style=for-the-badge&logo=github)](https://github.com/srijitseal/PKSmart)  
 
 ## **Toxicity**
-- **ProTox3**: Webserver for toxicity prediction
-	- [Publication](https://doi.org/10.1093/nar/gkae303) : Citations: 3
-	- [Webserver](https://tox.charite.de/protox3/)
+- **ProTox3**: Webserver for toxicity prediction  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae303)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://tox.charite.de/protox3/)  
 
 ## **hERG**
-- **CardioTox**: A robust predictor for hERG channel blockade via deep learning meta ensembling approaches
-	- [Code](https://github.com/Abdulk084/CardioTox) : Last updated in May 2021, 37 months ago
-- **CLOP-hERG**: Contrastive Learning Optimized Pretrained Model for Representation Learning in Predicting Drug-Induced hERG Channel Blockers
-	- [Code](https://github.com/heshida01/CLOP-hERG/blob/main/README.md) : Last updated in December 2023, 6 months ago
-- **hERGdb**: web-based cardiotoxicity prediction
-	- [Webserver](https://drugdesign.riken.jp/hERGdb/)
+- **CardioTox**: A robust predictor for hERG channel blockade via deep learning meta ensembling approaches  
+	[![Code](https://img.shields.io/github/stars/Abdulk084/CardioTox?style=for-the-badge&logo=github)](https://github.com/Abdulk084/CardioTox)  
+	[![Last Commit](https://img.shields.io/github/last-commit/Abdulk084/CardioTox?style=for-the-badge&logo=github)](https://github.com/Abdulk084/CardioTox)  
+- **CLOP-hERG**: Contrastive Learning Optimized Pretrained Model for Representation Learning in Predicting Drug-Induced hERG Channel Blockers  
+	[![Code](https://img.shields.io/github/stars/heshida01/CLOP-hERG?style=for-the-badge&logo=github)](https://github.com/heshida01/CLOP-hERG/blob/main/README.md)  
+	[![Last Commit](https://img.shields.io/github/last-commit/heshida01/CLOP-hERG?style=for-the-badge&logo=github)](https://github.com/heshida01/CLOP-hERG/blob/main/README.md)  
+- **hERGdb**: web-based cardiotoxicity prediction  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://drugdesign.riken.jp/hERGdb/)  
 
 ## **logP**
-- **rescoss_logp_ml**: A repository dedicated to logP prediction using machine learning, offering insights into the solubility and distribution properties of compounds.
-	- [Code](https://github.com/cisert/rescoss_logp_ml) : Last updated in January 2023, 17 months ago
-	- [Publication](https://doi.org/10.1021/acsomega.2c05607).) : Citations: 0
+- **rescoss_logp_ml**: A repository dedicated to logP prediction using machine learning, offering insights into the solubility and distribution properties of compounds.  
+	[![Code](https://img.shields.io/github/stars/cisert/rescoss_logp_ml?style=for-the-badge&logo=github)](https://github.com/cisert/rescoss_logp_ml)  
+	[![Last Commit](https://img.shields.io/github/last-commit/cisert/rescoss_logp_ml?style=for-the-badge&logo=github)](https://github.com/cisert/rescoss_logp_ml)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.2c05607).)  

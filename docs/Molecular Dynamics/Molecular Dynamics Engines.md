@@ -1,82 +1,95 @@
-- **AMBER**: suite of biomolecular simulation programs (standalone)
-	- [Publication](https://doi.org/10.1021/acs.jcim.3c01153) : Citations: 132
-	- [Link](http://ambermd.org/)
-- **CHARMM**: Chemistry at HARvard Macromolecular Mechanics (standalone)
-	- [Publication](https://doi.org/10.1002/jcc.21287) : Citations: 6831
-	- [Link](https://academiccharmm.org/)
-- **CHARMM-GUI**: 
-	- [Webserver](http://www.charmm-gui.org/?doc=input)
-- **GaMD**: Gaussian Accelerated Molecular Dynamics (GaMD) is a biomolecular enhanced sampling method that works by adding a harmonic boost potential to smoothen the system potential energy surface.
-	- [Code](https://github.com/MiaoLab20/gamd-openmm) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1021/acs.jpcb.2c03765) : Citations: 9
-- **Gromacs**: GROMACS is a versatile package for performing molecular dynamics simulations, primarily designed for simulations of proteins, lipids, and nucleic acids.
-	- [Link](http://www.gromacs.org/)
-- **HTMD**: 
-	- [Code](https://github.com/Acellera/htmd) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.1021/acs.jctc.6b00049) : Citations: 327
-- **HTMD**: a molecular-specific programmable environment to prepare, handle, simulate, visualize and analyze molecular systems (standalone)
-	- [Publication](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00049) : Citations: 327
-	- [Link](https://www.htmd.org/)
-- **LAMMPS**: Molecular Dynamics Simulator and much more
-	- [Publication](https://doi.org/10.1016/j.cpc.2021.108171) : Citations: 3771
-	- [Link](https://www.lammps.org/)
-- **NAMD**: NAMD is a parallel molecular dynamics code for high-performance simulation of large biomolecular systems, recognized for its scalability and efficiency.
-	- [Link](https://www.ks.uiuc.edu/Research/namd/)
-- **openff-toolkit**: 
-	- [Code](https://github.com/openforcefield/openff-toolkit) : Last updated in June 2024, 0 months ago
-	- [Publication](https://doi.org/10.5281/zenodo.10967071.svg) : Citations: 0
-- **OpenMM**: OpenMM is a high-performance toolkit for molecular simulation, offering extensive language bindings and a flexible platform for developing high-performance algorithms.
-	- [Code](https://github.com/openmm/openmm) : Last updated in May 2024, 1 months ago
-	- [Publication](https://doi.org/10.1021/acs.jpcb.3c06662) : Citations: 8
-	- [Link](http://openmm.org/)
-- **OpenMMDL**: Interface to **OpenMM** for easy setup of molecular dynamic simulations of protein-ligand complexes
-	- [Code](https://github.com/wolberlab/OpenMMDL) : Last updated in June 2024, 0 months ago
-- **openmmtools**: 
-	- [Code](https://github.com/choderalab/openmmtools) : Last updated in December 2023, 6 months ago
-	- [Publication](https://doi.org/10.1021/jp411770f) : Citations: 53
-- **QwikMD**: 
-	- [Publication](https://doi.org/10.1038/srep26536) : Citations: 148
-	- [Link](http://www.ks.uiuc.edu/Research/qwikmd/)
-- **SENPAI**: SENPAI is a molecular dynamics simulation software aimed at students and academia, designed to simulate molecular systems of educational and academic interest efficiently.
-	- [Code](https://github.com/SENPAI-Molecular-Dynamics/SENPAI) : Last updated in June 2023, 11 months ago
-	- [Link](https://senpaimd.org/)
-- **STORMM**: 
-	- [Publication](https://doi.org/10.1101/2024.03.27.587048) : Citations: 0
-	- [Link](code to be release)
-- **Visual dynamics**: a WEB application for molecular dynamics simulation using GROMACS (online)
-	- [Webserver](https://visualdynamics.fiocruz.br/login)
-- **WEBGRO**: MD simulation online with GROMACS (online)
-	- [Webserver](https://simlab.uams.edu/index.php)
-- **YAMACS**: graphical user interface for the GROMACS program (standalone)
-	- [Code](https://github.com/YAMACS-SML/YAMACS) : Last updated in January 2024, 5 months ago
-- **GENESIS**: The GENESIS package contains two MD programs (atdyn and spdyn), trajectory analysis programs, and other useful tools.
-	- [Publication](https://doi.org/10.1021/acs.jpcb.4c02096) : Citations: 0
-	- [Link](https://www.r-ccs.riken.jp/labs/cbrt/)
+- **AMBER**: suite of biomolecular simulation programs (standalone)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:133-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01153)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://ambermd.org/)  
+- **CHARMM**: Chemistry at HARvard Macromolecular Mechanics (standalone)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6832-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21287)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://academiccharmm.org/)  
+- **CHARMM-GUI**:   
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.charmm-gui.org/?doc=input)  
+- **GaMD**: Gaussian Accelerated Molecular Dynamics (GaMD) is a biomolecular enhanced sampling method that works by adding a harmonic boost potential to smoothen the system potential energy surface.  
+	[![Code](https://img.shields.io/github/stars/MiaoLab20/gamd-openmm?style=for-the-badge&logo=github)](https://github.com/MiaoLab20/gamd-openmm)  
+	[![Last Commit](https://img.shields.io/github/last-commit/MiaoLab20/gamd-openmm?style=for-the-badge&logo=github)](https://github.com/MiaoLab20/gamd-openmm)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jpcb.2c03765)  
+- **Gromacs**: GROMACS is a versatile package for performing molecular dynamics simulations, primarily designed for simulations of proteins, lipids, and nucleic acids.  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.gromacs.org/)  
+- **HTMD**:   
+	[![Code](https://img.shields.io/github/stars/Acellera/htmd?style=for-the-badge&logo=github)](https://github.com/Acellera/htmd)  
+	[![Last Commit](https://img.shields.io/github/last-commit/Acellera/htmd?style=for-the-badge&logo=github)](https://github.com/Acellera/htmd)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:328-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.6b00049)  
+- **HTMD**: a molecular-specific programmable environment to prepare, handle, simulate, visualize and analyze molecular systems (standalone)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:328-blue?style=for-the-badge&logo=bookstack)](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00049)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.htmd.org/)  
+- **LAMMPS**: Molecular Dynamics Simulator and much more  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:3777-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2021.108171)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.lammps.org/)  
+- **NAMD**: NAMD is a parallel molecular dynamics code for high-performance simulation of large biomolecular systems, recognized for its scalability and efficiency.  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.ks.uiuc.edu/Research/namd/)  
+- **openff-toolkit**:   
+	[![Code](https://img.shields.io/github/stars/openforcefield/openff-toolkit?style=for-the-badge&logo=github)](https://github.com/openforcefield/openff-toolkit)  
+	[![Last Commit](https://img.shields.io/github/last-commit/openforcefield/openff-toolkit?style=for-the-badge&logo=github)](https://github.com/openforcefield/openff-toolkit)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.5281/zenodo.10967071.svg)  
+- **OpenMM**: OpenMM is a high-performance toolkit for molecular simulation, offering extensive language bindings and a flexible platform for developing high-performance algorithms.  
+	[![Code](https://img.shields.io/github/stars/openmm/openmm?style=for-the-badge&logo=github)](https://github.com/openmm/openmm)  
+	[![Last Commit](https://img.shields.io/github/last-commit/openmm/openmm?style=for-the-badge&logo=github)](https://github.com/openmm/openmm)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jpcb.3c06662)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://openmm.org/)  
+- **OpenMMDL**: Interface to **OpenMM** for easy setup of molecular dynamic simulations of protein-ligand complexes  
+	[![Code](https://img.shields.io/github/stars/wolberlab/OpenMMDL?style=for-the-badge&logo=github)](https://github.com/wolberlab/OpenMMDL)  
+	[![Last Commit](https://img.shields.io/github/last-commit/wolberlab/OpenMMDL?style=for-the-badge&logo=github)](https://github.com/wolberlab/OpenMMDL)  
+- **openmmtools**:   
+	[![Code](https://img.shields.io/github/stars/choderalab/openmmtools?style=for-the-badge&logo=github)](https://github.com/choderalab/openmmtools)  
+	[![Last Commit](https://img.shields.io/github/last-commit/choderalab/openmmtools?style=for-the-badge&logo=github)](https://github.com/choderalab/openmmtools)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:53-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/jp411770f)  
+- **QwikMD**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:148-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/srep26536)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.ks.uiuc.edu/Research/qwikmd/)  
+- **SENPAI**: SENPAI is a molecular dynamics simulation software aimed at students and academia, designed to simulate molecular systems of educational and academic interest efficiently.  
+	[![Code](https://img.shields.io/github/stars/SENPAI-Molecular-Dynamics/SENPAI?style=for-the-badge&logo=github)](https://github.com/SENPAI-Molecular-Dynamics/SENPAI)  
+	[![Last Commit](https://img.shields.io/github/last-commit/SENPAI-Molecular-Dynamics/SENPAI?style=for-the-badge&logo=github)](https://github.com/SENPAI-Molecular-Dynamics/SENPAI)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://senpaimd.org/)  
+- **STORMM**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.03.27.587048)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](code to be release)  
+- **Visual dynamics**: a WEB application for molecular dynamics simulation using GROMACS (online)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://visualdynamics.fiocruz.br/login)  
+- **WEBGRO**: MD simulation online with GROMACS (online)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://simlab.uams.edu/index.php)  
+- **YAMACS**: graphical user interface for the GROMACS program (standalone)  
+	[![Code](https://img.shields.io/github/stars/YAMACS-SML/YAMACS?style=for-the-badge&logo=github)](https://github.com/YAMACS-SML/YAMACS)  
+	[![Last Commit](https://img.shields.io/github/last-commit/YAMACS-SML/YAMACS?style=for-the-badge&logo=github)](https://github.com/YAMACS-SML/YAMACS)  
+- **GENESIS**: The GENESIS package contains two MD programs (atdyn and spdyn), trajectory analysis programs, and other useful tools.  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jpcb.4c02096)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.r-ccs.riken.jp/labs/cbrt/)  
 
 ## **ML-enabled**
-- **DeepDriveMD**: Deep-Learning Driven Adaptive Molecular Simulations (standalone)
-	- [Code](https://github.com/DeepDriveMD/DeepDriveMD-pipeline) : Last updated in May 2022, 25 months ago
-	- [Link](https://deepdrivemd.github.io/)
-- **Medbi et al.**: 
-	- [Publication](https://doi.org/10.1146/annurev-physchem-083122-125941) : Citations: 8
-	- [Link](https://www.annualreviews.org/doi/pdf/10.1146/annurev-physchem-083122-125941)
-- **MLCGMD**: Simulate Time-integrated Coarse-grained Molecular Dynamics with Multi-scale Graph Networks
-	- [Code](https://github.com/kyonofx/mlcgmd) : Last updated in August 2023, 9 months ago
-	- [Publication](https://doi.org/10.1126/sciadv.abc6216) : Citations: 83
-- **NeuralMD**: 
-	- [Code](https://github.com/chao1224/NeuralMD) : Last updated in April 2024, 2 months ago
-	- [Publication](https://doi.org/10.48550/arXiv.2401.15122) : Citations: 0
-	- [Link](https://www.semanticscholar.org/paper/A-Multi-Grained-Symmetric-Differential-Equation-for-Liu-Du/0215dd9f346534bf4c4247220501d7ab7d7715c6)
-- **torchmd**: 
-	- [Code](https://github.com/torchmd/torchmd) : Last updated in February 2024, 3 months ago
-	- [Publication](https://doi.org/10.1021/acs.jctc.0c01343) : Citations: 118
+- **DeepDriveMD**: Deep-Learning Driven Adaptive Molecular Simulations (standalone)  
+	[![Code](https://img.shields.io/github/stars/DeepDriveMD/DeepDriveMD-pipeline?style=for-the-badge&logo=github)](https://github.com/DeepDriveMD/DeepDriveMD-pipeline)  
+	[![Last Commit](https://img.shields.io/github/last-commit/DeepDriveMD/DeepDriveMD-pipeline?style=for-the-badge&logo=github)](https://github.com/DeepDriveMD/DeepDriveMD-pipeline)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://deepdrivemd.github.io/)  
+- **Medbi et al.**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1146/annurev-physchem-083122-125941)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.annualreviews.org/doi/pdf/10.1146/annurev-physchem-083122-125941)  
+- **MLCGMD**: Simulate Time-integrated Coarse-grained Molecular Dynamics with Multi-scale Graph Networks  
+	[![Code](https://img.shields.io/github/stars/kyonofx/mlcgmd?style=for-the-badge&logo=github)](https://github.com/kyonofx/mlcgmd)  
+	[![Last Commit](https://img.shields.io/github/last-commit/kyonofx/mlcgmd?style=for-the-badge&logo=github)](https://github.com/kyonofx/mlcgmd)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:83-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/sciadv.abc6216)  
+- **NeuralMD**:   
+	[![Code](https://img.shields.io/github/stars/chao1224/NeuralMD?style=for-the-badge&logo=github)](https://github.com/chao1224/NeuralMD)  
+	[![Last Commit](https://img.shields.io/github/last-commit/chao1224/NeuralMD?style=for-the-badge&logo=github)](https://github.com/chao1224/NeuralMD)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2401.15122)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.semanticscholar.org/paper/A-Multi-Grained-Symmetric-Differential-Equation-for-Liu-Du/0215dd9f346534bf4c4247220501d7ab7d7715c6)  
+- **torchmd**:   
+	[![Code](https://img.shields.io/github/stars/torchmd/torchmd?style=for-the-badge&logo=github)](https://github.com/torchmd/torchmd)  
+	[![Last Commit](https://img.shields.io/github/last-commit/torchmd/torchmd?style=for-the-badge&logo=github)](https://github.com/torchmd/torchmd)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:118-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.0c01343)  
 
 ## **Water**
-- **PyRod**: PyRod is a Python software for generating dynamic molecular interaction fields and pharmacophore features based on the protein environment of water molecules in molecular dynamics simulations.
-	- [Code](https://github.com/wolberlab/pyrod) : Last updated in January 2021, 42 months ago
-	- [Publication](https://doi.org/10.1021/acs.jcim.9b00281).) : Citations: 0
+- **PyRod**: PyRod is a Python software for generating dynamic molecular interaction fields and pharmacophore features based on the protein environment of water molecules in molecular dynamics simulations.  
+	[![Code](https://img.shields.io/github/stars/wolberlab/pyrod?style=for-the-badge&logo=github)](https://github.com/wolberlab/pyrod)  
+	[![Last Commit](https://img.shields.io/github/last-commit/wolberlab/pyrod?style=for-the-badge&logo=github)](https://github.com/wolberlab/pyrod)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b00281).)  
 
 ## **interOperable**
-- **SIRE**: An interoperability engine for prototyping algorithms and exchanging information between molecular simulation programs
-	- [Publication](https://doi.org/10.1063/5.0200458) : Citations: 0
-	- [Link](https://try.openbiosim.org)
+- **SIRE**: An interoperability engine for prototyping algorithms and exchanging information between molecular simulation programs  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1063/5.0200458)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://try.openbiosim.org)  

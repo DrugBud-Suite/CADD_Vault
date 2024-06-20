@@ -1,6 +1,8 @@
 import pandas as pd
 import os
 import shutil
+import requests
+import re
 
 # Get the absolute path to the directory where the script is running
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -23,6 +25,17 @@ def clear_directory_except(docs_path, keep_files):
 
 # Load the CSV file
 df = pd.read_csv('../processed_cadd_vault_data.csv')
+
+
+def check_url(url):
+    try:
+        response = requests.get(url, timeout=10)  # Timeout after 10 seconds
+        if response.status_code == 200:
+            return "online"
+        else:
+            return "offline"
+    except requests.RequestException:
+        return "offline"
 
 
 def update_md_file(file_path, content, subcategory, subsubcategory):
@@ -64,17 +77,42 @@ for index, row in df.iterrows():
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
 
-    entry_content = f"- **{row['ENTRY NAME']}**: {row['DESCRIPTION'] if pd.notna(row['DESCRIPTION']) else ''}\n"
+    entry_content = f"- **{row['ENTRY NAME']}**: {row['DESCRIPTION'] if pd.notna(row['DESCRIPTION']) else ''}  \n"
     if pd.notna(row['CODE']):
-        entry_content += f"\t- [Code]({row['CODE']}) : Last updated in {row['LAST_COMMIT']}, {row['LAST_COMMIT_AGO']}\n"
+        if 'github' in row['CODE'] and 'gist' not in row['CODE']:
+
+            def clean_github_url(url):
+                url = url.replace('.git', '')  # Remove '.git' if present
+                match = re.match(r'https://github\.com/([^/]+)/([^/?#]+)', url)
+                if match:
+                    return f"{match.group(1)}/{match.group(2)}"
+                return None
+
+            url = clean_github_url(row['CODE'])
+            entry_content += f"\t[![Code](https://img.shields.io/github/stars/{url}?style=for-the-badge&logo=github)]({row['CODE']})  \n"
+            entry_content += f"\t[![Last Commit](https://img.shields.io/github/last-commit/{url}?style=for-the-badge&logo=github)]({row['CODE']})  \n"
+        else:
+            entry_content += f"\t[![Code](https://img.shields.io/badge/Code)]({row['CODE']})\n"
     if pd.notna(row['PUBLICATION']):
         citations = int(row['CITATIONS']) if pd.notna(
-            row['CITATIONS']) else 'N/A'  # Convert float to int here
-        entry_content += f"\t- [Publication]({row['PUBLICATION']}) : Citations: {citations}\n"
+            row['CITATIONS']) else 'N/A'
+        if 'rxiv' in row['PUBLICATION']:
+            logo = 'arxiv'
+        else:
+            logo = 'bookstack'
+        entry_content += f"\t[![Publication](https://img.shields.io/badge/Publication-Citations:{citations}-blue?style=for-the-badge&logo={logo})]({row['PUBLICATION']})  \n"
     if pd.notna(row['WEBSERVER']):
-        entry_content += f"\t- [Webserver]({row['WEBSERVER']})\n"
+        status = check_url(row['WEBSERVER'])
+        if status == 'online':
+            entry_content += f"\t[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)]({row['WEBSERVER']})  \n"
+        else:
+            entry_content += f"\t[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)]({row['WEBSERVER']})  \n"
     if pd.notna(row['LINK']):
-        entry_content += f"\t- [Link]({row['LINK']})\n"
+        status = check_url(row['LINK'])
+        if status == 'online':
+            entry_content += f"\t[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)]({row['LINK']})  \n"
+        else:
+            entry_content += f"\t[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)]({row['LINK']})  \n"
 
     update_md_file(file_path, entry_content, row['SUBCATEGORY1'],
                    row['SUBSUBCATEGORY1'])
@@ -100,7 +138,7 @@ def update_index_file(docs_directory, readme, total_publications,
 
     lines[4] = f"Number of publications: {total_publications}  \n"
     lines[5] = f"Number of code repositories: {total_code_repos}  \n"
-    lines[6] = f"Number of webserver links: {total_webserver_links}  \n  \n"
+    lines[6] = f"Number of webserver links: {total_webserver_links}"
 
     with open(index_file_path, "w", encoding='utf-8') as f:
         f.writelines(lines)

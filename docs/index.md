@@ -2,14 +2,9 @@
 
 Welcome to the CADD Vault, an open-source repository dedicated to sharing resources, tools, and knowledge in the field of computer-aided drug design. This vault aims to support researchers, students, and professionals by providing a comprehensive collection of materials related to CADD.
 
-Number of publications: 800  
-Number of code repositories: 727  
+Number of publications: 860  
+Number of code repositories: 731  
 Number of webserver links: 116  
-  
-  
-  
-  
-  
   
 - De Novo Drug Generation
 - Protein Structure and Analysis

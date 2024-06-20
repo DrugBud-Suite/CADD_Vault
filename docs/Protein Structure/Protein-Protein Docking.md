@@ -1,165 +1,167 @@
-- **3D-Garden**: A system for modelling protein-protein complexes based on conformational refinement of ensembles generated with the marching cubes algorithm (online)
-	- [Publication](https://doi.org/10.1093/bioinformatics/btn093) : Citations: 51
-	- [Webserver](http://www.sbg.bio.ic.ac.uk/~3dgarden/)
-- **AREA-AFFINITY**: Server for Machine Learning-Based Prediction of Protein-Protein and Antibody-Protein Antigen Binding Affinities (online)
-	- [Publication](https://doi.org/10.1021/acs.jcim.2c01499) : Citations: 4
-	- [Link](https://affinity.cuhk.edu.cn/)
-- **Arpeggio**: A webserver for calculating interatomic interactions in protein structures (online & standalone)
-	- [Publication](https://doi.org/10.1016/j.jmb.2016.12.004) : Citations: 338
-	- [Webserver](http://biosig.unimelb.edu.au/arpeggioweb/)
-- **BAlaS**: fast, interactive and accessible computational alanine-scanning using BudeAlaScan (online)
-	- [Code](https://github.com/wells-wood-research/balas) : Last updated in March 2021, 39 months ago
-	- [Publication](https://doi.org/10.1093/bioinformatics/btaa026) : Citations: 42
-- **Cluspro**: protein docking (online)
-	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1965
-	- [Webserver](https://cluspro.bu.edu/login.php)
-- **ClusPro FMFT-SAXS**: Ultra-fast Filtering Using Small-Angle X-ray Scattering Data in Protein Docking (online and standalone)
-	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1965
-	- [Link](https://beta.cluspro.org/)
-- **ClusPro TBM**: Toward combining template-based methods with free docking (protein-protein docking) (online)
-	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1965
-	- [Link](https://tbm.cluspro.org/)
-- **ClusPro-DC**: discrimination between Xray and biological dimers (online requires login)
-	- [Publication](https://doi.org/10.1038%2Fnprot.2016.169) : Citations: 1965
-	- [Webserver](https://cluspro.bu.edu/)
-- **CoDockPP**: A Multistage Approach for Global and Site-Specific Protein-Protein Docking (online)
-	- [Publication](https://doi.org/10.1021/acs.jcim.9b00445) : Citations: 30
-	- [Webserver](http://codockpp.schanglab.org.cn/)
-- **DeepComplex**: A Web Server of Predicting Protein Complex Structures by Deep Learning Inter-chain Contact Prediction and Distance-Based Modelling (online)
-	- [Publication](https://doi.org/10.3389/fmolb.2021.716973) : Citations: 13
-	- [Webserver](http://tulip.rnet.missouri.edu/deepcomplex/web_index.html)
-- **DisVis**: visualizes the accessible interaction space (online)
-	- [Publication](https://doi.org/10.1093/bioinformatics/btv333) : Citations: 61
-	- [Webserver](http://milou.science.uu.nl/cgi/services/DISVIS/disvis/)
-- **DOCK/PIERR**: Protein Docking Server (online)
-	- [Publication](https://doi.org/10.1007/978-1-4939-0366-5_14) : Citations: 26
-	- [Webserver](http://clsb.ices.utexas.edu/web/dock.html)
-- **Dockground**: A comprehensive data resource for modeling of protein complexes, datasets, decoys... (online)
-	- [Publication](https://doi.org/10.1002/pro.4481) : Citations: 6
-	- [Link](http://dockground.compbio.ku.edu/)
-- **DOCKSCORE**: rank docked poses (online)
-	- [Publication](http://www.biomedcentral.com/1471-2105/16/127) : Citations: N/A
-	- [Webserver](http://caps.ncbs.res.in/dockscore/)
-- **DockStar**: Modelling of multimolecular protein complexes (online)
-	- [Webserver](http://bioinfo3d.cs.tau.ac.il/DockStar/)
-- **DockSurf**: A molecular modeling software for the prediction of protein/surface adhesion (eg. gold surfaces) (online)
-	- [Publication](https://doi.org/10.1021/acs.jcim.3c00569) : Citations: 0
-	- [Link](https://bioserv.rpbs.univ-paris-diderot.fr/services/DockSurf/)
-- **DOVE**: convolutional deep neural network-based approach named DOcking decoy selection with Voxel-based deep neural nEtwork (DOVE) for evaluating protein docking models (online)
-	- [Publication](https://doi.org/10.1093/bioinformatics/btz870) : Citations: 84
-	- [Link](http://kiharalab.org/dove/)
-- **EROS-DOCK**: protein–protein docking using exhaustive branch-and-bound rotational search (standalone)
-	- [Publication](doi:10.1093/bioinformatics/btz434) : Citations: 9
-	- [Link](http://erosdock.loria.fr/)
-- **ezCADD**: a Rapid 2D/3D Visualization Enabled Web Modeling Environment for Democratizing Computer-Aided Drug Design (small molecule docking, protein docking, 2D/3D interaction viz, de novo lead optimization, pocket search and polypharmacology) online
-	- [Publication](https://doi.org/10.1021/acs.jcim.8b00633) : Citations: 47
-	- [Link](http://www.dxulab.org/software)
-- **FiberDock, FireDock, FlexDock, PatchDock**: 
-	- [Publication](https://doi.org/10.1093/nar/gkq373) : Citations: 84
-	- [Webserver](http://bioinfo3d.cs.tau.ac.il/wk/index.php/Servers_%26_Software)
-- **FiltRest3D**: filter predicted models (online)
-	- [Publication](doi:10.1371/journal.pcbi.1008309) : Citations: 41
-	- [Webserver](http://filtrest3d.genesilico.pl/filtrest3d/help.html)
-- **FoldDock**: simultaneous folding and docking protocol FoldDock and AlphaFold (standalone)
-	- [Code](https://gitlab.com/ElofssonLab/FoldDock/) : Last updated in nan, nan
-	- [Publication](http://dx.doi.org/10.1038/s41467-022-28865-w) : Citations: 387
-- **FRODOCK**: Fast Rotational DOCKing (online)
-	- [Publication](https://doi.org/10.1093/bioinformatics/btw141) : Citations: 117
-	- [Webserver](http://frodock.chaconlab.org/)
-- **GalaxyDomDock**: An Ab Initio Domain-domain Docking Web Server for Multi-domain Protein Structure Prediction (online)
-	- [Publication](https://doi.org/10.1016/j.jmb.2022.167508) : Citations: 6
-	- [Webserver](http://galaxy.seoklab.org/domdock)
-- **GalaxyHomomer**: protein homo-oligomer structure prediction from a monomer sequence or structure (online)
-	- [Publication](https://doi.org/10.1093/nar/gkx246) : Citations: 102
-	- [Link](http://galaxy.seoklab.org/cgi-bin/submit.cgi?type=HOMOMER)
-- **GalaxyRefineComplex**: Protein-protein complex structures generated by protein-protein docking methods can be refined (online)
-	- [Publication](https://doi.org/10.1038%2Fsrep32153) : Citations: 94
-	- [Webserver](http://galaxy.seoklab.org/cgi-bin/submit.cgi?type=COMPLEX)
-- **GalaxyTongDock**: Symmetric and asymmetric ab initio protein-protein docking web server with improved energy parameters (online)
-	- [Publication](https://doi.org/10.1093/nar/gks493) : Citations: 600
-	- [Link](http://galaxy.seoklab.org/tongdock)
-- **GRAMM**: Protein-Protein Docking Web Server (online)
-	- [Publication](https://doi.org/10.1007/978-1-0716-3441-7_5) : Citations: 4
-	- [Webserver](http://gramm.compbio.ku.edu/)
-- **GraphPPIS**: Structure-aware protein-protein interaction site prediction using deep graph convolutional network (online), standalone on github
-	- [Publication](https://doi.org/10.1093/bioinformatics/btab643) : Citations: 74
-	- [Webserver](https://biomed.nscc-gz.cn/apps/GraphPPIS)
-- **GWIDD**: genome wide docking database (online)
-	- [Publication](https://doi.org/10.1186/1479-7364-6-7) : Citations: 14
-	- [Webserver](http://gwidd.compbio.ku.edu/)
-- **Haddock**: High Ambiguity Driven protein-protein DOCKing (online requires login)
-	- [Publication](https://doi.org/10.21769%2FBioProtoc.3793) : Citations: 8
-	- [Webserver](http://haddock.chem.uu.nl/)
-- **HawkDock**: to predict and analyze the protein-protein complex based on computational docking and MM/GBSA (online)
-	- [Publication](https://doi.org/10.1093/nar/gkz397) : Citations: 343
-	- [Link](http://cadd.zju.edu.cn/hawkdock/)
-- **HDOCK**: hybrid protein–protein and protein–DNA/RNA docking, Pushing the accuracy limit of shape complementarity for protein-protein docking (online)
-	- [Publication](https://doi.org/10.1093%2Fnar%2Fgkx407) : Citations: 697
-	- [Link](http://hdock.phys.hust.edu.cn/)
-- **HMI-PRED**: A Web Server for Structural Prediction of Host-Microbe Interactions Based on Interface Mimicry (online)
-	- [Publication](https://doi.org/10.1093/bioinformatics/btac633) : Citations: 1
-	- [Webserver](https://interactome.ku.edu.tr/hmi/)
-- **InterEvDock2**: protein docking using evolutionary and biological information from homology models and multimeric inputs (online)
-	- [Publication](https://doi.org/10.1093%2Fnar%2Fgky377) : Citations: 46
-	- [Webserver](http://bioserv.rpbs.univ-paris-diderot.fr/services/InterEvDock2/)
-- **InterEvDock3**: a combined template-based and free docking server with increased performance through explicit modeling of complex homologs and integration of covariation-based contact maps (online)
-	- [Publication](https://doi.org/10.1093%2Fnar%2Fgkab358) : Citations: 19
-	- [Webserver](http://bioserv.rpbs.univ-paris-diderot.fr/services/InterEvDock3/)
-- **InterPred**: A pipeline to identify and model protein-protein interactions (online)
-	- [Publication](https://doi.org/10.1002/prot.25280) : Citations: 33
-	- [Link](http://wallnerlab.org/InterPred)
-- **INTERSPIA**: Explore the Dynamics of Protein-Protein Interactions Among Multiple Species (online)
-	- [Publication](https://doi.org/10.1093/nar/gky378) : Citations: 9
-	- [Link](http://bioinfo.konkuk.ac.kr/INTERSPIA/)
-- **IRaPPA**: pyDockRescoring Server (online)
-	- [Publication](https://doi.org/10.1093/bioinformatics/btx068) : Citations: 37
-	- [Link](https://life.bsc.es/pid/pydockrescoring/)
-- **LightDock**: Artificial Intelligence-powered modeling of macromolecular interactions (macromolecular docking framework, online)
-	- [Publication](https://doi.org/10.1093/bioinformatics/btx555) : Citations: 77
-	- [Link](https://server.lightdock.org/)
-- **P3DOCK**: a protein-RNA docking webserver based on template-based and template-free docking (online)
-	- [Publication](https://doi.org/10.1093/bioinformatics/btz478) : Citations: 17
-	- [Link](http://www.rnabinding.com/P3DOCK/P3DOCK.html)
-- **PIIMS**: Mutation Hotspot Scanning at the Protein-Protein Interface (online)
-	- [Link](http://chemyang.ccnu.edu.cn/ccb/server/PIIMS/index.php)
-- **PPI-Affinity**: Prediction and Optimization of Protein-Peptide and Protein-Protein Binding Affinity (online)
-	- [Publication](https://doi.org/10.1021/acs.jproteome.2c00020) : Citations: 30
-	- [Webserver](https://protdcal.zmb.uni-due.de/PPIAffinity)
-- **PRODIGY**: PROtein binDIng enerGY prediction (online)
-	- [Publication](https://doi.org/10.1093/bioinformatics/btw514) : Citations: 761
-	- [Webserver](https://wenmr.science.uu.nl/prodigy/)
-- **PRODIGY-crystal**: classification of biological interfaces in protein complexes (online)
-	- [Publication](https://doi.org/10.1093/bioinformatics/btz437) : Citations: 27
-	- [Link](https://wenmr.science.uu.nl/prodigy/)
-- **pyDock**: 
-	- [Publication](https://doi.org/10.1093/bioinformatics/btt262) : Citations: 211
-	- [Webserver](https://life.bsc.es/pid/pydock/)
-- **pyDockDNA**: A new web server for energy-based protein-DNA docking and scoring (online)
-	- [Publication](https://doi.org/10.3389/fmolb.2022.988996) : Citations: 6
-	- [Webserver](https://model3dbio.csic.es/pydockdna)
-- **pyDockEneRes**: per-residue decomposition of protein-protein docking energy (online)
-	- [Publication](https://doi.org/10.1093/bioinformatics/btz884) : Citations: 17
-	- [Link](https://life.bsc.es/pid/pydockeneres)
-- **QASDOM**: Quality ASsessment of DOcking Models, protein-protein (online)
-	- [Publication](https://doi.org/10.1093/bioinformatics/btx591) : Citations: 10
-	- [Link](http://qasdom.eimb.ru/qasdom.html)
-- **RosettaDock**: Efficient Flexible Backbone Protein-Protein Docking for Challenging Targets (standalone and online)
-	- [Publication](https://doi.org/10.1093%2Fnar%2Fgkn216) : Citations: 464
-	- [Link](https://www.rosettacommons.org/)
-- **SPServer**: split-statistical potentials for the analysis of protein structures and protein-protein interactions (PPI) (online) (or http://sbi.upf.edu/spserver/)
-	- [Publication](https://doi.org/10.1186/s12859-020-03770-5) : Citations: 8
-	- [Link](https://sbi.upf.edu/spserver/)
-- **SwarmDock**: webservice for generating 3D structures of protein-protein complexes (online)
-	- [Publication](https://doi.org/10.1007/978-1-0716-0708-4_11) : Citations: 1
-	- [Webserver](http://bmm.crick.ac.uk/~SwarmDock/)
-- **webSDA**: Simulation of Diffusional Assosiation (SDA) (online)
-	- [Publication](https://doi.org/10.1093/nar/gkv335) : Citations: 12
-	- [Webserver](https://websda.h-its.org/webSDA)
-- **ZDOCK**: docking (online)
-	- [Publication](https://doi.org/10.1371/journal.pone.0024657) : Citations: 489
-	- [Webserver](http://zdock.umassmed.edu/)
+- **3D-Garden**: A system for modelling protein-protein complexes based on conformational refinement of ensembles generated with the marching cubes algorithm (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:51-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btn093)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.sbg.bio.ic.ac.uk/~3dgarden/)  
+- **AREA-AFFINITY**: Server for Machine Learning-Based Prediction of Protein-Protein and Antibody-Protein Antigen Binding Affinities (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c01499)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://affinity.cuhk.edu.cn/)  
+- **Arpeggio**: A webserver for calculating interatomic interactions in protein structures (online & standalone)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:338-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.jmb.2016.12.004)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://biosig.unimelb.edu.au/arpeggioweb/)  
+- **BAlaS**: fast, interactive and accessible computational alanine-scanning using BudeAlaScan (online)  
+	[![Code](https://img.shields.io/github/stars/wells-wood-research/balas?style=for-the-badge&logo=github)](https://github.com/wells-wood-research/balas)  
+	[![Last Commit](https://img.shields.io/github/last-commit/wells-wood-research/balas?style=for-the-badge&logo=github)](https://github.com/wells-wood-research/balas)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:42-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btaa026)  
+- **Cluspro**: protein docking (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1965-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fnprot.2016.169)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://cluspro.bu.edu/login.php)  
+- **ClusPro FMFT-SAXS**: Ultra-fast Filtering Using Small-Angle X-ray Scattering Data in Protein Docking (online and standalone)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1965-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fnprot.2016.169)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://beta.cluspro.org/)  
+- **ClusPro TBM**: Toward combining template-based methods with free docking (protein-protein docking) (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1965-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fnprot.2016.169)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://tbm.cluspro.org/)  
+- **ClusPro-DC**: discrimination between Xray and biological dimers (online requires login)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1965-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fnprot.2016.169)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://cluspro.bu.edu/)  
+- **CoDockPP**: A Multistage Approach for Global and Site-Specific Protein-Protein Docking (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b00445)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://codockpp.schanglab.org.cn/)  
+- **DeepComplex**: A Web Server of Predicting Protein Complex Structures by Deep Learning Inter-chain Contact Prediction and Distance-Based Modelling (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3389/fmolb.2021.716973)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://tulip.rnet.missouri.edu/deepcomplex/web_index.html)  
+- **DisVis**: visualizes the accessible interaction space (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:61-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btv333)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://milou.science.uu.nl/cgi/services/DISVIS/disvis/)  
+- **DOCK/PIERR**: Protein Docking Server (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:26-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-1-4939-0366-5_14)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://clsb.ices.utexas.edu/web/dock.html)  
+- **Dockground**: A comprehensive data resource for modeling of protein complexes, datasets, decoys... (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.4481)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://dockground.compbio.ku.edu/)  
+- **DOCKSCORE**: rank docked poses (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](http://www.biomedcentral.com/1471-2105/16/127)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://caps.ncbs.res.in/dockscore/)  
+- **DockStar**: Modelling of multimolecular protein complexes (online)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://bioinfo3d.cs.tau.ac.il/DockStar/)  
+- **DockSurf**: A molecular modeling software for the prediction of protein/surface adhesion (eg. gold surfaces) (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00569)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://bioserv.rpbs.univ-paris-diderot.fr/services/DockSurf/)  
+- **DOVE**: convolutional deep neural network-based approach named DOcking decoy selection with Voxel-based deep neural nEtwork (DOVE) for evaluating protein docking models (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:84-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz870)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://kiharalab.org/dove/)  
+- **EROS-DOCK**: protein–protein docking using exhaustive branch-and-bound rotational search (standalone)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](doi:10.1093/bioinformatics/btz434)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://erosdock.loria.fr/)  
+- **ezCADD**: a Rapid 2D/3D Visualization Enabled Web Modeling Environment for Democratizing Computer-Aided Drug Design (small molecule docking, protein docking, 2D/3D interaction viz, de novo lead optimization, pocket search and polypharmacology) online  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:47-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.8b00633)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.dxulab.org/software)  
+- **FiberDock, FireDock, FlexDock, PatchDock**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:84-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkq373)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://bioinfo3d.cs.tau.ac.il/wk/index.php/Servers_%26_Software)  
+- **FiltRest3D**: filter predicted models (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:41-blue?style=for-the-badge&logo=bookstack)](doi:10.1371/journal.pcbi.1008309)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://filtrest3d.genesilico.pl/filtrest3d/help.html)  
+- **FoldDock**: simultaneous folding and docking protocol FoldDock and AlphaFold (standalone)  
+	[![Code](https://img.shields.io/badge/Code)](https://gitlab.com/ElofssonLab/FoldDock/)
+	[![Publication](https://img.shields.io/badge/Publication-Citations:389-blue?style=for-the-badge&logo=bookstack)](http://dx.doi.org/10.1038/s41467-022-28865-w)  
+- **FRODOCK**: Fast Rotational DOCKing (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:118-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btw141)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://frodock.chaconlab.org/)  
+- **GalaxyDomDock**: An Ab Initio Domain-domain Docking Web Server for Multi-domain Protein Structure Prediction (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.jmb.2022.167508)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://galaxy.seoklab.org/domdock)  
+- **GalaxyHomomer**: protein homo-oligomer structure prediction from a monomer sequence or structure (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:102-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkx246)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://galaxy.seoklab.org/cgi-bin/submit.cgi?type=HOMOMER)  
+- **GalaxyRefineComplex**: Protein-protein complex structures generated by protein-protein docking methods can be refined (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:94-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fsrep32153)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://galaxy.seoklab.org/cgi-bin/submit.cgi?type=COMPLEX)  
+- **GalaxyTongDock**: Symmetric and asymmetric ab initio protein-protein docking web server with improved energy parameters (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:600-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gks493)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://galaxy.seoklab.org/tongdock)  
+- **GRAMM**: Protein-Protein Docking Web Server (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-1-0716-3441-7_5)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://gramm.compbio.ku.edu/)  
+- **GraphPPIS**: Structure-aware protein-protein interaction site prediction using deep graph convolutional network (online), standalone on github  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:74-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btab643)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://biomed.nscc-gz.cn/apps/GraphPPIS)  
+- **GWIDD**: genome wide docking database (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:14-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1479-7364-6-7)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://gwidd.compbio.ku.edu/)  
+- **Haddock**: High Ambiguity Driven protein-protein DOCKing (online requires login)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21769%2FBioProtoc.3793)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://haddock.chem.uu.nl/)  
+- **HawkDock**: to predict and analyze the protein-protein complex based on computational docking and MM/GBSA (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:343-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkz397)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://cadd.zju.edu.cn/hawkdock/)  
+- **HDOCK**: hybrid protein–protein and protein–DNA/RNA docking, Pushing the accuracy limit of shape complementarity for protein-protein docking (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:697-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkx407)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://hdock.phys.hust.edu.cn/)  
+- **HMI-PRED**: A Web Server for Structural Prediction of Host-Microbe Interactions Based on Interface Mimicry (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btac633)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://interactome.ku.edu.tr/hmi/)  
+- **InterEvDock2**: protein docking using evolutionary and biological information from homology models and multimeric inputs (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:46-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgky377)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://bioserv.rpbs.univ-paris-diderot.fr/services/InterEvDock2/)  
+- **InterEvDock3**: a combined template-based and free docking server with increased performance through explicit modeling of complex homologs and integration of covariation-based contact maps (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkab358)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://bioserv.rpbs.univ-paris-diderot.fr/services/InterEvDock3/)  
+- **InterPred**: A pipeline to identify and model protein-protein interactions (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:33-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/prot.25280)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://wallnerlab.org/InterPred)  
+- **INTERSPIA**: Explore the Dynamics of Protein-Protein Interactions Among Multiple Species (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gky378)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://bioinfo.konkuk.ac.kr/INTERSPIA/)  
+- **IRaPPA**: pyDockRescoring Server (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btx068)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://life.bsc.es/pid/pydockrescoring/)  
+- **LightDock**: Artificial Intelligence-powered modeling of macromolecular interactions (macromolecular docking framework, online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:77-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btx555)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://server.lightdock.org/)  
+- **P3DOCK**: a protein-RNA docking webserver based on template-based and template-free docking (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz478)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.rnabinding.com/P3DOCK/P3DOCK.html)  
+- **PIIMS**: Mutation Hotspot Scanning at the Protein-Protein Interface (online)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://chemyang.ccnu.edu.cn/ccb/server/PIIMS/index.php)  
+- **PPI-Affinity**: Prediction and Optimization of Protein-Peptide and Protein-Protein Binding Affinity (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jproteome.2c00020)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://protdcal.zmb.uni-due.de/PPIAffinity)  
+- **PRODIGY**: PROtein binDIng enerGY prediction (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:761-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btw514)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://wenmr.science.uu.nl/prodigy/)  
+- **PRODIGY-crystal**: classification of biological interfaces in protein complexes (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:27-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz437)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://wenmr.science.uu.nl/prodigy/)  
+- **pyDock**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:211-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btt262)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://life.bsc.es/pid/pydock/)  
+- **pyDockDNA**: A new web server for energy-based protein-DNA docking and scoring (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3389/fmolb.2022.988996)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://model3dbio.csic.es/pydockdna)  
+- **pyDockEneRes**: per-residue decomposition of protein-protein docking energy (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz884)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://life.bsc.es/pid/pydockeneres)  
+- **QASDOM**: Quality ASsessment of DOcking Models, protein-protein (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btx591)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://qasdom.eimb.ru/qasdom.html)  
+- **RosettaDock**: Efficient Flexible Backbone Protein-Protein Docking for Challenging Targets (standalone and online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:464-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkn216)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.rosettacommons.org/)  
+- **SPServer**: split-statistical potentials for the analysis of protein structures and protein-protein interactions (PPI) (online) (or http://sbi.upf.edu/spserver/)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s12859-020-03770-5)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://sbi.upf.edu/spserver/)  
+- **SwarmDock**: webservice for generating 3D structures of protein-protein complexes (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-1-0716-0708-4_11)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://bmm.crick.ac.uk/~SwarmDock/)  
+- **webSDA**: Simulation of Diffusional Assosiation (SDA) (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkv335)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://websda.h-its.org/webSDA)  
+- **ZDOCK**: docking (online)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:489-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0024657)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://zdock.umassmed.edu/)  
 
 ## **Quality Assessment**
-- **DockQ**: A Quality Measure for Protein-Protein Docking Models (standalone)
-	- [Code](http://github.com/bjornwallner/DockQ/) : Last updated in nan, nan
-	- [Publication](https://doi.org/10.1371/journal.pone.0161879) : Citations: 223
+- **DockQ**: A Quality Measure for Protein-Protein Docking Models (standalone)  
+	[![Code](https://img.shields.io/github/stars/None?style=for-the-badge&logo=github)](http://github.com/bjornwallner/DockQ/)  
+	[![Last Commit](https://img.shields.io/github/last-commit/None?style=for-the-badge&logo=github)](http://github.com/bjornwallner/DockQ/)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:223-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0161879)  
