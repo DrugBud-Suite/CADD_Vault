@@ -1,8 +1,8 @@
 - **AMBER**: suite of biomolecular simulation programs (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:133-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01153)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:142-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01153)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://ambermd.org/)  
 - **CHARMM**: Chemistry at HARvard Macromolecular Mechanics (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:6832-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21287)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6841-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21287)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://academiccharmm.org/)  
 - **CHARMM-GUI**:   
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.charmm-gui.org/?doc=input)  
@@ -15,12 +15,12 @@
 - **HTMD**:   
 	[![Code](https://img.shields.io/github/stars/Acellera/htmd?style=for-the-badge&logo=github)](https://github.com/Acellera/htmd)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Acellera/htmd?style=for-the-badge&logo=github)](https://github.com/Acellera/htmd)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:328-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.6b00049)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:329-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.6b00049)  
 - **HTMD**: a molecular-specific programmable environment to prepare, handle, simulate, visualize and analyze molecular systems (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:328-blue?style=for-the-badge&logo=bookstack)](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00049)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:329-blue?style=for-the-badge&logo=bookstack)](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00049)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.htmd.org/)  
 - **LAMMPS**: Molecular Dynamics Simulator and much more  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:3777-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2021.108171)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:3807-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2021.108171)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.lammps.org/)  
 - **NAMD**: NAMD is a parallel molecular dynamics code for high-performance simulation of large biomolecular systems, recognized for its scalability and efficiency.  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.ks.uiuc.edu/Research/namd/)  
@@ -31,7 +31,7 @@
 - **OpenMM**: OpenMM is a high-performance toolkit for molecular simulation, offering extensive language bindings and a flexible platform for developing high-performance algorithms.  
 	[![Code](https://img.shields.io/github/stars/openmm/openmm?style=for-the-badge&logo=github)](https://github.com/openmm/openmm)  
 	[![Last Commit](https://img.shields.io/github/last-commit/openmm/openmm?style=for-the-badge&logo=github)](https://github.com/openmm/openmm)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jpcb.3c06662)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jpcb.3c06662)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://openmm.org/)  
 - **OpenMMDL**: Interface to **OpenMM** for easy setup of molecular dynamic simulations of protein-ligand complexes  
 	[![Code](https://img.shields.io/github/stars/wolberlab/OpenMMDL?style=for-the-badge&logo=github)](https://github.com/wolberlab/OpenMMDL)  
@@ -67,7 +67,7 @@
 	[![Last Commit](https://img.shields.io/github/last-commit/DeepDriveMD/DeepDriveMD-pipeline?style=for-the-badge&logo=github)](https://github.com/DeepDriveMD/DeepDriveMD-pipeline)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://deepdrivemd.github.io/)  
 - **Medbi et al.**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1146/annurev-physchem-083122-125941)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1146/annurev-physchem-083122-125941)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.annualreviews.org/doi/pdf/10.1146/annurev-physchem-083122-125941)  
 - **MLCGMD**: Simulate Time-integrated Coarse-grained Molecular Dynamics with Multi-scale Graph Networks  
 	[![Code](https://img.shields.io/github/stars/kyonofx/mlcgmd?style=for-the-badge&logo=github)](https://github.com/kyonofx/mlcgmd)  

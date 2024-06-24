@@ -8,7 +8,7 @@
 - **BigChem**:   
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://bigchem.eu/alllectures)  
 - **Cheminformatics OLCC**:   
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_(2019))
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_(2019)  
 - **Cheminformatics-and-Drug-Discovery**: This GitHub repository includes notebooks guiding through data preparation and model training to predict chemical properties of compounds represented as SMILES. It also explores chemical space visualization using PCA and t-SNE with the ChEMBL dataset.  
 	[![Code](https://img.shields.io/github/stars/Shiska07/Cheminformatics-and-Drug-Discovery?style=for-the-badge&logo=github)](https://github.com/Shiska07/Cheminformatics-and-Drug-Discovery)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Shiska07/Cheminformatics-and-Drug-Discovery?style=for-the-badge&logo=github)](https://github.com/Shiska07/Cheminformatics-and-Drug-Discovery)  

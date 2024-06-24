@@ -58,11 +58,11 @@
 - **PMapper**: PMapper is a Python module designed to generate 3D pharmacophore signatures and fingerprints, enabling fast identification of identical pharmacophores through unique hash encoding.  
 	[![Code](https://img.shields.io/github/stars/DrrDom/pmapper?style=for-the-badge&logo=github)](https://github.com/DrrDom/pmapper)  
 	[![Last Commit](https://img.shields.io/github/last-commit/DrrDom/pmapper?style=for-the-badge&logo=github)](https://github.com/DrrDom/pmapper)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:41-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/molecules23123094)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:42-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/molecules23123094)  
 - **PSearch**: PSearch is a Python tool for generating 3D ligand-based pharmacophore models and performing virtual screening, facilitating the differentiation of active and inactive compounds via pharmacophore feature labeling.  
 	[![Code](https://img.shields.io/github/stars/meddwl/psearch?style=for-the-badge&logo=github)](https://github.com/meddwl/psearch)  
 	[![Last Commit](https://img.shields.io/github/last-commit/meddwl/psearch?style=for-the-badge&logo=github)](https://github.com/meddwl/psearch)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:41-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/molecules23123094)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:42-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/molecules23123094)  
 - **QPhar**: QPhar provides code for quantitative pharmacophore activity relationship modeling, offering a method and validation for quantitative pharmacophore modeling documented in a publication.  
 	[![Code](https://img.shields.io/github/stars/StefanKohlbacher/QuantPharmacophore?style=for-the-badge&logo=github)](https://github.com/StefanKohlbacher/QuantPharmacophore)  
 	[![Last Commit](https://img.shields.io/github/last-commit/StefanKohlbacher/QuantPharmacophore?style=for-the-badge&logo=github)](https://github.com/StefanKohlbacher/QuantPharmacophore)  

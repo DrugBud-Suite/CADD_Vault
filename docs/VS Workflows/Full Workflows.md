@@ -26,7 +26,7 @@
 - **Dockstring**: A Python package for easy molecular docking (with Vina)… machine learning..(standalone).  
 	[![Code](https://img.shields.io/github/stars/dockstring/dockstring?style=for-the-badge&logo=github)](https://github.com/dockstring/dockstring)  
 	[![Last Commit](https://img.shields.io/github/last-commit/dockstring/dockstring?style=for-the-badge&logo=github)](https://github.com/dockstring/dockstring)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:32-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c01334)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:33-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c01334)  
 - **DrugSniffer**: Drug Sniffer is a virtual screening pipeline capable of screening billions of molecules using a combination of ligand-based and structure-based methods, designed to streamline and accelerate the drug discovery process.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3389%2Ffphar.2022.874746)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://drugsniffer.org/)  

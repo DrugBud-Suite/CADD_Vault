@@ -20,3 +20,8 @@
 - **SmilesDrawer**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:50-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.7b00425)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://doc.gdb.tools/smilesDrawer/)  
+- **CineMol**: direct-to-SVG small molecule drawer  
+	[![Code](https://img.shields.io/github/stars/moltools/cinemol?style=for-the-badge&logo=github)](https://github.com/moltools/cinemol)  
+	[![Last Commit](https://img.shields.io/github/last-commit/moltools/cinemol?style=for-the-badge&logo=github)](https://github.com/moltools/cinemol)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00851-y)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://moltools.bioinformatics.nl/cinemol)  

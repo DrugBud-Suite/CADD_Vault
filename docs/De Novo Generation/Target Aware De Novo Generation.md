@@ -17,7 +17,7 @@
 - **cMolGPT**: cMolGPT, a Conditional Generative Pre-trained Transformer, aims for de novo molecular design by enforcing target specificity during the generation process, emphasizing the incorporation of target embeddings.  
 	[![Code](https://img.shields.io/github/stars/VV123/cMolGPT?style=for-the-badge&logo=github)](https://github.com/VV123/cMolGPT)  
 	[![Last Commit](https://img.shields.io/github/last-commit/VV123/cMolGPT?style=for-the-badge&logo=github)](https://github.com/VV123/cMolGPT)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:11-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/molecules28114430)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/molecules28114430)  
 - **DeepICL**: 3D molecular generative framework for interaction-guided drug design  
 	[![Code](https://img.shields.io/github/stars/ACE-KAIST/DeepICL?style=for-the-badge&logo=github)](https://github.com/ACE-KAIST/DeepICL)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ACE-KAIST/DeepICL?style=for-the-badge&logo=github)](https://github.com/ACE-KAIST/DeepICL)  
@@ -105,11 +105,11 @@
 - **PETrans**:   
 	[![Code](https://img.shields.io/github/stars/Chinafor/PETrans?style=for-the-badge&logo=github)](https://github.com/Chinafor/PETrans)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Chinafor/PETrans?style=for-the-badge&logo=github)](https://github.com/Chinafor/PETrans)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/ijms24021146)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:11-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/ijms24021146)  
 - **PMDM**: dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets  
 	[![Code](https://img.shields.io/github/stars/Layne-Huang/PMDM?style=for-the-badge&logo=github)](https://github.com/Layne-Huang/PMDM/tree/main)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Layne-Huang/PMDM?style=for-the-badge&logo=github)](https://github.com/Layne-Huang/PMDM/tree/main)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-46569-1)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-46569-1)  
 - **Pocket2Mol**: Uses equivariant graph neural networks for efficient molecular sampling based on 3D protein pockets.  
 	[![Code](https://img.shields.io/github/stars/pengxingang/Pocket2Mol?style=for-the-badge&logo=github)](https://github.com/pengxingang/Pocket2Mol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/pengxingang/Pocket2Mol?style=for-the-badge&logo=github)](https://github.com/pengxingang/Pocket2Mol)  
@@ -121,7 +121,7 @@
 - **PocketOptimizer 2.0**: Design of small molecule‐binding pockets in proteins (standalone)  
 	[![Code](https://img.shields.io/github/stars/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:7096-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:7105-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
 - **RELATION**: A software for DL-based de novo drug design, focusing on generating molecules based on target protein interactions.  
 	[![Code](https://img.shields.io/github/stars/micahwang/RELATION?style=for-the-badge&logo=github)](https://github.com/micahwang/RELATION)  
 	[![Last Commit](https://img.shields.io/github/last-commit/micahwang/RELATION?style=for-the-badge&logo=github)](https://github.com/micahwang/RELATION)  
@@ -153,6 +153,17 @@
 	[![Code](https://img.shields.io/github/stars/guanjq/targetdiff?style=for-the-badge&logo=github)](https://github.com/guanjq/targetdiff)  
 	[![Last Commit](https://img.shields.io/github/last-commit/guanjq/targetdiff?style=for-the-badge&logo=github)](https://github.com/guanjq/targetdiff)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2303.03543)  
+- **MolSnapper**: Conditioning Diffusion for Structure Based Drug Design  
+	[![Code](https://img.shields.io/github/stars/oxpig/MolSnapper?style=for-the-badge&logo=github)](https://github.com/oxpig/MolSnapper)  
+	[![Last Commit](https://img.shields.io/github/last-commit/oxpig/MolSnapper?style=for-the-badge&logo=github)](https://github.com/oxpig/MolSnapper)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.03.28.586278)  
+
+## **Benchmarks**
+- **From Theory to Therapy: Reframing SBDD Model Evaluation via Practical Metrics**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2406.08980)  
+- **CBGBench**:   
+	[![Code](https://img.shields.io/github/stars/Edapinenut/CBGBench?style=for-the-badge&logo=github)](https://github.com/Edapinenut/CBGBench)  
+	[![Last Commit](https://img.shields.io/github/last-commit/Edapinenut/CBGBench?style=for-the-badge&logo=github)](https://github.com/Edapinenut/CBGBench)  
 
 ## **Dual-target**
 - **Alx-Fuse**:   
@@ -177,8 +188,13 @@
 	[![Last Commit](https://img.shields.io/github/last-commit/zkysfls/2024-sbdd-benchmark?style=for-the-badge&logo=github)](https://github.com/zkysfls/2024-sbdd-benchmark)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2406.03403)  
 - **Integrating structure-based approaches in generative molecular design [2023]**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:18-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.sbi.2023.102559)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.sbi.2023.102559)  
 - **Docking-based generative approaches in the search for new drug candidates [2022]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.drudis.2022.103439)  
 - **Generative Deep Learning for Targeted Compound Design [2021]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:62-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01496)  
+
+## **Sequence-based**
+- **Bajorath_Gen**:   
+	[![Code](https://img.shields.io/badge/Code)](https://uni-bonn.sciebo.de/s/Z9O2ZqKoA2cS7B1)
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00852-x)  

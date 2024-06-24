@@ -40,7 +40,7 @@
 - **ZairaChem**: Automated ML-based (Q)SAR  
 	[![Code](https://img.shields.io/github/stars/ersilia-os/zaira-chem?style=for-the-badge&logo=github)](https://github.com/ersilia-os/zaira-chem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ersilia-os/zaira-chem?style=for-the-badge&logo=github)](https://github.com/ersilia-os/zaira-chem)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-023-41512-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:14-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-023-41512-2)  
 ### **CNN**
 - **conv_qsar_fast**: QSAR/QSPR using descriptor-free molecular embedding  
 	[![Code](https://img.shields.io/github/stars/connorcoley/conv_qsar_fast?style=for-the-badge&logo=github)](https://github.com/connorcoley/conv_qsar_fast)  
@@ -71,6 +71,11 @@
 	[![Code](https://img.shields.io/github/stars/Bombtsti/PG-DERN?style=for-the-badge&logo=github)](https://github.com/Bombtsti/PG-DERN)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Bombtsti/PG-DERN?style=for-the-badge&logo=github)](https://github.com/Bombtsti/PG-DERN)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2107.07994)  
+### **Fine-Tuning**
+- **HFPA**: Head Feature Parallel Adapter (HFPA), which is highly interpretable, high-performing, and has fewer parameters than other widely used methods  
+	[![Code](https://img.shields.io/github/stars/AI-medical-diagnosis-team-of-JNU/HFPA?style=for-the-badge&logo=github)](https://github.com/AI-medical-diagnosis-team-of-JNU/HFPA)  
+	[![Last Commit](https://img.shields.io/github/last-commit/AI-medical-diagnosis-team-of-JNU/HFPA?style=for-the-badge&logo=github)](https://github.com/AI-medical-diagnosis-team-of-JNU/HFPA)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21203/rs.3.rs-3488751/v1)  
 ### **GAT**
 - **LGGA**:   
 	[![Code](https://img.shields.io/github/stars/songlei101/LGGA?style=for-the-badge&logo=github)](https://github.com/songlei101/LGGA)  
@@ -91,7 +96,7 @@
 - **MolCLR**: Molecular Contrastive Learning of Representations via Graph Neural Networks  
 	[![Code](https://img.shields.io/github/stars/yuyangw/MolCLR?style=for-the-badge&logo=github)](https://github.com/yuyangw/MolCLR)  
 	[![Last Commit](https://img.shields.io/github/last-commit/yuyangw/MolCLR?style=for-the-badge&logo=github)](https://github.com/yuyangw/MolCLR)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:213-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-022-00447-x)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:214-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-022-00447-x)  
 - **molgraph**: Offers graph neural networks with TensorFlow and Keras for molecular machine learning, focusing on compatibility and ease of use.  
 	[![Code](https://img.shields.io/github/stars/akensert/molgraph?style=for-the-badge&logo=github)](https://github.com/akensert/molgraph)  
 	[![Last Commit](https://img.shields.io/github/last-commit/akensert/molgraph?style=for-the-badge&logo=github)](https://github.com/akensert/molgraph)  

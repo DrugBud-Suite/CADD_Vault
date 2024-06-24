@@ -1,11 +1,11 @@
 - **DScribe**: Python package for transforming atomic structures into fixed-size numerical fingerprints.  
 	[![Code](https://img.shields.io/github/stars/SINGROUP/dscribe?style=for-the-badge&logo=github)](https://github.com/SINGROUP/dscribe)  
 	[![Last Commit](https://img.shields.io/github/last-commit/SINGROUP/dscribe?style=for-the-badge&logo=github)](https://github.com/SINGROUP/dscribe)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:417-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2019.106949)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:419-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2019.106949)  
 - **FPKit**: Python-based cheminformatics package for fingerprint-related tasks.  
 	[![Code](https://img.shields.io/github/stars/davidbajusz/fpkit?style=for-the-badge&logo=github)](https://github.com/davidbajusz/fpkit)  
 	[![Last Commit](https://img.shields.io/github/last-commit/davidbajusz/fpkit?style=for-the-badge&logo=github)](https://github.com/davidbajusz/fpkit)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:75-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-018-0302-y)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:76-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-018-0302-y)  
 - **MAPC**: MinHashed Atom-Pair Fingerprint Chiral  
 	[![Code](https://img.shields.io/github/stars/reymond-group/mapchiral?style=for-the-badge&logo=github)](https://github.com/reymond-group/mapchiral)  
 	[![Last Commit](https://img.shields.io/github/last-commit/reymond-group/mapchiral?style=for-the-badge&logo=github)](https://github.com/reymond-group/mapchiral)  
@@ -47,12 +47,12 @@
 - **PLIP**: An easy and fast web tool for identifying non-covalent interactions between biological macromolecules and their ligands.  
 	[![Code](https://img.shields.io/github/stars/pharmai/plip?style=for-the-badge&logo=github)](https://github.com/pharmai/plip)  
 	[![Last Commit](https://img.shields.io/github/last-commit/pharmai/plip?style=for-the-badge&logo=github)](https://github.com/pharmai/plip)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:801-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkab294)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:813-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkab294)  
 	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index)  
 - **ProLIF**: ProLIF (Protein-Ligand Interaction Fingerprints) generates interaction fingerprints for complexes made of ligands, protein, DNA, or RNA molecules extracted from molecular dynamics trajectories, docking simulations, and experimental structures.  
 	[![Code](https://img.shields.io/github/stars/chemosim-lab/ProLIF?style=for-the-badge&logo=github)](https://github.com/chemosim-lab/ProLIF)  
 	[![Last Commit](https://img.shields.io/github/last-commit/chemosim-lab/ProLIF?style=for-the-badge&logo=github)](https://github.com/chemosim-lab/ProLIF)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:113-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00548-6)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:116-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00548-6)  
 - **SPLIF**: Structural Protein–Ligand Interaction Fingerprints (SPLIF)  
 	[![Code](https://img.shields.io/badge/Code)](https://oddt.readthedocs.io/en/latest/rst/oddt.html#oddt.fingerprints.SPLIF)
 	[![Publication](https://img.shields.io/badge/Publication-Citations:125-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021%2Fci500319f)  

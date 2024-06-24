@@ -15,7 +15,7 @@
 - **GuideMol**: A tool for guiding molecular design through machine learning models.  
 	[![Code](https://img.shields.io/github/stars/jairesdesousa/guidemol?style=for-the-badge&logo=github)](https://github.com/jairesdesousa/guidemol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/jairesdesousa/guidemol?style=for-the-badge&logo=github)](https://github.com/jairesdesousa/guidemol)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/minf.202300190)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/minf.202300190)  
 - **Molecular3DLengthDescriptors**: Provides descriptors based on the three-dimensional lengths of molecules.  
 	[![Code](https://img.shields.io/github/stars/ThomasJewson/Molecular3DLengthDescriptors?style=for-the-badge&logo=github)](https://github.com/ThomasJewson/Molecular3DLengthDescriptors)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ThomasJewson/Molecular3DLengthDescriptors?style=for-the-badge&logo=github)](https://github.com/ThomasJewson/Molecular3DLengthDescriptors)  
@@ -23,14 +23,14 @@
 - **mordred**: A molecular descriptor calculator that is extendable and supports various chemical informatics tasks.  
 	[![Code](https://img.shields.io/github/stars/mordred-descriptor/mordred?style=for-the-badge&logo=github)](https://github.com/mordred-descriptor/mordred)  
 	[![Last Commit](https://img.shields.io/github/last-commit/mordred-descriptor/mordred?style=for-the-badge&logo=github)](https://github.com/mordred-descriptor/mordred)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:654-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-018-0258-y)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:658-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-018-0258-y)  
 - **PaDEL**: A software for calculating molecular descriptors and fingerprints.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1960-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21707)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1964-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21707)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://yapcwsoft.com/dd/padeldescriptor/)  
 - **PadelPy**: A Python wrapper for PaDEL-Descriptor software (standalone)  
 	[![Code](https://img.shields.io/github/stars/ecrl/padelpy?style=for-the-badge&logo=github)](https://github.com/ecrl/padelpy)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ecrl/padelpy?style=for-the-badge&logo=github)](https://github.com/ecrl/padelpy)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1960-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21707)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1964-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21707)  
 - **Spectrophores**: Calculates spectrophoric descriptors that capture electronic and spatial properties of molecules.  
 	[![Code](https://img.shields.io/github/stars/silicos-it/spectrophore?style=for-the-badge&logo=github)](https://github.com/silicos-it/spectrophore)  
 	[![Last Commit](https://img.shields.io/github/last-commit/silicos-it/spectrophore?style=for-the-badge&logo=github)](https://github.com/silicos-it/spectrophore)  
@@ -57,7 +57,7 @@
 - **QED**: Offers the Quantitative Estimate of Drug-likeness for a given molecular structure.  
 	[![Code](https://img.shields.io/github/stars/silicos-it/qed?style=for-the-badge&logo=github)](https://github.com/silicos-it/qed)  
 	[![Last Commit](https://img.shields.io/github/last-commit/silicos-it/qed?style=for-the-badge&logo=github)](https://github.com/silicos-it/qed)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1200-blue?style=for-the-badge&logo=bookstack)](http://dx.doi.org/10.1038/nchem.1243)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1204-blue?style=for-the-badge&logo=bookstack)](http://dx.doi.org/10.1038/nchem.1243)  
 
 ## **Fragment-Based Descriptors**
 - **Afgen**: Fragment-based descriptors (standalone)  
@@ -89,7 +89,7 @@
 - **SAScore**: The Synthetic Accessibility Score (SAScore) aims to assess the synthetic difficulty of chemical compounds.  
 	[![Code](https://img.shields.io/github/stars/rdkit/rdkit?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rdkit/rdkit?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:802-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-1-8)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:805-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-1-8)  
 - **SCscore**: SCScore is a synthetic complexity score that assigns a value between 1 and 5 to a molecule, based on the premise that published reactions should exhibit an increase in synthetic complexity.  
 	[![Code](https://img.shields.io/github/stars/connorcoley/scscore?style=for-the-badge&logo=github)](https://github.com/connorcoley/scscore)  
 	[![Last Commit](https://img.shields.io/github/last-commit/connorcoley/scscore?style=for-the-badge&logo=github)](https://github.com/connorcoley/scscore)  

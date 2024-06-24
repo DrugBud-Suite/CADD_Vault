@@ -55,7 +55,7 @@
 - **GENTRL (Generative Tensorial Reinforcement Learning)**: A variational autoencoder with a rich prior distribution of the latent space, trained to find molecules with high reward, emphasizing the relations between molecular structures and their properties.  
 	[![Code](https://img.shields.io/github/stars/insilicomedicine/GENTRL?style=for-the-badge&logo=github)](https://github.com/insilicomedicine/GENTRL)  
 	[![Last Commit](https://img.shields.io/github/last-commit/insilicomedicine/GENTRL?style=for-the-badge&logo=github)](https://github.com/insilicomedicine/GENTRL)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:690-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41587-019-0224-x)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:691-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41587-019-0224-x)  
 - **GenUI**: Offers API and GUI for molecular generators, QSAR modelling, and chemical space visualization.  
 	[![Code](https://img.shields.io/github/stars/martin-sicho/genui?style=for-the-badge&logo=github)](https://github.com/martin-sicho/genui)  
 	[![Last Commit](https://img.shields.io/github/last-commit/martin-sicho/genui?style=for-the-badge&logo=github)](https://github.com/martin-sicho/genui)  
@@ -91,7 +91,7 @@
 - **LSTM_Chem**: Implements generative recurrent networks for drug design.  
 	[![Code](https://img.shields.io/github/stars/topazape/LSTM_Chem?style=for-the-badge&logo=github)](https://github.com/topazape/LSTM_Chem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/topazape/LSTM_Chem?style=for-the-badge&logo=github)](https://github.com/topazape/LSTM_Chem)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:288-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/minf.201700111)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:289-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/minf.201700111)  
 - **MACAW**: an accessible tool for molecular embedding and inverse molecular design (generative chemistry) (standalone)  
 	[![Code](https://img.shields.io/github/stars/LBLQMM/MACAW?style=for-the-badge&logo=github)](https://github.com/LBLQMM/MACAW/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/LBLQMM/MACAW?style=for-the-badge&logo=github)](https://github.com/LBLQMM/MACAW/)  
@@ -165,7 +165,7 @@
 - **Pytorch_VAE**: This repository provides a PyTorch implementation of the paper "Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules" by Gómez-Bombarelli, et al., focusing on a variational autoencoder for molecular design using the ChEMBL dataset.  
 	[![Code](https://img.shields.io/github/stars/Ishan-Kumar2/Molecular_VAE_Pytorch?style=for-the-badge&logo=github)](https://github.com/Ishan-Kumar2/Molecular_VAE_Pytorch)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Ishan-Kumar2/Molecular_VAE_Pytorch?style=for-the-badge&logo=github)](https://github.com/Ishan-Kumar2/Molecular_VAE_Pytorch)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1746-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.7b00572)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1751-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.7b00572)  
 - **QADD**: QADD is a novel de novo multi-objective quality assessment-based drug design approach that integrates an iterative refinement framework with a graph-based molecular quality assessment model to generate molecules with multiple desired properties.  
 	[![Code](https://img.shields.io/github/stars/yifang000/QADD?style=for-the-badge&logo=github)](https://github.com/yifang000/QADD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/yifang000/QADD?style=for-the-badge&logo=github)](https://github.com/yifang000/QADD)  
@@ -181,7 +181,7 @@
 - **ReLeaSE**: Utilizes deep reinforcement learning for de novo drug design.  
 	[![Code](https://img.shields.io/github/stars/isayev/ReLeaSE?style=for-the-badge&logo=github)](https://github.com/isayev/ReLeaSE)  
 	[![Last Commit](https://img.shields.io/github/last-commit/isayev/ReLeaSE?style=for-the-badge&logo=github)](https://github.com/isayev/ReLeaSE)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:743-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/sciadv.aap7885)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:745-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/sciadv.aap7885)  
 - **RL-GraphInvent**: An extension using reinforcement learning for targeted molecular generation.  
 	[![Code](https://img.shields.io/github/stars/olsson-group/RL-GraphINVENT?style=for-the-badge&logo=github)](https://github.com/olsson-group/RL-GraphINVENT)  
 	[![Last Commit](https://img.shields.io/github/last-commit/olsson-group/RL-GraphINVENT?style=for-the-badge&logo=github)](https://github.com/olsson-group/RL-GraphINVENT)  

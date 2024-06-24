@@ -29,12 +29,12 @@
 - **SmallWorld**: web-based ligand similarity on a variety of commercial databases  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://sw.docking.org/search.html)  
 - **SwissSimilarity**: SwissSimilarity offers an online service for small molecule similarity screening against selected compound libraries using various cheminformatics methods.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:62-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390%2Fijms23020811)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:63-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390%2Fijms23020811)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.swisssimilarity.ch/)  
 - **WHALES**: WHALES provides a virtual screening pipeline focusing on scaffold hopping and ligand-based drug discovery through a Jupyter notebook example.  
 	[![Code](https://img.shields.io/github/stars/grisoniFr/scaffold_hopping_whales?style=for-the-badge&logo=github)](https://github.com/grisoniFr/scaffold_hopping_whales/blob/master/code/virtual_screening_pipeline.ipynb)  
 	[![Last Commit](https://img.shields.io/github/last-commit/grisoniFr/scaffold_hopping_whales?style=for-the-badge&logo=github)](https://github.com/grisoniFr/scaffold_hopping_whales/blob/master/code/virtual_screening_pipeline.ipynb)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:23-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41598-018-34677-0)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:24-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41598-018-34677-0)  
 
 ## **3D**
 - **AutoDock-SS**: AutoDock-SS enhances AutoDock for multiconformational and flexible ligand docking, considering various ligand conformations for accurate docking predictions.  

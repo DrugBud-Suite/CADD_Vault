@@ -9,7 +9,7 @@
 - **cgcnn**:   
 	[![Code](https://img.shields.io/github/stars/txie-93/cgcnn?style=for-the-badge&logo=github)](https://github.com/txie-93/cgcnn)  
 	[![Last Commit](https://img.shields.io/github/last-commit/txie-93/cgcnn?style=for-the-badge&logo=github)](https://github.com/txie-93/cgcnn)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1179-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1103/PhysRevLett.120.145301)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1185-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1103/PhysRevLett.120.145301)  
 - **chainer-chemistry**:   
 	[![Code](https://img.shields.io/github/stars/chainer/chainer-chemistry?style=for-the-badge&logo=github)](https://github.com/chainer/chainer-chemistry)  
 	[![Last Commit](https://img.shields.io/github/last-commit/chainer/chainer-chemistry?style=for-the-badge&logo=github)](https://github.com/chainer/chainer-chemistry)  
@@ -25,7 +25,7 @@
 - **chemprop**:   
 	[![Code](https://img.shields.io/github/stars/chemprop/chemprop?style=for-the-badge&logo=github)](https://github.com/chemprop/chemprop)  
 	[![Last Commit](https://img.shields.io/github/last-commit/chemprop/chemprop?style=for-the-badge&logo=github)](https://github.com/chemprop/chemprop)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:824-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b00237)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:827-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b00237)  
 - **DeepChem**:   
 	[![Code](https://img.shields.io/github/stars/deepchem/deepchem?style=for-the-badge&logo=github)](https://github.com/deepchem/deepchem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/deepchem/deepchem?style=for-the-badge&logo=github)](https://github.com/deepchem/deepchem)  
@@ -37,7 +37,7 @@
 - **DGL-LifeSci**:   
 	[![Code](https://img.shields.io/github/stars/awslabs/dgl-lifesci?style=for-the-badge&logo=github)](https://github.com/awslabs/dgl-lifesci)  
 	[![Last Commit](https://img.shields.io/github/last-commit/awslabs/dgl-lifesci?style=for-the-badge&logo=github)](https://github.com/awslabs/dgl-lifesci)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:83-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.1c04017)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:84-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.1c04017)  
 - **Minervachem**:   
 	[![Code](https://img.shields.io/github/stars/lanl/minervachem?style=for-the-badge&logo=github)](https://github.com/lanl/minervachem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/lanl/minervachem?style=for-the-badge&logo=github)](https://github.com/lanl/minervachem)  

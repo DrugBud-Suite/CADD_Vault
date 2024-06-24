@@ -21,11 +21,11 @@
 - **FEgrow**: An interactive workflow for building user-defined congeneric series of ligands in protein binding pockets for input to free energy calculations.  
 	[![Code](https://img.shields.io/github/stars/cole-group/FEgrow?style=for-the-badge&logo=github)](https://github.com/cole-group/FEgrow)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cole-group/FEgrow?style=for-the-badge&logo=github)](https://github.com/cole-group/FEgrow)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42004-022-00754-9)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:5-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42004-022-00754-9)  
 - **gmx_MMPBSA**: gmx_MMPBSA is a new tool based on AMBER's MMPBSA.py aiming to perform end-state free energy calculations with GROMACS files  
 	[![Code](https://img.shields.io/github/stars/Valdes-Tresanco-MS/gmx_MMPBSA?style=for-the-badge&logo=github)](https://github.com/Valdes-Tresanco-MS/gmx_MMPBSA)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Valdes-Tresanco-MS/gmx_MMPBSA?style=for-the-badge&logo=github)](https://github.com/Valdes-Tresanco-MS/gmx_MMPBSA)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:785-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.1c00645)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:789-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.1c00645)  
 - **gufe**: GUFE is a toolkit for developers of software related to alchemical free energy calculations, containing data models and abstract base classes.  
 	[![Code](https://img.shields.io/github/stars/OpenFreeEnergy/gufe?style=for-the-badge&logo=github)](https://github.com/OpenFreeEnergy/gufe)  
 	[![Last Commit](https://img.shields.io/github/last-commit/OpenFreeEnergy/gufe?style=for-the-badge&logo=github)](https://github.com/OpenFreeEnergy/gufe)  
@@ -36,7 +36,7 @@
 - **pAPRika**: pAPRika is a toolkit for setting up, running, and analyzing free energy molecular dynamics simulations.  
 	[![Code](https://img.shields.io/github/stars/GilsonLabUCSD/pAPRika?style=for-the-badge&logo=github)](https://github.com/GilsonLabUCSD/pAPRika)  
 	[![Last Commit](https://img.shields.io/github/last-commit/GilsonLabUCSD/pAPRika?style=for-the-badge&logo=github)](https://github.com/GilsonLabUCSD/pAPRika)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:95-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00405)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:96-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00405)  
 - **Uni-GBSA**: An Automatic Workflow to Perform MM/GB(PB)SA Calculations for Virtual Screening  
 	[![Code](https://img.shields.io/github/stars/dptech-corp/Uni-GBSA?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-GBSA)  
 	[![Last Commit](https://img.shields.io/github/last-commit/dptech-corp/Uni-GBSA?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-GBSA)  
@@ -51,7 +51,7 @@
 - **ATM_with_NNPs**: Enhancing Protein-Ligand Binding Affinity Predictions Using Neural Network Potentials  
 	[![Code](https://img.shields.io/github/stars/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs)  
 	[![Last Commit](https://img.shields.io/github/last-commit/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:908-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:912-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q)  
 
 ## **Planning**
 - **HiMap**: High Information Mapper (HiMap), successor of the Lead Optimization Mapper (LOMAP), includes design generation based on statistical optimality for alchemical free energy calculations and optimization of free energy perturbation networks.  

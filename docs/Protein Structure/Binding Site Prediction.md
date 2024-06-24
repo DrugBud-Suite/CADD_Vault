@@ -56,7 +56,7 @@
 - **fpocket**: mainly geometry-based (standalone)  
 	[![Code](https://img.shields.io/github/stars/Discngine/fpocket?style=for-the-badge&logo=github)](https://github.com/Discngine/fpocket)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Discngine/fpocket?style=for-the-badge&logo=github)](https://github.com/Discngine/fpocket)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:974-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1471-2105-10-168)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:976-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1471-2105-10-168)  
 - **FPocketWeb**: FpocketWeb is a browser app for identifying pockets on protein surfaces where small-molecule ligands might bind, running calculations locally on the user's computer.  
 	[![Code](https://img.shields.io/github/stars/durrantlab/fpocketweb?style=for-the-badge&logo=github)](https://github.com/durrantlab/fpocketweb/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/fpocketweb?style=for-the-badge&logo=github)](https://github.com/durrantlab/fpocketweb/)  
@@ -111,7 +111,7 @@
 	[![Last Commit](https://img.shields.io/github/last-commit/PointSite/PointSite?style=for-the-badge&logo=github)](https://github.com/PointSite/PointSite)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/831131)  
 - **PrankWeb 3**: accelerated ligand-binding site predictions for experimental and modelled protein structures (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:226-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkz424)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:228-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkz424)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://prankweb.cz/)  
 - **ProteinPocketDetection**: Protein pocket detection via convex hull surface evolution and associated Reeb graph (standalone)  
 	[![Code](https://img.shields.io/github/stars/rdzhao/ProteinPocketDetection?style=for-the-badge&logo=github)](https://github.com/rdzhao/ProteinPocketDetection)  

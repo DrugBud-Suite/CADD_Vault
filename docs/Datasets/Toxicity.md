@@ -1,7 +1,7 @@
 - **DrugMatrix/ToxFX**: one of the world’s largest toxicogenomic reference resources  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://ntp.niehs.nih.gov/data/drugmatrix)  
 - **hergcentral**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1089%2Fadt.2011.0425)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:38-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1089%2Fadt.2011.0425)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.hergcentral.org/)  
 ### **hERG**
 - **hERGdb**: web-based cardiotoxicity prediction  
