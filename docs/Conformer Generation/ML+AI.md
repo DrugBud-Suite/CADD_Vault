@@ -1,7 +1,7 @@
 - **Auto3D**: Automatic Generation of the Low-energy 3D Structures with ANI Neural Network Potentials (standalone).  
 	[![Code](https://img.shields.io/github/stars/isayevlab/Auto3D_pkg?style=for-the-badge&logo=github)](https://github.com/isayevlab/Auto3D_pkg)  
 	[![Last Commit](https://img.shields.io/github/last-commit/isayevlab/Auto3D_pkg?style=for-the-badge&logo=github)](https://github.com/isayevlab/Auto3D_pkg)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:21-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c00817)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:22-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c00817)  
 - **ConfGF**: ConfGF, as introduced in ICML 2021, learns gradient fields for molecular conformation generation, featuring an official implementation for their methodology.  
 	[![Code](https://img.shields.io/github/stars/DeepGraphLearning/ConfGF?style=for-the-badge&logo=github)](https://github.com/DeepGraphLearning/ConfGF)  
 	[![Last Commit](https://img.shields.io/github/last-commit/DeepGraphLearning/ConfGF?style=for-the-badge&logo=github)](https://github.com/DeepGraphLearning/ConfGF)  
@@ -34,7 +34,7 @@
 - **Gypsum-DL**: Gypsum-DL is a software that transforms 1D and 2D small-molecule representations into 3D models, considering various isomeric and conformational states.  
 	[![Code](https://img.shields.io/github/stars/durrantlab/gypsum_dl?style=for-the-badge&logo=github)](https://github.com/durrantlab/gypsum_dl/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/gypsum_dl?style=for-the-badge&logo=github)](https://github.com/durrantlab/gypsum_dl/)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:44-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0358-3)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:45-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0358-3)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://durrantlab.pitt.edu/gypsum-dl/)  
 - **TensorVAE**:   
 	[![Code](https://img.shields.io/github/stars/yuh8/TensorVAE?style=for-the-badge&logo=github)](https://github.com/yuh8/TensorVAE)  

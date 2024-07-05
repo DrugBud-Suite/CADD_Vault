@@ -9,7 +9,7 @@
 	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.4462)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.csbio.sjtu.edu.cn/bioinf/BindWeb/)  
 - **BiteNet**: large-scale detection of protein binding sites (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:44-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42003-020-01350-0)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:45-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42003-020-01350-0)  
 	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://sites.skoltech.ru/imolecule/tools/bitenet)  
 - **BiteNet**: Spatiotemporal identification of druggable binding sites using deep learning (standalone)  
 	[![Code](https://img.shields.io/github/stars/i-Molecule/bitenet?style=for-the-badge&logo=github)](https://github.com/i-Molecule/bitenet)  
@@ -24,10 +24,10 @@
 	[![Last Commit](https://img.shields.io/github/last-commit/PKUMDL2017/CavityPlus?style=for-the-badge&logo=github)](https://github.com/PKUMDL2017/CavityPlus?tab=readme-ov-file)  
 	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://doi.org/10.1093/nar/gky380http://repharma.pku.edu.cn/cavityplus)  
 - **COACH-D**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:162-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gky439)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:163-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gky439)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://zhanggroup.org/COACH/)  
 - **ConCavity**: prediction from protein sequence and structure (geometry-based) (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:339-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pcbi.1000585)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:341-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pcbi.1000585)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://compbio.cs.princeton.edu/concavity)  
 - **CRAFT**: cavity prediction tool based on flow transfer algorithm (standalone), 2024.  
 	[![Code](https://img.shields.io/github/stars/PGlab-NIPER/CRAFT?style=for-the-badge&logo=github)](https://github.com/PGlab-NIPER/CRAFT/)  
@@ -56,7 +56,7 @@
 - **fpocket**: mainly geometry-based (standalone)  
 	[![Code](https://img.shields.io/github/stars/Discngine/fpocket?style=for-the-badge&logo=github)](https://github.com/Discngine/fpocket)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Discngine/fpocket?style=for-the-badge&logo=github)](https://github.com/Discngine/fpocket)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:976-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1471-2105-10-168)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:979-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1471-2105-10-168)  
 - **FPocketWeb**: FpocketWeb is a browser app for identifying pockets on protein surfaces where small-molecule ligands might bind, running calculations locally on the user's computer.  
 	[![Code](https://img.shields.io/github/stars/durrantlab/fpocketweb?style=for-the-badge&logo=github)](https://github.com/durrantlab/fpocketweb/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/fpocketweb?style=for-the-badge&logo=github)](https://github.com/durrantlab/fpocketweb/)  
@@ -73,7 +73,7 @@
 - **Graphsite-classifier**: deep graph neural network to classify ligand-binding sites on proteins (standalone)  
 	[![Code](https://img.shields.io/github/stars/shiwentao00/Graphsite-classifier?style=for-the-badge&logo=github)](https://github.com/shiwentao00/Graphsite-classifier)  
 	[![Last Commit](https://img.shields.io/github/last-commit/shiwentao00/Graphsite-classifier?style=for-the-badge&logo=github)](https://github.com/shiwentao00/Graphsite-classifier)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/biom12081053)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:5-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/biom12081053)  
 - **GrASP**: GrASP (Graph Attention Site Prediction) identifies druggable binding sites using graph neural networks with attention.  
 	[![Code](https://img.shields.io/github/stars/tiwarylab/GrASP?style=for-the-badge&logo=github)](https://github.com/tiwarylab/GrASP/tree/main)  
 	[![Last Commit](https://img.shields.io/github/last-commit/tiwarylab/GrASP?style=for-the-badge&logo=github)](https://github.com/tiwarylab/GrASP/tree/main)  
@@ -93,7 +93,7 @@
 - **P2rank**: P2Rank is a machine learning-based tool for predicting ligand-binding sites from protein structures, capable of handling various structure formats including AlphaFold models.  
 	[![Code](https://img.shields.io/github/stars/rdk/p2rank?style=for-the-badge&logo=github)](https://github.com/rdk/p2rank)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rdk/p2rank?style=for-the-badge&logo=github)](https://github.com/rdk/p2rank)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:212-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-018-0285-8)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:213-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-018-0285-8)  
 - **POCASA**: geometry-based, pockets and cavities, volume... (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:32-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1111%2Fcgf.13158)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://altair.sci.hokudai.ac.jp/g6/service/pocasa/)  
@@ -102,7 +102,7 @@
 - **PocketDruggability**: A model that predicts the “attainable binding affinity” for a given binding pocket on a protein; this model relies on 13 physiochemical and structural features calculated using the protein structure (standalone)  
 	[![Code](https://img.shields.io/github/stars/ShipraMalhotra/PocketDruggability?style=for-the-badge&logo=github)](https://github.com/ShipraMalhotra/PocketDruggability)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ShipraMalhotra/PocketDruggability?style=for-the-badge&logo=github)](https://github.com/ShipraMalhotra/PocketDruggability)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:76-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci5006004)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:77-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci5006004)  
 - **PocketQuery**: energy-based (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:70-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gks336)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://pocketquery.csb.pitt.edu/upload.html)  
@@ -111,7 +111,7 @@
 	[![Last Commit](https://img.shields.io/github/last-commit/PointSite/PointSite?style=for-the-badge&logo=github)](https://github.com/PointSite/PointSite)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/831131)  
 - **PrankWeb 3**: accelerated ligand-binding site predictions for experimental and modelled protein structures (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:228-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkz424)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:229-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkz424)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://prankweb.cz/)  
 - **ProteinPocketDetection**: Protein pocket detection via convex hull surface evolution and associated Reeb graph (standalone)  
 	[![Code](https://img.shields.io/github/stars/rdzhao/ProteinPocketDetection?style=for-the-badge&logo=github)](https://github.com/rdzhao/ProteinPocketDetection)  
@@ -135,7 +135,7 @@
 - **SiteFerret**: beyond simple pocket identification in proteins (standalone)  
 	[![Code](https://img.shields.io/github/stars/concept-lab/SiteFerret?style=for-the-badge&logo=github)](https://github.com/concept-lab/SiteFerret)  
 	[![Last Commit](https://img.shields.io/github/last-commit/concept-lab/SiteFerret?style=for-the-badge&logo=github)](https://github.com/concept-lab/SiteFerret)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:91-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0059744)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:92-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0059744)  
 - **SiteHound-web**: energy-based (send chemical probes) (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:162-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkp281)  
 	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://scbx.mssm.edu/sitehound/sitehound-web/Input.html)  
@@ -157,7 +157,7 @@
 	[![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkad279)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.allostery.net/AlloReverse/)  
 - **AlloSite**: allosteric site (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:148-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btt399)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:149-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btt399)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://mdl.shsmu.edu.cn/AST/)  
 - **APOP**: Predicting Allosteric Pockets in Protein Biological Assemblages (standalone)  
 	[![Code](https://img.shields.io/github/stars/Ambuj-UF/APOP?style=for-the-badge&logo=github)](https://github.com/Ambuj-UF/APOP)  
@@ -179,7 +179,7 @@
 
 ## **Fragment Site Prediction**
 - **FTMap**: FTMap maps unbound protein surfaces to identify druggable hot spots where small molecules may bind.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:474-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/nprot.2015.043)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:476-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/nprot.2015.043)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://ftmap.bu.edu/show_example.php?example=ace)  
 
 ## **From Molecular Dynamics simulations**
@@ -210,4 +210,4 @@
 	[![Code](https://img.shields.io/github/stars/hhz-lab/PinMyMetal?style=for-the-badge&logo=github)](https://github.com/hhz-lab/PinMyMetal.git)  
 	[![Last Commit](https://img.shields.io/github/last-commit/hhz-lab/PinMyMetal?style=for-the-badge&logo=github)](https://github.com/hhz-lab/PinMyMetal.git)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21203/rs.3.rs-3908734/v1)  
-	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://pmm.biocloud.top/)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pmm.biocloud.top/)  

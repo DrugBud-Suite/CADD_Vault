@@ -5,7 +5,7 @@
 - **AlphaDrug**: protein target specific de novo molecular generation (generative chemistry) (standalone).  
 	[![Code](https://img.shields.io/github/stars/CMACH508/AlphaDrug?style=for-the-badge&logo=github)](https://github.com/CMACH508/AlphaDrug)  
 	[![Last Commit](https://img.shields.io/github/last-commit/CMACH508/AlphaDrug?style=for-the-badge&logo=github)](https://github.com/CMACH508/AlphaDrug)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/pnasnexus/pgac227)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/pnasnexus/pgac227)  
 - **BindDM**: BindDM extracts subcomplex from protein-ligand complex, and utilizes it to enhance the binding-adaptive 3D molecule generation in complex  
 	[![Code](https://img.shields.io/github/stars/YangLing0818/BindDM?style=for-the-badge&logo=github)](https://github.com/YangLing0818/BindDM)  
 	[![Last Commit](https://img.shields.io/github/last-commit/YangLing0818/BindDM?style=for-the-badge&logo=github)](https://github.com/YangLing0818/BindDM)  
@@ -13,7 +13,7 @@
 - **ChemSpaceAL**: an Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation (generative chemistry) (standalone, 2024).  
 	[![Code](https://img.shields.io/github/stars/gregory-kyro/ChemSpaceAL?style=for-the-badge&logo=github)](https://github.com/gregory-kyro/ChemSpaceAL)  
 	[![Last Commit](https://img.shields.io/github/last-commit/gregory-kyro/ChemSpaceAL?style=for-the-badge&logo=github)](https://github.com/gregory-kyro/ChemSpaceAL)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01456)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01456)  
 - **cMolGPT**: cMolGPT, a Conditional Generative Pre-trained Transformer, aims for de novo molecular design by enforcing target specificity during the generation process, emphasizing the incorporation of target embeddings.  
 	[![Code](https://img.shields.io/github/stars/VV123/cMolGPT?style=for-the-badge&logo=github)](https://github.com/VV123/cMolGPT)  
 	[![Last Commit](https://img.shields.io/github/last-commit/VV123/cMolGPT?style=for-the-badge&logo=github)](https://github.com/VV123/cMolGPT)  
@@ -109,7 +109,7 @@
 - **PMDM**: dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets  
 	[![Code](https://img.shields.io/github/stars/Layne-Huang/PMDM?style=for-the-badge&logo=github)](https://github.com/Layne-Huang/PMDM/tree/main)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Layne-Huang/PMDM?style=for-the-badge&logo=github)](https://github.com/Layne-Huang/PMDM/tree/main)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-46569-1)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-46569-1)  
 - **Pocket2Mol**: Uses equivariant graph neural networks for efficient molecular sampling based on 3D protein pockets.  
 	[![Code](https://img.shields.io/github/stars/pengxingang/Pocket2Mol?style=for-the-badge&logo=github)](https://github.com/pengxingang/Pocket2Mol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/pengxingang/Pocket2Mol?style=for-the-badge&logo=github)](https://github.com/pengxingang/Pocket2Mol)  
@@ -121,11 +121,11 @@
 - **PocketOptimizer 2.0**: Design of small molecule‐binding pockets in proteins (standalone)  
 	[![Code](https://img.shields.io/github/stars/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:7105-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:7146-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
 - **RELATION**: A software for DL-based de novo drug design, focusing on generating molecules based on target protein interactions.  
 	[![Code](https://img.shields.io/github/stars/micahwang/RELATION?style=for-the-badge&logo=github)](https://github.com/micahwang/RELATION)  
 	[![Last Commit](https://img.shields.io/github/last-commit/micahwang/RELATION?style=for-the-badge&logo=github)](https://github.com/micahwang/RELATION)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:39-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.2c00732)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:40-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.2c00732)  
 - **ResGen**: pocket-aware 3D molecular generation model based on parallel multiscale modelling (standalone).  
 	[![Code](https://img.shields.io/github/stars/HaotianZhangAI4Science/ResGen?style=for-the-badge&logo=github)](https://github.com/HaotianZhangAI4Science/ResGen)  
 	[![Last Commit](https://img.shields.io/github/last-commit/HaotianZhangAI4Science/ResGen?style=for-the-badge&logo=github)](https://github.com/HaotianZhangAI4Science/ResGen)  
@@ -192,7 +192,7 @@
 - **Docking-based generative approaches in the search for new drug candidates [2022]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.drudis.2022.103439)  
 - **Generative Deep Learning for Targeted Compound Design [2021]**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:62-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01496)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:63-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01496)  
 
 ## **Sequence-based**
 - **Bajorath_Gen**:   

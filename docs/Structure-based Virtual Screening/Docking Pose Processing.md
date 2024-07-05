@@ -9,7 +9,7 @@
 - **BINANA**: BINANA analyzes the geometries of predicted ligand poses to identify molecular interactions that contribute to binding, also featuring a web-browser application for visualizing these interactions.  
 	[![Code](https://img.shields.io/github/stars/durrantlab/binana?style=for-the-badge&logo=github)](https://github.com/durrantlab/binana)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/binana?style=for-the-badge&logo=github)](https://github.com/durrantlab/binana)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:189-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016%2Fj.jmgm.2011.01.004)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:190-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016%2Fj.jmgm.2011.01.004)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://durrantlab.pitt.edu/binana-download/)  
 - **LigGrep**: LigGrep is a program for identifying docked poses that participate in specified receptor/ligand interactions, accepting a protein receptor file, docked-compound files, and user-specified filters as input.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00471-2)  
@@ -31,7 +31,7 @@
 - **Energy minimization post-processing used in PoseBusters**:   
 	[![Code](https://img.shields.io/github/stars/maabuu/posebusters_em?style=for-the-badge&logo=github)](https://github.com/maabuu/posebusters_em)  
 	[![Last Commit](https://img.shields.io/github/last-commit/maabuu/posebusters_em?style=for-the-badge&logo=github)](https://github.com/maabuu/posebusters_em)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d3sc04185a)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d3sc04185a)  
 - **Vina_pose_Optimization**: optimize positions of ligand polar hydrogens in docking pose  
 	[![Code](https://img.shields.io/github/stars/rongfengzou/vina_pose_optimization?style=for-the-badge&logo=github)](https://github.com/rongfengzou/vina_pose_optimization)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rongfengzou/vina_pose_optimization?style=for-the-badge&logo=github)](https://github.com/rongfengzou/vina_pose_optimization)  
@@ -46,7 +46,7 @@
 - **DockQ**: DockQ is now also able to score interfaces between proteins, nucleic acids, and small molecules.  
 	[![Code](https://img.shields.io/github/stars/None?style=for-the-badge&logo=github)](http://github.com/bjornwallner/DockQ/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/None?style=for-the-badge&logo=github)](http://github.com/bjornwallner/DockQ/)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:224-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0161879)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:228-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0161879)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://wallnerlab.org/DockQ)  
 - **PECAN**: Implements convolutional neural network approaches for improving virtual high-throughput screening, using 3D atomic representation as input data.  
 	[![Code](https://img.shields.io/github/stars/LLNL/PECAN2?style=for-the-badge&logo=github)](https://github.com/LLNL/PECAN2)  
@@ -59,7 +59,7 @@
 - **PoseBusters**: Plausibility checks for generated molecule poses.  
 	[![Code](https://img.shields.io/github/stars/maabuu/posebusters?style=for-the-badge&logo=github)](https://github.com/maabuu/posebusters)  
 	[![Last Commit](https://img.shields.io/github/last-commit/maabuu/posebusters?style=for-the-badge&logo=github)](https://github.com/maabuu/posebusters)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3SC04185A)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3SC04185A)  
 - **PoseCheck**:   
 	[![Code](https://img.shields.io/github/stars/cch1999/posecheck?style=for-the-badge&logo=github)](https://github.com/cch1999/posecheck)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cch1999/posecheck?style=for-the-badge&logo=github)](https://github.com/cch1999/posecheck)  
@@ -69,12 +69,12 @@
 - **pyDockRMSD**: DockRMSD is an open-source program that identifies the minimum symmetry-corrected RMSD for docked poses without losing computational efficiency, useful for ligand molecules with complex structural symmetry.  
 	[![Code](https://img.shields.io/github/stars/neudinger/pyDockRMSD?style=for-the-badge&logo=github)](https://github.com/neudinger/pyDockRMSD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/neudinger/pyDockRMSD?style=for-the-badge&logo=github)](https://github.com/neudinger/pyDockRMSD)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:184-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0362-7)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:186-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0362-7)  
 - **rmsd**: Calculate Root-mean-square deviation (RMSD) of Two Molecules Using Rotation  
 	[![Code](https://img.shields.io/github/stars/charnley/rmsd?style=for-the-badge&logo=github)](https://github.com/charnley/rmsd)  
 	[![Last Commit](https://img.shields.io/github/last-commit/charnley/rmsd?style=for-the-badge&logo=github)](https://github.com/charnley/rmsd)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2321-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1107/S0567739476001873)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:2329-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1107/S0567739476001873)  
 - **spyRMSD**: Python tool for symmetry-corrected RMSD calculations.  
 	[![Code](https://img.shields.io/github/stars/RMeli/spyrmsd?style=for-the-badge&logo=github)](https://github.com/RMeli/spyrmsd)  
 	[![Last Commit](https://img.shields.io/github/last-commit/RMeli/spyrmsd?style=for-the-badge&logo=github)](https://github.com/RMeli/spyrmsd)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:36-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00455-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00455-2)  

@@ -3,7 +3,7 @@
 - **BBB-score**:   
 	[![Code](https://img.shields.io/github/stars/gkxiao/BBB-score?style=for-the-badge&logo=github)](https://github.com/gkxiao/BBB-score)  
 	[![Last Commit](https://img.shields.io/github/last-commit/gkxiao/BBB-score?style=for-the-badge&logo=github)](https://github.com/gkxiao/BBB-score)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:176-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.9b01220)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:179-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.9b01220)  
 
 ## **CYP450**
 - **D-CyPre**: Tool for Accurately Predicting the Site of Metabolism of Human Cytochrome P450 Metabolism  
@@ -15,7 +15,7 @@
 - **ADMET_XGBoost**:   
 	[![Code](https://img.shields.io/github/stars/smu-tao-group/ADMET_XGBoost?style=for-the-badge&logo=github)](https://github.com/smu-tao-group/ADMET_XGBoost)  
 	[![Last Commit](https://img.shields.io/github/last-commit/smu-tao-group/ADMET_XGBoost?style=for-the-badge&logo=github)](https://github.com/smu-tao-group/ADMET_XGBoost)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:25-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s00894-022-05373-8)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:26-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s00894-022-05373-8)  
 - **admet-ai**:   
 	[![Code](https://img.shields.io/github/stars/swansonk14/admet_ai?style=for-the-badge&logo=github)](https://github.com/swansonk14/admet_ai)  
 	[![Last Commit](https://img.shields.io/github/last-commit/swansonk14/admet_ai?style=for-the-badge&logo=github)](https://github.com/swansonk14/admet_ai)  
@@ -32,6 +32,10 @@
 - **Computation-ADME**:   
 	[![Code](https://img.shields.io/github/stars/molecularinformatics/Computational-ADME?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/Computational-ADME)  
 	[![Last Commit](https://img.shields.io/github/last-commit/molecularinformatics/Computational-ADME?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/Computational-ADME)  
+- **QIP**: Machine learning model that predict the ADMET (absorption, distribution, metabolism, excretion, and toxicity) properties of molecules.  
+	[![Code](https://img.shields.io/github/stars/standigm/qip?style=for-the-badge&logo=github)](https://github.com/standigm/qip)  
+	[![Last Commit](https://img.shields.io/github/last-commit/standigm/qip?style=for-the-badge&logo=github)](https://github.com/standigm/qip)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00772)  
 
 ## **PK**
 - **PKSmart**: This work used molecular structural fingerprints, physicochemical properties, and predicted animal PK data as features to model the human PK parameters VDss, CL, t½, fu and MRT for 1,283 unique compounds and developed a webhosted application **[PKSmart](https://pk-predictor.serve.scilifelab.se/)**, the first work that publicly releases PK models on par with industry-standard models.  
@@ -40,7 +44,7 @@
 
 ## **Toxicity**
 - **ProTox3**: Webserver for toxicity prediction  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae303)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae303)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://tox.charite.de/protox3/)  
 
 ## **hERG**

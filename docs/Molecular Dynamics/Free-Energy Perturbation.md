@@ -17,7 +17,7 @@
 - **BAT**: Binding Affinity Tool (BAT.py) is a python tool for fully automated absolute binding free energy (ABFE) calculations using all-atom Molecular Dynamics (MD)  
 	[![Code](https://img.shields.io/github/stars/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
 	[![Last Commit](https://img.shields.io/github/last-commit/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:50-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-020-80769-1)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:51-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-020-80769-1)  
 - **FEgrow**: An interactive workflow for building user-defined congeneric series of ligands in protein binding pockets for input to free energy calculations.  
 	[![Code](https://img.shields.io/github/stars/cole-group/FEgrow?style=for-the-badge&logo=github)](https://github.com/cole-group/FEgrow)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cole-group/FEgrow?style=for-the-badge&logo=github)](https://github.com/cole-group/FEgrow)  
@@ -25,7 +25,7 @@
 - **gmx_MMPBSA**: gmx_MMPBSA is a new tool based on AMBER's MMPBSA.py aiming to perform end-state free energy calculations with GROMACS files  
 	[![Code](https://img.shields.io/github/stars/Valdes-Tresanco-MS/gmx_MMPBSA?style=for-the-badge&logo=github)](https://github.com/Valdes-Tresanco-MS/gmx_MMPBSA)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Valdes-Tresanco-MS/gmx_MMPBSA?style=for-the-badge&logo=github)](https://github.com/Valdes-Tresanco-MS/gmx_MMPBSA)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:789-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.1c00645)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:806-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.1c00645)  
 - **gufe**: GUFE is a toolkit for developers of software related to alchemical free energy calculations, containing data models and abstract base classes.  
 	[![Code](https://img.shields.io/github/stars/OpenFreeEnergy/gufe?style=for-the-badge&logo=github)](https://github.com/OpenFreeEnergy/gufe)  
 	[![Last Commit](https://img.shields.io/github/last-commit/OpenFreeEnergy/gufe?style=for-the-badge&logo=github)](https://github.com/OpenFreeEnergy/gufe)  
@@ -51,7 +51,7 @@
 - **ATM_with_NNPs**: Enhancing Protein-Ligand Binding Affinity Predictions Using Neural Network Potentials  
 	[![Code](https://img.shields.io/github/stars/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs)  
 	[![Last Commit](https://img.shields.io/github/last-commit/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:912-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:917-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q)  
 
 ## **Planning**
 - **HiMap**: High Information Mapper (HiMap), successor of the Lead Optimization Mapper (LOMAP), includes design generation based on statistical optimality for alchemical free energy calculations and optimization of free energy perturbation networks.  

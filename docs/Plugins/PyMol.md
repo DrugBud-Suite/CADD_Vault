@@ -7,7 +7,7 @@
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.dsimb.inserm.fr/dsimb_tools/iPBAVizu/)  
 - **ProBis H2O plugin**: ProBis H2O is a plugin for PyMOL that identifies conserved water sites in protein structures for drug design, supporting PyMOL version 2.3 and above on Linux and Windows.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&logo=bookstack)](doi:10.1021/acs.jcim.7b00443)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://insilab.org/probis-h2o/)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://insilab.org/probis-h2o/)  
 - **ProBis H2O-MD plugin**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsmedchemlett.9b00651)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://insilab.org/probis-h2o-md/)  

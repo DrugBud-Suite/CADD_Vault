@@ -24,7 +24,7 @@
 - **nmrglue**:   
 	[![Code](https://img.shields.io/github/stars/jjhelmus/nmrglue?style=for-the-badge&logo=github)](https://github.com/jjhelmus/nmrglue)  
 	[![Last Commit](https://img.shields.io/github/last-commit/jjhelmus/nmrglue?style=for-the-badge&logo=github)](https://github.com/jjhelmus/nmrglue)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:239-blue?style=for-the-badge&logo=bookstack)](http://dx.doi.org/10.1007/s10858-013-9718-x)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:242-blue?style=for-the-badge&logo=bookstack)](http://dx.doi.org/10.1007/s10858-013-9718-x)  
 
 ## **Other**
 - **LillyMol**: Eli Lilly set of cheminformatic tools (standalone)  
@@ -53,7 +53,7 @@
 - **ODDT**: Open Drug Discovery Toolkit, toolkit for drug discovery (standalone)  
 	[![Code](https://img.shields.io/github/stars/oddt/oddt?style=for-the-badge&logo=github)](https://github.com/oddt/oddt)  
 	[![Last Commit](https://img.shields.io/github/last-commit/oddt/oddt?style=for-the-badge&logo=github)](https://github.com/oddt/oddt)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:141-blue?style=for-the-badge&logo=bookstack)](https://dx.doi.org/10.1186/s13321-015-0078-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:142-blue?style=for-the-badge&logo=bookstack)](https://dx.doi.org/10.1186/s13321-015-0078-2)  
 - **RDKit**:   
 	[![Code](https://img.shields.io/github/stars/rdkit/rdkit?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rdkit/rdkit?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit)  
@@ -63,7 +63,7 @@
 	[![Code](https://img.shields.io/github/stars/DrrDom/rdkit-scripts?style=for-the-badge&logo=github)](https://github.com/DrrDom/rdkit-scripts)  
 	[![Last Commit](https://img.shields.io/github/last-commit/DrrDom/rdkit-scripts?style=for-the-badge&logo=github)](https://github.com/DrrDom/rdkit-scripts)  
 - **OpenBabel**: toolkit for drug discovery, file format etc (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:5900-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:5932-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://openbabel.org/wiki/Main_Page)  
 
 ## **QM**

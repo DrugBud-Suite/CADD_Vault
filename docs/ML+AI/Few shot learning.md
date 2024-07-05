@@ -31,3 +31,9 @@
 	[![Code](https://img.shields.io/github/stars/Bombtsti/PG-DERN?style=for-the-badge&logo=github)](https://github.com/Bombtsti/PG-DERN)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Bombtsti/PG-DERN?style=for-the-badge&logo=github)](https://github.com/Bombtsti/PG-DERN)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2107.07994)  
+
+## **LLM**
+- **MolecularGPT**:   
+	[![Code](https://img.shields.io/github/stars/NYUSHCS/MolecularGPT?style=for-the-badge&logo=github)](https://github.com/NYUSHCS/MolecularGPT)  
+	[![Last Commit](https://img.shields.io/github/last-commit/NYUSHCS/MolecularGPT?style=for-the-badge&logo=github)](https://github.com/NYUSHCS/MolecularGPT)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2406.12950)  

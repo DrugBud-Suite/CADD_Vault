@@ -5,11 +5,11 @@
 - **AMPL**: A Data-Driven Modeling Pipeline for Drug Discovery (ATOM Modeling PipeLine) (standalone)  
 	[![Code](https://img.shields.io/github/stars/ATOMconsortium/AMPL?style=for-the-badge&logo=github)](https://github.com/ATOMconsortium/AMPL)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ATOMconsortium/AMPL?style=for-the-badge&logo=github)](https://github.com/ATOMconsortium/AMPL)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:54-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01053)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:55-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01053)  
 - **cgcnn**:   
 	[![Code](https://img.shields.io/github/stars/txie-93/cgcnn?style=for-the-badge&logo=github)](https://github.com/txie-93/cgcnn)  
 	[![Last Commit](https://img.shields.io/github/last-commit/txie-93/cgcnn?style=for-the-badge&logo=github)](https://github.com/txie-93/cgcnn)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1185-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1103/PhysRevLett.120.145301)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1202-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1103/PhysRevLett.120.145301)  
 - **chainer-chemistry**:   
 	[![Code](https://img.shields.io/github/stars/chainer/chainer-chemistry?style=for-the-badge&logo=github)](https://github.com/chainer/chainer-chemistry)  
 	[![Last Commit](https://img.shields.io/github/last-commit/chainer/chainer-chemistry?style=for-the-badge&logo=github)](https://github.com/chainer/chainer-chemistry)  
@@ -25,7 +25,7 @@
 - **chemprop**:   
 	[![Code](https://img.shields.io/github/stars/chemprop/chemprop?style=for-the-badge&logo=github)](https://github.com/chemprop/chemprop)  
 	[![Last Commit](https://img.shields.io/github/last-commit/chemprop/chemprop?style=for-the-badge&logo=github)](https://github.com/chemprop/chemprop)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:827-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b00237)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:847-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b00237)  
 - **DeepChem**:   
 	[![Code](https://img.shields.io/github/stars/deepchem/deepchem?style=for-the-badge&logo=github)](https://github.com/deepchem/deepchem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/deepchem/deepchem?style=for-the-badge&logo=github)](https://github.com/deepchem/deepchem)  
@@ -58,7 +58,7 @@
 - **OpenChem**:   
 	[![Code](https://img.shields.io/github/stars/Mariewelt/OpenChem?style=for-the-badge&logo=github)](https://github.com/Mariewelt/OpenChem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Mariewelt/OpenChem?style=for-the-badge&logo=github)](https://github.com/Mariewelt/OpenChem)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:44-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c00971)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:45-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c00971)  
 - **pytorch-geometric**:   
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pytorch-geometric.readthedocs.io/en/latest/)  
 - **Scikit-mol**: Scikit-Learn classes for molecular vectorization using RDKit (standalone)  

@@ -28,11 +28,20 @@
 - **QSAR_toolbox**: scripts for QSAR model building and fingerprint generation  
 	[![Code](https://img.shields.io/github/stars/iwatobipen/QSAR_TOOLBOX?style=for-the-badge&logo=github)](https://github.com/iwatobipen/QSAR_TOOLBOX)  
 	[![Last Commit](https://img.shields.io/github/last-commit/iwatobipen/QSAR_TOOLBOX?style=for-the-badge&logo=github)](https://github.com/iwatobipen/QSAR_TOOLBOX)  
+- **CPSign**: Open Source Software tool for QSAR modeling using conformal and probabilistic prediction  
+	[![Code](https://img.shields.io/github/stars/arosbio/cpsign?style=for-the-badge&logo=github)](https://github.com/arosbio/cpsign)  
+	[![Last Commit](https://img.shields.io/github/last-commit/arosbio/cpsign?style=for-the-badge&logo=github)](https://github.com/arosbio/cpsign)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00870-9)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://cpsign.readthedocs.io/en/latest/index.html)  
+- **TopoReg_QSAR**: TR provides predictive performance that competes with deep-learning methods  
+	[![Code](https://img.shields.io/github/stars/Ribosome25/TopoReg_QSAR?style=for-the-badge&logo=github)](https://github.com/Ribosome25/TopoReg_QSAR)  
+	[![Last Commit](https://img.shields.io/github/last-commit/Ribosome25/TopoReg_QSAR?style=for-the-badge&logo=github)](https://github.com/Ribosome25/TopoReg_QSAR)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-49372-0)  
 ### **3D**
 - **3D-MIL-QSAR**:   
 	[![Code](https://img.shields.io/github/stars/cimm-kzn/3D-MIL-QSAR?style=for-the-badge&logo=github)](https://github.com/cimm-kzn/3D-MIL-QSAR)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cimm-kzn/3D-MIL-QSAR?style=for-the-badge&logo=github)](https://github.com/cimm-kzn/3D-MIL-QSAR)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00692)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00692)  
 ### **Hyperparameter Optimization**
 - **QPTuna**: QPTUNA is designed for building predictive QSAR models using hyperparameters optimized by Optuna, with features like Uncertainty Quantification and model explainability.  
 	[![Code](https://img.shields.io/github/stars/MolecularAI/Qptuna?style=for-the-badge&logo=github)](https://github.com/MolecularAI/Qptuna)  

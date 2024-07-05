@@ -19,7 +19,7 @@
 - **PharMD**: PharMD retrieves pharmacophore models from molecular dynamics (MD) trajectories of protein-ligand complexes, identifies redundant pharmacophores, and performs virtual screening using multiple pharmacophore models.  
 	[![Code](https://img.shields.io/github/stars/ci-lab-cz/pharmd?style=for-the-badge&logo=github)](https://github.com/ci-lab-cz/pharmd)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ci-lab-cz/pharmd?style=for-the-badge&logo=github)](https://github.com/ci-lab-cz/pharmd)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/ijms20235834)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/ijms20235834)  
 - **Pharmmaker**: Pharmacophore modeling model using outputs of druggability simulations. Uses multiple target conformations dependent on the binding poses of probes where they interact during druggability simulations (standalone and online).  
 	[![Code](https://img.shields.io/github/stars/prody/ProDy?style=for-the-badge&logo=github)](https://github.com/prody/ProDy)  
 	[![Last Commit](https://img.shields.io/github/last-commit/prody/ProDy?style=for-the-badge&logo=github)](https://github.com/prody/ProDy)  
@@ -36,7 +36,7 @@
 - **Align-it**: Align-it is a tool for aligning molecules according to their pharmacophores, facilitating the comparison and matching of molecular structures based on pharmacophoric features.  
 	[![Code](https://img.shields.io/github/stars/OliverBScott/align-it?style=for-the-badge&logo=github)](https://github.com/OliverBScott/align-it)  
 	[![Last Commit](https://img.shields.io/github/last-commit/OliverBScott/align-it?style=for-the-badge&logo=github)](https://github.com/OliverBScott/align-it)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:97-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.jmgm.2008.04.003)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:98-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.jmgm.2008.04.003)  
 - **apo2ph4**: apo2ph4 offers a versatile workflow for generating receptor-based pharmacophore models for virtual screening, focusing on the identification and utilization of pharmacophoric features derived from protein structures.  
 	[![Code](https://img.shields.io/github/stars/molinfo-vienna/apo2ph4?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/apo2ph4)  
 	[![Last Commit](https://img.shields.io/github/last-commit/molinfo-vienna/apo2ph4?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/apo2ph4)  
@@ -66,9 +66,9 @@
 - **QPhar**: QPhar provides code for quantitative pharmacophore activity relationship modeling, offering a method and validation for quantitative pharmacophore modeling documented in a publication.  
 	[![Code](https://img.shields.io/github/stars/StefanKohlbacher/QuantPharmacophore?style=for-the-badge&logo=github)](https://github.com/StefanKohlbacher/QuantPharmacophore)  
 	[![Last Commit](https://img.shields.io/github/last-commit/StefanKohlbacher/QuantPharmacophore?style=for-the-badge&logo=github)](https://github.com/StefanKohlbacher/QuantPharmacophore)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00537-9)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00537-9)  
 
 ## **Web-Servers**
 - **Pharmit**: Pharmit provides an interactive environment for the identification and visualization of pharmacophore models, enabling virtual screening against millions of compounds. It offers tools for specifying pharmacophores, flexibly searching chemical databases, and viewing results in 3D directly in the web browser.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:219-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkw287)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:221-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkw287)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pharmit.csb.pitt.edu/)  

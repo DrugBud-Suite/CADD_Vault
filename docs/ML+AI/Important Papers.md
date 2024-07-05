@@ -15,7 +15,7 @@
 - **Order Matters: Sequence to sequence for sets**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.1511.06391)  
 - **ImageNet classification with deep convolutional neural networks**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:22280-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1145/3065386)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:22357-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1145/3065386)  
 - **GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.1811.06965)  
 - **Deep Residual Learning for Image Recognition**:   

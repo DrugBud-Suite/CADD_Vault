@@ -1,7 +1,7 @@
 - **ChemFlow**: ChemFlow provides a series of computational chemistry workflows designed to automatize and simplify the drug discovery pipeline and scoring function benchmarking, consisting of BASH and PYTHON scripts.  
 	[![Code](https://img.shields.io/github/stars/IFMlab/ChemFlow?style=for-the-badge&logo=github)](https://github.com/IFMlab/ChemFlow)  
 	[![Last Commit](https://img.shields.io/github/last-commit/IFMlab/ChemFlow?style=for-the-badge&logo=github)](https://github.com/IFMlab/ChemFlow)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:5-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c00919)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c00919)  
 - **ConveyorLC**: A Parallel Virtual Screening Pipeline for Docking and MM/GSBA (standalone).  
 	[![Code](https://img.shields.io/github/stars/XiaohuaZhangLLNL/conveyorlc?style=for-the-badge&logo=github)](https://github.com/XiaohuaZhangLLNL/conveyorlc)  
 	[![Last Commit](https://img.shields.io/github/last-commit/XiaohuaZhangLLNL/conveyorlc?style=for-the-badge&logo=github)](https://github.com/XiaohuaZhangLLNL/conveyorlc)  
@@ -49,11 +49,11 @@
 - **VFLP**: VFLP (VirtualFlow for Ligand Preparation) is also part of the VirtualFlow project, focusing on preparing ligands for virtual screening tasks, utilizing the same core technology as VFVS.  
 	[![Code](https://img.shields.io/github/stars/VirtualFlow/VFLP?style=for-the-badge&logo=github)](https://github.com/VirtualFlow/VFLP?tab=readme-ov-file)  
 	[![Last Commit](https://img.shields.io/github/last-commit/VirtualFlow/VFLP?style=for-the-badge&logo=github)](https://github.com/VirtualFlow/VFLP?tab=readme-ov-file)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:351-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-020-2117-z)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:353-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-020-2117-z)  
 - **VFVS**: VFVS (VirtualFlow for Virtual Screening) is part of the VirtualFlow project, a parallel workflow platform for virtual screening tasks on Linux-based clusters, tailored for large-scale virtual screenings.  
 	[![Code](https://img.shields.io/github/stars/VirtualFlow/VFVS?style=for-the-badge&logo=github)](https://github.com/VirtualFlow/VFVS)  
 	[![Last Commit](https://img.shields.io/github/last-commit/VirtualFlow/VFVS?style=for-the-badge&logo=github)](https://github.com/VirtualFlow/VFVS)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:351-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-020-2117-z)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:353-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-020-2117-z)  
 - **VSpipe-GUI**: an Interactive Graphical User Interface for Virtual Screening and Hit Selection (examples with fragment docking...) (standalone, published 2024).  
 	[![Code](https://img.shields.io/github/stars/rashid-bioinfo/vspipe-gui?style=for-the-badge&logo=github)](https://github.com/rashid-bioinfo/vspipe-gui/tree/master/Installation_Guide)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rashid-bioinfo/vspipe-gui?style=for-the-badge&logo=github)](https://github.com/rashid-bioinfo/vspipe-gui/tree/master/Installation_Guide)  

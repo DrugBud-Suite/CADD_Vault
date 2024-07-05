@@ -23,7 +23,7 @@
 - **AF2-Rave**: AF2-Rave combines AlphaFold2 with enhanced sampling to predict a range of conformations for a given protein sequence, aiming to generate Boltzmann-ranked conformations  
 	[![Code](https://img.shields.io/github/stars/tiwarylab/alphafold2rave?style=for-the-badge&logo=github)](https://github.com/tiwarylab/alphafold2rave)  
 	[![Last Commit](https://img.shields.io/github/last-commit/tiwarylab/alphafold2rave?style=for-the-badge&logo=github)](https://github.com/tiwarylab/alphafold2rave)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:25-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c00290)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c00290)  
 - **AF-cluster**: This method predicts multiple protein conformations using sequence clustering and AlphaFold2, aiming to capture the diversity of protein structures.  
 	[![Code](https://img.shields.io/github/stars/HWaymentSteele/AF_Cluster?style=for-the-badge&logo=github)](https://github.com/HWaymentSteele/AF_Cluster)  
 	[![Last Commit](https://img.shields.io/github/last-commit/HWaymentSteele/AF_Cluster?style=for-the-badge&logo=github)](https://github.com/HWaymentSteele/AF_Cluster)  
@@ -35,7 +35,9 @@
 - **Str2Str**: Str2Str is a score-based framework for zero-shot protein conformation sampling, drawing inspiration from traditional methods to sample conformations guided by a neural score network trained on the PDB database.  
 	[![Code](https://img.shields.io/github/stars/lujiarui/Str2Str?style=for-the-badge&logo=github)](https://github.com/lujiarui/Str2Str)  
 	[![Last Commit](https://img.shields.io/github/last-commit/lujiarui/Str2Str?style=for-the-badge&logo=github)](https://github.com/lujiarui/Str2Str)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:880-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ade2574)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:928-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ade2574)  
+- **DeepConformer**: diffusion generative model for sampling protein conformation distributions from a given amino acid sequence  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.06.27.600251)  
 
 ## **Other**
 - **AlphTraj**: AlphaTraj is software designed for analyzing pocket dynamics.  

@@ -6,7 +6,7 @@
 	[![Last Commit](https://img.shields.io/github/last-commit/Et9797/confgen-webapp?style=for-the-badge&logo=github)](https://github.com/Et9797/confgen-webapp)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://confgen.net/)  
 - **Conformator**: a novel method for the Generation of Conformer Ensembles (standalone).  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:49-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.8b00704)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:50-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.8b00704)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.zbh.uni-hamburg.de/forschung/amd/software/conformator.html)  
 - **Conformer-Search**: This repository outlines a workflow for searching minimum energy conformers based on force field optimization methods (UFF and MMFF94) using RDKit.  
 	[![Code](https://img.shields.io/github/stars/mcsorkun/Conformer-Search?style=for-the-badge&logo=github)](https://github.com/mcsorkun/Conformer-Search)  
