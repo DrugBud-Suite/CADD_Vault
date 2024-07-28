@@ -1,0 +1,4814 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../Other/">
+      
+      
+        <link rel="next" href="../Protein-Protein%20Interactions/">
+      
+      
+      <link rel="icon" href="../../images/LogoV1.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.30">
+    
+    
+      
+        <title>Protein Protein Docking - CADD Vault</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.3cba04c6.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu,+sans-serif:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Ubuntu, sans-serif";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#quality-assessment" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="CADD Vault" class="md-header__button md-logo" aria-label="CADD Vault" data-md-component="logo">
+      
+  <img src="../../images/LogoV1.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            CADD Vault
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Protein Protein Docking
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m14.3 16-.7-2h-3.2l-.7 2H7.8L11 7h2l3.2 9h-1.9M20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69m-9.15 3.96h2.3L12 9l-1.15 3.65Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="CADD Vault" class="md-nav__button md-logo" aria-label="CADD Vault" data-md-component="logo">
+      
+  <img src="../../images/LogoV1.png" alt="logo">
+
+    </a>
+    CADD Vault
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Computer-Aided Drug Design (CADD) Vault
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../CONTRIBUTING/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contributing to the CADD Vault
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    ADMET
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            ADMET
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ADMET/Pretrained%20Models/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Pretrained Models
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Chemical Space
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Chemical Space
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chemical%20Space/Chemical%20Space%20Search/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chemical Space Search
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chemical%20Space/Chemical%20library%20generation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chemical library generation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chemical%20Space/Reviews/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reviews
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Chemical%20Space/Visualisation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Visualisation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Compound Library Handling
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Compound Library Handling
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Compound%20Library%20Handling/Data%20splitting/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data splitting
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Compound%20Library%20Handling/Database%20Management/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Database Management
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Compound%20Library%20Handling/Library%20Filtering/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Library Filtering
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Compound%20Library%20Handling/Molecule%20Preparation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Molecule Preparation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Conformer Generation
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Conformer Generation
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Conformer%20Generation/Classical/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Classical
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Conformer%20Generation/ML%2BAI/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ML+AI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Conformer%20Generation/Reviews/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reviews
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Crystallography
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Crystallography
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Crystallography/Crystallography/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Crystallography
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Dataset Mining
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Dataset Mining
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dataset%20Mining/Chemical/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chemical
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Dataset%20Mining/Protein%20Structures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Protein Structures
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Datasets
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Datasets
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/ADMET/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ADMET
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Chemical%20Reactions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chemical Reactions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Chemical/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chemical
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Commercial%20Libraries/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Commercial Libraries
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Docking%20and%20Scoring%20Function%20Benchmarks/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Docking and Scoring Function Benchmarks
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Drugs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Drugs
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/GPCRs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    GPCRs
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Kinases/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kinases
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/ML-docking%20training/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ML docking training
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Machine%20Learning%20Benchmarks/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Machine Learning Benchmarks
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Make%20on%20Demand%20Libraries/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Make on Demand Libraries
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Molecular%20Dynamics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Molecular Dynamics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Natural%20Products/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Natural Products
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/PROTACs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    PROTACs
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Properties/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Properties
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Protein%20Ligand%20Interaction/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Protein Ligand Interaction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Protein%20Sequences/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Protein Sequences
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Protein%20Structures/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Protein Structures
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Protein%20Targets/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Protein Targets
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Protein-Ligand%20Interaction/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Protein Ligand Interaction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Toxicity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Toxicity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Datasets/Virtual%20Libraries/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Virtual Libraries
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    De Novo Generation
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            De Novo Generation
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../De%20Novo%20Generation/Associated%20Tools/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Associated Tools
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../De%20Novo%20Generation/Benchmarking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Benchmarking
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../De%20Novo%20Generation/De%20Novo%20Generation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    De Novo Generation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../De%20Novo%20Generation/Linker%20Generation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Linker Generation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../De%20Novo%20Generation/Molecular%20Optimisation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Molecular Optimisation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../De%20Novo%20Generation/Protein%20Pocket%20Generation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Protein Pocket Generation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../De%20Novo%20Generation/Reviews/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reviews
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../De%20Novo%20Generation/Target%20Aware%20De%20Novo%20Generation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Target Aware De Novo Generation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11" >
+        
+          
+          <label class="md-nav__link" for="__nav_11" id="__nav_11_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Decoy Generation
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11">
+            <span class="md-nav__icon md-icon"></span>
+            Decoy Generation
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Decoy%20Generation/Decoy%20Generation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Decoy Generation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_12" >
+        
+          
+          <label class="md-nav__link" for="__nav_12" id="__nav_12_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    FBDD
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_12_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_12">
+            <span class="md-nav__icon md-icon"></span>
+            FBDD
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../FBDD/FBDD/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    FBDD
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_13" >
+        
+          
+          <label class="md-nav__link" for="__nav_13" id="__nav_13_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    General Tools
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_13_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_13">
+            <span class="md-nav__icon md-icon"></span>
+            General Tools
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General%20Tools/Chemical%20Format%20Translation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chemical Format Translation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General%20Tools/Cheminformatics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cheminformatics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General%20Tools/Fingerprints/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fingerprints
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../General%20Tools/Reviews/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reviews
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_14" >
+        
+          
+          <label class="md-nav__link" for="__nav_14" id="__nav_14_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    HTS Analysis
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_14_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_14">
+            <span class="md-nav__icon md-icon"></span>
+            HTS Analysis
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../HTS%20Analysis/HTS%20Analysis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    HTS Analysis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_15" >
+        
+          
+          <label class="md-nav__link" for="__nav_15" id="__nav_15_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ligand based Virtual Screening
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_15_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_15">
+            <span class="md-nav__icon md-icon"></span>
+            Ligand based Virtual Screening
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Ligand%20based%20Virtual%20Screening/Ligand%20based%20Virtual%20Screening/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ligand based Virtual Screening
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Ligand-based%20Virtual%20Screening/Ligand-based%20Virtual%20Screening/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ligand based Virtual Screening
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_16" >
+        
+          
+          <label class="md-nav__link" for="__nav_16" id="__nav_16_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    ML+AI
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_16_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_16">
+            <span class="md-nav__icon md-icon"></span>
+            ML+AI
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ML%2BAI/Active%20Learning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Active Learning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ML%2BAI/Automatic%20Model%20Selection/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Automatic Model Selection
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ML%2BAI/Courses/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Courses
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ML%2BAI/Few%20shot%20learning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Few shot learning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ML%2BAI/Important%20Papers/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Important Papers
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ML%2BAI/ML%20Models/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ML Models
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ML%2BAI/ML%2BAI%20frameworks%20for%20chemistry/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ML+AI frameworks for chemistry
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ML%2BAI/Reviews/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reviews
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_17" >
+        
+          
+          <label class="md-nav__link" for="__nav_17" id="__nav_17_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Molecular Dynamics
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_17_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_17">
+            <span class="md-nav__icon md-icon"></span>
+            Molecular Dynamics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecular%20Dynamics/Automated%20Workflows/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Automated Workflows
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecular%20Dynamics/Coarse-Grained/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Coarse Grained
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecular%20Dynamics/Forcefields/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Forcefields
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecular%20Dynamics/Free%20Energy%20Perturbation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Free Energy Perturbation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecular%20Dynamics/Free-Energy%20Perturbation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Free Energy Perturbation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecular%20Dynamics/Implicit%20Solvation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Implicit Solvation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecular%20Dynamics/Libraries/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Libraries
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecular%20Dynamics/Ligand%20topology%20generation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ligand topology generation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecular%20Dynamics/MMGBSA%20%2B%20MMPBSA/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MMGBSA + MMPBSA
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecular%20Dynamics/Molecular%20Dynamics%20Engines/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Molecular Dynamics Engines
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecular%20Dynamics/Residence%20Time/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Residence Time
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_18" >
+        
+          
+          <label class="md-nav__link" for="__nav_18" id="__nav_18_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Molecule Representations
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_18_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_18">
+            <span class="md-nav__icon md-icon"></span>
+            Molecule Representations
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecule%20Representations/Binary/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Binary
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecule%20Representations/Descriptors/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Descriptors
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecule%20Representations/Fingerprints/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fingerprints
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecule%20Representations/Hybrid/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hybrid
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecule%20Representations/ML%2BAI/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ML+AI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecule%20Representations/Other%20Representations/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Other Representations
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecule%20Representations/Strings/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Strings
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecule%20Representations/Vector/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vector
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Molecule%20Representations/Wrappers%20for%20several%20representations/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wrappers for several representations
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_19" >
+        
+          
+          <label class="md-nav__link" for="__nav_19" id="__nav_19_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Optical Structure Recognition
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_19_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_19">
+            <span class="md-nav__icon md-icon"></span>
+            Optical Structure Recognition
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Optical%20Structure%20Recognition/Optical%20Structure%20Recognition/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Optical Structure Recognition
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_20" >
+        
+          
+          <label class="md-nav__link" for="__nav_20" id="__nav_20_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Other
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_20_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_20">
+            <span class="md-nav__icon md-icon"></span>
+            Other
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Other/Other/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Other
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_21" >
+        
+          
+          <label class="md-nav__link" for="__nav_21" id="__nav_21_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pharmacophore
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_21_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_21">
+            <span class="md-nav__icon md-icon"></span>
+            Pharmacophore
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Pharmacophore/Pharmacophore/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Pharmacophore
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_22" >
+        
+          
+          <label class="md-nav__link" for="__nav_22" id="__nav_22_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Plugins
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_22_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_22">
+            <span class="md-nav__icon md-icon"></span>
+            Plugins
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Plugins/Chimera/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chimera
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Plugins/PyMol/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    PyMol
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_23" >
+        
+          
+          <label class="md-nav__link" for="__nav_23" id="__nav_23_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Property Prediction
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_23_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_23">
+            <span class="md-nav__icon md-icon"></span>
+            Property Prediction
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Property%20Prediction/ML%2BAI/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ML+AI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Property%20Prediction/Pre-trained%20Models/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Pre trained Models
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Property%20Prediction/QSAR/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    QSAR
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_24" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_24" id="__nav_24_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Protein Structure
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_24_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_24">
+            <span class="md-nav__icon md-icon"></span>
+            Protein Structure
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Allosteric%20Interactions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Allosteric Interactions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Binding%20Site%20Prediction/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Binding Site Prediction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Binding%20Site%20Similarity/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Binding Site Similarity
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Conformational%20Ensemble%20Generation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Conformational Ensemble Generation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Databases/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Databases
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Homology%20Modelling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Homology Modelling
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Loop%20Modelling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Loop Modelling
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ML%20Structure%20Prediction/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ML Structure Prediction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Other/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Other
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Protein Protein Docking
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Protein Protein Docking
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#quality-assessment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Quality Assessment
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Protein-Protein%20Interactions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Protein Protein Interactions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Protonation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Protonation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Sequence%20Alignment/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sequence Alignment
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Structure%20Manipulation%20Librairies/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Structure Manipulation Librairies
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Structure%20Quality%20Assessment/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Structure Quality Assessment
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Structure%20Refinement/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Structure Refinement
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Water%20Prediction/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Water Prediction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_25" >
+        
+          
+          <label class="md-nav__link" for="__nav_25" id="__nav_25_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    QM
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_25_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_25">
+            <span class="md-nav__icon md-icon"></span>
+            QM
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../QM/General%20Tools/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General Tools
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../QM/Reaction%20Tools/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reaction Tools
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../QM/Reviews/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reviews
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_26" >
+        
+          
+          <label class="md-nav__link" for="__nav_26" id="__nav_26_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Resources
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_26_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_26">
+            <span class="md-nav__icon md-icon"></span>
+            Resources
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Resources/Blogs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Blogs
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Resources/Books/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Books
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Resources/Courses/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Courses
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Resources/Other%20Resources/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Other Resources
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_27" >
+        
+          
+          <label class="md-nav__link" for="__nav_27" id="__nav_27_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Structure based Virtual Screening
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_27_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_27">
+            <span class="md-nav__icon md-icon"></span>
+            Structure based Virtual Screening
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Structure-based%20Virtual%20Screening/Docking%20Pose%20Processing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Docking Pose Processing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Structure-based%20Virtual%20Screening/Docking%20Score%20Prediction/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Docking Score Prediction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Structure-based%20Virtual%20Screening/Docking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Docking
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Structure-based%20Virtual%20Screening/ML%2BAI/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ML+AI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Structure-based%20Virtual%20Screening/Performance%20Metrics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Performance Metrics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Structure-based%20Virtual%20Screening/Scoring%20Functions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Scoring Functions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_28" >
+        
+          
+          <label class="md-nav__link" for="__nav_28" id="__nav_28_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Synthesis
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_28_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_28">
+            <span class="md-nav__icon md-icon"></span>
+            Synthesis
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Synthesis/Reaction%20Optimization/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reaction Optimization
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Synthesis/Retrosynthesis%20Prediction/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Retrosynthesis Prediction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Synthesis/Synthetic%20Accessibility%20Score/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Synthetic Accessibility Score
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_29" >
+        
+          
+          <label class="md-nav__link" for="__nav_29" id="__nav_29_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Target Identification
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_29_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_29">
+            <span class="md-nav__icon md-icon"></span>
+            Target Identification
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Target%20Identification/Review/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Review
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Target%20Identification/Target%20identification/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Target identification
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_30" >
+        
+          
+          <label class="md-nav__link" for="__nav_30" id="__nav_30_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    VS Workflows
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_30_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_30">
+            <span class="md-nav__icon md-icon"></span>
+            VS Workflows
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../VS%20Workflows/Database/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Database
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../VS%20Workflows/Fragment-based/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fragment based
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../VS%20Workflows/Full%20Workflows/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Full Workflows
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../VS%20Workflows/Guides/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Guides
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../VS%20Workflows/Workflow%20Calibration%20%2B%20Optimisation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Workflow Calibration + Optimisation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_31" >
+        
+          
+          <label class="md-nav__link" for="__nav_31" id="__nav_31_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Visualisation Tools
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_31_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_31">
+            <span class="md-nav__icon md-icon"></span>
+            Visualisation Tools
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Visualisation%20Tools/3D%20visualization%20tools/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    3D visualization tools
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Visualisation%20Tools/Binding%20%2B%20Docking%20Poses/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Binding + Docking Poses
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Visualisation%20Tools/Biology%20%2B%20Medicine/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Biology + Medicine
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Visualisation%20Tools/Chemistry/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chemistry
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Visualisation%20Tools/Drug%20Screening%20Data/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Drug Screening Data
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Visualisation%20Tools/General%20Plotting/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    General Plotting
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Visualisation%20Tools/High-dimensional%20data%20%2B%20Dimensionality%20reduction/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    High dimensional data + Dimensionality reduction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Visualisation%20Tools/Interactive%20Plots/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Interactive Plots
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Visualisation%20Tools/MD%20Simulations/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MD Simulations
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Visualisation%20Tools/Other/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Other
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Visualisation%20Tools/Protein%20Sequences/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Protein Sequences
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Visualisation%20Tools/SDF%20files/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    SDF files
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Visualisation%20Tools/Virtual%20Screening/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Virtual Screening
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#quality-assessment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Quality Assessment
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  <h1>Protein Protein Docking</h1>
+
+<ul>
+<li><strong>3D-Garden</strong>: A system for modelling protein-protein complexes based on conformational refinement of ensembles generated with the marching cubes algorithm (online)<br />
+<a href="https://doi.org/10.1093/bioinformatics/btn093"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:53-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://www.sbg.bio.ic.ac.uk/~3dgarden/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>AREA-AFFINITY</strong>: Server for Machine Learning-Based Prediction of Protein-Protein and Antibody-Protein Antigen Binding Affinities (online)<br />
+<a href="https://doi.org/10.1021/acs.jcim.2c01499"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://affinity.cuhk.edu.cn/"><img alt="Link" src="https://img.shields.io/badge/Link-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>Arpeggio</strong>: A webserver for calculating interatomic interactions in protein structures (online &amp; standalone)<br />
+<a href="https://doi.org/10.1016/j.jmb.2016.12.004"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:345-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://biosig.unimelb.edu.au/arpeggioweb/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>BAlaS</strong>: fast, interactive and accessible computational alanine-scanning using BudeAlaScan (online)<br />
+<a href="https://github.com/wells-wood-research/balas"><img alt="Code" src="https://img.shields.io/github/stars/wells-wood-research/balas?style=for-the-badge&amp;logo=github" /></a><br />
+<a href="https://github.com/wells-wood-research/balas"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/wells-wood-research/balas?style=for-the-badge&amp;logo=github" /></a><br />
+<a href="https://doi.org/10.1093/bioinformatics/btaa026"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:44-blue?style=for-the-badge&amp;logo=bookstack" /></a>  </li>
+<li><strong>Cluspro</strong>: protein docking (online)<br />
+<a href="https://doi.org/10.1038%2Fnprot.2016.169"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:2028-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://cluspro.bu.edu/login.php"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>ClusPro FMFT-SAXS</strong>: Ultra-fast Filtering Using Small-Angle X-ray Scattering Data in Protein Docking (online and standalone)<br />
+<a href="https://doi.org/10.1038%2Fnprot.2016.169"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:2028-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://beta.cluspro.org/"><img alt="Link" src="https://img.shields.io/badge/Link-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>ClusPro TBM</strong>: Toward combining template-based methods with free docking (protein-protein docking) (online)<br />
+<a href="https://doi.org/10.1038%2Fnprot.2016.169"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:2028-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://tbm.cluspro.org/"><img alt="Link" src="https://img.shields.io/badge/Link-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>ClusPro-DC</strong>: discrimination between Xray and biological dimers (online requires login)<br />
+<a href="https://doi.org/10.1038%2Fnprot.2016.169"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:2028-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://cluspro.bu.edu/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>CoDockPP</strong>: A Multistage Approach for Global and Site-Specific Protein-Protein Docking (online)<br />
+<a href="https://doi.org/10.1021/acs.jcim.9b00445"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://codockpp.schanglab.org.cn/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>DeepComplex</strong>: A Web Server of Predicting Protein Complex Structures by Deep Learning Inter-chain Contact Prediction and Distance-Based Modelling (online)<br />
+<a href="https://doi.org/10.3389/fmolb.2021.716973"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://tulip.rnet.missouri.edu/deepcomplex/web_index.html"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>DisVis</strong>: visualizes the accessible interaction space (online)<br />
+<a href="https://doi.org/10.1093/bioinformatics/btv333"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:62-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://milou.science.uu.nl/cgi/services/DISVIS/disvis/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>DOCK/PIERR</strong>: Protein Docking Server (online)<br />
+<a href="https://doi.org/10.1007/978-1-4939-0366-5_14"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:26-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://clsb.ices.utexas.edu/web/dock.html"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>Dockground</strong>: A comprehensive data resource for modeling of protein complexes, datasets, decoys... (online)<br />
+<a href="https://doi.org/10.1002/pro.4481"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://dockground.compbio.ku.edu/"><img alt="Link" src="https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>DOCKSCORE</strong>: rank docked poses (online)<br />
+<a href="http://www.biomedcentral.com/1471-2105/16/127"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://caps.ncbs.res.in/dockscore/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>DockStar</strong>: Modelling of multimolecular protein complexes (online)<br />
+<a href="http://bioinfo3d.cs.tau.ac.il/DockStar/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>DockSurf</strong>: A molecular modeling software for the prediction of protein/surface adhesion (eg. gold surfaces) (online)<br />
+<a href="https://doi.org/10.1021/acs.jcim.3c00569"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://bioserv.rpbs.univ-paris-diderot.fr/services/DockSurf/"><img alt="Link" src="https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>DOVE</strong>: convolutional deep neural network-based approach named DOcking decoy selection with Voxel-based deep neural nEtwork (DOVE) for evaluating protein docking models (online)<br />
+<a href="https://doi.org/10.1093/bioinformatics/btz870"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:86-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://kiharalab.org/dove/"><img alt="Link" src="https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>EROS-DOCK</strong>: protein–protein docking using exhaustive branch-and-bound rotational search (standalone)<br />
+<a href="doi:10.1093/bioinformatics/btz434"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://erosdock.loria.fr/"><img alt="Link" src="https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>ezCADD</strong>: a Rapid 2D/3D Visualization Enabled Web Modeling Environment for Democratizing Computer-Aided Drug Design (small molecule docking, protein docking, 2D/3D interaction viz, de novo lead optimization, pocket search and polypharmacology) online<br />
+<a href="https://doi.org/10.1021/acs.jcim.8b00633"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:48-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://www.dxulab.org/software"><img alt="Link" src="https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>FiberDock, FireDock, FlexDock, PatchDock</strong>: <br />
+<a href="https://doi.org/10.1093/nar/gkq373"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:85-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://bioinfo3d.cs.tau.ac.il/wk/index.php/Servers_%26_Software"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>FiltRest3D</strong>: filter predicted models (online)<br />
+<a href="doi:10.1371/journal.pcbi.1008309"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:42-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://filtrest3d.genesilico.pl/filtrest3d/help.html"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>FoldDock</strong>: simultaneous folding and docking protocol FoldDock and AlphaFold (standalone)<br />
+<a href="https://gitlab.com/ElofssonLab/FoldDock/"><img alt="Code" src="https://img.shields.io/badge/Code" /></a>
+    <a href="http://dx.doi.org/10.1038/s41467-022-28865-w"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:426-blue?style=for-the-badge&amp;logo=bookstack" /></a>  </li>
+<li><strong>FRODOCK</strong>: Fast Rotational DOCKing (online)<br />
+<a href="https://doi.org/10.1093/bioinformatics/btw141"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:122-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://frodock.chaconlab.org/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>GalaxyDomDock</strong>: An Ab Initio Domain-domain Docking Web Server for Multi-domain Protein Structure Prediction (online)<br />
+<a href="https://doi.org/10.1016/j.jmb.2022.167508"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:6-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://galaxy.seoklab.org/domdock"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>GalaxyHomomer</strong>: protein homo-oligomer structure prediction from a monomer sequence or structure (online)<br />
+<a href="https://doi.org/10.1093/nar/gkx246"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:106-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://galaxy.seoklab.org/cgi-bin/submit.cgi?type=HOMOMER"><img alt="Link" src="https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>GalaxyRefineComplex</strong>: Protein-protein complex structures generated by protein-protein docking methods can be refined (online)<br />
+<a href="https://doi.org/10.1038%2Fsrep32153"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:97-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://galaxy.seoklab.org/cgi-bin/submit.cgi?type=COMPLEX"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>GalaxyTongDock</strong>: Symmetric and asymmetric ab initio protein-protein docking web server with improved energy parameters (online)<br />
+<a href="https://doi.org/10.1093/nar/gks493"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:621-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://galaxy.seoklab.org/tongdock"><img alt="Link" src="https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>GRAMM</strong>: Protein-Protein Docking Web Server (online)<br />
+<a href="https://doi.org/10.1007/978-1-0716-3441-7_5"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:5-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://gramm.compbio.ku.edu/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>GraphPPIS</strong>: Structure-aware protein-protein interaction site prediction using deep graph convolutional network (online), standalone on github<br />
+<a href="https://doi.org/10.1093/bioinformatics/btab643"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:76-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://biomed.nscc-gz.cn/apps/GraphPPIS"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>GWIDD</strong>: genome wide docking database (online)<br />
+<a href="https://doi.org/10.1186/1479-7364-6-7"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:14-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://gwidd.compbio.ku.edu/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>Haddock</strong>: High Ambiguity Driven protein-protein DOCKing (online requires login)<br />
+<a href="https://doi.org/10.21769%2FBioProtoc.3793"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://haddock.chem.uu.nl/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>HawkDock</strong>: to predict and analyze the protein-protein complex based on computational docking and MM/GBSA (online)<br />
+<a href="https://doi.org/10.1093/nar/gkz397"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:356-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://cadd.zju.edu.cn/hawkdock/"><img alt="Link" src="https://img.shields.io/badge/Link-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>HDOCK</strong>: hybrid protein–protein and protein–DNA/RNA docking, Pushing the accuracy limit of shape complementarity for protein-protein docking (online)<br />
+<a href="https://doi.org/10.1093%2Fnar%2Fgkx407"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:721-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://hdock.phys.hust.edu.cn/"><img alt="Link" src="https://img.shields.io/badge/Link-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>HMI-PRED</strong>: A Web Server for Structural Prediction of Host-Microbe Interactions Based on Interface Mimicry (online)<br />
+<a href="https://doi.org/10.1093/bioinformatics/btac633"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://interactome.ku.edu.tr/hmi/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>InterEvDock2</strong>: protein docking using evolutionary and biological information from homology models and multimeric inputs (online)<br />
+<a href="https://doi.org/10.1093%2Fnar%2Fgky377"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:47-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://bioserv.rpbs.univ-paris-diderot.fr/services/InterEvDock2/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>InterEvDock3</strong>: a combined template-based and free docking server with increased performance through explicit modeling of complex homologs and integration of covariation-based contact maps (online)<br />
+<a href="https://doi.org/10.1093%2Fnar%2Fgkab358"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://bioserv.rpbs.univ-paris-diderot.fr/services/InterEvDock3/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>InterPred</strong>: A pipeline to identify and model protein-protein interactions (online)<br />
+<a href="https://doi.org/10.1002/prot.25280"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:33-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://wallnerlab.org/InterPred"><img alt="Link" src="https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>INTERSPIA</strong>: Explore the Dynamics of Protein-Protein Interactions Among Multiple Species (online)<br />
+<a href="https://doi.org/10.1093/nar/gky378"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://bioinfo.konkuk.ac.kr/INTERSPIA/"><img alt="Link" src="https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>IRaPPA</strong>: pyDockRescoring Server (online)<br />
+<a href="https://doi.org/10.1093/bioinformatics/btx068"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://life.bsc.es/pid/pydockrescoring/"><img alt="Link" src="https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>LightDock</strong>: Artificial Intelligence-powered modeling of macromolecular interactions (macromolecular docking framework, online)<br />
+<a href="https://doi.org/10.1093/bioinformatics/btx555"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:82-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://server.lightdock.org/"><img alt="Link" src="https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>P3DOCK</strong>: a protein-RNA docking webserver based on template-based and template-free docking (online)<br />
+<a href="https://doi.org/10.1093/bioinformatics/btz478"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://www.rnabinding.com/P3DOCK/P3DOCK.html"><img alt="Link" src="https://img.shields.io/badge/Link-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>PIIMS</strong>: Mutation Hotspot Scanning at the Protein-Protein Interface (online)<br />
+<a href="http://chemyang.ccnu.edu.cn/ccb/server/PIIMS/index.php"><img alt="Link" src="https://img.shields.io/badge/Link-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>PPI-Affinity</strong>: Prediction and Optimization of Protein-Peptide and Protein-Protein Binding Affinity (online)<br />
+<a href="https://doi.org/10.1021/acs.jproteome.2c00020"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:36-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://protdcal.zmb.uni-due.de/PPIAffinity"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>PRODIGY</strong>: PROtein binDIng enerGY prediction (online)<br />
+<a href="https://doi.org/10.1093/bioinformatics/btw514"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:781-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://wenmr.science.uu.nl/prodigy/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>PRODIGY-crystal</strong>: classification of biological interfaces in protein complexes (online)<br />
+<a href="https://doi.org/10.1093/bioinformatics/btz437"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:28-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://wenmr.science.uu.nl/prodigy/"><img alt="Link" src="https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>pyDock</strong>: <br />
+<a href="https://doi.org/10.1093/bioinformatics/btt262"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:218-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://life.bsc.es/pid/pydock/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>pyDockDNA</strong>: A new web server for energy-based protein-DNA docking and scoring (online)<br />
+<a href="https://doi.org/10.3389/fmolb.2022.988996"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://model3dbio.csic.es/pydockdna"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>pyDockEneRes</strong>: per-residue decomposition of protein-protein docking energy (online)<br />
+<a href="https://doi.org/10.1093/bioinformatics/btz884"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://life.bsc.es/pid/pydockeneres"><img alt="Link" src="https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>QASDOM</strong>: Quality ASsessment of DOcking Models, protein-protein (online)<br />
+<a href="https://doi.org/10.1093/bioinformatics/btx591"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://qasdom.eimb.ru/qasdom.html"><img alt="Link" src="https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>RosettaDock</strong>: Efficient Flexible Backbone Protein-Protein Docking for Challenging Targets (standalone and online)<br />
+<a href="https://doi.org/10.1093%2Fnar%2Fgkn216"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:476-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://www.rosettacommons.org/"><img alt="Link" src="https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>SPServer</strong>: split-statistical potentials for the analysis of protein structures and protein-protein interactions (PPI) (online) (or http://sbi.upf.edu/spserver/)<br />
+<a href="https://doi.org/10.1186/s12859-020-03770-5"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://sbi.upf.edu/spserver/"><img alt="Link" src="https://img.shields.io/badge/Link-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>SwarmDock</strong>: webservice for generating 3D structures of protein-protein complexes (online)<br />
+<a href="https://doi.org/10.1007/978-1-0716-0708-4_11"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://bmm.crick.ac.uk/~SwarmDock/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&amp;logo=xamarin&amp;logoColor=red" /></a>  </li>
+<li><strong>webSDA</strong>: Simulation of Diffusional Assosiation (SDA) (online)<br />
+<a href="https://doi.org/10.1093/nar/gkv335"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="https://websda.h-its.org/webSDA"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+<li><strong>ZDOCK</strong>: docking (online)<br />
+<a href="https://doi.org/10.1371/journal.pone.0024657"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:494-blue?style=for-the-badge&amp;logo=bookstack" /></a><br />
+<a href="http://zdock.umassmed.edu/"><img alt="Webserver" src="https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&amp;logo=cachet&amp;logoColor=65FF8F" /></a>  </li>
+</ul>
+<h2 id="quality-assessment"><strong>Quality Assessment</strong></h2>
+<ul>
+<li><strong>DockQ</strong>: A Quality Measure for Protein-Protein Docking Models (standalone)<br />
+<a href="http://github.com/bjornwallner/DockQ/"><img alt="Code" src="https://img.shields.io/github/stars/None?style=for-the-badge&amp;logo=github" /></a><br />
+<a href="http://github.com/bjornwallner/DockQ/"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/None?style=for-the-badge&amp;logo=github" /></a><br />
+<a href="https://doi.org/10.1371/journal.pone.0161879"><img alt="Publication" src="https://img.shields.io/badge/Publication-Citations:234-blue?style=for-the-badge&amp;logo=bookstack" /></a>  </li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.fe8b6f2b.min.js"></script>
+      
+    
+  </body>
+</html>
