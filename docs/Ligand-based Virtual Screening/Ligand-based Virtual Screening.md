@@ -29,7 +29,7 @@
 - **SmallWorld**: web-based ligand similarity on a variety of commercial databases  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://sw.docking.org/search.html)  
 - **SwissSimilarity**: SwissSimilarity offers an online service for small molecule similarity screening against selected compound libraries using various cheminformatics methods.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:64-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390%2Fijms23020811)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:68-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390%2Fijms23020811)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.swisssimilarity.ch/)  
 - **WHALES**: WHALES provides a virtual screening pipeline focusing on scaffold hopping and ligand-based drug discovery through a Jupyter notebook example.  
 	[![Code](https://img.shields.io/github/stars/grisoniFr/scaffold_hopping_whales?style=for-the-badge&logo=github)](https://github.com/grisoniFr/scaffold_hopping_whales/blob/master/code/virtual_screening_pipeline.ipynb)  
@@ -47,7 +47,7 @@
 - **SENSAAS**: SENSAAS is a shape-based alignment software for superimposing molecules, utilizing a colored point-based surface representation for molecular comparison.  
 	[![Code](https://img.shields.io/github/stars/SENSAAS/sensaas?style=for-the-badge&logo=github)](https://github.com/SENSAAS/sensaas)  
 	[![Last Commit](https://img.shields.io/github/last-commit/SENSAAS/sensaas?style=for-the-badge&logo=github)](https://github.com/SENSAAS/sensaas)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/minf.202000081)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/minf.202000081)  
 - **ShaEP**: ShaEP aligns two 3D molecular structures and computes a similarity index, useful for virtual screening and 3D QSAR methods.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:164-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci800315d)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://users.abo.fi/mivainio/shaep/)  
@@ -72,6 +72,6 @@
 - **iSIM**:   
 	[![Code](https://img.shields.io/github/stars/mqcomplab/iSIM?style=for-the-badge&logo=github)](https://github.com/mqcomplab/iSIM/blob/main/iSIM_example.ipynb)  
 	[![Last Commit](https://img.shields.io/github/last-commit/mqcomplab/iSIM?style=for-the-badge&logo=github)](https://github.com/mqcomplab/iSIM/blob/main/iSIM_example.ipynb)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:54-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c01073)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:59-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c01073)  
 - **Surflex-Tools**: starting with version 4 (standalone).  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.biopharmics.com/)  

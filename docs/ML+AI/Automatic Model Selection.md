@@ -8,7 +8,7 @@
 - **PREFER**: The PREFER framework automates the evaluation of different combinations of molecular representations and machine learning models for predicting molecular properties, utilizing AutoSklearn for model selection and hyperparameter tuning.  
 	[![Code](https://img.shields.io/github/stars/rdkit/PREFER?style=for-the-badge&logo=github)](https://github.com/rdkit/PREFER)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rdkit/PREFER?style=for-the-badge&logo=github)](https://github.com/rdkit/PREFER)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:298-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/C8SC04175J)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:301-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/C8SC04175J)  
 - **ROBERT**:   
 	[![Code](https://img.shields.io/github/stars/jvalegre/robert?style=for-the-badge&logo=github)](https://github.com/jvalegre/robert)  
 	[![Last Commit](https://img.shields.io/github/last-commit/jvalegre/robert?style=for-the-badge&logo=github)](https://github.com/jvalegre/robert)  

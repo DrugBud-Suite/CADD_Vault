@@ -4,7 +4,7 @@
 	[![Code](https://img.shields.io/github/stars/CSUBioGroup/PGMG?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/PGMG)  
 	[![Last Commit](https://img.shields.io/github/last-commit/CSUBioGroup/PGMG?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/PGMG)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:6-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41467-023-41454-9)  
-	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.csuligroup.com/PGMG)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.csuligroup.com/PGMG)  
 
 ## **From Apo Protein**
 - **Apo2ph4**: Workflow for the Generation of Receptor-based Pharmacophore Models for Virtual Screening (online).  
@@ -19,7 +19,7 @@
 - **PharMD**: PharMD retrieves pharmacophore models from molecular dynamics (MD) trajectories of protein-ligand complexes, identifies redundant pharmacophores, and performs virtual screening using multiple pharmacophore models.  
 	[![Code](https://img.shields.io/github/stars/ci-lab-cz/pharmd?style=for-the-badge&logo=github)](https://github.com/ci-lab-cz/pharmd)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ci-lab-cz/pharmd?style=for-the-badge&logo=github)](https://github.com/ci-lab-cz/pharmd)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/ijms20235834)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/ijms20235834)  
 - **Pharmmaker**: Pharmacophore modeling model using outputs of druggability simulations. Uses multiple target conformations dependent on the binding poses of probes where they interact during druggability simulations (standalone and online).  
 	[![Code](https://img.shields.io/github/stars/prody/ProDy?style=for-the-badge&logo=github)](https://github.com/prody/ProDy)  
 	[![Last Commit](https://img.shields.io/github/last-commit/prody/ProDy?style=for-the-badge&logo=github)](https://github.com/prody/ProDy)  
@@ -70,5 +70,5 @@
 
 ## **Web-Servers**
 - **Pharmit**: Pharmit provides an interactive environment for the identification and visualization of pharmacophore models, enabling virtual screening against millions of compounds. It offers tools for specifying pharmacophores, flexibly searching chemical databases, and viewing results in 3D directly in the web browser.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:221-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkw287)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:223-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkw287)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pharmit.csb.pitt.edu/)  

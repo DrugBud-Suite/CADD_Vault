@@ -1,7 +1,7 @@
 
 ## **Carbohydrates**
 - **VinaCarb**: Carbohydrate specific scoring function  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:90-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00834)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:91-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00834)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://pubs.acs.org/doi/10.1021/acs.jctc.5b00834)  
 
 ## **ElectroStatic Potential-based**
@@ -11,7 +11,7 @@
 ## **Electron Density**
 - **ExptGMS**: Experimental Electron Density based Grid Matching Score  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs42004-023-00984-5)  
-	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://exptgms.stonewise.cn/#/create)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://exptgms.stonewise.cn/#/create)  
 
 ## **Empirical**
 - **AA-Score**: An empirical protein-ligand scoring function focusing on amino acid-specific interaction components for improved virtual screening and lead optimization.  
@@ -21,15 +21,15 @@
 - **LinF9**: Presents Lin_F9, a linear empirical scoring function for protein-ligand docking, available within a fork of the Smina docking suite.  
 	[![Code](https://img.shields.io/github/stars/cyangNYU/Lin_F9_test?style=for-the-badge&logo=github)](https://github.com/cyangNYU/Lin_F9_test)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cyangNYU/Lin_F9_test?style=for-the-badge&logo=github)](https://github.com/cyangNYU/Lin_F9_test)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00737)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00737)  
 - **Vinardo**: Vinardo is a scoring function based on Autodock Vina that improves scoring, docking, and virtual screening capabilities. It was trained through a combination of scoring, minimization, and re-docking on curated datasets for optimum docking performance. Vinardo is available within Smina, a fork of Vina.  
 	[![Code](https://img.shields.io/badge/Code)](http://smina.sf.net/)
-	[![Publication](https://img.shields.io/badge/Publication-Citations:218-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0155183)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:222-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0155183)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155183)  
 - **Cyscore**: An empirical scoring function for accurate protein-ligand binding affinty prediction (linux command line) (standalone).  
 	[![Code](https://img.shields.io/badge/Code)](http://clab.labshare.cn/software/)
 	[![Publication](https://img.shields.io/badge/Publication-Citations:70-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1471-2105-15-291)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://clab.labshare.cn/software/cyscore.html)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://clab.labshare.cn/software/cyscore.html)  
 
 ## **Hybrid**
 - **SQM-ML**: Hybrid Semiempirical Quantum Chemical - Machine Learning (SQM-ML) scoring function for protein-ligand interactions  
@@ -54,7 +54,7 @@
 	[![Publication](https://img.shields.io/badge/Publication-Citations:34-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0373-4)  
 - **ITScoreAff**: iterative knowledge-based scoring function for protein-ligand interactions by considering binding affinity information  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jpcb.3c04421)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://huanglab.phys.hust.edu.cn/ITScoreAff/)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://huanglab.phys.hust.edu.cn/ITScoreAff/)  
 - **KORP-PL**: KORP-PL is a novel coarse-grained knowledge-based scoring function for protein-ligand interactions, focusing on the relative orientation of a ligand molecule to a protein residue.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btaa748)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://team.inria.fr/nano-d/software/korp-pl/)  
@@ -63,7 +63,7 @@
 - **AEScore**: Learning protein-ligand binding affinity using atomic environment vectors.  
 	[![Code](https://img.shields.io/github/stars/bigginlab/aescore?style=for-the-badge&logo=github)](https://github.com/bigginlab/aescore)  
 	[![Last Commit](https://img.shields.io/github/last-commit/bigginlab/aescore?style=for-the-badge&logo=github)](https://github.com/bigginlab/aescore)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:32-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00536-w)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:33-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00536-w)  
 - **AKScore**: This model uses an ensemble of multiple independently trained 3-D convolutional neural networks to predict protein-ligand complex binding affinity, showing high correlation with experimental data.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:56-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/ijms21228424)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pubmed.ncbi.nlm.nih.gov/33182567/)  
@@ -74,7 +74,7 @@
 - **CAPLA**: Improved prediction of protein-ligand binding affinity by a deep learning approach based on a cross-attention mechanism.  
 	[![Code](https://img.shields.io/github/stars/lennylv/CAPLA?style=for-the-badge&logo=github)](https://github.com/lennylv/CAPLA)  
 	[![Last Commit](https://img.shields.io/github/last-commit/lennylv/CAPLA?style=for-the-badge&logo=github)](https://github.com/lennylv/CAPLA)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:21-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btad049)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:22-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btad049)  
 - **Censible**: Predicts small-molecule binding affinities using deep-learning context explanation networks for interpretable output.  
 	[![Code](https://img.shields.io/github/stars/durrantlab/censible?style=for-the-badge&logo=github)](https://github.com/durrantlab/censible/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/censible?style=for-the-badge&logo=github)](https://github.com/durrantlab/censible/)  
@@ -91,7 +91,7 @@
 - **DeepAffinity**: Protein-compound affinity prediction through unified RNN-CNN.  
 	[![Code](https://img.shields.io/github/stars/Shen-Lab/DeepAffinity?style=for-the-badge&logo=github)](https://github.com/Shen-Lab/DeepAffinity)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Shen-Lab/DeepAffinity?style=for-the-badge&logo=github)](https://github.com/Shen-Lab/DeepAffinity)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:304-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz111)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:307-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz111)  
 - **DeepBindGCN**: Predicts protein ligand binding affinity non-dependent on docking conformation.  
 	[![Code](https://img.shields.io/github/stars/haiping1010/DeepBindGCN?style=for-the-badge&logo=github)](https://github.com/haiping1010/DeepBindGCN)  
 	[![Last Commit](https://img.shields.io/github/last-commit/haiping1010/DeepBindGCN?style=for-the-badge&logo=github)](https://github.com/haiping1010/DeepBindGCN)  
@@ -134,7 +134,7 @@
 - **FAST**: Fusion models for Atomic and molecular STructures aiming at predicting accurate protein-ligand binding affinity.  
 	[![Code](https://img.shields.io/github/stars/llnl/fast?style=for-the-badge&logo=github)](https://github.com/llnl/fast)  
 	[![Last Commit](https://img.shields.io/github/last-commit/llnl/fast?style=for-the-badge&logo=github)](https://github.com/llnl/fast)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:149-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01306)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:153-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01306)  
 - **FGNN**: Predicts ligand binding affinity with graph neural networks and 3D structure-based complex graph.  
 	[![Code](https://img.shields.io/github/stars/LinaDongXMU/FGNN?style=for-the-badge&logo=github)](https://github.com/LinaDongXMU/FGNN)  
 	[![Last Commit](https://img.shields.io/github/last-commit/LinaDongXMU/FGNN?style=for-the-badge&logo=github)](https://github.com/LinaDongXMU/FGNN)  
@@ -142,7 +142,7 @@
 - **FusionDTA**: A framework focusing on protein-ligand binding affinity prediction with deep learning techniques.  
 	[![Code](https://img.shields.io/github/stars/yuanweining/FusionDTA?style=for-the-badge&logo=github)](https://github.com/yuanweining/FusionDTA)  
 	[![Last Commit](https://img.shields.io/github/last-commit/yuanweining/FusionDTA?style=for-the-badge&logo=github)](https://github.com/yuanweining/FusionDTA)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:49-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbab506)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:50-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbab506)  
 - **GBScore**: A scoring function based on Gradient Boosting Trees algorithm for predicting ligand-protein binding affinity.  
 	[![Code](https://img.shields.io/github/stars/miladrayka/GB_Score?style=for-the-badge&logo=github)](https://github.com/miladrayka/GB_Score)  
 	[![Last Commit](https://img.shields.io/github/last-commit/miladrayka/GB_Score?style=for-the-badge&logo=github)](https://github.com/miladrayka/GB_Score)  
@@ -150,7 +150,7 @@
 - **GenScore**: A scoring framework for predicting protein-ligand binding affinity.  
 	[![Code](https://img.shields.io/github/stars/sc8668/GenScore?style=for-the-badge&logo=github)](https://github.com/sc8668/GenScore)  
 	[![Last Commit](https://img.shields.io/github/last-commit/sc8668/GenScore?style=for-the-badge&logo=github)](https://github.com/sc8668/GenScore)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039%2Fd3sc02044d)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:14-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039%2Fd3sc02044d)  
 - **GGL-ETA-Score**: This code computes features for both the SYBYL-GGL and ECIF-GGL models.  
 	[![Code](https://img.shields.io/github/stars/NguyenLabUKY/GGL-ETA-Score?style=for-the-badge&logo=github)](https://github.com/NguyenLabUKY/GGL-ETA-Score)  
 	[![Last Commit](https://img.shields.io/github/last-commit/NguyenLabUKY/GGL-ETA-Score?style=for-the-badge&logo=github)](https://github.com/NguyenLabUKY/GGL-ETA-Score)  
@@ -167,11 +167,11 @@
 - **GraphscoreDTA**: A graph neural network for protein-ligand binding affinity prediction.  
 	[![Code](https://img.shields.io/github/stars/CSUBioGroup/GraphscoreDTA?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/GraphscoreDTA)  
 	[![Last Commit](https://img.shields.io/github/last-commit/CSUBioGroup/GraphscoreDTA?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/GraphscoreDTA)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btad340)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btad340)  
 - **HAC-Net**: A Hybrid Attention-Based Convolutional Neural Network for Highly Accurate Protein-Ligand Binding Affinity Prediction.  
 	[![Code](https://img.shields.io/github/stars/gregory-kyro/HAC-Net?style=for-the-badge&logo=github)](https://github.com/gregory-kyro/HAC-Net/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/gregory-kyro/HAC-Net?style=for-the-badge&logo=github)](https://github.com/gregory-kyro/HAC-Net/)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00251)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:22-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00251)  
 - **HaPPy**: Utilizes multi-perspective graphs for protein-ligand binding affinity prediction.  
 	[![Code](https://img.shields.io/github/stars/Jthy-af/HaPPy?style=for-the-badge&logo=github)](https://github.com/Jthy-af/HaPPy)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Jthy-af/HaPPy?style=for-the-badge&logo=github)](https://github.com/Jthy-af/HaPPy)  
@@ -179,9 +179,9 @@
 - **HGScore**: A Heterogeneous Graph Convolutional Neural Network to score a protein-ligand complex.  
 	[![Code](https://img.shields.io/github/stars/KevinCrp/HGScore?style=for-the-badge&logo=github)](https://github.com/KevinCrp/HGScore)  
 	[![Last Commit](https://img.shields.io/github/last-commit/KevinCrp/HGScore?style=for-the-badge&logo=github)](https://github.com/KevinCrp/HGScore)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.37349/eds.2023.00010)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.37349/eds.2023.00010)  
 - **KDeep**: protein-ligand affinity predictor based on DCNNs (Deep Convolutional Neural Networks).  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:592-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.7b00650)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:600-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.7b00650)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://playmolecule.org/Kdeep/)  
 - **KIDA**: Process for extracting protein pockets and generating training data for KIDA.  
 	[![Code](https://img.shields.io/github/stars/RuiqiangLu/KIDA?style=for-the-badge&logo=github)](https://github.com/RuiqiangLu/KIDA)  
@@ -196,10 +196,10 @@
 - **MGraphDTA**: Implements a high-efficiency concordance index for performance evaluation of drug-target affinity prediction.  
 	[![Code](https://img.shields.io/github/stars/guaguabujianle/MGraphDTA?style=for-the-badge&logo=github)](https://github.com/guaguabujianle/MGraphDTA)  
 	[![Last Commit](https://img.shields.io/github/last-commit/guaguabujianle/MGraphDTA?style=for-the-badge&logo=github)](https://github.com/guaguabujianle/MGraphDTA)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:113-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D1SC05180F)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:119-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D1SC05180F)  
 - **ML-PLIC**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbad295)  
-	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://cadd.zju.edu.cn/plic/)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://cadd.zju.edu.cn/plic/)  
 - **MSECIFv2**: Improved version of extended connectivity interaction features (ECIF) by enabling to take the atomic distance into account.  
 	[![Code](https://img.shields.io/github/stars/koji11235/MSECIFv2?style=for-the-badge&logo=github)](https://github.com/koji11235/MSECIFv2)  
 	[![Last Commit](https://img.shields.io/github/last-commit/koji11235/MSECIFv2?style=for-the-badge&logo=github)](https://github.com/koji11235/MSECIFv2)  
@@ -207,12 +207,12 @@
 - **OctSurf**: Efficient hierarchical voxel-based molecular surface representation for protein-ligand affinity prediction (scoring) (standalone).  
 	[![Code](https://img.shields.io/github/stars/None?style=for-the-badge&logo=github)](https://github.uconn.edu/mldrugdiscovery/OctSurf)  
 	[![Last Commit](https://img.shields.io/github/last-commit/None?style=for-the-badge&logo=github)](https://github.uconn.edu/mldrugdiscovery/OctSurf)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:21-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.jmgm.2021.107865)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:22-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.jmgm.2021.107865)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://github.uconn.edu/mldrugdiscovery/OctSurf)  
 - **OnionNet**: A multiple-layer inter-molecular contact based deep neural network for protein-ligand binding affinity prediction.  
 	[![Code](https://img.shields.io/github/stars/zhenglz/onionnet?style=for-the-badge&logo=github)](https://github.com/zhenglz/onionnet/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/zhenglz/onionnet?style=for-the-badge&logo=github)](https://github.com/zhenglz/onionnet/)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:194-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.9b01997)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:198-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.9b01997)  
 - **OnionNet-2**: OnionNet-2 is constructed based on convolutional neural network (CNN) to predict the protein-ligand binding affinity.  
 	[![Code](https://img.shields.io/github/stars/zchwang/OnionNet-2?style=for-the-badge&logo=github)](https://github.com/zchwang/OnionNet-2/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/zchwang/OnionNet-2?style=for-the-badge&logo=github)](https://github.com/zchwang/OnionNet-2/)  
@@ -228,7 +228,7 @@
 - **PIGNet**: physics-informed deep learning model toward generalized drug–target interaction predictions  
 	[![Code](https://img.shields.io/github/stars/ACE-KAIST/PIGNet?style=for-the-badge&logo=github)](https://github.com/ACE-KAIST/PIGNet)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ACE-KAIST/PIGNet?style=for-the-badge&logo=github)](https://github.com/ACE-KAIST/PIGNet)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:74-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D1SC06946B)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:77-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D1SC06946B)  
 - **PIGNet2**: A versatile deep learning-based model for protein-ligand interaction prediction.  
 	[![Code](https://img.shields.io/github/stars/ACE-KAIST/PIGNet2?style=for-the-badge&logo=github)](https://github.com/ACE-KAIST/PIGNet2)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ACE-KAIST/PIGNet2?style=for-the-badge&logo=github)](https://github.com/ACE-KAIST/PIGNet2)  
@@ -260,7 +260,7 @@
 - **RTMScore**: A novel scoring function based on residue-atom distance likelihood potential and graph transformer for predicting protein-ligand interactions efficiently.  
 	[![Code](https://img.shields.io/github/stars/sc8668/RTMScore?style=for-the-badge&logo=github)](https://github.com/sc8668/RTMScore)  
 	[![Last Commit](https://img.shields.io/github/last-commit/sc8668/RTMScore?style=for-the-badge&logo=github)](https://github.com/sc8668/RTMScore)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:59-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.2c00991)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:63-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.2c00991)  
 - **SadNet**:   
 	[![Code](https://img.shields.io/github/stars/wardhong/SadNet?style=for-the-badge&logo=github)](https://github.com/wardhong/SadNet)  
 	[![Last Commit](https://img.shields.io/github/last-commit/wardhong/SadNet?style=for-the-badge&logo=github)](https://github.com/wardhong/SadNet)  
@@ -288,7 +288,7 @@
 - **TankBind**: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction  
 	[![Code](https://img.shields.io/github/stars/luwei0917/TankBind?style=for-the-badge&logo=github)](https://github.com/luwei0917/TankBind)  
 	[![Last Commit](https://img.shields.io/github/last-commit/luwei0917/TankBind?style=for-the-badge&logo=github)](https://github.com/luwei0917/TankBind)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:44-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2022.06.06.495043)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:46-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2022.06.06.495043)  
 - **TB-IEC-Score**: Meta-modeling of ligand-protein binding affinity.  
 	[![Code](https://img.shields.io/github/stars/schrojunzhang/TB-IEC-Score?style=for-the-badge&logo=github)](https://github.com/schrojunzhang/TB-IEC-Score)  
 	[![Last Commit](https://img.shields.io/github/last-commit/schrojunzhang/TB-IEC-Score?style=for-the-badge&logo=github)](https://github.com/schrojunzhang/TB-IEC-Score)  
@@ -306,6 +306,11 @@
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.2c01723.)  
 - **FitScore**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21203/rs.3.rs-4523265/v1)  
+- **HydraScreen**: utilizes a state-of-the-art 3D convolutional neural network designed for the effective representation of molecular structures and interactions in protein–ligand binding  
+	[![Code](https://img.shields.io/github/stars/Ro5-ai/hydrascreen?style=for-the-badge&logo=github)](https://github.com/Ro5-ai/hydrascreen)  
+	[![Last Commit](https://img.shields.io/github/last-commit/Ro5-ai/hydrascreen?style=for-the-badge&logo=github)](https://github.com/Ro5-ai/hydrascreen)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00481)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://hydrascreen.ro5.ai/paper)  
 
 ## **Metalloproteins Specific**
 - **MetalProGNet**: MetalProGNet is a structure-based deep graph model specifically designed for metalloprotein-ligand interaction predictions, developed based on the IGN framework.  
@@ -332,7 +337,7 @@
 
 ## **Relative Binding Affinity**
 - **PBCNet**: Webserver for relative binding affinity calculation.  
-	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pbcnet.alphama.com.cn/index)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://pbcnet.alphama.com.cn/index)  
 
 ## **SF Optimisation**
 - **SANDRES2.0**: Statistical Analysis of Docking Results and Scoring functions  

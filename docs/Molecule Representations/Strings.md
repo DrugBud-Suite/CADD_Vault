@@ -3,7 +3,7 @@
 - **selfies**:   
 	[![Code](https://img.shields.io/github/stars/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies)  
 	[![Last Commit](https://img.shields.io/github/last-commit/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3DD00044C)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3DD00044C)  
 
 ## **SMARTS-related**
 - **SMARTS**: SMARTS is like a regular expression for chemical compounds  

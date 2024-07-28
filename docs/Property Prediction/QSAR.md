@@ -1,7 +1,7 @@
 
 ## **Model Building And Training**
 - **ChemSAR**: full workflow of building a Structure‑Activity/Property Relationship(SAR/SPR) model (online)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://chemsar.scbdd.com/)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://chemsar.scbdd.com/)  
 - **FL-QSAR**: an horizontal federated-learning based QSAR platform  
 	[![Code](https://img.shields.io/github/stars/bm2-lab/FL-QSAR?style=for-the-badge&logo=github)](https://github.com/bm2-lab/FL-QSAR)  
 	[![Last Commit](https://img.shields.io/github/last-commit/bm2-lab/FL-QSAR?style=for-the-badge&logo=github)](https://github.com/bm2-lab/FL-QSAR)  
@@ -37,11 +37,16 @@
 	[![Code](https://img.shields.io/github/stars/Ribosome25/TopoReg_QSAR?style=for-the-badge&logo=github)](https://github.com/Ribosome25/TopoReg_QSAR)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Ribosome25/TopoReg_QSAR?style=for-the-badge&logo=github)](https://github.com/Ribosome25/TopoReg_QSAR)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-49372-0)  
+- **QSARtuna**: Automated QSAR Modeling Platform for Molecular Property Prediction in Drug Design  
+	[![Code](https://img.shields.io/github/stars/MolecularAI/QSARtuna?style=for-the-badge&logo=github)](https://github.com/MolecularAI/QSARtuna/tree/master)  
+	[![Last Commit](https://img.shields.io/github/last-commit/MolecularAI/QSARtuna?style=for-the-badge&logo=github)](https://github.com/MolecularAI/QSARtuna/tree/master)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00457)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://molecularai.github.io/QSARtuna/)  
 ### **3D**
 - **3D-MIL-QSAR**:   
 	[![Code](https://img.shields.io/github/stars/cimm-kzn/3D-MIL-QSAR?style=for-the-badge&logo=github)](https://github.com/cimm-kzn/3D-MIL-QSAR)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cimm-kzn/3D-MIL-QSAR?style=for-the-badge&logo=github)](https://github.com/cimm-kzn/3D-MIL-QSAR)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00692)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:18-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00692)  
 ### **Hyperparameter Optimization**
 - **QPTuna**: QPTUNA is designed for building predictive QSAR models using hyperparameters optimized by Optuna, with features like Uncertainty Quantification and model explainability.  
 	[![Code](https://img.shields.io/github/stars/MolecularAI/Qptuna?style=for-the-badge&logo=github)](https://github.com/MolecularAI/Qptuna)  

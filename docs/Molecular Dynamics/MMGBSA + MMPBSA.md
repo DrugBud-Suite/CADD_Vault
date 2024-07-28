@@ -4,11 +4,11 @@
 - **gmx_qk**: An Automated Protein/Protein–Ligand Complex Simulation Workflow Bridged to MM/PBSA, Based on Gromacs and Zenity-Dependent GUI for Beginners in MD Simulation Study (standalone)  
 	[![Code](https://img.shields.io/github/stars/harry-maan/gmx_qk?style=for-the-badge&logo=github)](https://github.com/harry-maan/gmx_qk)  
 	[![Last Commit](https://img.shields.io/github/last-commit/harry-maan/gmx_qk?style=for-the-badge&logo=github)](https://github.com/harry-maan/gmx_qk)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00341)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:5-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00341)  
 - **iPBSA**: Improving virtual screening results with MM/GBSA and MM/PBSA rescoring (standalone).  
 	[![Code](https://img.shields.io/github/stars/sahakyanhk/iPBSA?style=for-the-badge&logo=github)](https://github.com/sahakyanhk/iPBSA)  
 	[![Last Commit](https://img.shields.io/github/last-commit/sahakyanhk/iPBSA?style=for-the-badge&logo=github)](https://github.com/sahakyanhk/iPBSA)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:40-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-021-00389-3)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:41-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-021-00389-3)  
 - **Uni-GBSA**: open-source and web-based automatic workflow to perform MM/GB(PB)SA calculations for virtual screening (online)  
 	[![Code](https://img.shields.io/github/stars/dptech-corp/Uni-GBSA?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-GBSA)  
 	[![Last Commit](https://img.shields.io/github/last-commit/dptech-corp/Uni-GBSA?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-GBSA)  

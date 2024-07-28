@@ -8,8 +8,12 @@
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2404.00044)  
 - **https://github.com/gmum/RetroGFN**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2406.18739)  
+- **SPARROW**: synthetic cost-aware decision making in molecular design  
+	[![Code](https://img.shields.io/github/stars/coleygroup/sparrow?style=for-the-badge&logo=github)](https://github.com/coleygroup/sparrow)  
+	[![Last Commit](https://img.shields.io/github/last-commit/coleygroup/sparrow?style=for-the-badge&logo=github)](https://github.com/coleygroup/sparrow)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2311.02187)  
 
 ## **LLM**
 - **SynAsk**: a comprehensive organic chemistry domain-specific LLM platform  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2406.04593)  
-	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://synask.aichemeco.com)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://synask.aichemeco.com)  

@@ -17,7 +17,7 @@
 - **cMolGPT**: cMolGPT, a Conditional Generative Pre-trained Transformer, aims for de novo molecular design by enforcing target specificity during the generation process, emphasizing the incorporation of target embeddings.  
 	[![Code](https://img.shields.io/github/stars/VV123/cMolGPT?style=for-the-badge&logo=github)](https://github.com/VV123/cMolGPT)  
 	[![Last Commit](https://img.shields.io/github/last-commit/VV123/cMolGPT?style=for-the-badge&logo=github)](https://github.com/VV123/cMolGPT)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/molecules28114430)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/molecules28114430)  
 - **DeepICL**: 3D molecular generative framework for interaction-guided drug design  
 	[![Code](https://img.shields.io/github/stars/ACE-KAIST/DeepICL?style=for-the-badge&logo=github)](https://github.com/ACE-KAIST/DeepICL)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ACE-KAIST/DeepICL?style=for-the-badge&logo=github)](https://github.com/ACE-KAIST/DeepICL)  
@@ -81,7 +81,7 @@
 - **liGAN**: A project for structure-based drug discovery using deep generative models of atomic density grids.  
 	[![Code](https://img.shields.io/github/stars/mattragoza/liGAN?style=for-the-badge&logo=github)](https://github.com/mattragoza/liGAN)  
 	[![Last Commit](https://img.shields.io/github/last-commit/mattragoza/liGAN?style=for-the-badge&logo=github)](https://github.com/mattragoza/liGAN)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:67-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D1SC05976A)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:70-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D1SC05976A)  
 - **Ligand_Generation**: This project focuses on target-aware variational autoencoders for ligand generation, employing multimodal protein representation learning for structure-based drug design.  
 	[![Code](https://img.shields.io/github/stars/HySonLab/Ligand_Generation?style=for-the-badge&logo=github)](https://github.com/HySonLab/Ligand_Generation)  
 	[![Last Commit](https://img.shields.io/github/last-commit/HySonLab/Ligand_Generation?style=for-the-badge&logo=github)](https://github.com/HySonLab/Ligand_Generation)  
@@ -121,7 +121,7 @@
 - **PocketOptimizer 2.0**: Design of small molecule‐binding pockets in proteins (standalone)  
 	[![Code](https://img.shields.io/github/stars/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:7146-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:7238-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
 - **RELATION**: A software for DL-based de novo drug design, focusing on generating molecules based on target protein interactions.  
 	[![Code](https://img.shields.io/github/stars/micahwang/RELATION?style=for-the-badge&logo=github)](https://github.com/micahwang/RELATION)  
 	[![Last Commit](https://img.shields.io/github/last-commit/micahwang/RELATION?style=for-the-badge&logo=github)](https://github.com/micahwang/RELATION)  
@@ -137,7 +137,7 @@
 - **SBMolGen**: integrates a recurrent neural network, a Monte Carlo tree search, and docking simulations  
 	[![Code](https://img.shields.io/github/stars/clinfo/SBMolGen?style=for-the-badge&logo=github)](https://github.com/clinfo/SBMolGen)  
 	[![Last Commit](https://img.shields.io/github/last-commit/clinfo/SBMolGen?style=for-the-badge&logo=github)](https://github.com/clinfo/SBMolGen)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:33-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00679)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:34-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00679)  
 - **SCRdkit**: assesses the 3D similarity between generated molecules and a reference molecule  
 	[![Code](https://img.shields.io/github/stars/oxpig/DEVELOP?style=for-the-badge&logo=github)](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py)  
 	[![Last Commit](https://img.shields.io/github/last-commit/oxpig/DEVELOP?style=for-the-badge&logo=github)](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py)  
@@ -188,11 +188,11 @@
 	[![Last Commit](https://img.shields.io/github/last-commit/zkysfls/2024-sbdd-benchmark?style=for-the-badge&logo=github)](https://github.com/zkysfls/2024-sbdd-benchmark)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2406.03403)  
 - **Integrating structure-based approaches in generative molecular design [2023]**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.sbi.2023.102559)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:21-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.sbi.2023.102559)  
 - **Docking-based generative approaches in the search for new drug candidates [2022]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.drudis.2022.103439)  
 - **Generative Deep Learning for Targeted Compound Design [2021]**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:63-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01496)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:64-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01496)  
 
 ## **Sequence-based**
 - **Bajorath_Gen**:   

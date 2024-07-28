@@ -14,7 +14,7 @@
 - **Dockey**: Dockey is an integrated tool for molecular docking and virtual screening, providing a graphical user interface that simplifies the docking pipeline, including molecular preparation and interaction detection.  
 	[![Code](https://img.shields.io/github/stars/lmdu/dockey?style=for-the-badge&logo=github)](https://github.com/lmdu/dockey)  
 	[![Last Commit](https://img.shields.io/github/last-commit/lmdu/dockey?style=for-the-badge&logo=github)](https://github.com/lmdu/dockey)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbad047)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbad047)  
 - **Docking Python**: Docking_py is a Python library that simplifies the use of Smina, vina, qvina2, and qvinaw docking software, making docking tasks more scriptable and automated.  
 	[![Code](https://img.shields.io/github/stars/samuelmurail/docking_py?style=for-the-badge&logo=github)](https://github.com/samuelmurail/docking_py)  
 	[![Last Commit](https://img.shields.io/github/last-commit/samuelmurail/docking_py?style=for-the-badge&logo=github)](https://github.com/samuelmurail/docking_py)  
@@ -22,13 +22,13 @@
 - **DockStream**: DockStream is a docking wrapper offering access to various ligand embedders and docking backends, aimed at enhancing de novo molecular design through integration with the REINVENT platform.  
 	[![Code](https://img.shields.io/github/stars/MolecularAI/DockStream?style=for-the-badge&logo=github)](https://github.com/MolecularAI/DockStream)  
 	[![Last Commit](https://img.shields.io/github/last-commit/MolecularAI/DockStream?style=for-the-badge&logo=github)](https://github.com/MolecularAI/DockStream)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:27-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00563-7)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00563-7)  
 - **Dockstring**: A Python package for easy molecular docking (with Vina)… machine learning..(standalone).  
 	[![Code](https://img.shields.io/github/stars/dockstring/dockstring?style=for-the-badge&logo=github)](https://github.com/dockstring/dockstring)  
 	[![Last Commit](https://img.shields.io/github/last-commit/dockstring/dockstring?style=for-the-badge&logo=github)](https://github.com/dockstring/dockstring)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:33-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c01334)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:34-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c01334)  
 - **DrugSniffer**: Drug Sniffer is a virtual screening pipeline capable of screening billions of molecules using a combination of ligand-based and structure-based methods, designed to streamline and accelerate the drug discovery process.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3389%2Ffphar.2022.874746)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3389%2Ffphar.2022.874746)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://drugsniffer.org/)  
 - **EasyDock**: EasyDock is a fully automatic pipeline for molecular docking, featuring a simple setup for using vina and gnina/smina for docking operations, intended to streamline the docking process.  
 	[![Code](https://img.shields.io/github/stars/ci-lab-cz/easydock?style=for-the-badge&logo=github)](https://github.com/ci-lab-cz/easydock/tree/master)  
@@ -49,11 +49,11 @@
 - **VFLP**: VFLP (VirtualFlow for Ligand Preparation) is also part of the VirtualFlow project, focusing on preparing ligands for virtual screening tasks, utilizing the same core technology as VFVS.  
 	[![Code](https://img.shields.io/github/stars/VirtualFlow/VFLP?style=for-the-badge&logo=github)](https://github.com/VirtualFlow/VFLP?tab=readme-ov-file)  
 	[![Last Commit](https://img.shields.io/github/last-commit/VirtualFlow/VFLP?style=for-the-badge&logo=github)](https://github.com/VirtualFlow/VFLP?tab=readme-ov-file)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:353-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-020-2117-z)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:362-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-020-2117-z)  
 - **VFVS**: VFVS (VirtualFlow for Virtual Screening) is part of the VirtualFlow project, a parallel workflow platform for virtual screening tasks on Linux-based clusters, tailored for large-scale virtual screenings.  
 	[![Code](https://img.shields.io/github/stars/VirtualFlow/VFVS?style=for-the-badge&logo=github)](https://github.com/VirtualFlow/VFVS)  
 	[![Last Commit](https://img.shields.io/github/last-commit/VirtualFlow/VFVS?style=for-the-badge&logo=github)](https://github.com/VirtualFlow/VFVS)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:353-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-020-2117-z)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:362-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-020-2117-z)  
 - **VSpipe-GUI**: an Interactive Graphical User Interface for Virtual Screening and Hit Selection (examples with fragment docking...) (standalone, published 2024).  
 	[![Code](https://img.shields.io/github/stars/rashid-bioinfo/vspipe-gui?style=for-the-badge&logo=github)](https://github.com/rashid-bioinfo/vspipe-gui/tree/master/Installation_Guide)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rashid-bioinfo/vspipe-gui?style=for-the-badge&logo=github)](https://github.com/rashid-bioinfo/vspipe-gui/tree/master/Installation_Guide)  
@@ -64,3 +64,6 @@
 	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.3c02249)  
 - **Mcule Cloud CADD Platform**: Comprehensive set of drug discovery tools that can be used as LEGO bricks to build up complex workflows  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://mcule.com/hit-identification/)  
+- **DrugFlow**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00621)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://drugflow.com/#/)  

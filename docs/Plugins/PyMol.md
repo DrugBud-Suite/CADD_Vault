@@ -3,7 +3,7 @@
 	[![Last Commit](https://img.shields.io/github/last-commit/paiardin/DockingPie?style=for-the-badge&logo=github)](https://github.com/paiardin/DockingPie)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:18-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btac452)  
 - **iPBAVizu**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:81-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkr333)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:82-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkr333)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.dsimb.inserm.fr/dsimb_tools/iPBAVizu/)  
 - **ProBis H2O plugin**: ProBis H2O is a plugin for PyMOL that identifies conserved water sites in protein structures for drug design, supporting PyMOL version 2.3 and above on Linux and Windows.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&logo=bookstack)](doi:10.1021/acs.jcim.7b00443)  

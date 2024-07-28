@@ -1,7 +1,7 @@
 - **Acegen-Open**: TorchRL-based toolkit for reinforcement learning in generative chemistry  
 	[![Code](https://img.shields.io/github/stars/acellera/acegen-open?style=for-the-badge&logo=github)](https://github.com/acellera/acegen-open)  
 	[![Last Commit](https://img.shields.io/github/last-commit/acellera/acegen-open?style=for-the-badge&logo=github)](https://github.com/acellera/acegen-open)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00646-z)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:11-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00646-z)  
 - **ChemTSv2**: An extended version of ChemTS, focusing on functional molecular design using de novo molecule generators, incorporating improvements for LogP maximization tasks and other molecular design objectives.  
 	[![Code](https://img.shields.io/github/stars/molecule-generator-collection/ChemTSv2?style=for-the-badge&logo=github)](https://github.com/molecule-generator-collection/ChemTSv2)  
 	[![Last Commit](https://img.shields.io/github/last-commit/molecule-generator-collection/ChemTSv2?style=for-the-badge&logo=github)](https://github.com/molecule-generator-collection/ChemTSv2)  
@@ -13,7 +13,7 @@
 - **CRem**: open-source Python framework to generate chemical structures using a fragment-based approach  
 	[![Code](https://img.shields.io/github/stars/DrrDom/crem?style=for-the-badge&logo=github)](https://github.com/DrrDom/crem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/DrrDom/crem?style=for-the-badge&logo=github)](https://github.com/DrrDom/crem)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:45-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00431-w)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:46-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00431-w)  
 - **DEVELOP**: Implements Deep Generative Design with 3D Pharmacophoric Constraints for molecular design, focusing on linker design and scaffold elaboration using a combination of variational autoencoders and 3D pharmacophore modeling.  
 	[![Code](https://img.shields.io/github/stars/oxpig/DEVELOP?style=for-the-badge&logo=github)](https://github.com/oxpig/DEVELOP)  
 	[![Last Commit](https://img.shields.io/github/last-commit/oxpig/DEVELOP?style=for-the-badge&logo=github)](https://github.com/oxpig/DEVELOP)  
@@ -51,7 +51,7 @@
 - **GENTRL (Generative Tensorial Reinforcement Learning)**: A variational autoencoder with a rich prior distribution of the latent space, trained to find molecules with high reward, emphasizing the relations between molecular structures and their properties.  
 	[![Code](https://img.shields.io/github/stars/insilicomedicine/GENTRL?style=for-the-badge&logo=github)](https://github.com/insilicomedicine/GENTRL)  
 	[![Last Commit](https://img.shields.io/github/last-commit/insilicomedicine/GENTRL?style=for-the-badge&logo=github)](https://github.com/insilicomedicine/GENTRL)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:696-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41587-019-0224-x)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:706-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41587-019-0224-x)  
 - **GenUI**: Offers API and GUI for molecular generators, QSAR modelling, and chemical space visualization.  
 	[![Code](https://img.shields.io/github/stars/martin-sicho/genui?style=for-the-badge&logo=github)](https://github.com/martin-sicho/genui)  
 	[![Last Commit](https://img.shields.io/github/last-commit/martin-sicho/genui?style=for-the-badge&logo=github)](https://github.com/martin-sicho/genui)  
@@ -79,11 +79,11 @@
 - **LEADD**: Lamarckian evolutionary algorithm for de novo drug design (standalone)  
 	[![Code](https://img.shields.io/github/stars/UAMCAntwerpen/LEADD?style=for-the-badge&logo=github)](https://github.com/UAMCAntwerpen/LEADD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/UAMCAntwerpen/LEADD?style=for-the-badge&logo=github)](https://github.com/UAMCAntwerpen/LEADD)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:18-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00582-y)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00582-y)  
 - **LigDream**: Generates novel molecules from a reference shape but is no longer actively supported.  
 	[![Code](https://img.shields.io/github/stars/playmolecule/ligdream?style=for-the-badge&logo=github)](https://github.com/playmolecule/ligdream/tree/master)  
 	[![Last Commit](https://img.shields.io/github/last-commit/playmolecule/ligdream?style=for-the-badge&logo=github)](https://github.com/playmolecule/ligdream/tree/master)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:149-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.8b00706)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:151-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.8b00706)  
 - **LSTM_Chem**: Implements generative recurrent networks for drug design.  
 	[![Code](https://img.shields.io/github/stars/topazape/LSTM_Chem?style=for-the-badge&logo=github)](https://github.com/topazape/LSTM_Chem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/topazape/LSTM_Chem?style=for-the-badge&logo=github)](https://github.com/topazape/LSTM_Chem)  
@@ -111,7 +111,7 @@
 - **MolDQN**: Optimization of Molecules via Deep Reinforcement Learning  
 	[![Code](https://img.shields.io/github/stars/google-research/google-research?style=for-the-badge&logo=github)](https://github.com/google-research/google-research/tree/master/mol_dqn)  
 	[![Last Commit](https://img.shields.io/github/last-commit/google-research/google-research?style=for-the-badge&logo=github)](https://github.com/google-research/google-research/tree/master/mol_dqn)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:224-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-019-47148-x)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:227-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-019-47148-x)  
 - **MolDrug**: MolDrug is a Python package for drug-oriented optimization in the chemical space, using a Genetic Algorithm as a search engine and CReM library as the chemical structure generator.  
 	[![Code](https://img.shields.io/github/stars/ale94mleon/MolDrug?style=for-the-badge&logo=github)](https://github.com/ale94mleon/MolDrug)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ale94mleon/MolDrug?style=for-the-badge&logo=github)](https://github.com/ale94mleon/MolDrug)  
@@ -157,19 +157,19 @@
 	[![Code](https://img.shields.io/github/stars/CSUBioGroup/PGMG?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/PGMG)  
 	[![Last Commit](https://img.shields.io/github/last-commit/CSUBioGroup/PGMG?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/PGMG)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:6-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41467-023-41454-9)  
-	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.csuligroup.com/PGMG/)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.csuligroup.com/PGMG/)  
 - **Pytorch_VAE**: This repository provides a PyTorch implementation of the paper "Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules" by Gómez-Bombarelli, et al., focusing on a variational autoencoder for molecular design using the ChEMBL dataset.  
 	[![Code](https://img.shields.io/github/stars/Ishan-Kumar2/Molecular_VAE_Pytorch?style=for-the-badge&logo=github)](https://github.com/Ishan-Kumar2/Molecular_VAE_Pytorch)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Ishan-Kumar2/Molecular_VAE_Pytorch?style=for-the-badge&logo=github)](https://github.com/Ishan-Kumar2/Molecular_VAE_Pytorch)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1766-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.7b00572)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1784-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.7b00572)  
 - **QADD**: QADD is a novel de novo multi-objective quality assessment-based drug design approach that integrates an iterative refinement framework with a graph-based molecular quality assessment model to generate molecules with multiple desired properties.  
 	[![Code](https://img.shields.io/github/stars/yifang000/QADD?style=for-the-badge&logo=github)](https://github.com/yifang000/QADD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/yifang000/QADD?style=for-the-badge&logo=github)](https://github.com/yifang000/QADD)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btad157)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btad157)  
 - **REINVENT 4**: A molecular design tool for various design tasks like de novo design, scaffold hopping, and molecule optimization, using a reinforcement learning algorithm.  
 	[![Code](https://img.shields.io/github/stars/MolecularAI/REINVENT4?style=for-the-badge&logo=github)](https://github.com/MolecularAI/REINVENT4)  
 	[![Last Commit](https://img.shields.io/github/last-commit/MolecularAI/REINVENT4?style=for-the-badge&logo=github)](https://github.com/MolecularAI/REINVENT4)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00812-5)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00812-5)  
 - **REINVENT-HITL**: Focuses on human-in-the-loop assisted de novo molecular design, leveraging reinforcement learning for optimizing molecules based on human feedback.  
 	[![Code](https://img.shields.io/github/stars/MolecularAI/reinvent-hitl?style=for-the-badge&logo=github)](https://github.com/MolecularAI/reinvent-hitl)  
 	[![Last Commit](https://img.shields.io/github/last-commit/MolecularAI/reinvent-hitl?style=for-the-badge&logo=github)](https://github.com/MolecularAI/reinvent-hitl)  
@@ -177,7 +177,7 @@
 - **ReLeaSE**: Utilizes deep reinforcement learning for de novo drug design.  
 	[![Code](https://img.shields.io/github/stars/isayev/ReLeaSE?style=for-the-badge&logo=github)](https://github.com/isayev/ReLeaSE)  
 	[![Last Commit](https://img.shields.io/github/last-commit/isayev/ReLeaSE?style=for-the-badge&logo=github)](https://github.com/isayev/ReLeaSE)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:753-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/sciadv.aap7885)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:760-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/sciadv.aap7885)  
 - **RL-GraphInvent**: An extension using reinforcement learning for targeted molecular generation.  
 	[![Code](https://img.shields.io/github/stars/olsson-group/RL-GraphINVENT?style=for-the-badge&logo=github)](https://github.com/olsson-group/RL-GraphINVENT)  
 	[![Last Commit](https://img.shields.io/github/last-commit/olsson-group/RL-GraphINVENT?style=for-the-badge&logo=github)](https://github.com/olsson-group/RL-GraphINVENT)  
@@ -226,6 +226,10 @@
 - **glownet**: The main focus of this library (although it can do other things) is to construct graphs (e.g. graphs of atoms), which are constructed node by node.  
 	[![Code](https://img.shields.io/github/stars/recursionpharma/gflownet?style=for-the-badge&logo=github)](https://github.com/recursionpharma/gflownet)  
 	[![Last Commit](https://img.shields.io/github/last-commit/recursionpharma/gflownet?style=for-the-badge&logo=github)](https://github.com/recursionpharma/gflownet)  
+- **DrugDiff**: latent diffusion model — DrugDiff — paired with predictor guidance to generate novel compounds with a variety of desired molecular properties  
+	[![Code](https://img.shields.io/github/stars/MarieOestreich/DrugDiff?style=for-the-badge&logo=github)](https://github.com/MarieOestreich/DrugDiff)  
+	[![Last Commit](https://img.shields.io/github/last-commit/MarieOestreich/DrugDiff?style=for-the-badge&logo=github)](https://github.com/MarieOestreich/DrugDiff)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.07.17.603873)  
 ### **Reviews**
 - **Blundell et al.**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-024-00843-5)  
@@ -268,4 +272,4 @@
 - **POLYGON**: POLYGON attempts to optimize the chemical space for multiple protein target domains  
 	[![Code](https://img.shields.io/github/stars/bpmunson/polygon?style=for-the-badge&logo=github)](https://github.com/bpmunson/polygon)  
 	[![Last Commit](https://img.shields.io/github/last-commit/bpmunson/polygon?style=for-the-badge&logo=github)](https://github.com/bpmunson/polygon)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41467-024-47120-y)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41467-024-47120-y)  
