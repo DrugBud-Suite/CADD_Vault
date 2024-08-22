@@ -1,3 +1,7 @@
+- **ABFE_workflow**: Automated Absolute Binding Free Energy Calculation Workflow for Drug Discovery  
+	[![Code](https://img.shields.io/github/stars/bigginlab/ABFE_workflow?style=for-the-badge&logo=github)](https://github.com/bigginlab/ABFE_workflow)  
+	[![Last Commit](https://img.shields.io/github/last-commit/bigginlab/ABFE_workflow?style=for-the-badge&logo=github)](https://github.com/bigginlab/ABFE_workflow)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00343)  
 
 ## **Benchmarks**
 - **Merck FEP Benchmark**: Benchmark set for relative free energy calculations.  
@@ -14,18 +18,18 @@
 	[![Code](https://img.shields.io/github/stars/alchemistry/alchemlyb?style=for-the-badge&logo=github)](https://github.com/alchemistry/alchemlyb)  
 	[![Last Commit](https://img.shields.io/github/last-commit/alchemistry/alchemlyb?style=for-the-badge&logo=github)](https://github.com/alchemistry/alchemlyb)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://zenodo.org/badge/latestdoi/68669096)  
+- **BAT2**:   
+	[![Code](https://img.shields.io/github/stars/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
+	[![Last Commit](https://img.shields.io/github/last-commit/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.4c00205)  
 - **BAT**: Binding Affinity Tool (BAT.py) is a python tool for fully automated absolute binding free energy (ABFE) calculations using all-atom Molecular Dynamics (MD)  
 	[![Code](https://img.shields.io/github/stars/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
 	[![Last Commit](https://img.shields.io/github/last-commit/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:54-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-020-80769-1)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:57-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-020-80769-1)  
 - **FEgrow**: An interactive workflow for building user-defined congeneric series of ligands in protein binding pockets for input to free energy calculations.  
 	[![Code](https://img.shields.io/github/stars/cole-group/FEgrow?style=for-the-badge&logo=github)](https://github.com/cole-group/FEgrow)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cole-group/FEgrow?style=for-the-badge&logo=github)](https://github.com/cole-group/FEgrow)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:5-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42004-022-00754-9)  
-- **gmx_MMPBSA**: gmx_MMPBSA is a new tool based on AMBER's MMPBSA.py aiming to perform end-state free energy calculations with GROMACS files  
-	[![Code](https://img.shields.io/github/stars/Valdes-Tresanco-MS/gmx_MMPBSA?style=for-the-badge&logo=github)](https://github.com/Valdes-Tresanco-MS/gmx_MMPBSA)  
-	[![Last Commit](https://img.shields.io/github/last-commit/Valdes-Tresanco-MS/gmx_MMPBSA?style=for-the-badge&logo=github)](https://github.com/Valdes-Tresanco-MS/gmx_MMPBSA)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:857-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.1c00645)  
 - **gufe**: GUFE is a toolkit for developers of software related to alchemical free energy calculations, containing data models and abstract base classes.  
 	[![Code](https://img.shields.io/github/stars/OpenFreeEnergy/gufe?style=for-the-badge&logo=github)](https://github.com/OpenFreeEnergy/gufe)  
 	[![Last Commit](https://img.shields.io/github/last-commit/OpenFreeEnergy/gufe?style=for-the-badge&logo=github)](https://github.com/OpenFreeEnergy/gufe)  
@@ -36,11 +40,7 @@
 - **pAPRika**: pAPRika is a toolkit for setting up, running, and analyzing free energy molecular dynamics simulations.  
 	[![Code](https://img.shields.io/github/stars/GilsonLabUCSD/pAPRika?style=for-the-badge&logo=github)](https://github.com/GilsonLabUCSD/pAPRika)  
 	[![Last Commit](https://img.shields.io/github/last-commit/GilsonLabUCSD/pAPRika?style=for-the-badge&logo=github)](https://github.com/GilsonLabUCSD/pAPRika)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:96-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00405)  
-- **Uni-GBSA**: An Automatic Workflow to Perform MM/GB(PB)SA Calculations for Virtual Screening  
-	[![Code](https://img.shields.io/github/stars/dptech-corp/Uni-GBSA?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-GBSA)  
-	[![Last Commit](https://img.shields.io/github/last-commit/dptech-corp/Uni-GBSA?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-GBSA)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbad218/7199492)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:98-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00405)  
 
 ## **Guides**
 - **Best Practices for Alchemical Free Energy Simulations**:   
@@ -51,7 +51,7 @@
 - **ATM_with_NNPs**: Enhancing Protein-Ligand Binding Affinity Predictions Using Neural Network Potentials  
 	[![Code](https://img.shields.io/github/stars/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs)  
 	[![Last Commit](https://img.shields.io/github/last-commit/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:936-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q)  
 
 ## **Planning**
 - **HiMap**: High Information Mapper (HiMap), successor of the Lead Optimization Mapper (LOMAP), includes design generation based on statistical optimality for alchemical free energy calculations and optimization of free energy perturbation networks.  

@@ -10,4 +10,4 @@
 	[![Code](https://img.shields.io/github/stars/compsciencelab/mdCATH?style=for-the-badge&logo=github)](https://github.com/compsciencelab/mdCATH)  
 	[![Last Commit](https://img.shields.io/github/last-commit/compsciencelab/mdCATH?style=for-the-badge&logo=github)](https://github.com/compsciencelab/mdCATH)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2407.14794)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://huggingface.co/datasets/compsciencelab/mdCATH)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://huggingface.co/datasets/compsciencelab/mdCATH)  

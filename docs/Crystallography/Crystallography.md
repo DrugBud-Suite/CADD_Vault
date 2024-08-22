@@ -5,4 +5,4 @@
 - **qFIT**: qFit is a collection of programs for modeling multi-conformer protein structures.  
 	[![Code](https://img.shields.io/github/stars/ExcitedStates/qfit-3.0?style=for-the-badge&logo=github)](https://github.com/ExcitedStates/qfit-3.0)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ExcitedStates/qfit-3.0?style=for-the-badge&logo=github)](https://github.com/ExcitedStates/qfit-3.0)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.7554/eLife.90606)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.7554/eLife.90606)  

@@ -23,13 +23,13 @@
 - **PyRMD**: PyRMD is an AI-powered Ligand-Based Virtual Screening tool powered by machine learning, developed for fast and efficient virtual screening.  
 	[![Code](https://img.shields.io/github/stars/cosconatilab/PyRMD?style=for-the-badge&logo=github)](https://github.com/cosconatilab/PyRMD?tab=readme-ov-file)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cosconatilab/PyRMD?style=for-the-badge&logo=github)](https://github.com/cosconatilab/PyRMD?tab=readme-ov-file)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:23-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00653)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:24-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00653)  
 - **ScreenLamp**: ScreenLamp is a modular toolkit for virtual screening, offering various command-line tools for different stages of the virtual screening process.  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://psa-lab.github.io/screenlamp/user_guide/tools/)  
 - **SmallWorld**: web-based ligand similarity on a variety of commercial databases  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://sw.docking.org/search.html)  
 - **SwissSimilarity**: SwissSimilarity offers an online service for small molecule similarity screening against selected compound libraries using various cheminformatics methods.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:68-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390%2Fijms23020811)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:69-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390%2Fijms23020811)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.swisssimilarity.ch/)  
 - **WHALES**: WHALES provides a virtual screening pipeline focusing on scaffold hopping and ligand-based drug discovery through a Jupyter notebook example.  
 	[![Code](https://img.shields.io/github/stars/grisoniFr/scaffold_hopping_whales?style=for-the-badge&logo=github)](https://github.com/grisoniFr/scaffold_hopping_whales/blob/master/code/virtual_screening_pipeline.ipynb)  
@@ -49,12 +49,12 @@
 	[![Last Commit](https://img.shields.io/github/last-commit/SENSAAS/sensaas?style=for-the-badge&logo=github)](https://github.com/SENSAAS/sensaas)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/minf.202000081)  
 - **ShaEP**: ShaEP aligns two 3D molecular structures and computes a similarity index, useful for virtual screening and 3D QSAR methods.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:164-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci800315d)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:169-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci800315d)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://users.abo.fi/mivainio/shaep/)  
 
 ## **Hybrid**
 - **LiSiCa**: (Already described above under 2D) Offers both 2D and 3D ligand similarity screening options based on graph-theoretical methods.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:71-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.5b00136)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:72-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.5b00136)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://insilab.org/lisica/)  
 
 ## **Precomputed Libraries**
@@ -72,6 +72,6 @@
 - **iSIM**:   
 	[![Code](https://img.shields.io/github/stars/mqcomplab/iSIM?style=for-the-badge&logo=github)](https://github.com/mqcomplab/iSIM/blob/main/iSIM_example.ipynb)  
 	[![Last Commit](https://img.shields.io/github/last-commit/mqcomplab/iSIM?style=for-the-badge&logo=github)](https://github.com/mqcomplab/iSIM/blob/main/iSIM_example.ipynb)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:59-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c01073)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:64-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c01073)  
 - **Surflex-Tools**: starting with version 4 (standalone).  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.biopharmics.com/)  

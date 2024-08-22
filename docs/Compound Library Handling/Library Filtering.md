@@ -10,7 +10,7 @@
 	[![Last Commit](https://img.shields.io/github/last-commit/ikmckenz/adme-pred-py?style=for-the-badge&logo=github)](https://github.com/ikmckenz/adme-pred-py)  
 - **ChemFH**: predicts potential frequent hitters across various parameters.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae424)  
-	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://chemfh.scbdd.com/)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://chemfh.scbdd.com/)  
 - **medchem**: Python library that proposes molecular filters and prioritization rules for a wide range of use cases relevant in drug discovery.  
 	[![Code](https://img.shields.io/badge/Code)](https://medchem-docs.datamol.io/stable/)
 - **pySmash**: Python package and software for structural alerts generation and application  
@@ -20,7 +20,7 @@
 - **rd_filters**: provides a simple means of applying the functional group filters from the ChEMBL database, as well as a number of property filters from the RDKit, to a set of compounds.  
 	[![Code](https://img.shields.io/github/stars/PatWalters/rd_filters?style=for-the-badge&logo=github)](https://github.com/PatWalters/rd_filters)  
 	[![Last Commit](https://img.shields.io/github/last-commit/PatWalters/rd_filters?style=for-the-badge&logo=github)](https://github.com/PatWalters/rd_filters)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2922-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/jm901137j)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:2941-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/jm901137j)  
 ### **Aggregators**
 - **BADGER**: Detection of Small Colloidal Aggregating Molecules Using the BAD Molecule Filter  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00363)  

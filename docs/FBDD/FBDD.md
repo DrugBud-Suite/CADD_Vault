@@ -3,7 +3,7 @@
 	[![Last Commit](https://img.shields.io/github/last-commit/Caflisch-Group/AutoCouple_Python-based?style=for-the-badge&logo=github)](https://github.com/Caflisch-Group/AutoCouple_Python-based)  
 - **AutoT&T**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:23-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.5b00691)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://sioc-ccbg.ac.cn/software/att2/)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://sioc-ccbg.ac.cn/software/att2/)  
 - **CombiChem**: CombiChem is a virtual screening approach that uses fragment screening techniques to identify and concatenate the best fragments into lead-like compounds, aiming to reduce computational resources while performing a comprehensive screen.  
 	[![Code](https://img.shields.io/github/stars/karanicolaslab/combichem?style=for-the-badge&logo=github)](https://github.com/karanicolaslab/combichem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/karanicolaslab/combichem?style=for-the-badge&logo=github)](https://github.com/karanicolaslab/combichem)  
@@ -11,7 +11,7 @@
 - **CREM**: generate chemical structures using a fragment-based approach  
 	[![Code](https://img.shields.io/github/stars/DrrDom/crem?style=for-the-badge&logo=github)](https://github.com/DrrDom/crem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/DrrDom/crem?style=for-the-badge&logo=github)](https://github.com/DrrDom/crem)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:46-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00431-w)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:49-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00431-w)  
 - **DeepFrag**:   
 	[![Code](https://img.shields.io/github/stars/durrantlab/deepfrag?style=for-the-badge&logo=github)](https://github.com/durrantlab/deepfrag/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/deepfrag?style=for-the-badge&logo=github)](https://github.com/durrantlab/deepfrag/)  
@@ -27,12 +27,12 @@
 	[![Code](https://img.shields.io/github/stars/matteoferla/Fragmenstein?style=for-the-badge&logo=github)](https://github.com/matteoferla/Fragmenstein)  
 	[![Last Commit](https://img.shields.io/github/last-commit/matteoferla/Fragmenstein?style=for-the-badge&logo=github)](https://github.com/matteoferla/Fragmenstein)  
 - **LigBuilder**:   
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://www.pkumdl.cn:8080/ligbuilder3/)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.pkumdl.cn:8080/ligbuilder3/)  
 - **MolOptimizer**: MolOptimizer is a Flask-based package useful for the optimization of fragment screening datasets, developed to assist researchers in the field of small fragment-based inhibitors by enabling the alignment of large ligand datasets, extracting chemical descriptors, and training machine learning models to predict binding scores.  
 	[![Code](https://img.shields.io/github/stars/csbarak/MolOpt_Students_2023?style=for-the-badge&logo=github)](https://github.com/csbarak/MolOpt_Students_2023)  
 	[![Last Commit](https://img.shields.io/github/last-commit/csbarak/MolOpt_Students_2023?style=for-the-badge&logo=github)](https://github.com/csbarak/MolOpt_Students_2023)  
 - **OpenGrowth**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:52-blue?style=for-the-badge&logo=bookstack)](http://dx.doi.org/10.1021/acs.jmedchem.5b00886)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:53-blue?style=for-the-badge&logo=bookstack)](http://dx.doi.org/10.1021/acs.jmedchem.5b00886)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://sourceforge.net/projects/opengrowth/)  
 - **Software tools for fragment-based drug discovery (FBDD)**:   
 	[![Code](https://img.shields.io/github/stars/PatWalters/fragment_expansion?style=for-the-badge&logo=github)](https://github.com/PatWalters/fragment_expansion/blob/master/fragment_expansion.ipynb)  
@@ -42,7 +42,7 @@
 - **DeLinker**: Deep Generative Models for 3D Linker Design  
 	[![Code](https://img.shields.io/github/stars/oxpig/DeLinker?style=for-the-badge&logo=github)](https://github.com/oxpig/DeLinker)  
 	[![Last Commit](https://img.shields.io/github/last-commit/oxpig/DeLinker?style=for-the-badge&logo=github)](https://github.com/oxpig/DeLinker)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:134-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01120)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:138-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01120)  
 - **DiffLinker**: An Equivariant 3D-conditional Diffusion Model for Molecular Linker Design that places missing atoms between disconnected fragments in 3D, designing molecules that incorporate all initial fragments with potential applications in linker generation for drug discovery.  
 	[![Code](https://img.shields.io/github/stars/igashov/DiffLinker?style=for-the-badge&logo=github)](https://github.com/igashov/DiffLinker)  
 	[![Last Commit](https://img.shields.io/github/last-commit/igashov/DiffLinker?style=for-the-badge&logo=github)](https://github.com/igashov/DiffLinker)  

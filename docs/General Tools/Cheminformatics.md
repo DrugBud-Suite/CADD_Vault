@@ -1,5 +1,5 @@
 - **Chemaxon**: numerous tools for small molecules (standalone).  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.chemaxon.com/)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.chemaxon.com/)  
 
 ## **Chemical Formulas**
 - **ChemFormula**:   
@@ -24,7 +24,7 @@
 - **nmrglue**:   
 	[![Code](https://img.shields.io/github/stars/jjhelmus/nmrglue?style=for-the-badge&logo=github)](https://github.com/jjhelmus/nmrglue)  
 	[![Last Commit](https://img.shields.io/github/last-commit/jjhelmus/nmrglue?style=for-the-badge&logo=github)](https://github.com/jjhelmus/nmrglue)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:249-blue?style=for-the-badge&logo=bookstack)](http://dx.doi.org/10.1007/s10858-013-9718-x)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:253-blue?style=for-the-badge&logo=bookstack)](http://dx.doi.org/10.1007/s10858-013-9718-x)  
 
 ## **Other**
 - **LillyMol**: Eli Lilly set of cheminformatic tools (standalone)  
@@ -41,7 +41,7 @@
 - **CDPKit - CONFORT**: High-Quality Conformer Generation (standalone).  
 	[![Code](https://img.shields.io/github/stars/aglanger/CDPKit?style=for-the-badge&logo=github)](https://github.com/aglanger/CDPKit)  
 	[![Last Commit](https://img.shields.io/github/last-commit/aglanger/CDPKit?style=for-the-badge&logo=github)](https://github.com/aglanger/CDPKit)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00563)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00563)  
 - **chemfunc**:   
 	[![Code](https://img.shields.io/github/stars/swansonk14/chemfunc?style=for-the-badge&logo=github)](https://github.com/swansonk14/chemfunc)  
 	[![Last Commit](https://img.shields.io/github/last-commit/swansonk14/chemfunc?style=for-the-badge&logo=github)](https://github.com/swansonk14/chemfunc)  
@@ -53,17 +53,17 @@
 - **ODDT**: Open Drug Discovery Toolkit, toolkit for drug discovery (standalone)  
 	[![Code](https://img.shields.io/github/stars/oddt/oddt?style=for-the-badge&logo=github)](https://github.com/oddt/oddt)  
 	[![Last Commit](https://img.shields.io/github/last-commit/oddt/oddt?style=for-the-badge&logo=github)](https://github.com/oddt/oddt)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:141-blue?style=for-the-badge&logo=bookstack)](https://dx.doi.org/10.1186/s13321-015-0078-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:144-blue?style=for-the-badge&logo=bookstack)](https://dx.doi.org/10.1186/s13321-015-0078-2)  
 - **RDKit**:   
 	[![Code](https://img.shields.io/github/stars/rdkit/rdkit?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rdkit/rdkit?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:25-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbaa194)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:26-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbaa194)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.rdkit.org/)  
 - **rdkit-scripts**: rdkit scripts making life easier (standalone)  
 	[![Code](https://img.shields.io/github/stars/DrrDom/rdkit-scripts?style=for-the-badge&logo=github)](https://github.com/DrrDom/rdkit-scripts)  
 	[![Last Commit](https://img.shields.io/github/last-commit/DrrDom/rdkit-scripts?style=for-the-badge&logo=github)](https://github.com/DrrDom/rdkit-scripts)  
 - **OpenBabel**: toolkit for drug discovery, file format etc (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:5992-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6066-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://openbabel.org/wiki/Main_Page)  
 
 ## **QM**
@@ -79,7 +79,7 @@
 - **ChemPy**:   
 	[![Code](https://img.shields.io/github/stars/bjodah/chempy?style=for-the-badge&logo=github)](https://github.com/bjodah/chempy)  
 	[![Last Commit](https://img.shields.io/github/last-commit/bjodah/chempy?style=for-the-badge&logo=github)](https://github.com/bjodah/chempy)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:18-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21105/joss.00565)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21105/joss.00565)  
 
 ## **Standalone**
 - **DataWarrior**: numerous tools (standalone).  

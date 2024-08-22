@@ -23,7 +23,7 @@
 - **AF2-Rave**: AF2-Rave combines AlphaFold2 with enhanced sampling to predict a range of conformations for a given protein sequence, aiming to generate Boltzmann-ranked conformations  
 	[![Code](https://img.shields.io/github/stars/tiwarylab/alphafold2rave?style=for-the-badge&logo=github)](https://github.com/tiwarylab/alphafold2rave)  
 	[![Last Commit](https://img.shields.io/github/last-commit/tiwarylab/alphafold2rave?style=for-the-badge&logo=github)](https://github.com/tiwarylab/alphafold2rave)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:31-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c00290)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:32-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c00290)  
 - **AF-cluster**: This method predicts multiple protein conformations using sequence clustering and AlphaFold2, aiming to capture the diversity of protein structures.  
 	[![Code](https://img.shields.io/github/stars/HWaymentSteele/AF_Cluster?style=for-the-badge&logo=github)](https://github.com/HWaymentSteele/AF_Cluster)  
 	[![Last Commit](https://img.shields.io/github/last-commit/HWaymentSteele/AF_Cluster?style=for-the-badge&logo=github)](https://github.com/HWaymentSteele/AF_Cluster)  
@@ -35,7 +35,7 @@
 - **Str2Str**: Str2Str is a score-based framework for zero-shot protein conformation sampling, drawing inspiration from traditional methods to sample conformations guided by a neural score network trained on the PDB database.  
 	[![Code](https://img.shields.io/github/stars/lujiarui/Str2Str?style=for-the-badge&logo=github)](https://github.com/lujiarui/Str2Str)  
 	[![Last Commit](https://img.shields.io/github/last-commit/lujiarui/Str2Str?style=for-the-badge&logo=github)](https://github.com/lujiarui/Str2Str)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1001-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ade2574)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1088-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ade2574)  
 - **DeepConformer**: diffusion generative model for sampling protein conformation distributions from a given amino acid sequence  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.06.27.600251)  
 - **ICoN**: Sampling Conformational Ensembles of Highly Dynamic Proteins via Generative Deep Learning  
@@ -55,7 +55,7 @@
 - **EnGens**: a computational framework for generation andanalysis of representative protein conformationalensembles (online)  
 	[![Code](https://img.shields.io/github/stars/KavrakiLab/EnGens?style=for-the-badge&logo=github)](https://github.com/KavrakiLab/EnGens)  
 	[![Last Commit](https://img.shields.io/github/last-commit/KavrakiLab/EnGens?style=for-the-badge&logo=github)](https://github.com/KavrakiLab/EnGens)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbad242)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:5-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbad242)  
 - **GMdSilva**:   
 	[![Code](https://img.shields.io/github/stars/GMdSilva/gms_natcomms_1705932980_data?style=for-the-badge&logo=github)](https://github.com/GMdSilva/gms_natcomms_1705932980_data)  
 	[![Last Commit](https://img.shields.io/github/last-commit/GMdSilva/gms_natcomms_1705932980_data?style=for-the-badge&logo=github)](https://github.com/GMdSilva/gms_natcomms_1705932980_data)  

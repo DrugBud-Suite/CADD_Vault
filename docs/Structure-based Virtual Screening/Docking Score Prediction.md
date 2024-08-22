@@ -5,7 +5,7 @@
 - **ChemProp**:   
 	[![Code](https://img.shields.io/github/stars/aamini/chemprop?style=for-the-badge&logo=github)](https://github.com/aamini/chemprop)  
 	[![Last Commit](https://img.shields.io/github/last-commit/aamini/chemprop?style=for-the-badge&logo=github)](https://github.com/aamini/chemprop)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:84-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.1c00546)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:88-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.1c00546)  
 - **Conformalpredictor**: Rapid Traversal of Ultralarge Chemical Space using Machine Learning Guided Docking Screens (standalone).  
 	[![Code](https://img.shields.io/github/stars/Carlssonlab/conformalpredictor?style=for-the-badge&logo=github)](https://github.com/Carlssonlab/conformalpredictor)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Carlssonlab/conformalpredictor?style=for-the-badge&logo=github)](https://github.com/Carlssonlab/conformalpredictor)  
@@ -25,11 +25,11 @@
 - **molpal**: Molecular Pool-based Active Learning  
 	[![Code](https://img.shields.io/github/stars/coleygroup/molpal?style=for-the-badge&logo=github)](https://github.com/coleygroup/molpal)  
 	[![Last Commit](https://img.shields.io/github/last-commit/coleygroup/molpal?style=for-the-badge&logo=github)](https://github.com/coleygroup/molpal)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:133-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D0SC06805E)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:141-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D0SC06805E)  
 - **PyRMD2Dock**: Streamlining Large Chemical Library Docking with Artificial Intelligence: the PyRMD2Dock (and PyRMD) (ultralarge screening - 2023) (standalone).  
 	[![Code](https://img.shields.io/github/stars/cosconatilab/PyRMD?style=for-the-badge&logo=github)](https://github.com/cosconatilab/PyRMD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cosconatilab/PyRMD?style=for-the-badge&logo=github)](https://github.com/cosconatilab/PyRMD)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:23-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00653)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:24-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00653)  
 - **RAD**: Retrieval Augmented Docking (standalone, 2024).  
 	[![Code](https://img.shields.io/github/stars/keiserlab/rad?style=for-the-badge&logo=github)](https://github.com/keiserlab/rad)  
 	[![Last Commit](https://img.shields.io/github/last-commit/keiserlab/rad?style=for-the-badge&logo=github)](https://github.com/keiserlab/rad)  
