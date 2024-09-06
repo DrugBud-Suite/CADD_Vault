@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/vr-cardboard
+icon: fontawesome/solid/vr-cardboard
 ---
 
 - **ACFIS 2.0**: an improved web-server for fragment-based drug discovery via a dynamic screening strategy (online).  

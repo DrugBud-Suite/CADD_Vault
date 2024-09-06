@@ -27,7 +27,7 @@ icon: material/database
 - **Kinome Render**: look at kinase family (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://biophys.umontreal.ca/nrg/resources.html)  
 - **KLIFS**: Kinase-Ligand Interaction Fingerprints and Structures database is a database that revolves around the protein structure of catalytic kinase domains and the way kinase inhibitors can interact with them (online database)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:86-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkaa895)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:87-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkaa895)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://klifs.vu-compmedchem.nl/)  
 - **ProfKin**: A Comprehensive Web Server for Structure-based Kinase Selectivity Profiling (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.ejmech.2021.113772)  

@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/vr-cardboard
+icon: fontawesome/solid/vr-cardboard
 ---
 
 - **ChemFlow**: ChemFlow provides a series of computational chemistry workflows designed to automatize and simplify the drug discovery pipeline and scoring function benchmarking, consisting of BASH and PYTHON scripts.  

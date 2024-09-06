@@ -55,7 +55,7 @@ icon: material/strategy
 - **DLIGAND2**: DLIGAND2 is a knowledge-based method for predicting protein-ligand binding affinity, utilizing a distance-scaled, finite, ideal-gas reference state.  
 	[![Code](https://img.shields.io/github/stars/yuedongyang/DLIGAND2?style=for-the-badge&logo=github)](https://github.com/yuedongyang/DLIGAND2)  
 	[![Last Commit](https://img.shields.io/github/last-commit/yuedongyang/DLIGAND2?style=for-the-badge&logo=github)](https://github.com/yuedongyang/DLIGAND2)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:36-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0373-4)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0373-4)  
 - **ITScoreAff**: iterative knowledge-based scoring function for protein-ligand interactions by considering binding affinity information  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jpcb.3c04421)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://huanglab.phys.hust.edu.cn/ITScoreAff/)  

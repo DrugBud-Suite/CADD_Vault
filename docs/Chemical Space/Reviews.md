@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/rocket
+icon: fontawesome/solid/rocket
 ---
 
 - **Schapira et al.**: Emerging structure-based computational methods to screen the exploding accessible chemical space  

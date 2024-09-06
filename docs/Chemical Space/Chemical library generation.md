@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/rocket
+icon: fontawesome/solid/rocket
 ---
 
 - **ChemoDOTS**: designed to build focused chemical libraries, starting from a user-specified hit fragment, using chemistry-driven approach and according to the growing strategy encountered in Fragment-Based Drug Discovery  

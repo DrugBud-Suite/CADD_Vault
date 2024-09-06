@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/flask
+icon: fontawesome/solid/flask
 ---
 
 - **DFRscore**: Introduces a deep learning-based scoring system for synthetic complexity, utilizing retrosynthetic analysis to evaluate the synthesizability of compounds for virtual screening purposes.  

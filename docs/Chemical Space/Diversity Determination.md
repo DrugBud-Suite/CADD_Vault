@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/rocket
+icon: fontawesome/solid/rocket
 ---
 
 - **HamDiv**: effectively measuring molecular diversity by shortest Hamiltonian circuits  

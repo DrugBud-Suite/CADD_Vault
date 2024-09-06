@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/vr-cardboard
+icon: fontawesome/solid/vr-cardboard
 ---
 
 - **A practical guide to large-scale docking**:   

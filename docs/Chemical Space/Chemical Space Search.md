@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/rocket
+icon: fontawesome/solid/rocket
 ---
 
 - **CHEESE**:   

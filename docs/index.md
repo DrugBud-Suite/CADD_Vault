@@ -4,9 +4,7 @@ Welcome to the CADD Vault, an open-source repository dedicated to sharing resour
 
 Number of publications: 951  
 Number of code repositories: 805  
-Number of webserver links: 122- Machine Learning Applications in Drug Design
-- Fragment-Based Drug Design (FBDD)
-- Datasets for Drug Design
+Number of webserver links: 122- Datasets for Drug Design
 
 ## How to Use the Vault
 

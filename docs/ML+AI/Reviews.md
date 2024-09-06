@@ -7,7 +7,7 @@ icon: material/brain
 - **How will generative AI disrupt data science in drug discovery? [2023]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:28-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41587-023-01789-6)  
 - **Chemical language models for de novo drug design: Challenges and opportunities [2023]**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:27-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.sbi.2023.102527)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:28-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.sbi.2023.102527)  
 - **Artificial intelligence in multi-objective drug design [2023]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:35-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.sbi.2023.102537)  
 - **Open data and algorithms for open science in AI-driven molecular informatics [2023]**:   

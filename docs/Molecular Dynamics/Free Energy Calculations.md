@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/creative-commons-sampling
+icon: fontawesome/brands/creative-commons-sampling
 ---
 
 - **ABFE_workflow**: Automated Absolute Binding Free Energy Calculation Workflow for Drug Discovery  
@@ -29,7 +29,7 @@ icon: fontawesome/creative-commons-sampling
 - **BAT**: Binding Affinity Tool (BAT.py) is a python tool for fully automated absolute binding free energy (ABFE) calculations using all-atom Molecular Dynamics (MD)  
 	[![Code](https://img.shields.io/github/stars/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
 	[![Last Commit](https://img.shields.io/github/last-commit/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:59-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-020-80769-1)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:60-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-020-80769-1)  
 - **FEgrow**: An interactive workflow for building user-defined congeneric series of ligands in protein binding pockets for input to free energy calculations.  
 	[![Code](https://img.shields.io/github/stars/cole-group/FEgrow?style=for-the-badge&logo=github)](https://github.com/cole-group/FEgrow)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cole-group/FEgrow?style=for-the-badge&logo=github)](https://github.com/cole-group/FEgrow)  

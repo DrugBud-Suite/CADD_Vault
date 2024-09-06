@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/chart-pie
+icon: fontawesome/solid/chart-pie
 ---
 
 - **AIC_Finder**:   

@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/vr-cardboard
+icon: fontawesome/solid/vr-cardboard
 ---
 
 - **RingTail**: RingTail is a package for storage and analysis of virtual screenings run with AutoDock-GPU and AutoDock Vina, facilitating the creation of SQLite databases from virtual screening results, performing filtering, and exporting results.  

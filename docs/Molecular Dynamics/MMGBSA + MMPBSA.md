@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/creative-commons-sampling
+icon: fontawesome/brands/creative-commons-sampling
 ---
 
 - **ConveyorLC**: A Parallel Virtual Screening Pipeline for Docking and MM/GSBA (standalone).  

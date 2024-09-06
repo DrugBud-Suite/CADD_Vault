@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/eye
+icon: fontawesome/solid/eye
 ---
 
 - **MolPlotLy**: Molplotly is an add-on to Plotly, built on RDKit, allowing 2D images of molecules to be shown in Plotly figures when hovering over data points.  

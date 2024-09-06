@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/eye
+icon: fontawesome/solid/eye
 ---
 
 - **I-PV**: a CIRCOS module for interactive protein sequence visualization  

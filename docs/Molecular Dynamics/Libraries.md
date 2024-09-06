@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/creative-commons-sampling
+icon: fontawesome/brands/creative-commons-sampling
 ---
 
 - **MMTK**:   
@@ -26,5 +26,5 @@ icon: fontawesome/creative-commons-sampling
 
 ## **Preparation**
 - **Packmol**: Packmol creates initial configurations for molecular dynamics simulations by packing molecules to meet specified conditions, aiding in the setup of simulation boxes.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:6254-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21224)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6255-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21224)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://m3g.github.io/packmol/)  

@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/radiation
+icon: fontawesome/solid/radiation
 ---
 
 - **cctbx**:   

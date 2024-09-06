@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/eye
+icon: fontawesome/solid/eye
 ---
 
 - **DataWarrior**: open-source data visualization and analysis program with embedded chemical intelligence (standalone)  

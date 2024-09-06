@@ -27,7 +27,7 @@ icon: material/bio
 - **AF2-Rave**: AF2-Rave combines AlphaFold2 with enhanced sampling to predict a range of conformations for a given protein sequence, aiming to generate Boltzmann-ranked conformations  
 	[![Code](https://img.shields.io/github/stars/tiwarylab/alphafold2rave?style=for-the-badge&logo=github)](https://github.com/tiwarylab/alphafold2rave)  
 	[![Last Commit](https://img.shields.io/github/last-commit/tiwarylab/alphafold2rave?style=for-the-badge&logo=github)](https://github.com/tiwarylab/alphafold2rave)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:34-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c00290)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:35-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c00290)  
 - **AF-cluster**: This method predicts multiple protein conformations using sequence clustering and AlphaFold2, aiming to capture the diversity of protein structures.  
 	[![Code](https://img.shields.io/github/stars/HWaymentSteele/AF_Cluster?style=for-the-badge&logo=github)](https://github.com/HWaymentSteele/AF_Cluster)  
 	[![Last Commit](https://img.shields.io/github/last-commit/HWaymentSteele/AF_Cluster?style=for-the-badge&logo=github)](https://github.com/HWaymentSteele/AF_Cluster)  

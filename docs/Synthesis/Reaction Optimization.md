@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/flask
+icon: fontawesome/solid/flask
 ---
 
 - **CIME4R**: AI-guided chemical reaction optimization  

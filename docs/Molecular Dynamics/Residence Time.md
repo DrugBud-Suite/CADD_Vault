@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/creative-commons-sampling
+icon: fontawesome/brands/creative-commons-sampling
 ---
 
 - **SPIB_kinetics**: Calculating Protein-Ligand Residence Times Through State Predictive Information Bottleneck based Enhanced Sampling  

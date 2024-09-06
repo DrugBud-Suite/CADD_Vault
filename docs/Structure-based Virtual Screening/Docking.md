@@ -5,7 +5,7 @@ icon: material/strategy
 
 ## **All-Atom-DL methods**
 - **AlphaFold3**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:439-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-024-07487-w)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:441-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-024-07487-w)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://golgi.sandbox.google.com/)  
 - **RoseTTAFold-AllAtom**: RoseTTAFold All-Atom (RFAA) is a deep network capable of modeling full biological assemblies containing proteins, nucleic acids, small molecules, metals, and covalent modifications with high accuracy.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:87-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.adl2528)  
@@ -13,7 +13,7 @@ icon: material/strategy
 - **DynamicBind**: DynamicBind recovers ligand-specific conformations from unbound protein structures (e.g. AF2-predicted structures), promoting efficient transitions between different equilibrium states.  
 	[![Code](https://img.shields.io/github/stars/luwei0917/DynamicBind?style=for-the-badge&logo=github)](https://github.com/luwei0917/DynamicBind)  
 	[![Last Commit](https://img.shields.io/github/last-commit/luwei0917/DynamicBind?style=for-the-badge&logo=github)](https://github.com/luwei0917/DynamicBind)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-45461-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-45461-2)  
 - **DiffusionProteinLigand**: End-to-end protein–ligand complex structure generation with diffusion-based generative models (standalone).  
 	[![Code](https://img.shields.io/github/stars/shuyana/DiffusionProteinLigand?style=for-the-badge&logo=github)](https://github.com/shuyana/DiffusionProteinLigand)  
 	[![Last Commit](https://img.shields.io/github/last-commit/shuyana/DiffusionProteinLigand?style=for-the-badge&logo=github)](https://github.com/shuyana/DiffusionProteinLigand)  
@@ -41,7 +41,7 @@ icon: material/strategy
 - **AutoDock Vina**:   
 	[![Code](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-Vina?style=for-the-badge&logo=github)](https://github.com/ccsb-scripps/AutoDock-Vina)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ccsb-scripps/AutoDock-Vina?style=for-the-badge&logo=github)](https://github.com/ccsb-scripps/AutoDock-Vina)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2163-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00203)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:2164-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00203)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://autodock-vina.readthedocs.io/en/latest/index.html)  
 - **BR-NiB**: Brute Force Negative Image-Based Optimization. A docking rescoring method that relyes on shape/ electrostatic potential similarity between the docking poses of ligands and the cavity-based negative images (standalone).  
 	[![Code](https://img.shields.io/github/stars/jvlehtonen/brutenib?style=for-the-badge&logo=github)](https://github.com/jvlehtonen/brutenib)  
@@ -136,7 +136,7 @@ icon: material/strategy
 
 ## **Flexible Docking**
 - **ADFR**: AutoDockFR is a protein-ligand docking program supporting selective receptor flexibility and covalent docking, part of the ADFR suite for streamlined docking procedures.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:336-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pcbi.1004586)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:337-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pcbi.1004586)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://ccsb.scripps.edu/adfr/)  
 - **DSDPFlex**:   
 	[![Code](https://img.shields.io/github/stars/PKUGaoGroup/DSDP?style=for-the-badge&logo=github)](https://github.com/PKUGaoGroup/DSDP)  

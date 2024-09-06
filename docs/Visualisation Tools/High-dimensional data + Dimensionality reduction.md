@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/eye
+icon: fontawesome/solid/eye
 ---
 
 - **Chemical Space dataviz**: Visualizing chemical space networks with RDKit and NetworkX (standalone)  

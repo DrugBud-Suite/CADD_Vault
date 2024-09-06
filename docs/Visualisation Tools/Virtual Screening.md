@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/eye
+icon: fontawesome/solid/eye
 ---
 
 - **Enrichment-Plot**: script to generate enrichment plot after virtual screening (standalone)  

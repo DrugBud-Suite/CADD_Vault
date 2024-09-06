@@ -51,7 +51,7 @@ icon: material/new-box
 - **GENTRL (Generative Tensorial Reinforcement Learning)**: A variational autoencoder with a rich prior distribution of the latent space, trained to find molecules with high reward, emphasizing the relations between molecular structures and their properties.  
 	[![Code](https://img.shields.io/github/stars/insilicomedicine/GENTRL?style=for-the-badge&logo=github)](https://github.com/insilicomedicine/GENTRL)  
 	[![Last Commit](https://img.shields.io/github/last-commit/insilicomedicine/GENTRL?style=for-the-badge&logo=github)](https://github.com/insilicomedicine/GENTRL)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:727-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41587-019-0224-x)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:728-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41587-019-0224-x)  
 - **GenUI**: Offers API and GUI for molecular generators, QSAR modelling, and chemical space visualization.  
 	[![Code](https://img.shields.io/github/stars/martin-sicho/genui?style=for-the-badge&logo=github)](https://github.com/martin-sicho/genui)  
 	[![Last Commit](https://img.shields.io/github/last-commit/martin-sicho/genui?style=for-the-badge&logo=github)](https://github.com/martin-sicho/genui)  
@@ -169,7 +169,7 @@ icon: material/new-box
 - **REINVENT 4**: A molecular design tool for various design tasks like de novo design, scaffold hopping, and molecule optimization, using a reinforcement learning algorithm.  
 	[![Code](https://img.shields.io/github/stars/MolecularAI/REINVENT4?style=for-the-badge&logo=github)](https://github.com/MolecularAI/REINVENT4)  
 	[![Last Commit](https://img.shields.io/github/last-commit/MolecularAI/REINVENT4?style=for-the-badge&logo=github)](https://github.com/MolecularAI/REINVENT4)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00812-5)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:14-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00812-5)  
 - **REINVENT-HITL**: Focuses on human-in-the-loop assisted de novo molecular design, leveraging reinforcement learning for optimizing molecules based on human feedback.  
 	[![Code](https://img.shields.io/github/stars/MolecularAI/reinvent-hitl?style=for-the-badge&logo=github)](https://github.com/MolecularAI/reinvent-hitl)  
 	[![Last Commit](https://img.shields.io/github/last-commit/MolecularAI/reinvent-hitl?style=for-the-badge&logo=github)](https://github.com/MolecularAI/reinvent-hitl)  
@@ -289,4 +289,4 @@ icon: material/new-box
 - **POLYGON**: POLYGON attempts to optimize the chemical space for multiple protein target domains  
 	[![Code](https://img.shields.io/github/stars/bpmunson/polygon?style=for-the-badge&logo=github)](https://github.com/bpmunson/polygon)  
 	[![Last Commit](https://img.shields.io/github/last-commit/bpmunson/polygon?style=for-the-badge&logo=github)](https://github.com/bpmunson/polygon)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41467-024-47120-y)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41467-024-47120-y)  

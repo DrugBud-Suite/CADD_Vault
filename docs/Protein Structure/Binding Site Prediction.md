@@ -200,7 +200,7 @@ icon: material/bio
 
 ## **From Molecular Dynamics simulations**
 - **CHARMM-GUI LBS Finder & Refiner**: Ligand Binding Site Prediction and Refinement (standalone)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://charmm-gui.org/?doc=input/lbsfinder)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://charmm-gui.org/?doc=input/lbsfinder)  
 - **ColaBind**: Cloud-Based Approach for Prediction of Binding Sites Using Coarse-Grained Simulations with Molecular Probes  
 	[![Code](https://img.shields.io/github/stars/porekhov/CG_probeMD?style=for-the-badge&logo=github)](https://github.com/porekhov/CG_probeMD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/porekhov/CG_probeMD?style=for-the-badge&logo=github)](https://github.com/porekhov/CG_probeMD)  

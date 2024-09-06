@@ -57,7 +57,7 @@ icon: material/new-box
 - **RELATION**: A software for DL-based de novo drug design, focusing on generating molecules based on target protein interactions.  
 	[![Code](https://img.shields.io/github/stars/micahwang/RELATION?style=for-the-badge&logo=github)](https://github.com/micahwang/RELATION)  
 	[![Last Commit](https://img.shields.io/github/last-commit/micahwang/RELATION?style=for-the-badge&logo=github)](https://github.com/micahwang/RELATION)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:41-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.2c00732)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:42-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.2c00732)  
 - **ResGen**: pocket-aware 3D molecular generation model based on parallel multiscale modelling (standalone).  
 	[![Code](https://img.shields.io/github/stars/HaotianZhangAI4Science/ResGen?style=for-the-badge&logo=github)](https://github.com/HaotianZhangAI4Science/ResGen)  
 	[![Last Commit](https://img.shields.io/github/last-commit/HaotianZhangAI4Science/ResGen?style=for-the-badge&logo=github)](https://github.com/HaotianZhangAI4Science/ResGen)  
@@ -146,7 +146,7 @@ icon: material/new-box
 - **PocketOptimizer 2.0**: Design of small molecule‐binding pockets in proteins (standalone)  
 	[![Code](https://img.shields.io/github/stars/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:7367-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:7370-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
 - **RGA**: A reinforcement learning-based genetic algorithm for structure-based drug design, introduced at NeurIPS 2022.  
 	[![Code](https://img.shields.io/github/stars/futianfan/reinforced-genetic-algorithm?style=for-the-badge&logo=github)](https://github.com/futianfan/reinforced-genetic-algorithm)  
 	[![Last Commit](https://img.shields.io/github/last-commit/futianfan/reinforced-genetic-algorithm?style=for-the-badge&logo=github)](https://github.com/futianfan/reinforced-genetic-algorithm)  
@@ -227,7 +227,7 @@ icon: material/new-box
 - **Docking-based generative approaches in the search for new drug candidates [2022]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.drudis.2022.103439)  
 - **Generative Deep Learning for Targeted Compound Design [2021]**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:70-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01496)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:71-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01496)  
 
 ## **Scaffold Hopping**
 - **DeepHop**:   

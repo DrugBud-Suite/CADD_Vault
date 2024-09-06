@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/flask
+icon: fontawesome/solid/flask
 ---
 
 - **AiZynthFinder**: package for retrosynthesis planning.  

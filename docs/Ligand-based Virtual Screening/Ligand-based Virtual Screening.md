@@ -31,7 +31,7 @@ icon: material/filter-variant
 - **ScreenLamp**: ScreenLamp is a modular toolkit for virtual screening, offering various command-line tools for different stages of the virtual screening process.  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://psa-lab.github.io/screenlamp/user_guide/tools/)  
 - **SmallWorld**: web-based ligand similarity on a variety of commercial databases  
-	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://sw.docking.org/search.html)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://sw.docking.org/search.html)  
 - **SwissSimilarity**: SwissSimilarity offers an online service for small molecule similarity screening against selected compound libraries using various cheminformatics methods.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:70-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390%2Fijms23020811)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.swisssimilarity.ch/)  

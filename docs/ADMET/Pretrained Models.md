@@ -1,5 +1,5 @@
 ---
-icon: octicons/syringe
+icon: material/needle
 ---
 
 
