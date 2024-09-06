@@ -134,51 +134,6 @@ def process_folder(folder_group, docs_dir):
     logging.info(f"Processed folder: {folder}")
 
 
-def update_mkdocs_yml(docs_dir, df):
-    mkdocs_file = os.path.join(os.path.dirname(docs_dir), 'mkdocs.yml')
-
-    with open(mkdocs_file, 'r') as file:
-        mkdocs_content = yaml.safe_load(file)
-
-    nav = []
-
-    # Add index.md
-    nav.append({'Home': 'index.md'})
-
-    # Group by FOLDER1 and CATEGORY1
-    grouped = df.groupby(['FOLDER1', 'CATEGORY1', 'PAGE_ICON'])
-
-    for (folder, category, icon), group in grouped:
-        if pd.isna(icon):
-            folder_entry = {folder: []}
-        else:
-            # Convert icon format
-            icon = f":{icon.replace('/', '-')}:"
-            folder_entry = {f"{icon} {folder}": []}
-
-        file_name = f"{category}.md"
-        folder_entry[list(folder_entry.keys())[0]].append(
-            {category: f"{folder}/{file_name}"})
-
-        # Check if this folder already exists in nav
-        folder_exists = False
-        for item in nav:
-            if isinstance(item, dict) and folder in item:
-                item[folder].extend(folder_entry[folder])
-                folder_exists = True
-                break
-
-        if not folder_exists:
-            nav.append(folder_entry)
-
-    # Update the nav section in mkdocs_content
-    mkdocs_content['nav'] = nav
-
-    # Write the updated content back to mkdocs.yml
-    with open(mkdocs_file, 'w') as file:
-        yaml.dump(mkdocs_content, file, sort_keys=False)
-
-
 def update_index_file(docs_directory, readme, total_publications,
                       total_code_repos, total_webserver_links):
     index_file_path = os.path.join(docs_directory, "index.md")
@@ -240,9 +195,6 @@ def main():
     # Close the pool and wait for all processes to finish
     pool.close()
     pool.join()
-
-    # Update mkdocs.yml
-    update_mkdocs_yml(docs_dir, df)
 
     # Calculate totals
     total_publications = len(df['PUBLICATION'].dropna())
