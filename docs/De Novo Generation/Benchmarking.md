@@ -1,3 +1,7 @@
+---
+icon: material/new-box
+---
+
 - **GenBench3D**: Benchmarking structure-based three-dimensional molecular generative models using GenBench3D  
 	[![Code](https://img.shields.io/github/stars/bbaillif/genbench3d?style=for-the-badge&logo=github)](https://github.com/bbaillif/genbench3d)  
 	[![Last Commit](https://img.shields.io/github/last-commit/bbaillif/genbench3d?style=for-the-badge&logo=github)](https://github.com/bbaillif/genbench3d)  

@@ -1,3 +1,7 @@
+---
+icon: material/tune-vertical
+---
+
 
 ## **Complete Package**
 - **SPOC**: A tool for calculating spatial and physicochemical descriptors from molecular dynamics simulations.  

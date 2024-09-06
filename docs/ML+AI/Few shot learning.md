@@ -1,3 +1,7 @@
+---
+icon: material/brain
+---
+
 - **AttFPGNN**:   
 	[![Code](https://img.shields.io/github/stars/sanomics-lab/AttFPGNN-MAML?style=for-the-badge&logo=github)](https://github.com/sanomics-lab/AttFPGNN-MAML)  
 	[![Last Commit](https://img.shields.io/github/last-commit/sanomics-lab/AttFPGNN-MAML?style=for-the-badge&logo=github)](https://github.com/sanomics-lab/AttFPGNN-MAML)  

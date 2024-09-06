@@ -1,3 +1,7 @@
+---
+icon: material/database
+---
+
 - **eMolecules**: commercially-available compounds  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.emolecules.com/)  
 - **MCULE**: Commercial compound collection (online)  

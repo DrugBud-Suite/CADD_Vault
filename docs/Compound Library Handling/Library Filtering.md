@@ -1,3 +1,7 @@
+---
+icon: material/library
+---
+
 
 ## **Functional Groups**
 - **pyCheckmol**: application for detecting functional groups of a molecule, created using features from the compiled checkmol  

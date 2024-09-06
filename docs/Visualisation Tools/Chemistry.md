@@ -1,3 +1,7 @@
+---
+icon: fontawesome/eye
+---
+
 - **BKchem**: chemical drawing program (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://bkchem.zirael.org/)  
 - **Chemfig**: draw molecules with easy syntax (standalone)  

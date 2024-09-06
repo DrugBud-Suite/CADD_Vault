@@ -1,3 +1,7 @@
+---
+icon: material/database
+---
+
 - **ChemBL**: A manually curated database of bioactive molecules with drug-like properties, integrating chemical, bioactivity, and genomic data to aid drug discovery.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:2923-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkr777)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.ebi.ac.uk/chembl/)  
@@ -17,5 +21,5 @@
 	[![Publication](https://img.shields.io/badge/Publication-Citations:923-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci300415d)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://gdb.unibe.ch/downloads/)  
 - **PubChem**: The world's largest collection of freely accessible chemical information, offering chemical and physical properties, biological activities, safety and toxicity information, patents, literature citations, and more.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:993-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac956)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:994-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac956)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pubchem.ncbi.nlm.nih.gov/)  

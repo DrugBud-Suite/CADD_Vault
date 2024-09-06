@@ -1,3 +1,7 @@
+---
+icon: material/database
+---
+
 - **BIOFACQUIM**: novel compounds databse with natural products isolated and charcterized in Mexico (online)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.difacquim.com/d-tools/)  
 - **COCONUT**: COCONUT hosts one of the largest and best annotated natural product databases, freely available and undergoing continuous curation and improvement.  

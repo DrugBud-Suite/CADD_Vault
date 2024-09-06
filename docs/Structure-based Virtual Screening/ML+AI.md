@@ -1,5 +1,9 @@
+---
+icon: material/strategy
+---
 
-## **Hasing-based**
+
+## **Hashing-based**
 - **DrugHash**: Hashing based Contrastive Learning for VS  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2407.19790)  
 

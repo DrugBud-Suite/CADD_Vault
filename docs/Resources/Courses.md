@@ -1,3 +1,7 @@
+---
+icon: material/book
+---
+
 - **CS231n: Convolutional Neural Networks for Visual Recognition**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://cs231n.github.io/)  
 - **2040FBDBIC - Chemo-informatics and computational drug design**: The repository contains course materials for "Chemo-informatics and computational drug design" taught at the University of Antwerp, Belgium. It offers an in-depth view into the course, supported by the European Union Recovery and Resilience Facility (RRF).  

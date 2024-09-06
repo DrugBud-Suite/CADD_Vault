@@ -31,5 +31,6 @@ theme:
 
   logo: images/LogoV1.png
   favicon: images/LogoV1.png
-extra_css:
-  - stylesheets/extra.css
+  features:
+    - navigation.top
+    - toc.follow

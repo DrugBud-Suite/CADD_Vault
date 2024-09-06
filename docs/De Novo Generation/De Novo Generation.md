@@ -1,3 +1,7 @@
+---
+icon: material/new-box
+---
+
 - **Acegen-Open**: TorchRL-based toolkit for reinforcement learning in generative chemistry  
 	[![Code](https://img.shields.io/github/stars/acellera/acegen-open?style=for-the-badge&logo=github)](https://github.com/acellera/acegen-open)  
 	[![Last Commit](https://img.shields.io/github/last-commit/acellera/acegen-open?style=for-the-badge&logo=github)](https://github.com/acellera/acegen-open)  

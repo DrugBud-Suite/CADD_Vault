@@ -1,3 +1,7 @@
+---
+icon: fontawesome/flask
+---
+
 - **DFRscore**: Introduces a deep learning-based scoring system for synthetic complexity, utilizing retrosynthetic analysis to evaluate the synthesizability of compounds for virtual screening purposes.  
 	[![Code](https://img.shields.io/github/stars/Hwoo-Kim/DFRscore?style=for-the-badge&logo=github)](https://github.com/Hwoo-Kim/DFRscore)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Hwoo-Kim/DFRscore?style=for-the-badge&logo=github)](https://github.com/Hwoo-Kim/DFRscore)  

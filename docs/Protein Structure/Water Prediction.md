@@ -1,3 +1,7 @@
+---
+icon: material/bio
+---
+
 - **HydraProt**: Deep Learning Tool for Fast and Accurate Prediction of Water Molecule Positions for Protein Structures (standalone, 2024).  
 	[![Code](https://img.shields.io/github/stars/azamanos/HydraProt?style=for-the-badge&logo=github)](https://github.com/azamanos/HydraProt)  
 	[![Last Commit](https://img.shields.io/github/last-commit/azamanos/HydraProt?style=for-the-badge&logo=github)](https://github.com/azamanos/HydraProt)  

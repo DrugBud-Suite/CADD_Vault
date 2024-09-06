@@ -1,3 +1,7 @@
+---
+icon: material/database
+---
+
 - **CORAL**: Clear and customizable visualization of human kinome data (Kinase) (online)  
 	[![Code](https://img.shields.io/github/stars/dphansti/CORAL?style=for-the-badge&logo=github)](https://github.com/dphansti/CORAL)  
 	[![Last Commit](https://img.shields.io/github/last-commit/dphansti/CORAL?style=for-the-badge&logo=github)](https://github.com/dphansti/CORAL)  
@@ -5,7 +9,7 @@
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://phanstiel-lab.med.unc.edu/CORAL/)  
 - **KIBA**: An integrated drug–target bioactivity matrix across 52498 chemical compounds and 467 kinase targets (dataset)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:324-blue?style=for-the-badge&logo=bookstack)](https://doi.org/doi:10.1021/ci400709d)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://researchportal.helsinki.fi/fi/datasets/kiba-a-benchmark-dataset-for-drug-target-prediction)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://researchportal.helsinki.fi/fi/datasets/kiba-a-benchmark-dataset-for-drug-target-prediction)  
 - **Kinase Atlas**: contains solvent mapping results for all kinases in the Protein Data Bank. You can search this database by PDB ID or by UniProt accession number (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:52-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.9b00089)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://kinase-atlas.bu.edu/)  

@@ -1,3 +1,7 @@
+---
+icon: material/new-box
+---
+
 - **Deep Learning Generative Models for Drug Discovery [2024]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-3-031-46238-2_23)  
 - **A Survey of Generative AI for De Novo Drug Design: New Frontiers in Molecule and Protein Generation**:   

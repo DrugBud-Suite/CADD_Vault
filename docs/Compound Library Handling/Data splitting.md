@@ -1,3 +1,7 @@
+---
+icon: material/library
+---
+
 - **splito**:   
 	[![Code](https://img.shields.io/github/stars/datamol-io/splito?style=for-the-badge&logo=github)](https://github.com/datamol-io/splito)  
 	[![Last Commit](https://img.shields.io/github/last-commit/datamol-io/splito?style=for-the-badge&logo=github)](https://github.com/datamol-io/splito)  

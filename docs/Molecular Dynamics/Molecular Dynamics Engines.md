@@ -1,11 +1,15 @@
+---
+icon: fontawesome/creative-commons-sampling
+---
+
 - **AMBER**: suite of biomolecular simulation programs (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:230-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01153)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:232-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01153)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://ambermd.org/)  
 - **CHARMM**: Chemistry at HARvard Macromolecular Mechanics (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:6975-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21287)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6977-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21287)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://academiccharmm.org/)  
 - **CHARMM-GUI**:   
-	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.charmm-gui.org/?doc=input)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://www.charmm-gui.org/?doc=input)  
 - **GaMD**: Gaussian Accelerated Molecular Dynamics (GaMD) is a biomolecular enhanced sampling method that works by adding a harmonic boost potential to smoothen the system potential energy surface.  
 	[![Code](https://img.shields.io/github/stars/MiaoLab20/gamd-openmm?style=for-the-badge&logo=github)](https://github.com/MiaoLab20/gamd-openmm)  
 	[![Last Commit](https://img.shields.io/github/last-commit/MiaoLab20/gamd-openmm?style=for-the-badge&logo=github)](https://github.com/MiaoLab20/gamd-openmm)  

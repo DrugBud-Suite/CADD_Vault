@@ -1,3 +1,7 @@
+---
+icon: material/new-box
+---
+
 
 ## **Models**
 - **PocketGen**: Generating Full-Atom Ligand-Binding Protein Pockets (standalone).  

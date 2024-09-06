@@ -1,3 +1,7 @@
+---
+icon: material/database
+---
+
 - **BigBind and BayesBind**:   
 	[![Code](https://img.shields.io/github/stars/molecularmodelinglab/bigbind?style=for-the-badge&logo=github)](https://github.com/molecularmodelinglab/bigbind)  
 	[![Last Commit](https://img.shields.io/github/last-commit/molecularmodelinglab/bigbind?style=for-the-badge&logo=github)](https://github.com/molecularmodelinglab/bigbind)  

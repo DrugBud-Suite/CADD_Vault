@@ -1,3 +1,7 @@
+---
+icon: material/brain
+---
+
 - **AIRS**: AIRS is a collection of open-source software tools, datasets, and benchmarks associated with our paper entitled “Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems”  
 	[![Code](https://img.shields.io/github/stars/divelab/AIRS?style=for-the-badge&logo=github)](https://github.com/divelab/AIRS/tree/main)  
 	[![Last Commit](https://img.shields.io/github/last-commit/divelab/AIRS?style=for-the-badge&logo=github)](https://github.com/divelab/AIRS/tree/main)  

@@ -1,3 +1,7 @@
+---
+icon: fontawesome/eye
+---
+
 - **Avogadro**: advanced molecule editor and visualizer designed for cross-platform use (draw molecules...) (standalone)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:6462-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-4-17)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://avogadro.cc/)  
@@ -5,10 +9,10 @@
 	[![Publication](https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/bty968)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://durrantlab.com/blendmol/)  
 - **Chimera**: (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:36985-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.20084)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:36988-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.20084)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.cgl.ucsf.edu/chimera/)  
 - **ChimeraX**: molecular graphics (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:3807-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.3235)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:3810-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.3235)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.cgl.ucsf.edu/chimerax/)  
 - **MichelaNGLO**: An interactive protein on your website with a few clicks (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://michelanglo.sgc.ox.ac.uk/)  
@@ -38,7 +42,7 @@
 - **SAMSON**: software for adaptative modeling and simulation (nano), GROMACS can be launched from SAMSON... (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.samson-connect.net/app/main?execution=e1s1)  
 - **VMD**: molecular visualization program (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:48268-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/0263-7855(96)00018-5)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:48275-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/0263-7855(96)00018-5)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.ks.uiuc.edu/Research/vmd/)  
 - **VTX**: High performance molecular visualization software (Windows, Linux) (standalone)  
 	[![Code](https://img.shields.io/badge/Code)](https://gitlab.com/VTX_mol/VTX)

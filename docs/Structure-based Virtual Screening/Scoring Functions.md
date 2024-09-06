@@ -1,3 +1,7 @@
+---
+icon: material/strategy
+---
+
 
 ## **Carbohydrates**
 - **VinaCarb**: Carbohydrate specific scoring function  
@@ -95,7 +99,7 @@
 - **DeepAffinity**: Protein-compound affinity prediction through unified RNN-CNN.  
 	[![Code](https://img.shields.io/github/stars/Shen-Lab/DeepAffinity?style=for-the-badge&logo=github)](https://github.com/Shen-Lab/DeepAffinity)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Shen-Lab/DeepAffinity?style=for-the-badge&logo=github)](https://github.com/Shen-Lab/DeepAffinity)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:313-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz111)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:314-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz111)  
 - **DeepBindGCN**: Predicts protein ligand binding affinity non-dependent on docking conformation.  
 	[![Code](https://img.shields.io/github/stars/haiping1010/DeepBindGCN?style=for-the-badge&logo=github)](https://github.com/haiping1010/DeepBindGCN)  
 	[![Last Commit](https://img.shields.io/github/last-commit/haiping1010/DeepBindGCN?style=for-the-badge&logo=github)](https://github.com/haiping1010/DeepBindGCN)  
@@ -299,7 +303,7 @@
 	[![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-023-00731-x)  
 - **TrustAffinity**: A sequence-based deep learning framework addressing challenges in protein-ligand binding affinity prediction including out-of-distribution generalizations, uncertainty quantification, and scalability.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.01.05.574359)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.biorxiv.org/content/10.1101/2024.01.05.574359v1.full)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.biorxiv.org/content/10.1101/2024.01.05.574359v1.full)  
 - **XLPFE**: a Simple and Effective Machine Learning Scoring Function for Protein-ligand Scoring and Ranking (standalone).  
 	[![Code](https://img.shields.io/github/stars/LinaDongXMU/XLPFE?style=for-the-badge&logo=github)](https://github.com/LinaDongXMU/XLPFE)  
 	[![Last Commit](https://img.shields.io/github/last-commit/LinaDongXMU/XLPFE?style=for-the-badge&logo=github)](https://github.com/LinaDongXMU/XLPFE)  

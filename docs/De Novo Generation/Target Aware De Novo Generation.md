@@ -1,3 +1,7 @@
+---
+icon: material/new-box
+---
+
 - **3D-Generative-SBDD**: Focuses on structure-based drug design (SBDD) using a 3D generative model to sample molecules for specific protein pockets.  
 	[![Code](https://img.shields.io/github/stars/luost26/3D-Generative-SBDD?style=for-the-badge&logo=github)](https://github.com/luost26/3D-Generative-SBDD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/luost26/3D-Generative-SBDD?style=for-the-badge&logo=github)](https://github.com/luost26/3D-Generative-SBDD)  

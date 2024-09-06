@@ -1,3 +1,7 @@
+---
+icon: material/database
+---
+
 - **Smiles2Dock**:   
 	[![Code](https://img.shields.io/github/stars/rivas-lab/Smiles2Dock?style=for-the-badge&logo=github)](https://github.com/rivas-lab/Smiles2Dock)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rivas-lab/Smiles2Dock?style=for-the-badge&logo=github)](https://github.com/rivas-lab/Smiles2Dock)  

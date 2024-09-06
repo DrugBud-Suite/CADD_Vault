@@ -1,3 +1,7 @@
+---
+icon: material/brain
+---
+
 - **A Systematic Survey in Geometric Deep Learning for Structure-based Drug Design [2023]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2306.11768)  
 - **How will generative AI disrupt data science in drug discovery? [2023]**:   

@@ -1,3 +1,7 @@
+---
+icon: material/brain
+---
+
 - **CS231n: Convolutional Neural Networks for Visual Recognition**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://cs231n.github.io/)  
 - **AI4Chemistry**: open courses - training in ML and AI (standalone)  

@@ -1,3 +1,7 @@
+---
+icon: material/bio
+---
+
 
 ## **Data Mining**
 - **Lemon**: a framework for rapidly mining structural information from the Protein Data Bank (standalone)  

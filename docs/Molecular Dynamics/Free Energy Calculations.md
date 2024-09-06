@@ -1,3 +1,7 @@
+---
+icon: fontawesome/creative-commons-sampling
+---
+
 - **ABFE_workflow**: Automated Absolute Binding Free Energy Calculation Workflow for Drug Discovery  
 	[![Code](https://img.shields.io/github/stars/bigginlab/ABFE_workflow?style=for-the-badge&logo=github)](https://github.com/bigginlab/ABFE_workflow)  
 	[![Last Commit](https://img.shields.io/github/last-commit/bigginlab/ABFE_workflow?style=for-the-badge&logo=github)](https://github.com/bigginlab/ABFE_workflow)  

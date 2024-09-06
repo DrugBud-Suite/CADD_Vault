@@ -1,3 +1,7 @@
+---
+icon: fontawesome/flask
+---
+
 - **AiZynthFinder**: package for retrosynthesis planning.  
 	[![Code](https://img.shields.io/github/stars/MolecularAI/aizynthfinder?style=for-the-badge&logo=github)](https://github.com/MolecularAI/aizynthfinder)  
 	[![Last Commit](https://img.shields.io/github/last-commit/MolecularAI/aizynthfinder?style=for-the-badge&logo=github)](https://github.com/MolecularAI/aizynthfinder)  

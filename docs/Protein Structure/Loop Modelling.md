@@ -1,3 +1,7 @@
+---
+icon: material/bio
+---
+
 - **KarmaLoop**: DL method centered on full-atom (encompassing both backbone and side-chain heavy atoms) protein loop modeling  
 	[![Code](https://img.shields.io/github/stars/karma211225/KarmaLoop?style=for-the-badge&logo=github)](https://github.com/karma211225/KarmaLoop)  
 	[![Last Commit](https://img.shields.io/github/last-commit/karma211225/KarmaLoop?style=for-the-badge&logo=github)](https://github.com/karma211225/KarmaLoop)  

@@ -1,3 +1,7 @@
+---
+icon: material/book
+---
+
 - **awesome-docking**:   
 	[![Code](https://img.shields.io/github/stars/KyGao/awesome-docking?style=for-the-badge&logo=github)](https://github.com/KyGao/awesome-docking)  
 	[![Last Commit](https://img.shields.io/github/last-commit/KyGao/awesome-docking?style=for-the-badge&logo=github)](https://github.com/KyGao/awesome-docking)  

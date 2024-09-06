@@ -1,3 +1,7 @@
+---
+icon: material/power-plug
+---
+
 - **DockingPie**: DockingPie is a PyMOL plugin that offers a graphical interface for molecular and consensus docking analyses, integrating docking programs like Smina, Autodock Vina, RxDock, and ADFR.  
 	[![Code](https://img.shields.io/github/stars/paiardin/DockingPie?style=for-the-badge&logo=github)](https://github.com/paiardin/DockingPie)  
 	[![Last Commit](https://img.shields.io/github/last-commit/paiardin/DockingPie?style=for-the-badge&logo=github)](https://github.com/paiardin/DockingPie)  

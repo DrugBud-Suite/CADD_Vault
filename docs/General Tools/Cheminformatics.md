@@ -1,3 +1,7 @@
+---
+icon: material/tools
+---
+
 - **Chemaxon**: numerous tools for small molecules (standalone).  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.chemaxon.com/)  
 

@@ -1,3 +1,7 @@
+---
+icon: material/molecule-co2
+---
+
 - **PaCh**:   
 	[![Code](https://img.shields.io/github/stars/chython/chython?style=for-the-badge&logo=github)](https://github.com/chython/chython)  
 	[![Last Commit](https://img.shields.io/github/last-commit/chython/chython?style=for-the-badge&logo=github)](https://github.com/chython/chython)  

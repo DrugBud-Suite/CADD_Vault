@@ -1,3 +1,7 @@
+---
+icon: material/bio
+---
+
 
 ## **Conformation Clustering**
 - **protein-cluster-conformers**: used to cluster a parsed set of monomeric protein chains via a global conformational change metric based on CA distances.  
@@ -35,7 +39,7 @@
 - **Str2Str**: Str2Str is a score-based framework for zero-shot protein conformation sampling, drawing inspiration from traditional methods to sample conformations guided by a neural score network trained on the PDB database.  
 	[![Code](https://img.shields.io/github/stars/lujiarui/Str2Str?style=for-the-badge&logo=github)](https://github.com/lujiarui/Str2Str)  
 	[![Last Commit](https://img.shields.io/github/last-commit/lujiarui/Str2Str?style=for-the-badge&logo=github)](https://github.com/lujiarui/Str2Str)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1140-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ade2574)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1141-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ade2574)  
 - **DeepConformer**: diffusion generative model for sampling protein conformation distributions from a given amino acid sequence  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.06.27.600251)  
 - **ICoN**: Sampling Conformational Ensembles of Highly Dynamic Proteins via Generative Deep Learning  

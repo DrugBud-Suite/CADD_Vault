@@ -1,3 +1,7 @@
+---
+icon: fontawesome/vr-cardboard
+---
+
 - **ChemFlow**: ChemFlow provides a series of computational chemistry workflows designed to automatize and simplify the drug discovery pipeline and scoring function benchmarking, consisting of BASH and PYTHON scripts.  
 	[![Code](https://img.shields.io/github/stars/IFMlab/ChemFlow?style=for-the-badge&logo=github)](https://github.com/IFMlab/ChemFlow)  
 	[![Last Commit](https://img.shields.io/github/last-commit/IFMlab/ChemFlow?style=for-the-badge&logo=github)](https://github.com/IFMlab/ChemFlow)  

@@ -1,3 +1,7 @@
+---
+icon: material/bio
+---
+
 - **HHpred**: homology and structure prediction (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:2992-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgki408)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://toolkit.tuebingen.mpg.de/#/tools/hhpred)  
@@ -9,5 +13,5 @@
 	[![Publication](https://img.shields.io/badge/Publication-Citations:8086-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fnprot.2015.053)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.sbg.bio.ic.ac.uk/phyre2/html/page.cgi?id=index)  
 - **SWISS-MODEL**: an automated protein structure homology-modelling server, accessible via the ExPASy web server  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:8869-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gky427)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:8871-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gky427)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://swissmodel.expasy.org/)  

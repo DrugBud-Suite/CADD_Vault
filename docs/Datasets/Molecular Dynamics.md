@@ -1,3 +1,7 @@
+---
+icon: material/database
+---
+
 - **ATLAS**: Resource for exploring molecular dynamics simulations, offering insights into the dynamics of proteins and other biomolecules.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkad1084)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.dsimb.inserm.fr/ATLAS)  

@@ -1,3 +1,7 @@
+---
+icon: material/bio
+---
+
 - **DeepKa**: deep-learning-based protein pKa predictor (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c02013)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.computbiophys.com/DeepKa/main)  

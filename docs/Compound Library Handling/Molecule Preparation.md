@@ -1,3 +1,7 @@
+---
+icon: material/library
+---
+
 - **Spores**: check structure, protonation (standalone).  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://www.tcd.uni-konstanz.de/research/spores.php)  
 - **Gypsum-DL**: Gypsum-DL is a software that transforms 1D and 2D small-molecule representations into 3D models, considering various isomeric and conformational states.  
@@ -15,7 +19,7 @@
 
 ## **Reviews**
 - **Sherman et al**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4154-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-013-9644-8)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4155-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-013-9644-8)  
 
 ## **Standardization**
 - **Ambitcli**: no 3D but Java application for standardization (standalone).  

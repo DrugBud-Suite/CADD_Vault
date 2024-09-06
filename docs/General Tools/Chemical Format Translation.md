@@ -1,3 +1,7 @@
+---
+icon: material/tools
+---
+
 - **Meeko**: preparation of small molecules for AutoDock suite (.pdbqt format).  
 	[![Code](https://img.shields.io/github/stars/forlilab/Meeko?style=for-the-badge&logo=github)](https://github.com/forlilab/Meeko)  
 	[![Last Commit](https://img.shields.io/github/last-commit/forlilab/Meeko?style=for-the-badge&logo=github)](https://github.com/forlilab/Meeko)  

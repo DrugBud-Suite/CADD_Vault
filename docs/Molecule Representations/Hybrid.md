@@ -1,3 +1,7 @@
+---
+icon: material/molecule-co44
+---
+
 
 ## **String-Graph Hybrid**
 - **UniMAP**: UniMAP offers a unified approach to molecular annotation and property prediction.  

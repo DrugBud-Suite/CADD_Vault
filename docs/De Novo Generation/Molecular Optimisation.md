@@ -1,3 +1,7 @@
+---
+icon: material/new-box
+---
+
 
 ## **Bioisosteres**
 ### **Database Mining Approach**

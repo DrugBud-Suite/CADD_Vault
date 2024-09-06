@@ -38,14 +38,16 @@ def check_url(url):
         return "offline"
 
 
-def update_md_file(file_path, content, subcategory, subsubcategory):
+def update_md_file(file_path, content, subcategory, subsubcategory, page_icon):
     # Initialize headers as not written
-    header_written = {'subcategory': False, 'subsubcategory': False}
+    header_written = {'icon': False, 'subcategory': False, 'subsubcategory': False}
 
     # Check if file exists and set headers as written if it does
     if os.path.exists(file_path):
         with open(file_path, 'r', encoding='utf-8') as file:
             existing_content = file.read()
+            if "---" in existing_content:
+                header_written['icon'] = True
             if f"## **{subcategory}**" in existing_content:
                 header_written['subcategory'] = True
             if f"### **{subsubcategory}**" in existing_content:
@@ -55,12 +57,12 @@ def update_md_file(file_path, content, subcategory, subsubcategory):
     with open(file_path,
               'a+' if os.path.exists(file_path) else 'w',
               encoding='utf-8') as file:
+        if not header_written['icon'] and pd.notna(page_icon):
+            file.write(f"---\nicon: {page_icon}\n---\n\n")
         if not header_written['subcategory'] and pd.notna(subcategory):
             file.write(f"\n## **{subcategory}**\n")
-            header_written['subcategory'] = True
         if not header_written['subsubcategory'] and pd.notna(subsubcategory):
             file.write(f"### **{subsubcategory}**\n")
-            header_written['subsubcategory'] = True
         file.write(content)
 
 
@@ -115,7 +117,7 @@ for index, row in df.iterrows():
             entry_content += f"\t[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)]({row['LINK']})  \n"
 
     update_md_file(file_path, entry_content, row['SUBCATEGORY1'],
-                   row['SUBSUBCATEGORY1'])
+                   row['SUBSUBCATEGORY1'], row['PAGE_ICON'])
 
 total_publications = len(df['PUBLICATION'].dropna())
 total_code_repos = len(df['CODE'].dropna())

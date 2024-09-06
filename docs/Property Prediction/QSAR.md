@@ -1,3 +1,7 @@
+---
+icon: material/tune-vertical
+---
+
 
 ## **Model Building And Training**
 - **ChemSAR**: full workflow of building a Structure‑Activity/Property Relationship(SAR/SPR) model (online)  

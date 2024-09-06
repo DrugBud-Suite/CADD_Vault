@@ -1,3 +1,7 @@
+---
+icon: material/molecule-co3
+---
+
 - **CATS-descriptor**:   
 	[![Code](https://img.shields.io/github/stars/alexarnimueller/cats-descriptor?style=for-the-badge&logo=github)](https://github.com/alexarnimueller/cats-descriptor)  
 	[![Last Commit](https://img.shields.io/github/last-commit/alexarnimueller/cats-descriptor?style=for-the-badge&logo=github)](https://github.com/alexarnimueller/cats-descriptor)  

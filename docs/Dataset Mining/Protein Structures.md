@@ -1,3 +1,7 @@
+---
+icon: material/pickaxe
+---
+
 
 ## **PDB**
 - **Lemon**: A framework for rapidly mining structural information from the Protein Data Bank, designed to be fast and flexible for querying 3D features of structures.  

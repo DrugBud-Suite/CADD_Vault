@@ -1,3 +1,7 @@
+---
+icon: material/dots-hexagon
+---
+
 
 ## **De Novo Generation**
 - **PGMG**: PGMG is a pharmacophore-guided deep learning approach for bioactive molecule generation, providing a strategy to generate molecules with structural diversity through the guidance of pharmacophore hypotheses.  

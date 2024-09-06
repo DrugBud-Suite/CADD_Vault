@@ -1,3 +1,7 @@
+---
+icon: fontawesome/eye
+---
+
 - **InteractiVenn**: a web-based tool for Venn diagrams (up to 6 datasets - online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:1574-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s12859-015-0611-3)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.interactivenn.net/)  

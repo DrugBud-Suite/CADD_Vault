@@ -1,3 +1,7 @@
+---
+icon: fontawesome/eye
+---
+
 - **Chemical Space dataviz**: Visualizing chemical space networks with RDKit and NetworkX (standalone)  
 	[![Code](https://img.shields.io/github/stars/vfscalfani/CSN_tutorial?style=for-the-badge&logo=github)](https://github.com/vfscalfani/CSN_tutorial)  
 	[![Last Commit](https://img.shields.io/github/last-commit/vfscalfani/CSN_tutorial?style=for-the-badge&logo=github)](https://github.com/vfscalfani/CSN_tutorial)  

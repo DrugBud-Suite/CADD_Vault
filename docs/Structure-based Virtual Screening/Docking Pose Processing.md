@@ -1,3 +1,7 @@
+---
+icon: material/strategy
+---
+
 
 ## **Clustering**
 - **ClusterX**: ClusterX is a deep clustering framework for learning molecular representations of protein-ligand complexes and accurately clustering ligands, designed to assist computational medicinal chemists in making visual decisions.  
@@ -85,7 +89,7 @@
 - **rmsd**: Calculate Root-mean-square deviation (RMSD) of Two Molecules Using Rotation  
 	[![Code](https://img.shields.io/github/stars/charnley/rmsd?style=for-the-badge&logo=github)](https://github.com/charnley/rmsd)  
 	[![Last Commit](https://img.shields.io/github/last-commit/charnley/rmsd?style=for-the-badge&logo=github)](https://github.com/charnley/rmsd)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2362-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1107/S0567739476001873)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:2363-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1107/S0567739476001873)  
 - **spyRMSD**: Python tool for symmetry-corrected RMSD calculations.  
 	[![Code](https://img.shields.io/github/stars/RMeli/spyrmsd?style=for-the-badge&logo=github)](https://github.com/RMeli/spyrmsd)  
 	[![Last Commit](https://img.shields.io/github/last-commit/RMeli/spyrmsd?style=for-the-badge&logo=github)](https://github.com/RMeli/spyrmsd)  

@@ -1,3 +1,7 @@
+---
+icon: material/bio
+---
+
 - **Get_Cleft**:   
 	[![Code](https://img.shields.io/github/stars/NRGlab/Get_Cleft?style=for-the-badge&logo=github)](https://github.com/NRGlab/Get_Cleft)  
 	[![Last Commit](https://img.shields.io/github/last-commit/NRGlab/Get_Cleft?style=for-the-badge&logo=github)](https://github.com/NRGlab/Get_Cleft)  
@@ -48,7 +52,7 @@
 	[![Last Commit](https://img.shields.io/github/last-commit/stemylonas/DeepSurf?style=for-the-badge&logo=github)](https://github.com/stemylonas/DeepSurf.git)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:69-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btab009)  
 - **DogSiteScorer**: This proteins.plus platform offers DogSiteScorer for predicting and scoring protein-ligand binding sites.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:387-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/bts310)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:388-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/bts310)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://proteins.plus/)  
 - **ESSA**: Essential site scanning analysis: A new approach for detecting sites that modulate the dispersion of protein global motions (Essential sites are defined as residues that would significantly alter the protein’s global dynamics if bound to a ligand) (standalone)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:40-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.csbj.2020.06.020)  
@@ -196,7 +200,7 @@
 
 ## **From Molecular Dynamics simulations**
 - **CHARMM-GUI LBS Finder & Refiner**: Ligand Binding Site Prediction and Refinement (standalone)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://charmm-gui.org/?doc=input/lbsfinder)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://charmm-gui.org/?doc=input/lbsfinder)  
 - **ColaBind**: Cloud-Based Approach for Prediction of Binding Sites Using Coarse-Grained Simulations with Molecular Probes  
 	[![Code](https://img.shields.io/github/stars/porekhov/CG_probeMD?style=for-the-badge&logo=github)](https://github.com/porekhov/CG_probeMD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/porekhov/CG_probeMD?style=for-the-badge&logo=github)](https://github.com/porekhov/CG_probeMD)  

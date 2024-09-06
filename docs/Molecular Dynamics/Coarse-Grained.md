@@ -1,3 +1,7 @@
+---
+icon: fontawesome/creative-commons-sampling
+---
+
 - **ENCoM**:   
 	[![Code](https://img.shields.io/github/stars/NRGlab/ENCoM?style=for-the-badge&logo=github)](https://github.com/NRGlab/ENCoM)  
 	[![Last Commit](https://img.shields.io/github/last-commit/NRGlab/ENCoM?style=for-the-badge&logo=github)](https://github.com/NRGlab/ENCoM)  

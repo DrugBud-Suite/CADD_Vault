@@ -1,3 +1,7 @@
+---
+icon: octicons/workflow
+---
+
 - **AutoCouple**:   
 	[![Code](https://img.shields.io/github/stars/Caflisch-Group/AutoCouple_Python-based?style=for-the-badge&logo=github)](https://github.com/Caflisch-Group/AutoCouple_Python-based)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Caflisch-Group/AutoCouple_Python-based?style=for-the-badge&logo=github)](https://github.com/Caflisch-Group/AutoCouple_Python-based)  
