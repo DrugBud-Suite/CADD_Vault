@@ -1,6 +1,9 @@
+- **awesome-docking**:   
+	[![Code](https://img.shields.io/github/stars/KyGao/awesome-docking?style=for-the-badge&logo=github)](https://github.com/KyGao/awesome-docking)  
+	[![Last Commit](https://img.shields.io/github/last-commit/KyGao/awesome-docking?style=for-the-badge&logo=github)](https://github.com/KyGao/awesome-docking)  
 - **awesome-molecular-docking**:   
-	[![Code](https://img.shields.io/github/stars/yangnianzu0515/awesome-molecular-docking?style=for-the-badge&logo=github)](https://github.com/yangnianzu0515/awesome-molecular-docking)  
-	[![Last Commit](https://img.shields.io/github/last-commit/yangnianzu0515/awesome-molecular-docking?style=for-the-badge&logo=github)](https://github.com/yangnianzu0515/awesome-molecular-docking)  
+	[![Code](https://img.shields.io/github/stars/Thinklab-SJTU/awesome-molecular-docking?style=for-the-badge&logo=github)](https://github.com/Thinklab-SJTU/awesome-molecular-docking)  
+	[![Last Commit](https://img.shields.io/github/last-commit/Thinklab-SJTU/awesome-molecular-docking?style=for-the-badge&logo=github)](https://github.com/Thinklab-SJTU/awesome-molecular-docking)  
 - **awesome-python-chemistry**:   
 	[![Code](https://img.shields.io/github/stars/lmmentel/awesome-python-chemistry?style=for-the-badge&logo=github)](https://github.com/lmmentel/awesome-python-chemistry)  
 	[![Last Commit](https://img.shields.io/github/last-commit/lmmentel/awesome-python-chemistry?style=for-the-badge&logo=github)](https://github.com/lmmentel/awesome-python-chemistry)  
@@ -19,4 +22,4 @@
 - **MolSSI Molecular Software Database**:   
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://molssi.org/software-search/)  
 - **Pages created by Tobias Kind, PhD**:   
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://fiehnlab.ucdavis.edu/staff/kind/metabolomics)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://fiehnlab.ucdavis.edu/staff/kind/metabolomics)  

@@ -11,7 +11,7 @@
 - **CREM**: generate chemical structures using a fragment-based approach  
 	[![Code](https://img.shields.io/github/stars/DrrDom/crem?style=for-the-badge&logo=github)](https://github.com/DrrDom/crem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/DrrDom/crem?style=for-the-badge&logo=github)](https://github.com/DrrDom/crem)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:49-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00431-w)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:50-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00431-w)  
 - **DeepFrag**:   
 	[![Code](https://img.shields.io/github/stars/durrantlab/deepfrag?style=for-the-badge&logo=github)](https://github.com/durrantlab/deepfrag/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/deepfrag?style=for-the-badge&logo=github)](https://github.com/durrantlab/deepfrag/)  
@@ -42,8 +42,15 @@
 - **DeLinker**: Deep Generative Models for 3D Linker Design  
 	[![Code](https://img.shields.io/github/stars/oxpig/DeLinker?style=for-the-badge&logo=github)](https://github.com/oxpig/DeLinker)  
 	[![Last Commit](https://img.shields.io/github/last-commit/oxpig/DeLinker?style=for-the-badge&logo=github)](https://github.com/oxpig/DeLinker)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:138-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01120)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:140-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01120)  
 - **DiffLinker**: An Equivariant 3D-conditional Diffusion Model for Molecular Linker Design that places missing atoms between disconnected fragments in 3D, designing molecules that incorporate all initial fragments with potential applications in linker generation for drug discovery.  
 	[![Code](https://img.shields.io/github/stars/igashov/DiffLinker?style=for-the-badge&logo=github)](https://github.com/igashov/DiffLinker)  
 	[![Last Commit](https://img.shields.io/github/last-commit/igashov/DiffLinker?style=for-the-badge&logo=github)](https://github.com/igashov/DiffLinker)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.5281/zenodo.10515726)  
+
+## **Toolkits**
+- **BuildAMol**:   
+	[![Code](https://img.shields.io/github/stars/NoahHenrikKleinschmidt/buildamol?style=for-the-badge&logo=github)](https://github.com/NoahHenrikKleinschmidt/buildamol)  
+	[![Last Commit](https://img.shields.io/github/last-commit/NoahHenrikKleinschmidt/buildamol?style=for-the-badge&logo=github)](https://github.com/NoahHenrikKleinschmidt/buildamol)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00900-6)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://biobuild.readthedocs.io/)  

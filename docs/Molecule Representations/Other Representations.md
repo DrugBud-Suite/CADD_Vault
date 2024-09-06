@@ -4,4 +4,4 @@
 - **TUCAN**: TUCAN is a tool for transforming unstructured chemical annotations into normalized expressions.  
 	[![Code](https://img.shields.io/github/stars/TUCAN-nest/TUCAN?style=for-the-badge&logo=github)](https://github.com/TUCAN-nest/TUCAN)  
 	[![Last Commit](https://img.shields.io/github/last-commit/TUCAN-nest/TUCAN?style=for-the-badge&logo=github)](https://github.com/TUCAN-nest/TUCAN)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00640-5)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00640-5)  

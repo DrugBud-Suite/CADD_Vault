@@ -16,11 +16,11 @@
 - **pySmash**: Python package and software for structural alerts generation and application  
 	[![Code](https://img.shields.io/github/stars/kotori-y/pySmash?style=for-the-badge&logo=github)](https://github.com/kotori-y/pySmash)  
 	[![Last Commit](https://img.shields.io/github/last-commit/kotori-y/pySmash?style=for-the-badge&logo=github)](https://github.com/kotori-y/pySmash)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbab017)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbab017)  
 - **rd_filters**: provides a simple means of applying the functional group filters from the ChEMBL database, as well as a number of property filters from the RDKit, to a set of compounds.  
 	[![Code](https://img.shields.io/github/stars/PatWalters/rd_filters?style=for-the-badge&logo=github)](https://github.com/PatWalters/rd_filters)  
 	[![Last Commit](https://img.shields.io/github/last-commit/PatWalters/rd_filters?style=for-the-badge&logo=github)](https://github.com/PatWalters/rd_filters)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2941-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/jm901137j)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:2958-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/jm901137j)  
 ### **Aggregators**
 - **BADGER**: Detection of Small Colloidal Aggregating Molecules Using the BAD Molecule Filter  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00363)  

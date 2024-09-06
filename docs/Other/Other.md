@@ -10,8 +10,8 @@
 	[![Code](https://img.shields.io/github/stars/francescopatane96/Computer_aided_drug_discovery_kit?style=for-the-badge&logo=github)](https://github.com/francescopatane96/Computer_aided_drug_discovery_kit/tree/main)  
 	[![Last Commit](https://img.shields.io/github/last-commit/francescopatane96/Computer_aided_drug_discovery_kit?style=for-the-badge&logo=github)](https://github.com/francescopatane96/Computer_aided_drug_discovery_kit/tree/main)  
 - **datamol**: - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.  
-	[![Code](https://img.shields.io/github/stars/datamol-org/datamol?style=for-the-badge&logo=github)](https://github.com/datamol-org/datamol)  
-	[![Last Commit](https://img.shields.io/github/last-commit/datamol-org/datamol?style=for-the-badge&logo=github)](https://github.com/datamol-org/datamol)  
+	[![Code](https://img.shields.io/github/stars/datamol-io/datamol?style=for-the-badge&logo=github)](https://github.com/datamol-io/datamol)  
+	[![Last Commit](https://img.shields.io/github/last-commit/datamol-io/datamol?style=for-the-badge&logo=github)](https://github.com/datamol-io/datamol)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://zenodo.org/doi/10.5281/zenodo.5131279)  
 - **MayaChemTools**: MayaChemTools is a collection of Perl and Python scripts, modules, and classes that support a variety of computational discovery needs, with functionalities for processing, analyzing, and visualizing chemical data.  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.mayachemtools.org/index.html)  

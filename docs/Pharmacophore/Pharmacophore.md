@@ -3,13 +3,13 @@
 - **PGMG**: PGMG is a pharmacophore-guided deep learning approach for bioactive molecule generation, providing a strategy to generate molecules with structural diversity through the guidance of pharmacophore hypotheses.  
 	[![Code](https://img.shields.io/github/stars/CSUBioGroup/PGMG?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/PGMG)  
 	[![Last Commit](https://img.shields.io/github/last-commit/CSUBioGroup/PGMG?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/PGMG)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:6-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41467-023-41454-9)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41467-023-41454-9)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.csuligroup.com/PGMG)  
 
 ## **From Apo Protein**
 - **Apo2ph4**: Workflow for the Generation of Receptor-based Pharmacophore Models for Virtual Screening (online).  
-	[![Code](https://img.shields.io/github/stars/aglanger/apo2ph4?style=for-the-badge&logo=github)](https://github.com/aglanger/apo2ph4/)  
-	[![Last Commit](https://img.shields.io/github/last-commit/aglanger/apo2ph4?style=for-the-badge&logo=github)](https://github.com/aglanger/apo2ph4/)  
+	[![Code](https://img.shields.io/github/stars/molinfo-vienna/apo2ph4?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/apo2ph4)  
+	[![Last Commit](https://img.shields.io/github/last-commit/molinfo-vienna/apo2ph4?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/apo2ph4)  
 
 ## **From MD Simulations**
 - **DynoPhores**: DynoPhores introduces dynamic pharmacophore modeling of molecular interactions throughout MD simulations, tracking pharmacophore features and their interaction partners over time.  
@@ -76,5 +76,5 @@
 
 ## **Web-Servers**
 - **Pharmit**: Pharmit provides an interactive environment for the identification and visualization of pharmacophore models, enabling virtual screening against millions of compounds. It offers tools for specifying pharmacophores, flexibly searching chemical databases, and viewing results in 3D directly in the web browser.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:227-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkw287)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:228-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkw287)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pharmit.csb.pitt.edu/)  

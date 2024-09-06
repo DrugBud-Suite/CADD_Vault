@@ -12,6 +12,9 @@
 	[![Code](https://img.shields.io/github/stars/coleygroup/sparrow?style=for-the-badge&logo=github)](https://github.com/coleygroup/sparrow)  
 	[![Last Commit](https://img.shields.io/github/last-commit/coleygroup/sparrow?style=for-the-badge&logo=github)](https://github.com/coleygroup/sparrow)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2311.02187)  
+- **BatGPT-Chem**: A Foundation Large Model For Retrosynthesis Prediction  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2408.10285)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.batgpt.net/dapp/chem)  
 
 ## **LLM**
 - **SynAsk**: a comprehensive organic chemistry domain-specific LLM platform  

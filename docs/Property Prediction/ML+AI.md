@@ -3,7 +3,7 @@
 - **SPOC**: A tool for calculating spatial and physicochemical descriptors from molecular dynamics simulations.  
 	[![Code](https://img.shields.io/github/stars/WhitestoneYang/spoc?style=for-the-badge&logo=github)](https://github.com/WhitestoneYang/spoc)  
 	[![Last Commit](https://img.shields.io/github/last-commit/WhitestoneYang/spoc?style=for-the-badge&logo=github)](https://github.com/WhitestoneYang/spoc)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/cphc.202200255)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/cphc.202200255)  
 
 ## **Ensemble**
 - **AIS-Ensemble**:   
@@ -18,7 +18,7 @@
 - **DeepPurpose**: A Deep Learning Library for Compound and Protein Modeling, DTI, Drug Property, PPI, DDI, Protein Function Prediction  
 	[![Code](https://img.shields.io/github/stars/kexinhuang12345/DeepPurpose?style=for-the-badge&logo=github)](https://github.com/kexinhuang12345/DeepPurpose)  
 	[![Last Commit](https://img.shields.io/github/last-commit/kexinhuang12345/DeepPurpose?style=for-the-badge&logo=github)](https://github.com/kexinhuang12345/DeepPurpose)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:192-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btaa1005)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:197-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btaa1005)  
 - **MolE**: Molecular representations through redundancy reduction of Embeddings  
 	[![Code](https://img.shields.io/github/stars/rolayoalarcon/MolE?style=for-the-badge&logo=github)](https://github.com/rolayoalarcon/MolE)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rolayoalarcon/MolE?style=for-the-badge&logo=github)](https://github.com/rolayoalarcon/MolE)  
@@ -44,7 +44,7 @@
 - **DeltaClassifiers**: a novel molecular pairing approach to process this data. This creates a new classification task of predicting which one of two paired molecules is more potent.  
 	[![Code](https://img.shields.io/github/stars/RekerLab/DeltaClassifier?style=for-the-badge&logo=github)](https://github.com/RekerLab/DeltaClassifier)  
 	[![Last Commit](https://img.shields.io/github/last-commit/RekerLab/DeltaClassifier?style=for-the-badge&logo=github)](https://github.com/RekerLab/DeltaClassifier)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D4MD00325J)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D4MD00325J)  
 ### **CNN**
 - **conv_qsar_fast**: QSAR/QSPR using descriptor-free molecular embedding  
 	[![Code](https://img.shields.io/github/stars/connorcoley/conv_qsar_fast?style=for-the-badge&logo=github)](https://github.com/connorcoley/conv_qsar_fast)  
@@ -79,11 +79,6 @@
 	[![Code](https://img.shields.io/github/stars/NYUSHCS/MolecularGPT?style=for-the-badge&logo=github)](https://github.com/NYUSHCS/MolecularGPT)  
 	[![Last Commit](https://img.shields.io/github/last-commit/NYUSHCS/MolecularGPT?style=for-the-badge&logo=github)](https://github.com/NYUSHCS/MolecularGPT)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2406.12950)  
-### **Fine-Tuning**
-- **HFPA**: Head Feature Parallel Adapter (HFPA), which is highly interpretable, high-performing, and has fewer parameters than other widely used methods  
-	[![Code](https://img.shields.io/github/stars/AI-medical-diagnosis-team-of-JNU/HFPA?style=for-the-badge&logo=github)](https://github.com/AI-medical-diagnosis-team-of-JNU/HFPA)  
-	[![Last Commit](https://img.shields.io/github/last-commit/AI-medical-diagnosis-team-of-JNU/HFPA?style=for-the-badge&logo=github)](https://github.com/AI-medical-diagnosis-team-of-JNU/HFPA)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21203/rs.3.rs-3488751/v1)  
 ### **GAT**
 - **LGGA**:   
 	[![Code](https://img.shields.io/github/stars/songlei101/LGGA?style=for-the-badge&logo=github)](https://github.com/songlei101/LGGA)  
@@ -96,15 +91,15 @@
 - **DeepDelta**: A pairwise deep learning approach predicting property differences between two molecules.  
 	[![Code](https://img.shields.io/github/stars/RekerLab/DeepDelta?style=for-the-badge&logo=github)](https://github.com/RekerLab/DeepDelta)  
 	[![Last Commit](https://img.shields.io/github/last-commit/RekerLab/DeepDelta?style=for-the-badge&logo=github)](https://github.com/RekerLab/DeepDelta)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-023-00769-x)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-023-00769-x)  
 - **MMGX**:   
 	[![Code](https://img.shields.io/github/stars/ohuelab/MMGX?style=for-the-badge&logo=github)](https://github.com/ohuelab/MMGX)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ohuelab/MMGX?style=for-the-badge&logo=github)](https://github.com/ohuelab/MMGX)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42004-024-01155-w)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42004-024-01155-w)  
 - **MolCLR**: Molecular Contrastive Learning of Representations via Graph Neural Networks  
 	[![Code](https://img.shields.io/github/stars/yuyangw/MolCLR?style=for-the-badge&logo=github)](https://github.com/yuyangw/MolCLR)  
 	[![Last Commit](https://img.shields.io/github/last-commit/yuyangw/MolCLR?style=for-the-badge&logo=github)](https://github.com/yuyangw/MolCLR)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:261-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-022-00447-x)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:272-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-022-00447-x)  
 - **molgraph**: Offers graph neural networks with TensorFlow and Keras for molecular machine learning, focusing on compatibility and ease of use.  
 	[![Code](https://img.shields.io/github/stars/akensert/molgraph?style=for-the-badge&logo=github)](https://github.com/akensert/molgraph)  
 	[![Last Commit](https://img.shields.io/github/last-commit/akensert/molgraph?style=for-the-badge&logo=github)](https://github.com/akensert/molgraph)  
@@ -114,10 +109,6 @@
 	[![Last Commit](https://img.shields.io/github/last-commit/merck/MolPROP?style=for-the-badge&logo=github)](https://github.com/merck/MolPROP)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00846-9)  
 ### **Hybrid**
-- **MvMRL**: multi-view molecular representation learning  
-	[![Code](https://img.shields.io/github/stars/jedison-github/MvMRL?style=for-the-badge&logo=github)](https://github.com/jedison-github/MvMRL)  
-	[![Last Commit](https://img.shields.io/github/last-commit/jedison-github/MvMRL?style=for-the-badge&logo=github)](https://github.com/jedison-github/MvMRL)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbae298)  
 - **FGNN**:   
 	[![Code](https://img.shields.io/github/stars/random-zhang/FGNN?style=for-the-badge&logo=github)](https://github.com/random-zhang/FGNN)  
 	[![Last Commit](https://img.shields.io/github/last-commit/random-zhang/FGNN?style=for-the-badge&logo=github)](https://github.com/random-zhang/FGNN)  
@@ -136,7 +127,7 @@
 - **ChemProp**: Features a deep learning approach for molecular property prediction, focusing on scalability and fast uncertainty quantification.  
 	[![Code](https://img.shields.io/github/stars/aamini/chemprop?style=for-the-badge&logo=github)](https://github.com/aamini/chemprop)  
 	[![Last Commit](https://img.shields.io/github/last-commit/aamini/chemprop?style=for-the-badge&logo=github)](https://github.com/aamini/chemprop)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:88-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.1c00546)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:89-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.1c00546)  
 - **GeminiMol**: Incorporates conformational space profile into molecular representation learning, enhancing drug discovery including virtual screening, target identification, and QSAR.  
 	[![Code](https://img.shields.io/github/stars/Wang-Lin-boop/GeminiMol?style=for-the-badge&logo=github)](https://github.com/Wang-Lin-boop/GeminiMol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Wang-Lin-boop/GeminiMol?style=for-the-badge&logo=github)](https://github.com/Wang-Lin-boop/GeminiMol)  
@@ -158,7 +149,7 @@
 - **X-MOL**: large-scale pre-training for molecular understanding and diverse molecular analysis  
 	[![Code](https://img.shields.io/github/stars/bm2-lab/X-MOL?style=for-the-badge&logo=github)](https://github.com/bm2-lab/X-MOL)  
 	[![Last Commit](https://img.shields.io/github/last-commit/bm2-lab/X-MOL?style=for-the-badge&logo=github)](https://github.com/bm2-lab/X-MOL)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.scib.2022.01.029)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.scib.2022.01.029)  
 
 ## **Pretrained Models**
 - **OPERA**: Open-source QSAR models for pKa prediction using multiple machine learning approaches. Also suite of QSAR models (windows, linux), recent implementation (CATMoS Acute Toxicity Modeling Suite, acute oral toxicity) (standalone).  

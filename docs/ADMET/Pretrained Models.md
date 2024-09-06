@@ -3,7 +3,7 @@
 - **BBB-score**:   
 	[![Code](https://img.shields.io/github/stars/gkxiao/BBB-score?style=for-the-badge&logo=github)](https://github.com/gkxiao/BBB-score)  
 	[![Last Commit](https://img.shields.io/github/last-commit/gkxiao/BBB-score?style=for-the-badge&logo=github)](https://github.com/gkxiao/BBB-score)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:188-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.9b01220)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:190-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.9b01220)  
 
 ## **CYP450**
 - **D-CyPre**: Tool for Accurately Predicting the Site of Metabolism of Human Cytochrome P450 Metabolism  
@@ -15,7 +15,7 @@
 - **ADMET_XGBoost**:   
 	[![Code](https://img.shields.io/github/stars/smu-tao-group/ADMET_XGBoost?style=for-the-badge&logo=github)](https://github.com/smu-tao-group/ADMET_XGBoost)  
 	[![Last Commit](https://img.shields.io/github/last-commit/smu-tao-group/ADMET_XGBoost?style=for-the-badge&logo=github)](https://github.com/smu-tao-group/ADMET_XGBoost)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s00894-022-05373-8)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:31-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s00894-022-05373-8)  
 - **admet-ai**:   
 	[![Code](https://img.shields.io/github/stars/swansonk14/admet_ai?style=for-the-badge&logo=github)](https://github.com/swansonk14/admet_ai)  
 	[![Last Commit](https://img.shields.io/github/last-commit/swansonk14/admet_ai?style=for-the-badge&logo=github)](https://github.com/swansonk14/admet_ai)  
@@ -28,7 +28,7 @@
 - **ChemMORT**:   
 	[![Code](https://img.shields.io/github/stars/leelasd/ChemMORT?style=for-the-badge&logo=github)](https://github.com/leelasd/ChemMORT)  
 	[![Last Commit](https://img.shields.io/github/last-commit/leelasd/ChemMORT?style=for-the-badge&logo=github)](https://github.com/leelasd/ChemMORT)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbae008)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbae008)  
 - **Computation-ADME**:   
 	[![Code](https://img.shields.io/github/stars/molecularinformatics/Computational-ADME?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/Computational-ADME)  
 	[![Last Commit](https://img.shields.io/github/last-commit/molecularinformatics/Computational-ADME?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/Computational-ADME)  
@@ -50,7 +50,7 @@
 
 ## **Toxicity**
 - **ProTox3**: Webserver for toxicity prediction  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:18-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae303)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:25-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae303)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://tox.charite.de/protox3/)  
 
 ## **hERG**

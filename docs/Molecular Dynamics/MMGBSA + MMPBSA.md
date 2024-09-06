@@ -8,7 +8,7 @@
 - **iPBSA**: Improving virtual screening results with MM/GBSA and MM/PBSA rescoring (standalone).  
 	[![Code](https://img.shields.io/github/stars/sahakyanhk/iPBSA?style=for-the-badge&logo=github)](https://github.com/sahakyanhk/iPBSA)  
 	[![Last Commit](https://img.shields.io/github/last-commit/sahakyanhk/iPBSA?style=for-the-badge&logo=github)](https://github.com/sahakyanhk/iPBSA)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:42-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-021-00389-3)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:43-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-021-00389-3)  
 - **Uni-GBSA**: open-source and web-based automatic workflow to perform MM/GB(PB)SA calculations for virtual screening (online)  
 	[![Code](https://img.shields.io/github/stars/dptech-corp/Uni-GBSA?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-GBSA)  
 	[![Last Commit](https://img.shields.io/github/last-commit/dptech-corp/Uni-GBSA?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-GBSA)  
@@ -22,7 +22,7 @@
 - **gmx_MMPBSA**: gmx_MMPBSA is a new tool based on AMBER's MMPBSA.py aiming to perform end-state free energy calculations with GROMACS files  
 	[![Code](https://img.shields.io/github/stars/Valdes-Tresanco-MS/gmx_MMPBSA?style=for-the-badge&logo=github)](https://github.com/Valdes-Tresanco-MS/gmx_MMPBSA)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Valdes-Tresanco-MS/gmx_MMPBSA?style=for-the-badge&logo=github)](https://github.com/Valdes-Tresanco-MS/gmx_MMPBSA)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:898-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.1c00645)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:909-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.1c00645)  
 - **Uni-GBSA**: An Automatic Workflow to Perform MM/GB(PB)SA Calculations for Virtual Screening  
 	[![Code](https://img.shields.io/github/stars/dptech-corp/Uni-GBSA?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-GBSA)  
 	[![Last Commit](https://img.shields.io/github/last-commit/dptech-corp/Uni-GBSA?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-GBSA)  

@@ -25,7 +25,7 @@
 - **BAT**: Binding Affinity Tool (BAT.py) is a python tool for fully automated absolute binding free energy (ABFE) calculations using all-atom Molecular Dynamics (MD)  
 	[![Code](https://img.shields.io/github/stars/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
 	[![Last Commit](https://img.shields.io/github/last-commit/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:57-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-020-80769-1)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:59-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-020-80769-1)  
 - **FEgrow**: An interactive workflow for building user-defined congeneric series of ligands in protein binding pockets for input to free energy calculations.  
 	[![Code](https://img.shields.io/github/stars/cole-group/FEgrow?style=for-the-badge&logo=github)](https://github.com/cole-group/FEgrow)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cole-group/FEgrow?style=for-the-badge&logo=github)](https://github.com/cole-group/FEgrow)  
@@ -51,12 +51,17 @@
 - **ATM_with_NNPs**: Enhancing Protein-Ligand Binding Affinity Predictions Using Neural Network Potentials  
 	[![Code](https://img.shields.io/github/stars/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs)  
 	[![Last Commit](https://img.shields.io/github/last-commit/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:936-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:942-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q)  
 
 ## **Planning**
 - **HiMap**: High Information Mapper (HiMap), successor of the Lead Optimization Mapper (LOMAP), includes design generation based on statistical optimality for alchemical free energy calculations and optimization of free energy perturbation networks.  
 	[![Code](https://img.shields.io/github/stars/MobleyLab/HiMap?style=for-the-badge&logo=github)](https://github.com/MobleyLab/HiMap)  
 	[![Last Commit](https://img.shields.io/github/last-commit/MobleyLab/HiMap?style=for-the-badge&logo=github)](https://github.com/MobleyLab/HiMap)  
+
+## **Thermodynamics Ensemble**
+- **DynaFormer**: deep learning model to predict the binding affinities based on dynamic protein-ligand interactions  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/advs.202405404)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://1drv.ms/f/s!Ah9r82oejjV8piQHq_qAieio_86z?e=B1E53d)  
 
 ## **Tools**
 - **Kartograf**: Kartograf is a package focusing on 3D geometry-based atom mappings, useful for generating hybrid topology systems in free energy calculations and other applications.  

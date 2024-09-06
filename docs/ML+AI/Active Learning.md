@@ -2,8 +2,8 @@
 	[![Code](https://img.shields.io/github/stars/gitter-lab/active-learning-drug-discovery?style=for-the-badge&logo=github)](https://github.com/gitter-lab/active-learning-drug-discovery)  
 	[![Last Commit](https://img.shields.io/github/last-commit/gitter-lab/active-learning-drug-discovery?style=for-the-badge&logo=github)](https://github.com/gitter-lab/active-learning-drug-discovery)  
 - **AL-VS**: Large-Scale Pretraining Improves Sample Efficiency of Active Learning-Based Virtual Screening  
-	[![Code](https://img.shields.io/github/stars/None?style=for-the-badge&logo=github)](github.com/molecularinformatics/PretrainedAL-VS)  
-	[![Last Commit](https://img.shields.io/github/last-commit/None?style=for-the-badge&logo=github)](github.com/molecularinformatics/PretrainedAL-VS)  
+	[![Code](https://img.shields.io/github/stars/molecularinformatics/PretrainedAL-VS?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/PretrainedAL-VS)  
+	[![Last Commit](https://img.shields.io/github/last-commit/molecularinformatics/PretrainedAL-VS?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/PretrainedAL-VS)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01938)  
 - **ChemSpaceAL**: an Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation (generative chemistry) (standalone, 2024).  
 	[![Code](https://img.shields.io/github/stars/gregory-kyro/ChemSpaceAL?style=for-the-badge&logo=github)](https://github.com/gregory-kyro/ChemSpaceAL)  
@@ -24,15 +24,19 @@
 - **molpal**: Molecular Pool-based Active Learning  
 	[![Code](https://img.shields.io/github/stars/coleygroup/molpal?style=for-the-badge&logo=github)](https://github.com/coleygroup/molpal)  
 	[![Last Commit](https://img.shields.io/github/last-commit/coleygroup/molpal?style=for-the-badge&logo=github)](https://github.com/coleygroup/molpal)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:141-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D0SC06805E)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:145-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D0SC06805E)  
 - **PyRMD2Dock**: Streamlining Large Chemical Library Docking with Artificial Intelligence: the PyRMD2Dock (and PyRMD) (ultralarge screening - 2023) (standalone).  
 	[![Code](https://img.shields.io/github/stars/cosconatilab/PyRMD?style=for-the-badge&logo=github)](https://github.com/cosconatilab/PyRMD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cosconatilab/PyRMD?style=for-the-badge&logo=github)](https://github.com/cosconatilab/PyRMD)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:24-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00653)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:25-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00653)  
 - **RAD**: Retrieval Augmented Docking (standalone, 2024).  
 	[![Code](https://img.shields.io/github/stars/keiserlab/rad?style=for-the-badge&logo=github)](https://github.com/keiserlab/rad)  
 	[![Last Commit](https://img.shields.io/github/last-commit/keiserlab/rad?style=for-the-badge&logo=github)](https://github.com/keiserlab/rad)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=arxiv)](https://doi.org/10.26434/chemrxiv-2024-qsdd1)  
+- **ActiveDelta**: predict molecular improvements from the best current training compound to prioritize molecules for training set expansion  
+	[![Code](https://img.shields.io/github/stars/RekerLab/ActiveDelta?style=for-the-badge&logo=github)](https://github.com/RekerLab/ActiveDelta)  
+	[![Last Commit](https://img.shields.io/github/last-commit/RekerLab/ActiveDelta?style=for-the-badge&logo=github)](https://github.com/RekerLab/ActiveDelta)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3762/bjoc.20.185)  
 
 ## **Reviews**
 - **Understanding active learning of molecular docking and its applications**:   

@@ -12,7 +12,7 @@
 	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsmedchemlett.9b00651)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://insilab.org/probis-h2o-md/)  
 - **ProBis plugin**: The ProBis plugin for PyMOL and UCSF Chimera enables users to detect protein binding sites, developed to work on Linux and tested in Windows environments, supporting PyMOL version 1.7.0.0 and UCSF Chimera version 1.11.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:27-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.6b01277)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:28-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.6b01277)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://insilab.org/probis-plugin/)  
 
 ## **Docking**

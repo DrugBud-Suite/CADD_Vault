@@ -3,27 +3,27 @@
 - **Gypsum-DL**: Gypsum-DL is a software that transforms 1D and 2D small-molecule representations into 3D models, considering various isomeric and conformational states.  
 	[![Code](https://img.shields.io/github/stars/durrantlab/gypsum_dl?style=for-the-badge&logo=github)](https://github.com/durrantlab/gypsum_dl/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/gypsum_dl?style=for-the-badge&logo=github)](https://github.com/durrantlab/gypsum_dl/)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:46-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0358-3)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:47-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0358-3)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://durrantlab.pitt.edu/gypsum-dl/)  
 
 ## **Protonation**
 - **DiMorphite-DL**:   
 	[![Code](https://img.shields.io/github/stars/durrantlab/dimorphite_dl?style=for-the-badge&logo=github)](https://github.com/durrantlab/dimorphite_dl/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/dimorphite_dl?style=for-the-badge&logo=github)](https://github.com/durrantlab/dimorphite_dl/)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0336-9)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](<https://durrantlab.pitt.edu/dimorphite-dl/>)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:41-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0336-9)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://durrantlab.pitt.edu/dimorphite-dl/>)  
 
 ## **Reviews**
 - **Sherman et al**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4123-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-013-9644-8)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4154-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-013-9644-8)  
 
 ## **Standardization**
 - **Ambitcli**: no 3D but Java application for standardization (standalone).  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://ambit.sourceforge.net/download_ambitcli.html)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://ambit.sourceforge.net/download_ambitcli.html)  
 - **ChEMBL_Structure_Pipeline (formerly standardiser)**:   
 	[![Code](https://img.shields.io/github/stars/chembl/ChEMBL_Structure_Pipeline?style=for-the-badge&logo=github)](https://github.com/chembl/ChEMBL_Structure_Pipeline)  
 	[![Last Commit](https://img.shields.io/github/last-commit/chembl/ChEMBL_Structure_Pipeline?style=for-the-badge&logo=github)](https://github.com/chembl/ChEMBL_Structure_Pipeline)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:204-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00456-1)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:210-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00456-1)  
 - **MolVS**:   
 	[![Code](https://img.shields.io/github/stars/mcs07/MolVS?style=for-the-badge&logo=github)](https://github.com/mcs07/MolVS)  
 	[![Last Commit](https://img.shields.io/github/last-commit/mcs07/MolVS?style=for-the-badge&logo=github)](https://github.com/mcs07/MolVS)  
@@ -47,5 +47,5 @@
 
 ## **pKa**
 - **Graph-pKa**: Multi-instance learning of graph neural networks for aqueous pKa prediction (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:26-blue?style=for-the-badge&logo=bookstack)](doi:10.1093/bioinformatics/btab714)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:27-blue?style=for-the-badge&logo=bookstack)](doi:10.1093/bioinformatics/btab714)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://pka.simm.ac.cn/en/)  
