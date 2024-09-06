@@ -1,5 +1,6 @@
 ---
-icon: material/molecule-co3
+icon: material/molecule-co2
+
 ---
 
 - **CATS-descriptor**:   

@@ -1,5 +1,6 @@
 ---
-icon: material/molecule-co58
+icon: materialmolecule-co2
+
 ---
 
 - **graphium**:   

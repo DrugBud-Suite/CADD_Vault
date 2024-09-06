@@ -1,5 +1,6 @@
 ---
-icon: material/molecule-co51
+icon: materialmolecule-co2
+
 ---
 
 

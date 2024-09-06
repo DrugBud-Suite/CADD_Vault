@@ -559,63 +559,114 @@ PyRod,https://github.com/wolberlab/pyrod,https://doi.org/10.1021/acs.jcim.9b0028
 SIRE,,https://doi.org/10.1063/5.0200458,,https://try.openbiosim.org,Molecular Dynamics,Molecular Dynamics Engines,interOperable,,An interoperability engine for prototyping algorithms and exchanging information between molecular simulation programs,,,,,0.0,fontawesome/brands/creative-commons-sampling
 SPIB_kinetics,https://github.com/tiwarylab/SPIB_kinetics,https://doi.org/10.1101/2024.04.16.589710,,,Molecular Dynamics,Residence Time,,,Calculating Protein-Ligand Residence Times Through State Predictive Information Bottleneck based Enhanced Sampling,5.0,04/2024,4 months ago,,1.0,fontawesome/brands/creative-commons-sampling
 PaCh,https://github.com/chython/chython,https://doi.org/10.1021/acs.jcim.3c01720,,https://pubs.acs.org/doi/10.1021/acs.jcim.3c01720,Molecule Representations,Binary,,,,32.0,08/2024,0 months ago,,0.0,material/molecule-co2
-CATS-descriptor,https://github.com/alexarnimueller/cats-descriptor,https://doi.org/10.1002%2Fminf.201200141,,,Molecule Representations,Descriptors,,,,7.0,02/2023,18 months ago,,134.0,material/molecule-co3
+CATS-descriptor,https://github.com/alexarnimueller/cats-descriptor,https://doi.org/10.1002%2Fminf.201200141,,,Molecule Representations,Descriptors,,,,7.0,02/2023,18 months ago,,134.0,material/molecule-co2
+
 ChemDes,,,http://www.scbdd.com/chemdes/,,Molecule Representations,Descriptors,,,An integrated web-based platform for molecular descriptor and fingerprint computation.,,,,,,material/molecule-co4
 ChemoPy,https://github.com/ifyoungnet/Chemopy?tab=readme-ov-file,,,,Molecule Representations,Descriptors,,,A Python library for calculating chemical descriptors for QSAR/SAR/QSPR studies.,8.0,05/2021,39 months ago,,,material/molecule-co5
 DescriptaStorus,https://github.com/bp-kelley/descriptastorus,,,,Molecule Representations,Descriptors,,,Provides a framework for computing chemistry descriptors and (optionally) storing them for machine learning applications.,221.0,04/2024,4 months ago,,,material/molecule-co6
 DompeKeys,,,https://dompekeys.exscalate.eu/,,Molecule Representations,Descriptors,,,"a new substructure-based fingerprint descriptor, encoding patterns of functional groups and chemical features",,,,,,material/molecule-co7
 GuideMol,https://github.com/jairesdesousa/guidemol,https://doi.org/10.1002/minf.202300190,,,Molecule Representations,Descriptors,,,A tool for guiding molecular design through machine learning models.,10.0,01/2024,7 months ago,,1.0,material/molecule-co8
 Molecular3DLengthDescriptors,https://github.com/ThomasJewson/Molecular3DLengthDescriptors,https://doi.org/10.1021/acs.jcim.6b00565).,,,Molecule Representations,Descriptors,,,Provides descriptors based on the three-dimensional lengths of molecules.,6.0,05/2021,40 months ago,,0.0,material/molecule-co9
-mordred,https://github.com/mordred-descriptor/mordred,https://doi.org/10.1186/s13321-018-0258-y,,,Molecule Representations,Descriptors,,,A molecular descriptor calculator that is extendable and supports various chemical informatics tasks.,353.0,06/2019,63 months ago,,716.0,material/molecule-co10
-PaDEL,,https://doi.org/10.1002/jcc.21707,,http://yapcwsoft.com/dd/padeldescriptor/,Molecule Representations,Descriptors,,,A software for calculating molecular descriptors and fingerprints.,,,,,2014.0,material/molecule-co11
-PadelPy,https://github.com/ecrl/padelpy,https://doi.org/10.1002/jcc.21707,,,Molecule Representations,Descriptors,,,A Python wrapper for PaDEL-Descriptor software (standalone),180.0,11/2023,10 months ago,,2014.0,material/molecule-co12
-Spectrophores,https://github.com/silicos-it/spectrophore,https://doi.org/10.1186/s13321-018-0268-9,,,Molecule Representations,Descriptors,,,Calculates spectrophoric descriptors that capture electronic and spatial properties of molecules.,5.0,12/2020,45 months ago,,14.0,material/molecule-co13
-SPOC,https://github.com/WhitestoneYang/spoc,https://doi.org/10.1002/cphc.202200255,,,Molecule Representations,Descriptors,,,A tool for calculating spatial and physicochemical descriptors from molecular dynamics simulations.,8.0,01/2024,7 months ago,,16.0,material/molecule-co14
-WHALES Descriptors,https://github.com/grisoniFr/whales_descriptors,https://www.nature.com/articles/s42004-018-0043-x,,,Molecule Representations,Descriptors,,,compute Weighted Holistic Atom Localization and Entity Shape (WHALES) descriptors starting from an rdkit supplier file,26.0,07/2021,38 months ago,,,material/molecule-co15
-MoleculaPy,https://github.com/kamilpytlak/MoleculaPy,,,,Molecule Representations,Descriptors,,,"A command-line application that utilizes the RDKit library to compute molecular descriptors and fingerprints, aiding in the analysis and characterization of chemical structures.",0.0,08/2024,0 months ago,,,material/molecule-co16
-SPMS,https://github.com/licheng-xu-echo/SPMS,https://doi.org/10.1055/s-0040-1705977,,,Molecule Representations,Descriptors,3D,,"spherical projection descriptor of molecular stereostructure (SPMS), which allows precise representation of the molecular vdW surface.",12.0,03/2024,5 months ago,,5.0,material/molecule-co17
-QED,https://github.com/silicos-it/qed,http://dx.doi.org/10.1038/nchem.1243,,,Molecule Representations,Descriptors,Drug-Likeness,,Offers the Quantitative Estimate of Drug-likeness for a given molecular structure.,14.0,12/2022,21 months ago,,1272.0,material/molecule-co18
-DrugMetric,https://github.com/renly0313/DrugMetric,https://doi.org/10.1093/bib/bbae321,,,Molecule Representations,Descriptors,Drug-Likeness,,Quantitative Drug-likeness Scoring Based on Chemical Space Distance,1.0,05/2024,3 months ago,,0.0,material/molecule-co19
-Afgen,,,,http://glaros.dtc.umn.edu/gkhome/afgen/overview,Molecule Representations,Descriptors,Fragment-Based Descriptors,,Fragment-based descriptors (standalone),,,,,,material/molecule-co20
-PyL3dMD,https://github.com/panwarp/PyL3dMD,,,,Molecule Representations,Descriptors,From MD Simulations,,A Python library for 3D molecular descriptors calculation from molecular dynamics simulations.,22.0,07/2024,2 months ago,,,material/molecule-co21
-pyCheckmol,https://github.com/jeffrichardchemistry/pyCheckmol,,,,Molecule Representations,Descriptors,Functional Groups,,"application for detecting functional groups of a molecule, created using features from the compiled checkmol",10.0,07/2023,13 months ago,,,material/molecule-co22
-DFRscore,https://github.com/Hwoo-Kim/DFRscore,https://doi.org/10.1021/acs.jcim.3c01134,,,Molecule Representations,Descriptors,Synthetic Accessibility,,"Introduces a deep learning-based scoring system for synthetic complexity, utilizing retrosynthetic analysis to evaluate the synthesizability of compounds for virtual screening purposes.",8.0,05/2024,3 months ago,,5.0,material/molecule-co23
-Emin,https://github.com/andrewlee1030/Emin-A-First-Principles-Thermochemical-Descriptor-for-Predicting-Molecular-Synthesizability,https://doi.org/10.1021/acs.jcim.3c01583,,,Molecule Representations,Descriptors,Synthetic Accessibility,,,0.0,09/2023,11 months ago,,0.0,material/molecule-co24
-RAScore,https://github.com/reymond-group/RAscore,https://doi.org/10.1039/d0sc05401a,,,Molecule Representations,Descriptors,Synthetic Accessibility,,rapid machine learned synthesizability classification from AI driven retrosynthetic planning.,78.0,08/2021,36 months ago,,74.0,material/molecule-co25
-SAScore,https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score,https://doi.org/10.1186/1758-2946-1-8,,,Molecule Representations,Descriptors,Synthetic Accessibility,,The Synthetic Accessibility Score (SAScore) aims to assess the synthetic difficulty of chemical compounds.,2584.0,09/2024,0 months ago,,864.0,material/molecule-co26
-SCscore,https://github.com/connorcoley/scscore,,,,Molecule Representations,Descriptors,Synthetic Accessibility,,"SCScore is a synthetic complexity score that assigns a value between 1 and 5 to a molecule, based on the premise that published reactions should exhibit an increase in synthetic complexity.",93.0,02/2018,80 months ago,,,material/molecule-co27
-DScribe,https://github.com/SINGROUP/dscribe,https://doi.org/10.1016/j.cpc.2019.106949,,,Molecule Representations,Fingerprints,,,Python package for transforming atomic structures into fixed-size numerical fingerprints.,393.0,05/2024,3 months ago,,449.0,material/molecule-co28
-FPKit,https://github.com/davidbajusz/fpkit,https://doi.org/10.1186/s13321-018-0302-y,,,Molecule Representations,Fingerprints,,,Python-based cheminformatics package for fingerprint-related tasks.,12.0,05/2021,40 months ago,,79.0,material/molecule-co29
-MAPC,https://github.com/reymond-group/mapchiral,,,,Molecule Representations,Fingerprints,,,MinHashed Atom-Pair Fingerprint Chiral,15.0,12/2023,8 months ago,,,material/molecule-co30
-MoleculaPy,https://github.com/kamilpytlak/MoleculaPy,,,,Molecule Representations,Fingerprints,,,"A command-line application that utilizes the RDKit library to compute molecular descriptors and fingerprints, aiding in the analysis and characterization of chemical structures.",0.0,08/2024,0 months ago,,,material/molecule-co31
-QSAR_toolbox,https://github.com/iwatobipen/QSAR_TOOLBOX,,,,Molecule Representations,Fingerprints,,,scripts for QSAR model building and fingerprint generation,14.0,06/2019,63 months ago,,,material/molecule-co32
-RDKit,,,,https://www.rdkit.org/docs/GettingStartedInPython.html#fingerprinting-and-molecular-similarity,Molecule Representations,Fingerprints,,,"Offers comprehensive tools for fingerprinting and molecular similarity, supporting various fingerprint types for chemical informatics.",,,,,,material/molecule-co33
-SciKit-fingerprints,https://github.com/scikit-fingerprints/scikit-fingerprints/tree/SoftwareX_submission_v1.6.1,https://doi.org/10.48550/arXiv.2407.13291,,,Molecule Representations,Fingerprints,,,A Python library for efficient computation of molecular fingerprints.,84.0,09/2024,0 months ago,,0.0,material/molecule-co34
-ChemDes,,,http://www.scbdd.com/chemdes/,,Molecule Representations,Fingerprints,,,An integrated web-based platform for molecular descriptor and fingerprint computation.,,,,,,material/molecule-co35
-ChemoPy,https://github.com/ifyoungnet/Chemopy?tab=readme-ov-file,,,,Molecule Representations,Fingerprints,,,A Python library for calculating chemical descriptors for QSAR/SAR/QSPR studies.,8.0,05/2021,39 months ago,,,material/molecule-co36
-E3FP,https://github.com/keiserlab/e3fp,http://dx.doi.org/10.1021/acs.jmedchem.7b00696,,,Molecule Representations,Fingerprints,3D,,Extended 3-Dimensional FingerPrint,121.0,12/2022,20 months ago,,78.0,material/molecule-co37
-LUNA,https://github.com/keiserlab/LUNA,https://doi.org/10.1101/2022.05.25.493419,,,Molecule Representations,Fingerprints,Protein-ligand interaction fingerprints,,,47.0,04/2024,5 months ago,,4.0,material/molecule-co38
-2D-SIFt,https://bitbucket.org/zchl/sift2d/src/master/,,,,Molecule Representations,Fingerprints,Protein-ligand interaction fingerprints,,2D-SIFt provides a two-dimensional method for analyzing protein-ligand interactions.,,,,,,material/molecule-co39
-BINANA,https://github.com/durrantlab/binana/,https://doi.org/10.1016%2Fj.jmgm.2011.01.004,,https://durrantlab.pitt.edu/binana-download/,Molecule Representations,Fingerprints,Protein-ligand interaction fingerprints,,BINANA is a tool for characterizing the binding interactions of ligands with proteins.,11.0,06/2023,15 months ago,,191.0,material/molecule-co40
-PLIP,https://github.com/pharmai/plip,https://doi.org/10.1093/nar/gkab294,https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index,,Molecule Representations,Fingerprints,Protein-ligand interaction fingerprints,,An easy and fast web tool for identifying non-covalent interactions between biological macromolecules and their ligands.,445.0,08/2023,12 months ago,,895.0,material/molecule-co41
-ProLIF,https://github.com/chemosim-lab/ProLIF,https://doi.org/10.1186/s13321-021-00548-6,,,Molecule Representations,Fingerprints,Protein-ligand interaction fingerprints,,"ProLIF (Protein-Ligand Interaction Fingerprints) generates interaction fingerprints for complexes made of ligands, protein, DNA, or RNA molecules extracted from molecular dynamics trajectories, docking simulations, and experimental structures.",351.0,08/2024,0 months ago,,138.0,material/molecule-co42
-SPLIF,https://oddt.readthedocs.io/en/latest/rst/oddt.html#oddt.fingerprints.SPLIF,https://doi.org/10.1021%2Fci500319f,,,Molecule Representations,Fingerprints,Protein-ligand interaction fingerprints,,Structural Protein–Ligand Interaction Fingerprints (SPLIF),,,,,127.0,material/molecule-co43
-UniMAP,https://github.com/fengshikun/UniMAP,https://doi.org/10.48550/arXiv.2310.14216,,,Molecule Representations,Hybrid,String-Graph Hybrid,,UniMAP offers a unified approach to molecular annotation and property prediction.,10.0,05/2024,3 months ago,,0.0,material/molecule-co44
-graphium,https://github.com/datamol-io/graphium,,,https://graphium-docs.datamol.io/stable/,Molecule Representations,ML+AI,General,,,190.0,07/2024,1 months ago,,,material/molecule-co45
-molfeat,https://github.com/datamol-io/molfeat,https://zenodo.org/badge/latestdoi/613548667,,https://molfeat.datamol.io/,Molecule Representations,ML+AI,General,,,177.0,08/2024,0 months ago,,,material/molecule-co46
-SELFormer,https://github.com/HUBioDataLab/SELFormer,https://doi.org/10.1088/2632-2153/acdb30,,,Molecule Representations,ML+AI,Transformer,SELFIES,A transformer-based model utilizing SELFIES notations for learning high-quality molecular representations.,70.0,06/2024,2 months ago,,11.0,material/molecule-co47
-BERT,https://github.com/odb9402/MoleculeTransformer,https://proceedings.mlr.press/v106/shin19a.html,,,Molecule Representations,ML+AI,Transformer,SMILES,A transformer model specifically designed for molecular property prediction tasks.,6.0,11/2020,46 months ago,,,material/molecule-co48
-EvoMPF,https://zivgitlab.uni-muenster.de/ag-glorius/published-paper/evompf,https://doi.org/10.1016/j.chempr.2024.02.004,,,Molecule Representations,Other Representations,,,EvoMPF is a framework for evolutionary molecular pattern finding using SMARTS.,,,,,1.0,material/molecule-co49
-TUCAN,https://github.com/TUCAN-nest/TUCAN,https://doi.org/10.1186/s13321-022-00640-5,,,Molecule Representations,Other Representations,,,TUCAN is a tool for transforming unstructured chemical annotations into normalized expressions.,23.0,08/2024,0 months ago,,9.0,material/molecule-co50
-selfies,https://github.com/aspuru-guzik-group/selfies,https://doi.org/10.1039/D3DD00044C,,,Molecule Representations,Strings,Other Representations,,,652.0,07/2024,1 months ago,,3.0,material/molecule-co51
-SMARTS,https://github.com/SqrtNegInf/SMARTS,,,https://github.com/SqrtNegInf/SMARTS/blob/master/cheat-sheet.txt,Molecule Representations,Strings,SMARTS-related,,SMARTS is like a regular expression for chemical compounds,18.0,06/2018,75 months ago,,,material/molecule-co52
-SMARTS-plus,,,https://smarts.plus/,,Molecule Representations,Strings,SMARTS-related,,easy to comprehend visualization for your SMARTS expression.,,,,,,material/molecule-co53
-maxsmi,https://github.com/volkamerlab/maxsmi,https://doi.org/10.1016/j.ailsci.2021.100014,,,Molecule Representations,Strings,SMILES-related,,,28.0,10/2022,22 months ago,,6.0,material/molecule-co54
-SMILESAugmentation,https://github.com/jcorreia11/SMILESAugmentation,,,,Molecule Representations,Strings,SMILES-related,,A tool for augmenting SMILES strings to enhance the performance of machine learning models in cheminformatics.,5.0,06/2022,27 months ago,,,material/molecule-co55
-t-SMILES,https://github.com/juanniwu/t-smiles,https://doi.org/10.1038/s41467-024-49388-6,,,Molecule Representations,Strings,SMILES-related,,Transforms SMILES strings for improved molecular representation and machine learning model performance.,24.0,06/2024,2 months ago,,0.0,material/molecule-co56
-mol2vec,https://github.com/samoturk/mol2vec,https://doi.org/10.1021/acs.jcim.7b00616,,,Molecule Representations,Vector,,,Generates vector representations of molecular substructures for machine learning applications.,253.0,12/2019,57 months ago,,446.0,material/molecule-co57
-graphium,https://github.com/datamol-io/graphium,,,https://graphium-docs.datamol.io/stable/,Molecule Representations,Wrappers for several representations,,,,190.0,07/2024,1 months ago,,,material/molecule-co58
-molfeat,https://github.com/datamol-io/molfeat,https://zenodo.org/badge/latestdoi/613548667,,https://molfeat.datamol.io/,Molecule Representations,Wrappers for several representations,,,,177.0,08/2024,0 months ago,,,material/molecule-co59
+mordred,https://github.com/mordred-descriptor/mordred,https://doi.org/10.1186/s13321-018-0258-y,,,Molecule Representations,Descriptors,,,A molecular descriptor calculator that is extendable and supports various chemical informatics tasks.,353.0,06/2019,63 months ago,,716.0,materialmolecule-co2
+
+PaDEL,,https://doi.org/10.1002/jcc.21707,,http://yapcwsoft.com/dd/padeldescriptor/,Molecule Representations,Descriptors,,,A software for calculating molecular descriptors and fingerprints.,,,,,2014.0,materialmolecule-co2
+
+PadelPy,https://github.com/ecrl/padelpy,https://doi.org/10.1002/jcc.21707,,,Molecule Representations,Descriptors,,,A Python wrapper for PaDEL-Descriptor software (standalone),180.0,11/2023,10 months ago,,2014.0,materialmolecule-co2
+
+Spectrophores,https://github.com/silicos-it/spectrophore,https://doi.org/10.1186/s13321-018-0268-9,,,Molecule Representations,Descriptors,,,Calculates spectrophoric descriptors that capture electronic and spatial properties of molecules.,5.0,12/2020,45 months ago,,14.0,materialmolecule-co2
+
+SPOC,https://github.com/WhitestoneYang/spoc,https://doi.org/10.1002/cphc.202200255,,,Molecule Representations,Descriptors,,,A tool for calculating spatial and physicochemical descriptors from molecular dynamics simulations.,8.0,01/2024,7 months ago,,16.0,materialmolecule-co2
+
+WHALES Descriptors,https://github.com/grisoniFr/whales_descriptors,https://www.nature.com/articles/s42004-018-0043-x,,,Molecule Representations,Descriptors,,,compute Weighted Holistic Atom Localization and Entity Shape (WHALES) descriptors starting from an rdkit supplier file,26.0,07/2021,38 months ago,,,materialmolecule-co2
+
+MoleculaPy,https://github.com/kamilpytlak/MoleculaPy,,,,Molecule Representations,Descriptors,,,"A command-line application that utilizes the RDKit library to compute molecular descriptors and fingerprints, aiding in the analysis and characterization of chemical structures.",0.0,08/2024,0 months ago,,,materialmolecule-co2
+
+SPMS,https://github.com/licheng-xu-echo/SPMS,https://doi.org/10.1055/s-0040-1705977,,,Molecule Representations,Descriptors,3D,,"spherical projection descriptor of molecular stereostructure (SPMS), which allows precise representation of the molecular vdW surface.",12.0,03/2024,5 months ago,,5.0,materialmolecule-co2
+
+QED,https://github.com/silicos-it/qed,http://dx.doi.org/10.1038/nchem.1243,,,Molecule Representations,Descriptors,Drug-Likeness,,Offers the Quantitative Estimate of Drug-likeness for a given molecular structure.,14.0,12/2022,21 months ago,,1272.0,materialmolecule-co2
+
+DrugMetric,https://github.com/renly0313/DrugMetric,https://doi.org/10.1093/bib/bbae321,,,Molecule Representations,Descriptors,Drug-Likeness,,Quantitative Drug-likeness Scoring Based on Chemical Space Distance,1.0,05/2024,3 months ago,,0.0,materialmolecule-co2
+
+Afgen,,,,http://glaros.dtc.umn.edu/gkhome/afgen/overview,Molecule Representations,Descriptors,Fragment-Based Descriptors,,Fragment-based descriptors (standalone),,,,,,materialmolecule-co2
+
+PyL3dMD,https://github.com/panwarp/PyL3dMD,,,,Molecule Representations,Descriptors,From MD Simulations,,A Python library for 3D molecular descriptors calculation from molecular dynamics simulations.,22.0,07/2024,2 months ago,,,materialmolecule-co2
+
+pyCheckmol,https://github.com/jeffrichardchemistry/pyCheckmol,,,,Molecule Representations,Descriptors,Functional Groups,,"application for detecting functional groups of a molecule, created using features from the compiled checkmol",10.0,07/2023,13 months ago,,,materialmolecule-co2
+
+DFRscore,https://github.com/Hwoo-Kim/DFRscore,https://doi.org/10.1021/acs.jcim.3c01134,,,Molecule Representations,Descriptors,Synthetic Accessibility,,"Introduces a deep learning-based scoring system for synthetic complexity, utilizing retrosynthetic analysis to evaluate the synthesizability of compounds for virtual screening purposes.",8.0,05/2024,3 months ago,,5.0,materialmolecule-co2
+
+Emin,https://github.com/andrewlee1030/Emin-A-First-Principles-Thermochemical-Descriptor-for-Predicting-Molecular-Synthesizability,https://doi.org/10.1021/acs.jcim.3c01583,,,Molecule Representations,Descriptors,Synthetic Accessibility,,,0.0,09/2023,11 months ago,,0.0,materialmolecule-co2
+
+RAScore,https://github.com/reymond-group/RAscore,https://doi.org/10.1039/d0sc05401a,,,Molecule Representations,Descriptors,Synthetic Accessibility,,rapid machine learned synthesizability classification from AI driven retrosynthetic planning.,78.0,08/2021,36 months ago,,74.0,materialmolecule-co2
+
+SAScore,https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score,https://doi.org/10.1186/1758-2946-1-8,,,Molecule Representations,Descriptors,Synthetic Accessibility,,The Synthetic Accessibility Score (SAScore) aims to assess the synthetic difficulty of chemical compounds.,2584.0,09/2024,0 months ago,,864.0,materialmolecule-co2
+
+SCscore,https://github.com/connorcoley/scscore,,,,Molecule Representations,Descriptors,Synthetic Accessibility,,"SCScore is a synthetic complexity score that assigns a value between 1 and 5 to a molecule, based on the premise that published reactions should exhibit an increase in synthetic complexity.",93.0,02/2018,80 months ago,,,materialmolecule-co2
+
+DScribe,https://github.com/SINGROUP/dscribe,https://doi.org/10.1016/j.cpc.2019.106949,,,Molecule Representations,Fingerprints,,,Python package for transforming atomic structures into fixed-size numerical fingerprints.,393.0,05/2024,3 months ago,,449.0,materialmolecule-co2
+
+FPKit,https://github.com/davidbajusz/fpkit,https://doi.org/10.1186/s13321-018-0302-y,,,Molecule Representations,Fingerprints,,,Python-based cheminformatics package for fingerprint-related tasks.,12.0,05/2021,40 months ago,,79.0,materialmolecule-co2
+
+MAPC,https://github.com/reymond-group/mapchiral,,,,Molecule Representations,Fingerprints,,,MinHashed Atom-Pair Fingerprint Chiral,15.0,12/2023,8 months ago,,,material/molecule-co2
+0
+MoleculaPy,https://github.com/kamilpytlak/MoleculaPy,,,,Molecule Representations,Fingerprints,,,"A command-line application that utilizes the RDKit library to compute molecular descriptors and fingerprints, aiding in the analysis and characterization of chemical structures.",0.0,08/2024,0 months ago,,,material/molecule-co2
+1
+QSAR_toolbox,https://github.com/iwatobipen/QSAR_TOOLBOX,,,,Molecule Representations,Fingerprints,,,scripts for QSAR model building and fingerprint generation,14.0,06/2019,63 months ago,,,material/molecule-co2
+2
+RDKit,,,,https://www.rdkit.org/docs/GettingStartedInPython.html#fingerprinting-and-molecular-similarity,Molecule Representations,Fingerprints,,,"Offers comprehensive tools for fingerprinting and molecular similarity, supporting various fingerprint types for chemical informatics.",,,,,,material/molecule-co2
+3
+SciKit-fingerprints,https://github.com/scikit-fingerprints/scikit-fingerprints/tree/SoftwareX_submission_v1.6.1,https://doi.org/10.48550/arXiv.2407.13291,,,Molecule Representations,Fingerprints,,,A Python library for efficient computation of molecular fingerprints.,84.0,09/2024,0 months ago,,0.0,material/molecule-co2
+4
+ChemDes,,,http://www.scbdd.com/chemdes/,,Molecule Representations,Fingerprints,,,An integrated web-based platform for molecular descriptor and fingerprint computation.,,,,,,material/molecule-co2
+5
+ChemoPy,https://github.com/ifyoungnet/Chemopy?tab=readme-ov-file,,,,Molecule Representations,Fingerprints,,,A Python library for calculating chemical descriptors for QSAR/SAR/QSPR studies.,8.0,05/2021,39 months ago,,,material/molecule-co2
+6
+E3FP,https://github.com/keiserlab/e3fp,http://dx.doi.org/10.1021/acs.jmedchem.7b00696,,,Molecule Representations,Fingerprints,3D,,Extended 3-Dimensional FingerPrint,121.0,12/2022,20 months ago,,78.0,material/molecule-co2
+7
+LUNA,https://github.com/keiserlab/LUNA,https://doi.org/10.1101/2022.05.25.493419,,,Molecule Representations,Fingerprints,Protein-ligand interaction fingerprints,,,47.0,04/2024,5 months ago,,4.0,material/molecule-co2
+8
+2D-SIFt,https://bitbucket.org/zchl/sift2d/src/master/,,,,Molecule Representations,Fingerprints,Protein-ligand interaction fingerprints,,2D-SIFt provides a two-dimensional method for analyzing protein-ligand interactions.,,,,,,material/molecule-co2
+9
+BINANA,https://github.com/durrantlab/binana/,https://doi.org/10.1016%2Fj.jmgm.2011.01.004,,https://durrantlab.pitt.edu/binana-download/,Molecule Representations,Fingerprints,Protein-ligand interaction fingerprints,,BINANA is a tool for characterizing the binding interactions of ligands with proteins.,11.0,06/2023,15 months ago,,191.0,materialmolecule-co2
+
+PLIP,https://github.com/pharmai/plip,https://doi.org/10.1093/nar/gkab294,https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index,,Molecule Representations,Fingerprints,Protein-ligand interaction fingerprints,,An easy and fast web tool for identifying non-covalent interactions between biological macromolecules and their ligands.,445.0,08/2023,12 months ago,,895.0,materialmolecule-co2
+
+ProLIF,https://github.com/chemosim-lab/ProLIF,https://doi.org/10.1186/s13321-021-00548-6,,,Molecule Representations,Fingerprints,Protein-ligand interaction fingerprints,,"ProLIF (Protein-Ligand Interaction Fingerprints) generates interaction fingerprints for complexes made of ligands, protein, DNA, or RNA molecules extracted from molecular dynamics trajectories, docking simulations, and experimental structures.",351.0,08/2024,0 months ago,,138.0,materialmolecule-co2
+
+SPLIF,https://oddt.readthedocs.io/en/latest/rst/oddt.html#oddt.fingerprints.SPLIF,https://doi.org/10.1021%2Fci500319f,,,Molecule Representations,Fingerprints,Protein-ligand interaction fingerprints,,Structural Protein–Ligand Interaction Fingerprints (SPLIF),,,,,127.0,materialmolecule-co2
+
+UniMAP,https://github.com/fengshikun/UniMAP,https://doi.org/10.48550/arXiv.2310.14216,,,Molecule Representations,Hybrid,String-Graph Hybrid,,UniMAP offers a unified approach to molecular annotation and property prediction.,10.0,05/2024,3 months ago,,0.0,materialmolecule-co2
+
+graphium,https://github.com/datamol-io/graphium,,,https://graphium-docs.datamol.io/stable/,Molecule Representations,ML+AI,General,,,190.0,07/2024,1 months ago,,,materialmolecule-co2
+
+molfeat,https://github.com/datamol-io/molfeat,https://zenodo.org/badge/latestdoi/613548667,,https://molfeat.datamol.io/,Molecule Representations,ML+AI,General,,,177.0,08/2024,0 months ago,,,materialmolecule-co2
+
+SELFormer,https://github.com/HUBioDataLab/SELFormer,https://doi.org/10.1088/2632-2153/acdb30,,,Molecule Representations,ML+AI,Transformer,SELFIES,A transformer-based model utilizing SELFIES notations for learning high-quality molecular representations.,70.0,06/2024,2 months ago,,11.0,materialmolecule-co2
+
+BERT,https://github.com/odb9402/MoleculeTransformer,https://proceedings.mlr.press/v106/shin19a.html,,,Molecule Representations,ML+AI,Transformer,SMILES,A transformer model specifically designed for molecular property prediction tasks.,6.0,11/2020,46 months ago,,,materialmolecule-co2
+
+EvoMPF,https://zivgitlab.uni-muenster.de/ag-glorius/published-paper/evompf,https://doi.org/10.1016/j.chempr.2024.02.004,,,Molecule Representations,Other Representations,,,EvoMPF is a framework for evolutionary molecular pattern finding using SMARTS.,,,,,1.0,materialmolecule-co2
+
+TUCAN,https://github.com/TUCAN-nest/TUCAN,https://doi.org/10.1186/s13321-022-00640-5,,,Molecule Representations,Other Representations,,,TUCAN is a tool for transforming unstructured chemical annotations into normalized expressions.,23.0,08/2024,0 months ago,,9.0,materialmolecule-co2
+
+selfies,https://github.com/aspuru-guzik-group/selfies,https://doi.org/10.1039/D3DD00044C,,,Molecule Representations,Strings,Other Representations,,,652.0,07/2024,1 months ago,,3.0,materialmolecule-co2
+
+SMARTS,https://github.com/SqrtNegInf/SMARTS,,,https://github.com/SqrtNegInf/SMARTS/blob/master/cheat-sheet.txt,Molecule Representations,Strings,SMARTS-related,,SMARTS is like a regular expression for chemical compounds,18.0,06/2018,75 months ago,,,materialmolecule-co2
+
+SMARTS-plus,,,https://smarts.plus/,,Molecule Representations,Strings,SMARTS-related,,easy to comprehend visualization for your SMARTS expression.,,,,,,materialmolecule-co2
+
+maxsmi,https://github.com/volkamerlab/maxsmi,https://doi.org/10.1016/j.ailsci.2021.100014,,,Molecule Representations,Strings,SMILES-related,,,28.0,10/2022,22 months ago,,6.0,materialmolecule-co2
+
+SMILESAugmentation,https://github.com/jcorreia11/SMILESAugmentation,,,,Molecule Representations,Strings,SMILES-related,,A tool for augmenting SMILES strings to enhance the performance of machine learning models in cheminformatics.,5.0,06/2022,27 months ago,,,materialmolecule-co2
+
+t-SMILES,https://github.com/juanniwu/t-smiles,https://doi.org/10.1038/s41467-024-49388-6,,,Molecule Representations,Strings,SMILES-related,,Transforms SMILES strings for improved molecular representation and machine learning model performance.,24.0,06/2024,2 months ago,,0.0,materialmolecule-co2
+
+mol2vec,https://github.com/samoturk/mol2vec,https://doi.org/10.1021/acs.jcim.7b00616,,,Molecule Representations,Vector,,,Generates vector representations of molecular substructures for machine learning applications.,253.0,12/2019,57 months ago,,446.0,materialmolecule-co2
+
+graphium,https://github.com/datamol-io/graphium,,,https://graphium-docs.datamol.io/stable/,Molecule Representations,Wrappers for several representations,,,,190.0,07/2024,1 months ago,,,materialmolecule-co2
+
+molfeat,https://github.com/datamol-io/molfeat,https://zenodo.org/badge/latestdoi/613548667,,https://molfeat.datamol.io/,Molecule Representations,Wrappers for several representations,,,,177.0,08/2024,0 months ago,,,materialmolecule-co2
+
 ChemPixCH,https://github.com/mtzgroup/ChemPixCH,,,,Optical Structure Recognition,Optical Structure Recognition,,,Hand Drawn Hydrocarbon Recognition (image to smiles) (standalone),29.0,11/2022,22 months ago,,,material/magnify-expand
 ChemSAM,https://github.com/mindrank-ai/ChemSAM/tree/master,,,,Optical Structure Recognition,Optical Structure Recognition,,,Automated molecular structure segmentation from documents (image to smiles) (standalone),3.0,04/2024,4 months ago,,,material/magnify-expand
 DECIMER,,,,https://decimer.ai/,Optical Structure Recognition,Optical Structure Recognition,,,online image to SMILES (image to smiles) (online),,,,,,material/magnify-expand
