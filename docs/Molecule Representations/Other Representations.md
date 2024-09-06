@@ -1,5 +1,5 @@
 ---
-icon: materialmolecule-co2
+icon: material/molecule-co2
 
 ---
 
