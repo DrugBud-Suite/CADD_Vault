@@ -1,6 +1,5 @@
 ---
 icon: material/molecule-co2
-
 ---
 
 - **EvoMPF**: EvoMPF is a framework for evolutionary molecular pattern finding using SMARTS.  

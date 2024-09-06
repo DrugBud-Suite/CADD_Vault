@@ -27,7 +27,7 @@ icon: material/library
 - **ChEMBL_Structure_Pipeline (formerly standardiser)**:   
 	[![Code](https://img.shields.io/github/stars/chembl/ChEMBL_Structure_Pipeline?style=for-the-badge&logo=github)](https://github.com/chembl/ChEMBL_Structure_Pipeline)  
 	[![Last Commit](https://img.shields.io/github/last-commit/chembl/ChEMBL_Structure_Pipeline?style=for-the-badge&logo=github)](https://github.com/chembl/ChEMBL_Structure_Pipeline)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:210-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00456-1)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:212-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00456-1)  
 - **MolVS**:   
 	[![Code](https://img.shields.io/github/stars/mcs07/MolVS?style=for-the-badge&logo=github)](https://github.com/mcs07/MolVS)  
 	[![Last Commit](https://img.shields.io/github/last-commit/mcs07/MolVS?style=for-the-badge&logo=github)](https://github.com/mcs07/MolVS)  

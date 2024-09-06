@@ -1,6 +1,5 @@
 ---
 icon: material/molecule-co2
-
 ---
 
 - **DScribe**: Python package for transforming atomic structures into fixed-size numerical fingerprints.  

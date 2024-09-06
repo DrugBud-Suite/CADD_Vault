@@ -5,7 +5,7 @@ icon: material/bio
 
 ## **General**
 - **AlphaFold**: Protein Structure Database (predicted human 3D proteins, July 2021)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:22497-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-021-03819-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:22503-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-021-03819-2)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://alphafold.ebi.ac.uk/)  
 - **AlphaFold-Multimer**: a model that can predict the structure of multi-chain protein complexes with increased accuracy (standalone)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2021.10.04.463034)  
@@ -13,7 +13,7 @@ icon: material/bio
 - **ColabFold**: making protein folding accessible to all (standalone)  
 	[![Code](https://img.shields.io/github/stars/sokrypton/ColabFold?style=for-the-badge&logo=github)](https://github.com/sokrypton/ColabFold)  
 	[![Last Commit](https://img.shields.io/github/last-commit/sokrypton/ColabFold?style=for-the-badge&logo=github)](https://github.com/sokrypton/ColabFold)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4505-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41592-022-01488-1)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4506-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41592-022-01488-1)  
 - **DMFold**: DMFold standalone package is an integrated program of DeepMSA2 and AlphaFold2 for protein monomer and protein complex structure prediction  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://www.nature.com/articles/s41592-023-02130-4)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://zhanggroup.org/DMFold/download/)  
@@ -46,13 +46,13 @@ icon: material/bio
 - **RoseTTAFold**: This package contains deep learning models and scripts for RoseTTAFold, an accurate method for protein structure prediction that includes a 3-track network. It's capable of modeling multi-chain complexes and provides an option for large scale sampling.  
 	[![Code](https://img.shields.io/github/stars/RosettaCommons/RoseTTAFold?style=for-the-badge&logo=github)](https://github.com/RosettaCommons/RoseTTAFold)  
 	[![Last Commit](https://img.shields.io/github/last-commit/RosettaCommons/RoseTTAFold?style=for-the-badge&logo=github)](https://github.com/RosettaCommons/RoseTTAFold)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:3308-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.abj8754)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:3309-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.abj8754)  
 
 ## **Quaternary structure**
 - **AlphaFold-multimer**: The specific details about AlphaFold-multimer could not be directly retrieved, but it extends AlphaFold2's capabilities to predict structures of protein complexes (multimers).  
 	[![Code](https://img.shields.io/github/stars/google-deepmind/alphafold?style=for-the-badge&logo=github)](https://github.com/google-deepmind/alphafold)  
 	[![Last Commit](https://img.shields.io/github/last-commit/google-deepmind/alphafold?style=for-the-badge&logo=github)](https://github.com/google-deepmind/alphafold)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:22497-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-021-03819-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:22503-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-021-03819-2)  
 - **CombFold**: a combinatorial and hierarchical assembly algorithm combined with AlphaFold2 for predicting structures of large protein assemblies  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://lnkd.in/gRVdfaZV)  
 - **DeepComplex**: This document has moved, and direct content was not provided in the data fetched, but DeepComplex is aimed at predicting quaternary protein structures.  

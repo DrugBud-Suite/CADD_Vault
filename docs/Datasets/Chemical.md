@@ -3,7 +3,7 @@ icon: material/database
 ---
 
 - **ChemBL**: A manually curated database of bioactive molecules with drug-like properties, integrating chemical, bioactivity, and genomic data to aid drug discovery.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2923-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkr777)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:2924-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkr777)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.ebi.ac.uk/chembl/)  
 - **ChemMine**: A compound mining portal to facilitate drug and agrochemical discovery, offering chemical genomics screens and a toolbox for cheminformatics research.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:51-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1104/pp.105.062687)  

@@ -1,6 +1,5 @@
 ---
 icon: material/molecule-co2
-
 ---
 
 - **mol2vec**: Generates vector representations of molecular substructures for machine learning applications.  

@@ -3,6 +3,14 @@ import os
 import shutil
 import requests
 import re
+import yaml
+from multiprocessing import Pool, cpu_count
+from functools import partial
+import logging
+
+# Set up logging
+logging.basicConfig(level=logging.INFO,
+                    format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Get the absolute path to the directory where the script is running
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -40,7 +48,11 @@ def check_url(url):
 
 def update_md_file(file_path, content, subcategory, subsubcategory, page_icon):
     # Initialize headers as not written
-    header_written = {'icon': False, 'subcategory': False, 'subsubcategory': False}
+    header_written = {
+        'icon': False,
+        'subcategory': False,
+        'subsubcategory': False
+    }
 
     # Check if file exists and set headers as written if it does
     if os.path.exists(file_path):
@@ -66,76 +78,119 @@ def update_md_file(file_path, content, subcategory, subsubcategory, page_icon):
         file.write(content)
 
 
-# First, clean up the docs directory except for the specified files
-clear_directory_except(docs_dir,
-                       ['CONTRIBUTING.md', 'index.md', 'LogoV1.png', 'images'])
-
-# Create the folders and files based on the specified structure
-for index, row in df.iterrows():
-    folder_path = os.path.join(docs_dir, row['FOLDER1'])
-    file_name = str(row['CATEGORY1']) + '.md'
-    file_path = os.path.join(folder_path, file_name)
+def process_folder(folder_group, docs_dir):
+    folder, group = folder_group
+    folder_path = os.path.join(docs_dir, folder)
 
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
 
-    entry_content = f"- **{row['ENTRY NAME']}**: {row['DESCRIPTION'] if pd.notna(row['DESCRIPTION']) else ''}  \n"
-    if pd.notna(row['CODE']):
-        if 'github' in row['CODE'] and 'gist' not in row['CODE']:
+    for _, row in group.iterrows():
+        file_name = str(row['CATEGORY1']) + '.md'
+        file_path = os.path.join(folder_path, file_name)
 
-            def clean_github_url(url):
-                url = url.replace('.git', '')  # Remove '.git' if present
-                match = re.match(r'https://github\.com/([^/]+)/([^/?#]+)', url)
-                if match:
-                    return f"{match.group(1)}/{match.group(2)}"
-                return None
+        entry_content = f"- **{row['ENTRY NAME']}**: {row['DESCRIPTION'] if pd.notna(row['DESCRIPTION']) else ''}  \n"
 
-            url = clean_github_url(row['CODE'])
-            entry_content += f"\t[![Code](https://img.shields.io/github/stars/{url}?style=for-the-badge&logo=github)]({row['CODE']})  \n"
-            entry_content += f"\t[![Last Commit](https://img.shields.io/github/last-commit/{url}?style=for-the-badge&logo=github)]({row['CODE']})  \n"
-        else:
-            entry_content += f"\t[![Code](https://img.shields.io/badge/Code)]({row['CODE']})\n"
-    if pd.notna(row['PUBLICATION']):
-        citations = int(row['CITATIONS']) if pd.notna(
-            row['CITATIONS']) else 'N/A'
-        if 'rxiv' in row['PUBLICATION']:
-            logo = 'arxiv'
-        else:
-            logo = 'bookstack'
-        entry_content += f"\t[![Publication](https://img.shields.io/badge/Publication-Citations:{citations}-blue?style=for-the-badge&logo={logo})]({row['PUBLICATION']})  \n"
-    if pd.notna(row['WEBSERVER']):
-        status = check_url(row['WEBSERVER'])
-        if status == 'online':
-            entry_content += f"\t[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)]({row['WEBSERVER']})  \n"
-        else:
-            entry_content += f"\t[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)]({row['WEBSERVER']})  \n"
-    if pd.notna(row['LINK']):
-        status = check_url(row['LINK'])
-        if status == 'online':
-            entry_content += f"\t[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)]({row['LINK']})  \n"
-        else:
-            entry_content += f"\t[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)]({row['LINK']})  \n"
+        if pd.notna(row['CODE']):
+            if 'github' in row['CODE'] and 'gist' not in row['CODE']:
 
-    update_md_file(file_path, entry_content, row['SUBCATEGORY1'],
-                   row['SUBSUBCATEGORY1'], row['PAGE_ICON'])
+                def clean_github_url(url):
+                    url = url.replace('.git', '')  # Remove '.git' if present
+                    match = re.match(r'https://github\.com/([^/]+)/([^/?#]+)',
+                                     url)
+                    if match:
+                        return f"{match.group(1)}/{match.group(2)}"
+                    return None
 
-total_publications = len(df['PUBLICATION'].dropna())
-total_code_repos = len(df['CODE'].dropna())
-total_webserver_links = len(df['WEBSERVER'].dropna())
+                url = clean_github_url(row['CODE'])
+                entry_content += f"\t[![Code](https://img.shields.io/github/stars/{url}?style=for-the-badge&logo=github)]({row['CODE']})  \n"
+                entry_content += f"\t[![Last Commit](https://img.shields.io/github/last-commit/{url}?style=for-the-badge&logo=github)]({row['CODE']})  \n"
+            else:
+                entry_content += f"\t[![Code](https://img.shields.io/badge/Code)]({row['CODE']})\n"
+
+        if pd.notna(row['PUBLICATION']):
+            citations = int(row['CITATIONS']) if pd.notna(
+                row['CITATIONS']) else 'N/A'
+            logo = 'arxiv' if 'rxiv' in row['PUBLICATION'] else 'bookstack'
+            entry_content += f"\t[![Publication](https://img.shields.io/badge/Publication-Citations:{citations}-blue?style=for-the-badge&logo={logo})]({row['PUBLICATION']})  \n"
+
+        if pd.notna(row['WEBSERVER']):
+            status = check_url(row['WEBSERVER'])
+            if status == 'online':
+                entry_content += f"\t[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)]({row['WEBSERVER']})  \n"
+            else:
+                entry_content += f"\t[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)]({row['WEBSERVER']})  \n"
+
+        if pd.notna(row['LINK']):
+            status = check_url(row['LINK'])
+            if status == 'online':
+                entry_content += f"\t[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)]({row['LINK']})  \n"
+            else:
+                entry_content += f"\t[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)]({row['LINK']})  \n"
+
+        update_md_file(file_path, entry_content, row['SUBCATEGORY1'],
+                       row['SUBSUBCATEGORY1'], row['PAGE_ICON'])
+
+    logging.info(f"Processed folder: {folder}")
+
+
+def update_mkdocs_yml(docs_dir, df):
+    mkdocs_file = os.path.join(os.path.dirname(docs_dir), 'mkdocs.yml')
+
+    with open(mkdocs_file, 'r') as file:
+        mkdocs_content = yaml.safe_load(file)
+
+    nav = []
+
+    # Add index.md
+    nav.append({'Home': 'index.md'})
+
+    # Group by FOLDER1 and CATEGORY1
+    grouped = df.groupby(['FOLDER1', 'CATEGORY1', 'PAGE_ICON'])
+
+    for (folder, category, icon), group in grouped:
+        if pd.isna(icon):
+            folder_entry = {folder: []}
+        else:
+            # Convert icon format
+            icon = f":{icon.replace('/', '-')}:"
+            folder_entry = {f"{icon} {folder}": []}
+
+        file_name = f"{category}.md"
+        folder_entry[list(folder_entry.keys())[0]].append(
+            {category: f"{folder}/{file_name}"})
+
+        # Check if this folder already exists in nav
+        folder_exists = False
+        for item in nav:
+            if isinstance(item, dict) and folder in item:
+                item[folder].extend(folder_entry[folder])
+                folder_exists = True
+                break
+
+        if not folder_exists:
+            nav.append(folder_entry)
+
+    # Update the nav section in mkdocs_content
+    mkdocs_content['nav'] = nav
+
+    # Write the updated content back to mkdocs.yml
+    with open(mkdocs_file, 'w') as file:
+        yaml.dump(mkdocs_content, file, sort_keys=False)
 
 
 def update_index_file(docs_directory, readme, total_publications,
                       total_code_repos, total_webserver_links):
     index_file_path = os.path.join(docs_directory, "index.md")
     if not os.path.exists(index_file_path):
-        print(f"{index_file_path} does not exist.")
+        logging.error(f"{index_file_path} does not exist.")
         return
 
     with open(index_file_path, "r", encoding='utf-8') as f:
         lines = f.readlines()
 
     if len(lines) < 5:
-        print("The index.md file has less than 5 lines.")
+        logging.error("The index.md file has less than 5 lines.")
         return
 
     lines[4] = f"Number of publications: {total_publications}  \n"
@@ -146,14 +201,14 @@ def update_index_file(docs_directory, readme, total_publications,
         f.writelines(lines)
 
     if not os.path.exists(readme):
-        print(f"{readme} does not exist.")
+        logging.error(f"{readme} does not exist.")
         return
 
     with open(readme, "r", encoding='utf-8') as f:
         lines = f.readlines()
 
     if len(lines) < 5:
-        print("The index.md file has less than 5 lines.")
+        logging.error("The README.md file has less than 5 lines.")
         return
 
     lines[25] = f"Number of publications: {total_publications}  \n"
@@ -164,5 +219,42 @@ def update_index_file(docs_directory, readme, total_publications,
         f.writelines(lines)
 
 
-update_index_file(docs_dir, readme, total_publications, total_code_repos,
-                  total_webserver_links)
+def main():
+    # First, clean up the docs directory except for the specified files
+    clear_directory_except(
+        docs_dir, ['CONTRIBUTING.md', 'index.md', 'LogoV1.png', 'images'])
+
+    # Group the data by FOLDER1
+    grouped = df.groupby('FOLDER1')
+
+    # Set up the multiprocessing pool
+    num_processes = min(cpu_count(), len(grouped))
+    pool = Pool(processes=num_processes)
+
+    # Use partial to pass the docs_dir argument to process_folder
+    process_folder_partial = partial(process_folder, docs_dir=docs_dir)
+
+    # Process folders in parallel
+    pool.map(process_folder_partial, grouped)
+
+    # Close the pool and wait for all processes to finish
+    pool.close()
+    pool.join()
+
+    # Update mkdocs.yml
+    update_mkdocs_yml(docs_dir, df)
+
+    # Calculate totals
+    total_publications = len(df['PUBLICATION'].dropna())
+    total_code_repos = len(df['CODE'].dropna())
+    total_webserver_links = len(df['WEBSERVER'].dropna())
+
+    # Update index file and README
+    update_index_file(docs_dir, readme, total_publications, total_code_repos,
+                      total_webserver_links)
+
+    logging.info("Documentation generation completed successfully.")
+
+
+if __name__ == "__main__":
+    main()

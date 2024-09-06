@@ -67,7 +67,7 @@ icon: material/bio
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://filtrest3d.genesilico.pl/filtrest3d/help.html)  
 - **FoldDock**: simultaneous folding and docking protocol FoldDock and AlphaFold (standalone)  
 	[![Code](https://img.shields.io/badge/Code)](https://gitlab.com/ElofssonLab/FoldDock/)
-	[![Publication](https://img.shields.io/badge/Publication-Citations:450-blue?style=for-the-badge&logo=bookstack)](http://dx.doi.org/10.1038/s41467-022-28865-w)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:451-blue?style=for-the-badge&logo=bookstack)](http://dx.doi.org/10.1038/s41467-022-28865-w)  
 - **FRODOCK**: Fast Rotational DOCKing (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:124-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btw141)  
 	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://frodock.chaconlab.org/)  

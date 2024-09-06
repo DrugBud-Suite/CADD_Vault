@@ -99,7 +99,7 @@ icon: material/strategy
 - **DeepAffinity**: Protein-compound affinity prediction through unified RNN-CNN.  
 	[![Code](https://img.shields.io/github/stars/Shen-Lab/DeepAffinity?style=for-the-badge&logo=github)](https://github.com/Shen-Lab/DeepAffinity)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Shen-Lab/DeepAffinity?style=for-the-badge&logo=github)](https://github.com/Shen-Lab/DeepAffinity)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:314-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz111)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:315-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz111)  
 - **DeepBindGCN**: Predicts protein ligand binding affinity non-dependent on docking conformation.  
 	[![Code](https://img.shields.io/github/stars/haiping1010/DeepBindGCN?style=for-the-badge&logo=github)](https://github.com/haiping1010/DeepBindGCN)  
 	[![Last Commit](https://img.shields.io/github/last-commit/haiping1010/DeepBindGCN?style=for-the-badge&logo=github)](https://github.com/haiping1010/DeepBindGCN)  

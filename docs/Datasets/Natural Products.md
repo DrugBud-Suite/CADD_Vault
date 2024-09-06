@@ -23,7 +23,7 @@ icon: material/database
 	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac1069)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://bidd.group/NPASS/)  
 - **npatlas**: The Natural Products Atlas 2.0: A Database of Microbially-Derived Natural Products (online)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.npatlas.org/)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.npatlas.org/)  
 - **Nubbe**: a natural products database from the biodiversity of Brazil (online)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://nubbe.iq.unesp.br/portal/nubbe-search.html)  
 - **PeruNPDB**: the Peruvian Natural Products Database for in silico drug screening (database)  
