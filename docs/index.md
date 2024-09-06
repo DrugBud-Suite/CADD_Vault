@@ -4,8 +4,7 @@ Welcome to the CADD Vault, an open-source repository dedicated to sharing resour
 
 Number of publications: 951  
 Number of code repositories: 805  
-Number of webserver links: 122- Datasets for Drug Design
-
+Number of webserver links: 122
 ## How to Use the Vault
 
 The vault can be accessed here : **[Computer-Aided Drug Design (CADD) Vault](https://drugbud-suite.github.io/CADD_Vault/)**

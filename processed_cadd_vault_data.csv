@@ -321,21 +321,36 @@ Bajorath_Gen,https://uni-bonn.sciebo.de/s/Z9O2ZqKoA2cS7B1,https://doi.org/10.118
 Disco,,http://disco.csb.pitt.edu/Targets_top1.php?ligands,,,Decoy Generation,Decoy Generation,,,A default benchmark containing 95 targets selected from the DUD-E Targets list for docking datasets generation.,,,,,,material/exclamation
 MUDB-DecoyMaker2.0,https://github.com/jwxia2014/MUBD-DecoyMaker2.0,https://doi.org/10.1002/minf.201900151,,,Decoy Generation,Decoy Generation,,,A Python GUI application to generate maximal unbiased benchmarking sets data sets for virtual drug screening.,3.0,10/2023,10 months ago,,10.0,material/exclamation
 TocoDecoy,https://github.com/5AGE-zhang/TocoDecoy,,,,Decoy Generation,Decoy Generation,,,A new approach to design unbiased datasets for training and benchmarking machine-learning scoring functions.,12.0,04/2022,29 months ago,,,material/exclamation
-AutoCouple,https://github.com/Caflisch-Group/AutoCouple_Python-based,,,,FBDD,FBDD,,,,4.0,11/2017,83 months ago,,,octicons/workflow
-AutoT&T,,https://doi.org/10.1021/acs.jcim.5b00691,,http://sioc-ccbg.ac.cn/software/att2/,FBDD,FBDD,,,,,,,,23.0,octicons/workflow
-CombiChem,https://github.com/karanicolaslab/combichem,https://doi.org/10.1101/2021.06.01.446684,,,FBDD,FBDD,,,"CombiChem is a virtual screening approach that uses fragment screening techniques to identify and concatenate the best fragments into lead-like compounds, aiming to reduce computational resources while performing a comprehensive screen.",12.0,08/2021,37 months ago,,1.0,octicons/workflow
-CREM,https://github.com/DrrDom/crem,https://doi.org/10.1186/s13321-020-00431-w,,,FBDD,FBDD,,,generate chemical structures using a fragment-based approach,197.0,04/2024,4 months ago,,50.0,octicons/workflow
-DeepFrag,https://github.com/durrantlab/deepfrag/,https://doi.org/10.1021/acs.jcim.1c00103,,http://durrantlab.com/deepfragmodel,FBDD,FBDD,,,,18.0,12/2023,8 months ago,,23.0,octicons/workflow
-FBDD_suite,https://github.com/KeenThera/FBDD_suite,,,,FBDD,FBDD,,,"A collection of computational tools for fragment based drug design, including fragment selection, fragment docking, fragment growing, linking, merging etc.",3.0,03/2024,5 months ago,,,octicons/workflow
-Fragment-hit-followup,https://github.com/matteoferla/Fragment-hit-follow-up-chemistry,,,,FBDD,FBDD,,,"This repository contains a collection of notebooks and scripts for elaborating fragment hits identified crystallographically in the hit discovery stage of drug discovery, focusing on small fragments and including specific scripts for Diamond Light Source XChem targets.",10.0,07/2024,1 months ago,,,octicons/workflow
-Fragmentstein,https://github.com/matteoferla/Fragmenstein,,,,FBDD,FBDD,,,"Fragmenstein performs merging, linking, and placing compounds by stitching bound compounds together like a reanimated corpse, operating as a 'placement' tool rather than traditional docking, and further energy minimizes the compounds within the protein environment.",172.0,08/2024,1 months ago,,,octicons/workflow
-LigBuilder,,,,http://www.pkumdl.cn:8080/ligbuilder3/,FBDD,FBDD,,,,,,,,,octicons/workflow
-MolOptimizer,https://github.com/csbarak/MolOpt_Students_2023,,,,FBDD,FBDD,,,"MolOptimizer is a Flask-based package useful for the optimization of fragment screening datasets, developed to assist researchers in the field of small fragment-based inhibitors by enabling the alignment of large ligand datasets, extracting chemical descriptors, and training machine learning models to predict binding scores.",3.0,07/2023,13 months ago,,,octicons/workflow
-OpenGrowth,,http://dx.doi.org/10.1021/acs.jmedchem.5b00886,,https://sourceforge.net/projects/opengrowth/,FBDD,FBDD,,,,,,,,53.0,octicons/workflow
-Software tools for fragment-based drug discovery (FBDD),https://github.com/PatWalters/fragment_expansion/blob/master/fragment_expansion.ipynb,,,,FBDD,FBDD,,,,27.0,04/2020,53 months ago,,,octicons/workflow
-DeLinker,https://github.com/oxpig/DeLinker,https://doi.org/10.1021/acs.jcim.9b01120,,,FBDD,FBDD,Linker Design,,Deep Generative Models for 3D Linker Design,116.0,06/2020,51 months ago,,140.0,octicons/workflow
-DiffLinker,https://github.com/igashov/DiffLinker,https://doi.org/10.5281/zenodo.10515726,,,FBDD,FBDD,Linker Design,,"An Equivariant 3D-conditional Diffusion Model for Molecular Linker Design that places missing atoms between disconnected fragments in 3D, designing molecules that incorporate all initial fragments with potential applications in linker generation for drug discovery.",290.0,04/2024,4 months ago,,0.0,octicons/workflow
-BuildAMol,https://github.com/NoahHenrikKleinschmidt/buildamol,https://doi.org/10.1186/s13321-024-00900-6,,https://biobuild.readthedocs.io/,FBDD,FBDD,Toolkits,,,17.0,08/2024,0 months ago,,0.0,octicons/workflow
+AutoCouple,https://github.com/Caflisch-Group/AutoCouple_Python-based,,,,FBDD,FBDD,,,,4.0,11/2017,83 months ago,,,material/sitemap-outline
+
+AutoT&T,,https://doi.org/10.1021/acs.jcim.5b00691,,http://sioc-ccbg.ac.cn/software/att2/,FBDD,FBDD,,,,,,,,23.0,material/sitemap-outline
+
+CombiChem,https://github.com/karanicolaslab/combichem,https://doi.org/10.1101/2021.06.01.446684,,,FBDD,FBDD,,,"CombiChem is a virtual screening approach that uses fragment screening techniques to identify and concatenate the best fragments into lead-like compounds, aiming to reduce computational resources while performing a comprehensive screen.",12.0,08/2021,37 months ago,,1.0,material/sitemap-outline
+
+CREM,https://github.com/DrrDom/crem,https://doi.org/10.1186/s13321-020-00431-w,,,FBDD,FBDD,,,generate chemical structures using a fragment-based approach,197.0,04/2024,4 months ago,,50.0,material/sitemap-outline
+
+DeepFrag,https://github.com/durrantlab/deepfrag/,https://doi.org/10.1021/acs.jcim.1c00103,,http://durrantlab.com/deepfragmodel,FBDD,FBDD,,,,18.0,12/2023,8 months ago,,23.0,material/sitemap-outline
+
+FBDD_suite,https://github.com/KeenThera/FBDD_suite,,,,FBDD,FBDD,,,"A collection of computational tools for fragment based drug design, including fragment selection, fragment docking, fragment growing, linking, merging etc.",3.0,03/2024,5 months ago,,,material/sitemap-outline
+
+Fragment-hit-followup,https://github.com/matteoferla/Fragment-hit-follow-up-chemistry,,,,FBDD,FBDD,,,"This repository contains a collection of notebooks and scripts for elaborating fragment hits identified crystallographically in the hit discovery stage of drug discovery, focusing on small fragments and including specific scripts for Diamond Light Source XChem targets.",10.0,07/2024,1 months ago,,,material/sitemap-outline
+
+Fragmentstein,https://github.com/matteoferla/Fragmenstein,,,,FBDD,FBDD,,,"Fragmenstein performs merging, linking, and placing compounds by stitching bound compounds together like a reanimated corpse, operating as a 'placement' tool rather than traditional docking, and further energy minimizes the compounds within the protein environment.",172.0,08/2024,1 months ago,,,material/sitemap-outline
+
+LigBuilder,,,,http://www.pkumdl.cn:8080/ligbuilder3/,FBDD,FBDD,,,,,,,,,material/sitemap-outline
+
+MolOptimizer,https://github.com/csbarak/MolOpt_Students_2023,,,,FBDD,FBDD,,,"MolOptimizer is a Flask-based package useful for the optimization of fragment screening datasets, developed to assist researchers in the field of small fragment-based inhibitors by enabling the alignment of large ligand datasets, extracting chemical descriptors, and training machine learning models to predict binding scores.",3.0,07/2023,13 months ago,,,material/sitemap-outline
+
+OpenGrowth,,http://dx.doi.org/10.1021/acs.jmedchem.5b00886,,https://sourceforge.net/projects/opengrowth/,FBDD,FBDD,,,,,,,,53.0,material/sitemap-outline
+
+Software tools for fragment-based drug discovery (FBDD),https://github.com/PatWalters/fragment_expansion/blob/master/fragment_expansion.ipynb,,,,FBDD,FBDD,,,,27.0,04/2020,53 months ago,,,material/sitemap-outline
+
+DeLinker,https://github.com/oxpig/DeLinker,https://doi.org/10.1021/acs.jcim.9b01120,,,FBDD,FBDD,Linker Design,,Deep Generative Models for 3D Linker Design,116.0,06/2020,51 months ago,,140.0,material/sitemap-outline
+
+DiffLinker,https://github.com/igashov/DiffLinker,https://doi.org/10.5281/zenodo.10515726,,,FBDD,FBDD,Linker Design,,"An Equivariant 3D-conditional Diffusion Model for Molecular Linker Design that places missing atoms between disconnected fragments in 3D, designing molecules that incorporate all initial fragments with potential applications in linker generation for drug discovery.",290.0,04/2024,4 months ago,,0.0,material/sitemap-outline
+
+BuildAMol,https://github.com/NoahHenrikKleinschmidt/buildamol,https://doi.org/10.1186/s13321-024-00900-6,,https://biobuild.readthedocs.io/,FBDD,FBDD,Toolkits,,,17.0,08/2024,0 months ago,,0.0,material/sitemap-outline
+
 Meeko,https://github.com/forlilab/Meeko,https://doi.org/10.1017/qrd.2022.18,,,General Tools,Chemical Format Translation,,,preparation of small molecules for AutoDock suite (.pdbqt format).,184.0,05/2024,3 months ago,,4.0,material/tools
 OpenBabel,,https://doi.org/10.1186/1758-2946-3-33,,http://openbabel.org/wiki/Main_Page,General Tools,Chemical Format Translation,,,"toolkit for drug discovery, file format etc (standalone)",,,,,6113.0,material/tools
 pybel,,https://doi.org10.1186/1752-153X-2-5,,https://openbabel.org/docs/UseTheLibrary/Python_Pybel.html,General Tools,Chemical Format Translation,,,Python wrapper for the OpenBabel cheminformatics toolkit,,,,,290.0,material/tools

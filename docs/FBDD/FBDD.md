@@ -1,5 +1,5 @@
 ---
-icon: octicons/workflow
+icon: material/sitemap-outline
 ---
 
 - **AutoCouple**:   
