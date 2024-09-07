@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/eye
+icon: material/file-find
 ---
 
 - **Pyrite**: A blender plugin for visualizing molecular dynamics simulations using industry-standard rendering techniques  

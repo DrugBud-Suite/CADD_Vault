@@ -1,7 +1,11 @@
 ---
-icon: material/database
+icon: material/tray-full
 ---
 
+- **PLINDER**: the largest and most annotated dataset to date, comprising 449,383 PLI systems, each with over 500 annotations, similarity metrics at protein, pocket, interaction and ligand levels, and paired unbound (apo) and predicted structures  
+	[![Code](https://img.shields.io/github/stars/plinder-org/plinder?style=for-the-badge&logo=github)](https://github.com/plinder-org/plinder)  
+	[![Last Commit](https://img.shields.io/github/last-commit/plinder-org/plinder?style=for-the-badge&logo=github)](https://github.com/plinder-org/plinder)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.07.17.603955)  
 - **BindingDB**: BindingDB contains data for over 1.2 million compounds and 9.2k targets, supporting research, education, and practice in drug discovery, pharmacology, and related fields.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:1035-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkv1072)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.bindingdb.org/bind/index.jsp)  
@@ -11,7 +15,7 @@ icon: material/database
 	[![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01170)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://bindingnet.huanglab.org.cn/)  
 - **BioLip2**: BioLiP is a semi-manually curated database for high-quality, biologically relevant ligand-protein binding interactions, aiming to serve the needs of ligand-protein docking, virtual ligand screening, and protein function annotation.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:23-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkad630)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:24-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkad630)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://zhanggroup.org/BioLiP/index.cgi)  
 - **Leak Proof PDBBind**: This work presents a cleaned PDBBind dataset of non-covalent binders, reorganized to avoid data leakage, allowing for more generalizable binding affinity prediction.  
 	[![Code](https://img.shields.io/github/stars/THGLab/LP-PDBBind?style=for-the-badge&logo=github)](https://github.com/THGLab/LP-PDBBind)  

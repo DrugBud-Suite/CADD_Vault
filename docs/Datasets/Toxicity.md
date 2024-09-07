@@ -1,5 +1,5 @@
 ---
-icon: material/database
+icon: fontawesome/solid/radiation
 ---
 
 - **DrugMatrix/ToxFX**: one of the world’s largest toxicogenomic reference resources  

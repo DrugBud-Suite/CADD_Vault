@@ -1,5 +1,5 @@
 ---
-icon: material/strategy
+icon: material/speedometer
 ---
 
 
@@ -73,7 +73,7 @@ icon: material/strategy
 	[![Last Commit](https://img.shields.io/github/last-commit/bigginlab/aescore?style=for-the-badge&logo=github)](https://github.com/bigginlab/aescore)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:34-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00536-w)  
 - **AKScore**: This model uses an ensemble of multiple independently trained 3-D convolutional neural networks to predict protein-ligand complex binding affinity, showing high correlation with experimental data.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:57-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/ijms21228424)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:58-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/ijms21228424)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pubmed.ncbi.nlm.nih.gov/33182567/)  
 - **APBScore**: Atom Pair Based scoring function.  
 	[![Code](https://img.shields.io/github/stars/BaoJingxiao/APBScore?style=for-the-badge&logo=github)](https://github.com/BaoJingxiao/APBScore)  
@@ -189,7 +189,7 @@ icon: material/strategy
 	[![Last Commit](https://img.shields.io/github/last-commit/KevinCrp/HGScore?style=for-the-badge&logo=github)](https://github.com/KevinCrp/HGScore)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.37349/eds.2023.00010)  
 - **KDeep**: protein-ligand affinity predictor based on DCNNs (Deep Convolutional Neural Networks).  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:610-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.7b00650)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:611-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.7b00650)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://playmolecule.org/Kdeep/)  
 - **KIDA**: Process for extracting protein pockets and generating training data for KIDA.  
 	[![Code](https://img.shields.io/github/stars/RuiqiangLu/KIDA?style=for-the-badge&logo=github)](https://github.com/RuiqiangLu/KIDA)  
@@ -220,7 +220,7 @@ icon: material/strategy
 - **OnionNet**: A multiple-layer inter-molecular contact based deep neural network for protein-ligand binding affinity prediction.  
 	[![Code](https://img.shields.io/github/stars/zhenglz/onionnet?style=for-the-badge&logo=github)](https://github.com/zhenglz/onionnet/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/zhenglz/onionnet?style=for-the-badge&logo=github)](https://github.com/zhenglz/onionnet/)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:206-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.9b01997)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:207-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.9b01997)  
 - **OnionNet-2**: OnionNet-2 is constructed based on convolutional neural network (CNN) to predict the protein-ligand binding affinity.  
 	[![Code](https://img.shields.io/github/stars/zchwang/OnionNet-2?style=for-the-badge&logo=github)](https://github.com/zchwang/OnionNet-2/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/zchwang/OnionNet-2?style=for-the-badge&logo=github)](https://github.com/zchwang/OnionNet-2/)  

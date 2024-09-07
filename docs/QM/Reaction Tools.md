@@ -1,5 +1,5 @@
 ---
-icon: material/atom
+icon: fontawesome/solid/flask
 ---
 
 - **RDMC**: A light-weight software package with expertise in handling Reaction Data and Molecular (including transitions states) Conformers.  

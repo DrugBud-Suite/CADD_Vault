@@ -1,5 +1,5 @@
 ---
-icon: material/strategy
+icon: material/progress-question
 ---
 
 - **AL-VS**: Large-Scale Pretraining Improves Sample Efficiency of Active Learning-Based Virtual Screening  

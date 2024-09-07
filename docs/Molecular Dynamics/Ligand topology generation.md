@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/brands/creative-commons-sampling
+icon: material/molecule
 ---
 
 - **ACPYPE**: small molecule MD topology generation (standalone)  

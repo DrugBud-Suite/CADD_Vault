@@ -1,15 +1,15 @@
 ---
-icon: fontawesome/solid/vr-cardboard
+icon: material/video-3d-variant
 ---
 
 - **Avogadro**: advanced molecule editor and visualizer designed for cross-platform use (draw molecules...) (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:6464-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-4-17)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6466-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-4-17)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://avogadro.cc/)  
 - **BlendMol**: Advanced Macromolecular Visualization in Blender (standalone)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/bty968)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://durrantlab.com/blendmol/)  
 - **Chimera**: (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:36992-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.20084)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:36999-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.20084)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.cgl.ucsf.edu/chimera/)  
 - **ChimeraX**: molecular graphics (standalone)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:3811-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.3235)  
@@ -42,7 +42,7 @@ icon: fontawesome/solid/vr-cardboard
 - **SAMSON**: software for adaptative modeling and simulation (nano), GROMACS can be launched from SAMSON... (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.samson-connect.net/app/main?execution=e1s1)  
 - **VMD**: molecular visualization program (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:48281-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/0263-7855(96)00018-5)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:48289-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/0263-7855(96)00018-5)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.ks.uiuc.edu/Research/vmd/)  
 - **VTX**: High performance molecular visualization software (Windows, Linux) (standalone)  
 	[![Code](https://img.shields.io/badge/Code)](https://gitlab.com/VTX_mol/VTX)
@@ -50,7 +50,7 @@ icon: fontawesome/solid/vr-cardboard
 	[![Publication](https://img.shields.io/badge/Publication-Citations:21-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkx383)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://web3dmol.net/)  
 - **YASARA**: molecular-graphics, -modeling and -simulation program (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:326-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-1-4939-7366-8_4)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:328-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-1-4939-7366-8_4)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.yasara.org/)  
 - **MolViewSpec**: Toolkit and Mol* Extension for Describing Molecular Visualizations  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/cpz1.1099)  

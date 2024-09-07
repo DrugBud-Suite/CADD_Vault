@@ -1,5 +1,5 @@
 ---
-icon: material/molecule-co2
+icon: material/brain
 ---
 
 

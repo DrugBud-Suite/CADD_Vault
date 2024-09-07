@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/brands/creative-commons-sampling
+icon: material/lightning-bolt
 ---
 
 - **ABFE_workflow**: Automated Absolute Binding Free Energy Calculation Workflow for Drug Discovery  

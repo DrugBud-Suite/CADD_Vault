@@ -1,5 +1,5 @@
 ---
-icon: material/bio
+icon: material/set-all
 ---
 
 - **DeepKa**: deep-learning-based protein pKa predictor (online)  
@@ -11,7 +11,7 @@ icon: material/bio
 - **propka**:   
 	[![Code](https://img.shields.io/github/stars/jensengroup/propka?style=for-the-badge&logo=github)](https://github.com/jensengroup/propka)  
 	[![Last Commit](https://img.shields.io/github/last-commit/jensengroup/propka?style=for-the-badge&logo=github)](https://github.com/jensengroup/propka)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1455-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ct200133y)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1456-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ct200133y)  
 - **ProteinPrepare**:   
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.playmolecule.org/)  
 - **PypKa**: a flexible Python module for Poisson-Boltzmann based pKa calculations (for proteins) (standalone)  

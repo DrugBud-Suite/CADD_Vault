@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/eye
+icon: material/chart-bar-stacked
 ---
 
 - **InteractiVenn**: a web-based tool for Venn diagrams (up to 6 datasets - online)  

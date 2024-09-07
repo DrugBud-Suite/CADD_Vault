@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/eye
+icon: material/pill
 ---
 
 - **C-SPADE**: interactive and innovative visualization tool for drug screening data (web-app)  

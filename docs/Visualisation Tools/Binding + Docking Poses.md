@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/eye
+icon: material/cube-scan
 ---
 
 - **LigPlot+**: view protein-ligand interactions in 2D (standalone)  

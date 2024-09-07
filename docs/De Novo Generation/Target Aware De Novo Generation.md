@@ -1,5 +1,5 @@
 ---
-icon: material/new-box
+icon: material/target
 ---
 
 - **3D-Generative-SBDD**: Focuses on structure-based drug design (SBDD) using a 3D generative model to sample molecules for specific protein pockets.  
@@ -146,7 +146,7 @@ icon: material/new-box
 - **PocketOptimizer 2.0**: Design of small molecule‐binding pockets in proteins (standalone)  
 	[![Code](https://img.shields.io/github/stars/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:7370-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:7371-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
 - **RGA**: A reinforcement learning-based genetic algorithm for structure-based drug design, introduced at NeurIPS 2022.  
 	[![Code](https://img.shields.io/github/stars/futianfan/reinforced-genetic-algorithm?style=for-the-badge&logo=github)](https://github.com/futianfan/reinforced-genetic-algorithm)  
 	[![Last Commit](https://img.shields.io/github/last-commit/futianfan/reinforced-genetic-algorithm?style=for-the-badge&logo=github)](https://github.com/futianfan/reinforced-genetic-algorithm)  
@@ -233,7 +233,7 @@ icon: material/new-box
 - **DeepHop**:   
 	[![Code](https://img.shields.io/github/stars/prokia/deepHops?style=for-the-badge&logo=github)](https://github.com/prokia/deepHops)  
 	[![Last Commit](https://img.shields.io/github/last-commit/prokia/deepHops?style=for-the-badge&logo=github)](https://github.com/prokia/deepHops)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:27-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00565-5)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:28-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00565-5)  
 
 ## **Sequence-based**
 - **Bajorath_Gen**:   

@@ -1,5 +1,5 @@
 ---
-icon: material/database
+icon: fontawesome/solid/flask-vial
 ---
 
 - **Open Reaction Database**: open access chemical reaction database to support machine learning and related efforts in reaction prediction, chemical synthesis planning, and experiment design  

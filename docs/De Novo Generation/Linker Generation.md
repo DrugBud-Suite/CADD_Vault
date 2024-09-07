@@ -1,11 +1,11 @@
 ---
-icon: material/new-box
+icon: material/link-variant-plus
 ---
 
 - **DeLinker**: Deep Generative Models for 3D Linker Design  
 	[![Code](https://img.shields.io/github/stars/oxpig/DeLinker?style=for-the-badge&logo=github)](https://github.com/oxpig/DeLinker)  
 	[![Last Commit](https://img.shields.io/github/last-commit/oxpig/DeLinker?style=for-the-badge&logo=github)](https://github.com/oxpig/DeLinker)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:140-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01120)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:141-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01120)  
 - **DiffLinker**: An Equivariant 3D-conditional Diffusion Model for Molecular Linker Design that places missing atoms between disconnected fragments in 3D, designing molecules that incorporate all initial fragments with potential applications in linker generation for drug discovery.  
 	[![Code](https://img.shields.io/github/stars/igashov/DiffLinker?style=for-the-badge&logo=github)](https://github.com/igashov/DiffLinker)  
 	[![Last Commit](https://img.shields.io/github/last-commit/igashov/DiffLinker?style=for-the-badge&logo=github)](https://github.com/igashov/DiffLinker)  

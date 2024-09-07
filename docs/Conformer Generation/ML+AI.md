@@ -1,5 +1,5 @@
 ---
-icon: material/rotate-3d
+icon: material/brain
 ---
 
 - **Auto3D**: Automatic Generation of the Low-energy 3D Structures with ANI Neural Network Potentials (standalone).  
@@ -38,7 +38,7 @@ icon: material/rotate-3d
 - **Gypsum-DL**: Gypsum-DL is a software that transforms 1D and 2D small-molecule representations into 3D models, considering various isomeric and conformational states.  
 	[![Code](https://img.shields.io/github/stars/durrantlab/gypsum_dl?style=for-the-badge&logo=github)](https://github.com/durrantlab/gypsum_dl/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/gypsum_dl?style=for-the-badge&logo=github)](https://github.com/durrantlab/gypsum_dl/)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:47-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0358-3)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:48-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0358-3)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://durrantlab.pitt.edu/gypsum-dl/)  
 - **TensorVAE**:   
 	[![Code](https://img.shields.io/github/stars/yuh8/TensorVAE?style=for-the-badge&logo=github)](https://github.com/yuh8/TensorVAE)  

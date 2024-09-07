@@ -1,5 +1,5 @@
 ---
-icon: material/library
+icon: material/arrow-split-horizontal
 ---
 
 - **splito**:   

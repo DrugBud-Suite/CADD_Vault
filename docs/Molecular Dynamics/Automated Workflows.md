@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/brands/creative-commons-sampling
+icon: material/auto-fix
 ---
 
 - **Enlighten2**: Protocols and tools to run (automated) atomistic simulations (molecular dynamics) of enzyme-ligand systems (Python, PyMOL plugin, standalone)  

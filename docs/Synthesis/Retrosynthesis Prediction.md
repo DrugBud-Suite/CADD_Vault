@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/flask
+icon: material/timeline-question
 ---
 
 - **AiZynthFinder**: package for retrosynthesis planning.  

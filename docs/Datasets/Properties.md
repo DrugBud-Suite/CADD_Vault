@@ -1,5 +1,5 @@
 ---
-icon: material/database
+icon: material/tune-vertical
 ---
 
 - **MoleculeNet**: - Selection of data sets of molecules (SMILES) and physicochemical properties  

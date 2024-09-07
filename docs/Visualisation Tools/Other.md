@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/eye
+icon: material/dots-horizontal
 ---
 
 - **Chorus**: Chorus is a simple toolkit for chemical structure graph modeling, drawing, and analysis, offering features like structure image export, import/export to .sdf and .mol, and substructure search.  

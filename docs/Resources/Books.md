@@ -1,5 +1,5 @@
 ---
-icon: material/book
+icon: fontawesome/solid/blog
 ---
 
 - **Chemoinformatics for Drug Discovery**:   

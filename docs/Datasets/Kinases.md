@@ -1,5 +1,5 @@
 ---
-icon: material/database
+icon: material/alpha-k-box
 ---
 
 - **CORAL**: Clear and customizable visualization of human kinome data (Kinase) (online)  

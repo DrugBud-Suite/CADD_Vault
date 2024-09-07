@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/eye
+icon: material/molecule
 ---
 
 - **BKchem**: chemical drawing program (standalone)  

@@ -1,5 +1,5 @@
 ---
-icon: material/book
+icon: material/school
 ---
 
 - **CS231n: Convolutional Neural Networks for Visual Recognition**:   

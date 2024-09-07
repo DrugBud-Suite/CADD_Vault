@@ -1,5 +1,5 @@
 ---
-icon: material/target
+icon: material/message-draw
 ---
 
 - **Kataria et al.**: Systematic computational strategies for identifying protein targets and lead discovery  

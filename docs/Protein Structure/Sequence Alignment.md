@@ -1,5 +1,5 @@
 ---
-icon: material/bio
+icon: material/align-horizontal-left
 ---
 
 - **tmAligner**: tmAligner is an online alignment tool for transmembrane proteins, allowing users to paste or upload sequences in FASTA format for alignment.  

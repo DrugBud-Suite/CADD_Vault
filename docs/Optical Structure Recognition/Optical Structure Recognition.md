@@ -1,5 +1,5 @@
 ---
-icon: material/magnify-expand
+icon: material/ocr
 ---
 
 - **ChemPixCH**: Hand Drawn Hydrocarbon Recognition (image to smiles) (standalone)  

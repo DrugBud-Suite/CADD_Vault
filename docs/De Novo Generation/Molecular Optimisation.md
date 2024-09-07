@@ -1,5 +1,5 @@
 ---
-icon: material/new-box
+icon: material/trending-up
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/brands/creative-commons-sampling
+icon: material/engine
 ---
 
 - **AMBER**: suite of biomolecular simulation programs (standalone)  
@@ -24,7 +24,7 @@ icon: fontawesome/brands/creative-commons-sampling
 	[![Publication](https://img.shields.io/badge/Publication-Citations:341-blue?style=for-the-badge&logo=bookstack)](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00049)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.htmd.org/)  
 - **LAMMPS**: Molecular Dynamics Simulator and much more  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4427-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2021.108171)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4429-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2021.108171)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.lammps.org/)  
 - **NAMD**: NAMD is a parallel molecular dynamics code for high-performance simulation of large biomolecular systems, recognized for its scalability and efficiency.  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.ks.uiuc.edu/Research/namd/)  
@@ -81,7 +81,7 @@ icon: fontawesome/brands/creative-commons-sampling
 - **MLCGMD**: Simulate Time-integrated Coarse-grained Molecular Dynamics with Multi-scale Graph Networks  
 	[![Code](https://img.shields.io/github/stars/kyonofx/mlcgmd?style=for-the-badge&logo=github)](https://github.com/kyonofx/mlcgmd)  
 	[![Last Commit](https://img.shields.io/github/last-commit/kyonofx/mlcgmd?style=for-the-badge&logo=github)](https://github.com/kyonofx/mlcgmd)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:85-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/sciadv.abc6216)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:86-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/sciadv.abc6216)  
 - **NeuralMD**:   
 	[![Code](https://img.shields.io/github/stars/chao1224/NeuralMD?style=for-the-badge&logo=github)](https://github.com/chao1224/NeuralMD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/chao1224/NeuralMD?style=for-the-badge&logo=github)](https://github.com/chao1224/NeuralMD)  

@@ -1,5 +1,5 @@
 ---
-icon: material/tune-vertical
+icon: material/numeric-10
 ---
 
 - **InfoCore**: effectively deal with batch effects and obtain refined molecular representations  

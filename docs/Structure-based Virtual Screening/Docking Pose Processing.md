@@ -1,5 +1,5 @@
 ---
-icon: material/strategy
+icon: fontawesome/solid/gears
 ---
 
 
@@ -85,7 +85,7 @@ icon: material/strategy
 - **pyDockRMSD**: DockRMSD is an open-source program that identifies the minimum symmetry-corrected RMSD for docked poses without losing computational efficiency, useful for ligand molecules with complex structural symmetry.  
 	[![Code](https://img.shields.io/github/stars/neudinger/pyDockRMSD?style=for-the-badge&logo=github)](https://github.com/neudinger/pyDockRMSD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/neudinger/pyDockRMSD?style=for-the-badge&logo=github)](https://github.com/neudinger/pyDockRMSD)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:195-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0362-7)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:196-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0362-7)  
 - **rmsd**: Calculate Root-mean-square deviation (RMSD) of Two Molecules Using Rotation  
 	[![Code](https://img.shields.io/github/stars/charnley/rmsd?style=for-the-badge&logo=github)](https://github.com/charnley/rmsd)  
 	[![Last Commit](https://img.shields.io/github/last-commit/charnley/rmsd?style=for-the-badge&logo=github)](https://github.com/charnley/rmsd)  

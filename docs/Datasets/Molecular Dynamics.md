@@ -1,5 +1,5 @@
 ---
-icon: material/database
+icon: material/
 ---
 
 - **ATLAS**: Resource for exploring molecular dynamics simulations, offering insights into the dynamics of proteins and other biomolecules.  

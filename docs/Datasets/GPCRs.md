@@ -1,5 +1,5 @@
 ---
-icon: material/database
+icon: material/alpha-g-box
 ---
 
 - **GproteinDb**: The G protein database (online)  

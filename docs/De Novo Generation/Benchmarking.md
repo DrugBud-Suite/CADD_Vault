@@ -1,5 +1,5 @@
 ---
-icon: material/new-box
+icon: material/bench-back
 ---
 
 - **GenBench3D**: Benchmarking structure-based three-dimensional molecular generative models using GenBench3D  

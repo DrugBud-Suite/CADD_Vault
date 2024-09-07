@@ -1,5 +1,5 @@
 ---
-icon: material/library
+icon: material/database-cog
 ---
 
 - **lightweight-registration**: a lightweight chemical registration system  

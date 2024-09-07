@@ -1,5 +1,5 @@
 ---
-icon: material/bio
+icon: material/set-all
 ---
 
 - **Protein Interaction Explorer**: platform for navigating protein–protein interactions and ligand binding pockets  

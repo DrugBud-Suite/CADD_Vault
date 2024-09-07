@@ -1,5 +1,5 @@
 ---
-icon: material/database
+icon: material/pill
 ---
 
 - **DrugCentral**: DrugCentral provides information on active ingredients in medicinal substances, offering access to drug labels, FDA and EMA datasets, pharmacological action, and more.  

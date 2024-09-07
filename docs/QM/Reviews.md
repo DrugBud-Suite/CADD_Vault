@@ -1,5 +1,5 @@
 ---
-icon: material/atom
+icon: material/message-draw
 ---
 
 - **Quantum computing for near-term applications in generative chemistry and drug discovery [2023]**:   

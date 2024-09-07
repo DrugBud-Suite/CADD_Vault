@@ -1,5 +1,5 @@
 ---
-icon: material/database
+icon: material/flask-plus
 ---
 
 - **Enamine REAL**:   

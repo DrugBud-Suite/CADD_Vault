@@ -1,5 +1,5 @@
 ---
-icon: material/bio
+icon: material/water-check
 ---
 
 - **HydraProt**: Deep Learning Tool for Fast and Accurate Prediction of Water Molecule Positions for Protein Structures (standalone, 2024).  

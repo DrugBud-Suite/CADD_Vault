@@ -1,5 +1,5 @@
 ---
-icon: material/bio
+icon: material/high-definition-box
 ---
 
 - **iQDeep**: web server for protein scoring using multiscale deep learning models (evaluate quality of the 3D structure) (standalone)  
@@ -9,5 +9,5 @@ icon: material/bio
 	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.jmb.2024.168531)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.reading.ac.uk/bioinf/ModFOLD/ModFOLD9_form.html)  
 - **SWISSModel**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:8874-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gky427)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:8880-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gky427)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://swissmodel.expasy.org/assess)  

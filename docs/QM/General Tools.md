@@ -1,5 +1,5 @@
 ---
-icon: material/atom
+icon: material/tools
 ---
 
 - **Molpro**: quantum chemistry package (standalone).  

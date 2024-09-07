@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/brands/creative-commons-sampling
+icon: material/dot-circle
 ---
 
 - **ENCoM**:   

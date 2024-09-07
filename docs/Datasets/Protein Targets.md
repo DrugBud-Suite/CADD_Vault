@@ -1,5 +1,5 @@
 ---
-icon: material/database
+icon: material/bullseye-arrow
 ---
 
 - **OpenTargets**: A partnership to transform drug discovery through the systematic identification and prioritisation of targets  

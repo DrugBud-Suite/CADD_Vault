@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/eye
+icon: material/medication
 ---
 
 - **bioRENDER**: Professional medical art images (commercial) (online)  

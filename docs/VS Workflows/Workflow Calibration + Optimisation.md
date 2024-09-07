@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/vr-cardboard
+icon: material/cog-refresh
 ---
 
 - **EvoTec**:   

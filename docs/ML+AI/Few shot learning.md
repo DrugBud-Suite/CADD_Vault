@@ -1,5 +1,5 @@
 ---
-icon: material/brain
+icon: fontawesome/solid/battery-quarter
 ---
 
 - **AttFPGNN**:   

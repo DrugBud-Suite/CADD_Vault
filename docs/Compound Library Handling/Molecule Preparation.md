@@ -1,5 +1,5 @@
 ---
-icon: material/library
+icon: material/database-sync
 ---
 
 - **Spores**: check structure, protonation (standalone).  
@@ -7,7 +7,7 @@ icon: material/library
 - **Gypsum-DL**: Gypsum-DL is a software that transforms 1D and 2D small-molecule representations into 3D models, considering various isomeric and conformational states.  
 	[![Code](https://img.shields.io/github/stars/durrantlab/gypsum_dl?style=for-the-badge&logo=github)](https://github.com/durrantlab/gypsum_dl/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/gypsum_dl?style=for-the-badge&logo=github)](https://github.com/durrantlab/gypsum_dl/)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:47-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0358-3)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:48-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0358-3)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://durrantlab.pitt.edu/gypsum-dl/)  
 
 ## **Protonation**
@@ -19,7 +19,7 @@ icon: material/library
 
 ## **Reviews**
 - **Sherman et al**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4155-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-013-9644-8)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4156-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-013-9644-8)  
 
 ## **Standardization**
 - **Ambitcli**: no 3D but Java application for standardization (standalone).  

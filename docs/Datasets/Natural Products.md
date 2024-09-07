@@ -1,5 +1,5 @@
 ---
-icon: material/database
+icon: material/sprout
 ---
 
 - **BIOFACQUIM**: novel compounds databse with natural products isolated and charcterized in Mexico (online)  
@@ -18,12 +18,12 @@ icon: material/database
 - **Natural product subsets (DIFACQUIM)**: Natural product datasets (diverse with Python code to generate diversity) (dataset)  
 	[![Code](https://img.shields.io/github/stars/DIFACQUIM/Natural-products-subsets-generation?style=for-the-badge&logo=github)](https://github.com/DIFACQUIM/Natural-products-subsets-generation)  
 	[![Last Commit](https://img.shields.io/github/last-commit/DIFACQUIM/Natural-products-subsets-generation?style=for-the-badge&logo=github)](https://github.com/DIFACQUIM/Natural-products-subsets-generation)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.ailsci.2023.100066)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.ailsci.2023.100066)  
 - **NPASS**: Natural product activity and species source database  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac1069)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://bidd.group/NPASS/)  
 - **npatlas**: The Natural Products Atlas 2.0: A Database of Microbially-Derived Natural Products (online)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.npatlas.org/)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.npatlas.org/)  
 - **Nubbe**: a natural products database from the biodiversity of Brazil (online)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://nubbe.iq.unesp.br/portal/nubbe-search.html)  
 - **PeruNPDB**: the Peruvian Natural Products Database for in silico drug screening (database)  

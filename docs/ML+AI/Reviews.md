@@ -1,5 +1,5 @@
 ---
-icon: material/brain
+icon: material/message-draw
 ---
 
 - **A Systematic Survey in Geometric Deep Learning for Structure-based Drug Design [2023]**:   

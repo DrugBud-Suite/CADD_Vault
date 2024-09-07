@@ -1,5 +1,5 @@
 ---
-icon: material/new-box
+icon: material/message-draw
 ---
 
 - **Deep Learning Generative Models for Drug Discovery [2024]**:   
@@ -19,7 +19,7 @@ icon: material/new-box
 - **Deep generative molecular design reshapes drug discovery [2022]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:57-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.xcrm.2022.100794)  
 - **Generative models for molecular discovery: Recent advances and challenges [2022]**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:109-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/wcms.1608)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:108-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/wcms.1608)  
 - **Assessing Deep Generative Models in Chemical Composition Space [2022]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.chemmater.2c01860)  
 - **Generative machine learning for de novo drug discovery: A systematic review [2022]**:   
@@ -33,7 +33,7 @@ icon: material/new-box
 - **Generative chemistry: drug discovery with deep learning generative models [2021]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:72-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s00894-021-04674-8)  
 - **Generative Models for De Novo Drug Design [2021]**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:87-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.1c00927)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:88-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.1c00927)  
 - **Molecular design in drug discovery: a comprehensive review of deep generative models [2021]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:76-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbab344)  
 - **De novo molecular design and generative models [2021]**:   

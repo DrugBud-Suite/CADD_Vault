@@ -1,5 +1,5 @@
 ---
-icon: material/bio
+icon: material/restore
 ---
 
 - **KarmaLoop**: DL method centered on full-atom (encompassing both backbone and side-chain heavy atoms) protein loop modeling  

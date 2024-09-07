@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/rocket
+icon: material/cctv
 ---
 
 - **ChemPlot**: python library for chemical space visualization  

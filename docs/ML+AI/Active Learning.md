@@ -1,5 +1,5 @@
 ---
-icon: material/brain
+icon: material/school
 ---
 
 - **active-learning-drug-discovery**: virtual screening (standalone)  

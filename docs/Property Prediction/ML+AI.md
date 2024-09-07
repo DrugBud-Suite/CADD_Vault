@@ -1,5 +1,5 @@
 ---
-icon: material/tune-vertical
+icon: material/brain
 ---
 
 

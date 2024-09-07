@@ -1,11 +1,11 @@
 ---
-icon: material/bio
+icon: material/timeline-question
 ---
 
 
 ## **General**
 - **AlphaFold**: Protein Structure Database (predicted human 3D proteins, July 2021)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:22503-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-021-03819-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:22520-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-021-03819-2)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://alphafold.ebi.ac.uk/)  
 - **AlphaFold-Multimer**: a model that can predict the structure of multi-chain protein complexes with increased accuracy (standalone)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2021.10.04.463034)  
@@ -13,7 +13,7 @@ icon: material/bio
 - **ColabFold**: making protein folding accessible to all (standalone)  
 	[![Code](https://img.shields.io/github/stars/sokrypton/ColabFold?style=for-the-badge&logo=github)](https://github.com/sokrypton/ColabFold)  
 	[![Last Commit](https://img.shields.io/github/last-commit/sokrypton/ColabFold?style=for-the-badge&logo=github)](https://github.com/sokrypton/ColabFold)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4506-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41592-022-01488-1)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4509-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41592-022-01488-1)  
 - **DMFold**: DMFold standalone package is an integrated program of DeepMSA2 and AlphaFold2 for protein monomer and protein complex structure prediction  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://www.nature.com/articles/s41592-023-02130-4)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://zhanggroup.org/DMFold/download/)  
@@ -24,7 +24,7 @@ icon: material/bio
 	[![Last Commit](https://img.shields.io/github/last-commit/facebookresearch/esm?style=for-the-badge&logo=github)](https://github.com/facebookresearch/esm)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2021.02.12.430858v1)  
 - **ESMFold**: ESM Metagenomic Atlas contains several millions of predicted protein structures (can be used via ChimeraX) (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1141-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ade2574)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1143-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ade2574)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://esmatlas.com/about)  
 - **Evo**: A long-context foundation model that generalizes across the central dogma of biology: DNA, RNA, and proteins.  
 	[![Code](https://img.shields.io/github/stars/evo-design/evo?style=for-the-badge&logo=github)](https://github.com/evo-design/evo)  
@@ -52,7 +52,7 @@ icon: material/bio
 - **AlphaFold-multimer**: The specific details about AlphaFold-multimer could not be directly retrieved, but it extends AlphaFold2's capabilities to predict structures of protein complexes (multimers).  
 	[![Code](https://img.shields.io/github/stars/google-deepmind/alphafold?style=for-the-badge&logo=github)](https://github.com/google-deepmind/alphafold)  
 	[![Last Commit](https://img.shields.io/github/last-commit/google-deepmind/alphafold?style=for-the-badge&logo=github)](https://github.com/google-deepmind/alphafold)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:22503-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-021-03819-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:22520-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-021-03819-2)  
 - **CombFold**: a combinatorial and hierarchical assembly algorithm combined with AlphaFold2 for predicting structures of large protein assemblies  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://lnkd.in/gRVdfaZV)  
 - **DeepComplex**: This document has moved, and direct content was not provided in the data fetched, but DeepComplex is aimed at predicting quaternary protein structures.  
@@ -74,7 +74,7 @@ icon: material/bio
 - **RoseTTAFold_AllAtom**: biomolecular structure prediction neural network that can predict a broad range of biomolecular assemblies including proteins, nucleic acids, small molecules, covalent modifications and metals as outlined in the RFAA paper.  
 	[![Code](https://img.shields.io/github/stars/AaronFeller/RoseTTAFold-All-Atom?style=for-the-badge&logo=github)](https://github.com/AaronFeller/RoseTTAFold-All-Atom/blob/main/README.md)  
 	[![Last Commit](https://img.shields.io/github/last-commit/AaronFeller/RoseTTAFold-All-Atom?style=for-the-badge&logo=github)](https://github.com/AaronFeller/RoseTTAFold-All-Atom/blob/main/README.md)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:87-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.adl2528)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:86-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.adl2528)  
 - **Umol**: Umol is designed for protein-ligand structure prediction, representing the protein with a multiple sequence alignment and the ligand as a SMILES string, with versions utilizing protein pocket information recommended.  
 	[![Code](https://img.shields.io/github/stars/patrickbryant1/Umol?style=for-the-badge&logo=github)](https://github.com/patrickbryant1/Umol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/patrickbryant1/Umol?style=for-the-badge&logo=github)](https://github.com/patrickbryant1/Umol)  

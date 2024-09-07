@@ -3,12 +3,6 @@ icon: material/filter-variant
 ---
 
 
-## **3D**
-- **ROSHAMBO**: Open-Source Molecular Alignment and 3D Similarity Scoring  
-	[![Code](https://img.shields.io/github/stars/molecularinformatics/roshambo?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/roshambo)  
-	[![Last Commit](https://img.shields.io/github/last-commit/molecularinformatics/roshambo?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/roshambo)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=arxiv)](https://doi.org/10.26434/chemrxiv-2024-6wk09)  
-
 ## **2D**
 - **Chem-Faiss**: Chem-Faiss utilizes vector similarity search from Faiss combined with chemical fingerprinting to build a scalable similarity search architecture for compounds/molecules.  
 	[![Code](https://img.shields.io/github/stars/ritabratamaiti/Chem-Faiss?style=for-the-badge&logo=github)](https://github.com/ritabratamaiti/Chem-Faiss)  
@@ -37,7 +31,7 @@ icon: material/filter-variant
 - **ScreenLamp**: ScreenLamp is a modular toolkit for virtual screening, offering various command-line tools for different stages of the virtual screening process.  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://psa-lab.github.io/screenlamp/user_guide/tools/)  
 - **SmallWorld**: web-based ligand similarity on a variety of commercial databases  
-	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://sw.docking.org/search.html)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://sw.docking.org/search.html)  
 - **SwissSimilarity**: SwissSimilarity offers an online service for small molecule similarity screening against selected compound libraries using various cheminformatics methods.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:70-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390%2Fijms23020811)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.swisssimilarity.ch/)  
@@ -45,6 +39,12 @@ icon: material/filter-variant
 	[![Code](https://img.shields.io/github/stars/grisoniFr/scaffold_hopping_whales?style=for-the-badge&logo=github)](https://github.com/grisoniFr/scaffold_hopping_whales/blob/master/code/virtual_screening_pipeline.ipynb)  
 	[![Last Commit](https://img.shields.io/github/last-commit/grisoniFr/scaffold_hopping_whales?style=for-the-badge&logo=github)](https://github.com/grisoniFr/scaffold_hopping_whales/blob/master/code/virtual_screening_pipeline.ipynb)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:26-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41598-018-34677-0)  
+
+## **3D**
+- **ROSHAMBO**: Open-Source Molecular Alignment and 3D Similarity Scoring  
+	[![Code](https://img.shields.io/github/stars/molecularinformatics/roshambo?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/roshambo)  
+	[![Last Commit](https://img.shields.io/github/last-commit/molecularinformatics/roshambo?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/roshambo)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=arxiv)](https://doi.org/10.26434/chemrxiv-2024-6wk09)  
 - **AutoDock-SS**: AutoDock-SS enhances AutoDock for multiconformational and flexible ligand docking, considering various ligand conformations for accurate docking predictions.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00136)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.semanticscholar.org/paper/AutoDock-SS%3A-AutoDock-for-Multiconformational-Ni-Wang/6a967759d3ab27e076e570238a7f8ce029bfc0e7)  

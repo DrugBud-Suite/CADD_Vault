@@ -1,5 +1,5 @@
 ---
-icon: material/tools
+icon: material/message-draw
 ---
 
 - **Elinson et al.**: Review on various python packages for chemistry  

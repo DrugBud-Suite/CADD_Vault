@@ -1,5 +1,5 @@
 ---
-icon: material/brain
+icon: material/auto-fix
 ---
 
 - **AMPL**: The ATOM Modeling PipeLine (AMPL) is an open-source, modular, extensible software pipeline for building and sharing models to advance in silico drug discovery, extending the functionality of DeepChem and supporting an array of machine learning and molecular featurization tools.  

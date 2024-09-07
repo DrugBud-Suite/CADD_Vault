@@ -1,5 +1,5 @@
 ---
-icon: material/tools
+icon: material/translate-variant
 ---
 
 - **Meeko**: preparation of small molecules for AutoDock suite (.pdbqt format).  
@@ -7,7 +7,7 @@ icon: material/tools
 	[![Last Commit](https://img.shields.io/github/last-commit/forlilab/Meeko?style=for-the-badge&logo=github)](https://github.com/forlilab/Meeko)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1017/qrd.2022.18)  
 - **OpenBabel**: toolkit for drug discovery, file format etc (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:6113-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6115-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://openbabel.org/wiki/Main_Page)  
 - **pybel**: Python wrapper for the OpenBabel cheminformatics toolkit  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:290-blue?style=for-the-badge&logo=bookstack)](https://doi.org10.1186/1752-153X-2-5)  

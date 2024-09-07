@@ -1,5 +1,5 @@
 ---
-icon: material/strategy
+icon: material/brain
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-icon: material/database
+icon: material/bench-back
 ---
 
 - **BigBind and BayesBind**:   

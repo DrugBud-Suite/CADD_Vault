@@ -1,5 +1,5 @@
 ---
-icon: material/bio
+icon: material/cog-refresh
 ---
 
 - **AIR**: Artificial Intelligence-Based Multi-Objective Optimization Protocol for Protein Structure Refinement (standalone)  

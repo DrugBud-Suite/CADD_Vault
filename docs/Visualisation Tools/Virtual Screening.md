@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/solid/eye
+icon: fontawesome/solid/vr-cardboard
 ---
 
 - **Enrichment-Plot**: script to generate enrichment plot after virtual screening (standalone)  
