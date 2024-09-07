@@ -21,7 +21,7 @@ icon: material/sprout
 	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.ailsci.2023.100066)  
 - **NPASS**: Natural product activity and species source database  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac1069)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://bidd.group/NPASS/)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://bidd.group/NPASS/)  
 - **npatlas**: The Natural Products Atlas 2.0: A Database of Microbially-Derived Natural Products (online)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.npatlas.org/)  
 - **Nubbe**: a natural products database from the biodiversity of Brazil (online)  

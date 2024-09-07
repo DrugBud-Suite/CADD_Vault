@@ -1,5 +1,5 @@
 ---
-icon: material/
+icon: fontawesome/brands/mdb
 ---
 
 - **ATLAS**: Resource for exploring molecular dynamics simulations, offering insights into the dynamics of proteins and other biomolecules.  

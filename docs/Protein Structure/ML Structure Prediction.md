@@ -5,7 +5,7 @@ icon: material/timeline-question
 
 ## **General**
 - **AlphaFold**: Protein Structure Database (predicted human 3D proteins, July 2021)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:22520-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-021-03819-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:22521-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-021-03819-2)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://alphafold.ebi.ac.uk/)  
 - **AlphaFold-Multimer**: a model that can predict the structure of multi-chain protein complexes with increased accuracy (standalone)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2021.10.04.463034)  
@@ -52,7 +52,7 @@ icon: material/timeline-question
 - **AlphaFold-multimer**: The specific details about AlphaFold-multimer could not be directly retrieved, but it extends AlphaFold2's capabilities to predict structures of protein complexes (multimers).  
 	[![Code](https://img.shields.io/github/stars/google-deepmind/alphafold?style=for-the-badge&logo=github)](https://github.com/google-deepmind/alphafold)  
 	[![Last Commit](https://img.shields.io/github/last-commit/google-deepmind/alphafold?style=for-the-badge&logo=github)](https://github.com/google-deepmind/alphafold)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:22520-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-021-03819-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:22521-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-021-03819-2)  
 - **CombFold**: a combinatorial and hierarchical assembly algorithm combined with AlphaFold2 for predicting structures of large protein assemblies  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://lnkd.in/gRVdfaZV)  
 - **DeepComplex**: This document has moved, and direct content was not provided in the data fetched, but DeepComplex is aimed at predicting quaternary protein structures.  

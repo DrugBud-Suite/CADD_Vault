@@ -31,7 +31,7 @@ icon: simple/mattermost
 
 ## **Blind Docking**
 - **CBDock2**: CBDock2 is an improved protein-ligand blind docking tool integrating cavity detection, docking, and homologous template fitting to suggest novel therapeutic targets for biological and pharmaceutical studies.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:360-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac394)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:361-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac394)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://cadd.labshare.cn/cb-dock2/php/index.php)  
 - **CoBDock**: CoBDock is a reference implementation of the COBDock algorithm, detailing steps for setup and execution on Linux, with a focus on integrating various molecular docking and pocket identification algorithms.  
 	[![Code](https://img.shields.io/github/stars/DavidMcDonald1993/cobdock?style=for-the-badge&logo=github)](https://github.com/DavidMcDonald1993/cobdock)  
