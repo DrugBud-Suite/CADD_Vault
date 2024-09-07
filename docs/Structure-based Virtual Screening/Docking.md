@@ -1,5 +1,5 @@
 ---
-icon: simple/abb-robotstudio
+icon: simple/abbrobotstudio
 ---
 
 

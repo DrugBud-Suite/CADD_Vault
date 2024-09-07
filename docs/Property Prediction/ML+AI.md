@@ -1,5 +1,5 @@
 ---
-icon: simple/adobe-illustrator
+icon: simple/adobeillustrator
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-icon: simple/adobe-illustrator
+icon: simple/adobeillustrator
 ---
 
 - **AIRS**: AIRS is a collection of open-source software tools, datasets, and benchmarks associated with our paper entitled “Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems”  
