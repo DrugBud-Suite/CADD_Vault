@@ -1,5 +1,5 @@
 ---
-icon: material/dot-circle
+icon: material/dots-circle
 ---
 
 - **ENCoM**:   
