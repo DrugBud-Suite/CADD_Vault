@@ -1,5 +1,5 @@
 ---
-icon: simple/mattermost
+icon: simple/abb-robotstudio
 ---
 
 

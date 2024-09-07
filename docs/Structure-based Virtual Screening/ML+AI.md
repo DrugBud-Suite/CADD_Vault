@@ -1,5 +1,5 @@
 ---
-icon: material/brain
+icon: simple/adobe-illustrator
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-icon: material/brain
+icon: simple/adobe-illustrator
 ---
 
 - **XGNNBOOST**: XGBOOST is an algorithm combining GNN and XGBOOST, which can introduce the machine learning algorithm XGBOOST under the existing GNN network architecture to improve the algorithm capability (standalone)  

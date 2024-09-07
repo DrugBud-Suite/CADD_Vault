@@ -1,5 +1,5 @@
 ---
-icon: material/brain
+icon: simple/adobe-illustrator
 ---
 
 - **Auto3D**: Automatic Generation of the Low-energy 3D Structures with ANI Neural Network Potentials (standalone).  

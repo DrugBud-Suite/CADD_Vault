@@ -42,7 +42,7 @@ icon: material/video-3d-variant
 - **SAMSON**: software for adaptative modeling and simulation (nano), GROMACS can be launched from SAMSON... (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.samson-connect.net/app/main?execution=e1s1)  
 - **VMD**: molecular visualization program (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:48290-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/0263-7855(96)00018-5)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:48291-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/0263-7855(96)00018-5)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.ks.uiuc.edu/Research/vmd/)  
 - **VTX**: High performance molecular visualization software (Windows, Linux) (standalone)  
 	[![Code](https://img.shields.io/badge/Code)](https://gitlab.com/VTX_mol/VTX)

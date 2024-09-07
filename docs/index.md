@@ -4,8 +4,7 @@ Welcome to the CADD Vault, an open-source repository dedicated to sharing resour
 
 Number of publications: 951  
 Number of code repositories: 805  
-Number of webserver links: 122The vault is structured into several sections, each dedicated to a specific aspect of CADD. You can navigate through the repository to explore tutorials, datasets, software tools, and more. We have organized the content into subdirectories for easy navigation.
-
+Number of webserver links: 122
 ## Contributing
 
 We welcome contributions from the community! If you have resources, tools, tutorials, or any other content that you believe would benefit others in the field of CADD, please see our **[contributing guidelines](https://github.com/DrugBud-Suite/CADD_Vault/blob/main/CONTRIBUTING.md)** for how to get involved.

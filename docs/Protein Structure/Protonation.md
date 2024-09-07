@@ -1,5 +1,5 @@
 ---
-icon: material/set-all
+icon: material/alpha-h-box
 ---
 
 - **DeepKa**: deep-learning-based protein pKa predictor (online)  

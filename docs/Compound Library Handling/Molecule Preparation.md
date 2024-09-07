@@ -47,7 +47,7 @@ icon: material/database-sync
 - **MolTaut**: A Tool for the Rapid Generation of Favorable Tautomer in Aqueous Solution (compound preparation) (standalone).  
 	[![Code](https://img.shields.io/github/stars/xundrug/moltaut?style=for-the-badge&logo=github)](https://github.com/xundrug/moltaut)  
 	[![Last Commit](https://img.shields.io/github/last-commit/xundrug/moltaut?style=for-the-badge&logo=github)](https://github.com/xundrug/moltaut)  
-	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://moltaut.xundrug.cn/)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://moltaut.xundrug.cn/)  
 
 ## **pKa**
 - **Graph-pKa**: Multi-instance learning of graph neural networks for aqueous pKa prediction (online)  
