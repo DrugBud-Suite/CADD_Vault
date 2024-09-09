@@ -150,7 +150,7 @@ def update_index_file(docs_directory, readme, total_publications,
 
     lines[4] = f"Number of publications: {total_publications}  \n"
     lines[5] = f"Number of code repositories: {total_code_repos}  \n"
-    lines[6] = f"Number of webserver links: {total_webserver_links}"
+    lines[6] = f"Number of webserver links: {total_webserver_links}  \n"
 
     with open(index_file_path, "w", encoding='utf-8') as f:
         f.writelines(lines)
