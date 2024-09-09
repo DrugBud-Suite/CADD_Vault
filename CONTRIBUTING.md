@@ -17,12 +17,12 @@ To suggest new entries or improvements:
 
 1. Visit our Google Form: [CADD Vault Suggestion Form](https://forms.gle/ee7vmWLGLJ4WbXz48)
 2. Fill out the form with your suggestion details, including:
-    i. Type of suggestion (new resource, improvement, website improvement, etc.)
-    ii. Title or description of the resource
-    iii. URL (if applicable)
-    iv. Brief description or explanation of your suggestion
-    v. Your name and email (optional, for attribution or follow-up questions)
-3. Submit the form
+- Type of suggestion (new resource, improvement, website improvement, etc.)
+- Title or description of the resource
+- URL (if applicable)
+- Brief description or explanation of your suggestion
+- Your name and email (optional, for attribution or follow-up questions)
+1. Submit the form
 
 Our team will review all submissions and incorporate appropriate suggestions into the CADD Vault.
 
