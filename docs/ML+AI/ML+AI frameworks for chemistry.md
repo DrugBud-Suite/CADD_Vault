@@ -13,7 +13,7 @@ icon: simple/adobeillustrator
 - **cgcnn**:   
 	[![Code](https://img.shields.io/github/stars/txie-93/cgcnn?style=for-the-badge&logo=github)](https://github.com/txie-93/cgcnn)  
 	[![Last Commit](https://img.shields.io/github/last-commit/txie-93/cgcnn?style=for-the-badge&logo=github)](https://github.com/txie-93/cgcnn)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1264-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1103/PhysRevLett.120.145301)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1265-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1103/PhysRevLett.120.145301)  
 - **chainer-chemistry**:   
 	[![Code](https://img.shields.io/github/stars/chainer/chainer-chemistry?style=for-the-badge&logo=github)](https://github.com/chainer/chainer-chemistry)  
 	[![Last Commit](https://img.shields.io/github/last-commit/chainer/chainer-chemistry?style=for-the-badge&logo=github)](https://github.com/chainer/chainer-chemistry)  

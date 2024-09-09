@@ -23,7 +23,7 @@ icon: material/message-draw
 - **Assessing Deep Generative Models in Chemical Composition Space [2022]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.chemmater.2c01860)  
 - **Generative machine learning for de novo drug discovery: A systematic review [2022]**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:53-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.compbiomed.2022.105403)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:54-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.compbiomed.2022.105403)  
 - **Advances and Challenges in De Novo Drug Design Using Three-Dimensional Deep Generative Models [2022]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:31-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c00042)  
 - **Deep learning to catalyze inverse molecular design [2022]**:   

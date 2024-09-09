@@ -60,7 +60,7 @@ icon: simple/authelia
 - **fpocket**: mainly geometry-based (standalone)  
 	[![Code](https://img.shields.io/github/stars/Discngine/fpocket?style=for-the-badge&logo=github)](https://github.com/Discngine/fpocket)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Discngine/fpocket?style=for-the-badge&logo=github)](https://github.com/Discngine/fpocket)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1005-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1471-2105-10-168)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1006-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1471-2105-10-168)  
 - **FPocketWeb**: FpocketWeb is a browser app for identifying pockets on protein surfaces where small-molecule ligands might bind, running calculations locally on the user's computer.  
 	[![Code](https://img.shields.io/github/stars/durrantlab/fpocketweb?style=for-the-badge&logo=github)](https://github.com/durrantlab/fpocketweb/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/fpocketweb?style=for-the-badge&logo=github)](https://github.com/durrantlab/fpocketweb/)  
@@ -195,7 +195,7 @@ icon: simple/authelia
 
 ## **Fragment Site Prediction**
 - **FTMap**: FTMap maps unbound protein surfaces to identify druggable hot spots where small molecules may bind.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:486-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/nprot.2015.043)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:487-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/nprot.2015.043)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://ftmap.bu.edu/show_example.php?example=ace)  
 
 ## **From Molecular Dynamics simulations**

@@ -5,7 +5,7 @@ icon: material/speedometer
 
 ## **Carbohydrates**
 - **VinaCarb**: Carbohydrate specific scoring function  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:93-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00834)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:94-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00834)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://pubs.acs.org/doi/10.1021/acs.jctc.5b00834)  
 
 ## **ElectroStatic Potential-based**

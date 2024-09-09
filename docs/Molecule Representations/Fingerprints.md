@@ -52,7 +52,7 @@ icon: material/numeric-10
 - **PLIP**: An easy and fast web tool for identifying non-covalent interactions between biological macromolecules and their ligands.  
 	[![Code](https://img.shields.io/github/stars/pharmai/plip?style=for-the-badge&logo=github)](https://github.com/pharmai/plip)  
 	[![Last Commit](https://img.shields.io/github/last-commit/pharmai/plip?style=for-the-badge&logo=github)](https://github.com/pharmai/plip)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:896-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkab294)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:897-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkab294)  
 	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index)  
 - **ProLIF**: ProLIF (Protein-Ligand Interaction Fingerprints) generates interaction fingerprints for complexes made of ligands, protein, DNA, or RNA molecules extracted from molecular dynamics trajectories, docking simulations, and experimental structures.  
 	[![Code](https://img.shields.io/github/stars/chemosim-lab/ProLIF?style=for-the-badge&logo=github)](https://github.com/chemosim-lab/ProLIF)  

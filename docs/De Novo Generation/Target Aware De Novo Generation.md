@@ -146,7 +146,7 @@ icon: material/target
 - **PocketOptimizer 2.0**: Design of small molecule‐binding pockets in proteins (standalone)  
 	[![Code](https://img.shields.io/github/stars/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:7371-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:7374-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
 - **RGA**: A reinforcement learning-based genetic algorithm for structure-based drug design, introduced at NeurIPS 2022.  
 	[![Code](https://img.shields.io/github/stars/futianfan/reinforced-genetic-algorithm?style=for-the-badge&logo=github)](https://github.com/futianfan/reinforced-genetic-algorithm)  
 	[![Last Commit](https://img.shields.io/github/last-commit/futianfan/reinforced-genetic-algorithm?style=for-the-badge&logo=github)](https://github.com/futianfan/reinforced-genetic-algorithm)  

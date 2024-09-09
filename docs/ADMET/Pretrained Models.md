@@ -54,7 +54,7 @@ icon: material/needle
 
 ## **Toxicity**
 - **ProTox3**: Webserver for toxicity prediction  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:25-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae303)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:26-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae303)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://tox.charite.de/protox3/)  
 
 ## **hERG**

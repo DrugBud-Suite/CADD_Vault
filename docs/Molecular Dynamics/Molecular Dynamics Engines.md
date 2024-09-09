@@ -24,7 +24,7 @@ icon: material/engine
 	[![Publication](https://img.shields.io/badge/Publication-Citations:341-blue?style=for-the-badge&logo=bookstack)](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00049)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.htmd.org/)  
 - **LAMMPS**: Molecular Dynamics Simulator and much more  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4429-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2021.108171)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4431-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2021.108171)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.lammps.org/)  
 - **NAMD**: NAMD is a parallel molecular dynamics code for high-performance simulation of large biomolecular systems, recognized for its scalability and efficiency.  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.ks.uiuc.edu/Research/namd/)  
