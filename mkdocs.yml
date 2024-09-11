@@ -27,7 +27,7 @@ theme:
       icon: material/brightness-4
       name: Switch to system preference
   logo: images/Logo_FINAL_white.svg
-  favicon: images/Logo_FINAL_small.svg
+  favicon: images/Logo_FINAL.svg
   features:
   - navigation.top
   - toc.follow
