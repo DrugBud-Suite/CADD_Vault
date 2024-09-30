@@ -10,7 +10,10 @@ We welcome contributions from the community! If you have resources, tools, tutor
 
 ## Want your tool or website added?
 
-Feel free to create an **[issue on Github](https://github.com/DrugBud-Suite/CADD_Vault/issues)** and we would be happy to add your tool or website to the CADD_Vault.
+We provide a **[Google Form](https://forms.gle/pA81nNdRLnkVZEcs7)** to request an entry to be added to the CADD Vault.
+
+Alternatively, Feel free to create an **[issue on Github](https://github.com/DrugBud-Suite/CADD_Vault/issues)** and we would be happy to add your tool or website to the CADD_Vault.
+
 
 ## License
 
