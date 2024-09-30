@@ -5,23 +5,23 @@ icon: simple/abbrobotstudio
 
 ## **All-Atom-DL methods**
 - **AlphaFold3**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:449-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-024-07487-w)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:603-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-024-07487-w)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://golgi.sandbox.google.com/)  
 - **RoseTTAFold-AllAtom**: RoseTTAFold All-Atom (RFAA) is a deep network capable of modeling full biological assemblies containing proteins, nucleic acids, small molecules, metals, and covalent modifications with high accuracy.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:85-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.adl2528)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.biorxiv.org/content/10.1101/2023.10.09.561603v1)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:99-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.adl2528)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.biorxiv.org/content/10.1101/2023.10.09.561603v1)  
 - **DynamicBind**: DynamicBind recovers ligand-specific conformations from unbound protein structures (e.g. AF2-predicted structures), promoting efficient transitions between different equilibrium states.  
 	[![Code](https://img.shields.io/github/stars/luwei0917/DynamicBind?style=for-the-badge&logo=github)](https://github.com/luwei0917/DynamicBind)  
 	[![Last Commit](https://img.shields.io/github/last-commit/luwei0917/DynamicBind?style=for-the-badge&logo=github)](https://github.com/luwei0917/DynamicBind)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-45461-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-45461-2)  
 - **DiffusionProteinLigand**: End-to-end protein–ligand complex structure generation with diffusion-based generative models (standalone).  
 	[![Code](https://img.shields.io/github/stars/shuyana/DiffusionProteinLigand?style=for-the-badge&logo=github)](https://github.com/shuyana/DiffusionProteinLigand)  
 	[![Last Commit](https://img.shields.io/github/last-commit/shuyana/DiffusionProteinLigand?style=for-the-badge&logo=github)](https://github.com/shuyana/DiffusionProteinLigand)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s12859-023-05354-5)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s12859-023-05354-5)  
 - **NeuralPlexer**: deep generative model to jointly predict protein-ligand complex 3D structures and beyond.  
 	[![Code](https://img.shields.io/github/stars/zrqiao/NeuralPLexer?style=for-the-badge&logo=github)](https://github.com/zrqiao/NeuralPLexer)  
 	[![Last Commit](https://img.shields.io/github/last-commit/zrqiao/NeuralPLexer?style=for-the-badge&logo=github)](https://github.com/zrqiao/NeuralPLexer)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-024-00792-z)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-024-00792-z)  
 
 ## **Allosteric sites**
 - **FASTDock**: FASTDock is a pipeline for allosteric drug discovery, offering scripts and a Jupyter notebook for efficiently generating and analyzing docking grids, clusters, and fingerprint screenings.  
@@ -31,8 +31,8 @@ icon: simple/abbrobotstudio
 
 ## **Blind Docking**
 - **CBDock2**: CBDock2 is an improved protein-ligand blind docking tool integrating cavity detection, docking, and homologous template fitting to suggest novel therapeutic targets for biological and pharmaceutical studies.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:361-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac394)  
-	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://cadd.labshare.cn/cb-dock2/php/index.php)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:381-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac394)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://cadd.labshare.cn/cb-dock2/php/index.php)  
 - **CoBDock**: CoBDock is a reference implementation of the COBDock algorithm, detailing steps for setup and execution on Linux, with a focus on integrating various molecular docking and pocket identification algorithms.  
 	[![Code](https://img.shields.io/github/stars/DavidMcDonald1993/cobdock?style=for-the-badge&logo=github)](https://github.com/DavidMcDonald1993/cobdock)  
 	[![Last Commit](https://img.shields.io/github/last-commit/DavidMcDonald1993/cobdock?style=for-the-badge&logo=github)](https://github.com/DavidMcDonald1993/cobdock)  
@@ -41,7 +41,7 @@ icon: simple/abbrobotstudio
 - **AutoDock Vina**:   
 	[![Code](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-Vina?style=for-the-badge&logo=github)](https://github.com/ccsb-scripps/AutoDock-Vina)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ccsb-scripps/AutoDock-Vina?style=for-the-badge&logo=github)](https://github.com/ccsb-scripps/AutoDock-Vina)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2172-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00203)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:2259-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00203)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://autodock-vina.readthedocs.io/en/latest/index.html)  
 - **BR-NiB**: Brute Force Negative Image-Based Optimization. A docking rescoring method that relyes on shape/ electrostatic potential similarity between the docking poses of ligands and the cavity-based negative images (standalone).  
 	[![Code](https://img.shields.io/github/stars/jvlehtonen/brutenib?style=for-the-badge&logo=github)](https://github.com/jvlehtonen/brutenib)  
@@ -65,7 +65,7 @@ icon: simple/abbrobotstudio
 	[![Last Commit](https://img.shields.io/github/last-commit/Entroforce/Hess?style=for-the-badge&logo=github)](https://github.com/Entroforce/Hess)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=arxiv)](https://doi.org/10.26434/chemrxiv-2023-jh1kk)  
 - **JAMDA**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01573)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:5-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01573)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://proteins.plus/)  
 - **labodock**: LABODOCK offers a collection of Jupyter Notebooks for molecular docking on Google Colab with minimal coding, streamlining pre- and post-docking processes.  
 	[![Code](https://img.shields.io/github/stars/RyanZR/labodock?style=for-the-badge&logo=github)](https://github.com/RyanZR/labodock)  
@@ -74,7 +74,7 @@ icon: simple/abbrobotstudio
 - **MzDock**:   
 	[![Code](https://img.shields.io/github/stars/Muzatheking12/MzDOCK?style=for-the-badge&logo=github)](https://github.com/Muzatheking12/MzDOCK)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Muzatheking12/MzDOCK?style=for-the-badge&logo=github)](https://github.com/Muzatheking12/MzDOCK)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.27390)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.27390)  
 - **parallel-PLANTS**: Offers a method for parallel molecular docking using the PLANTS software, aimed at academic use.  
 	[![Code](https://img.shields.io/github/stars/discoverdata/parallel-PLANTS?style=for-the-badge&logo=github)](https://github.com/discoverdata/parallel-PLANTS)  
 	[![Last Commit](https://img.shields.io/github/last-commit/discoverdata/parallel-PLANTS?style=for-the-badge&logo=github)](https://github.com/discoverdata/parallel-PLANTS)  
@@ -85,7 +85,7 @@ icon: simple/abbrobotstudio
 - **QVINA**: QuickVina 2 aims to accurately speed up AutoDock Vina, providing up to 20.49-fold acceleration with high correlation in binding energy prediction.  
 	[![Code](https://img.shields.io/github/stars/QVina/qvina?style=for-the-badge&logo=github)](https://github.com/QVina/qvina)  
 	[![Last Commit](https://img.shields.io/github/last-commit/QVina/qvina?style=for-the-badge&logo=github)](https://github.com/QVina/qvina)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:196-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btv082)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:198-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btv082)  
 - **RDPSO_Vina**: A fast docking tool utilizing random drift particle swarm optimization based on the AutoDock Vina and PSOVina framework.  
 	[![Code](https://img.shields.io/github/stars/li-jin-xing/RDPSOVina?style=for-the-badge&logo=github)](https://github.com/li-jin-xing/RDPSOVina)  
 	[![Last Commit](https://img.shields.io/github/last-commit/li-jin-xing/RDPSOVina?style=for-the-badge&logo=github)](https://github.com/li-jin-xing/RDPSOVina)  
@@ -97,10 +97,10 @@ icon: simple/abbrobotstudio
 - **RxDock**: a fast, versatile, and open-source program for docking ligands to proteins and nucleic acids (standalone).  
 	[![Code](https://img.shields.io/github/stars/rxdock/rxdock?style=for-the-badge&logo=github)](https://github.com/rxdock/rxdock)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rxdock/rxdock?style=for-the-badge&logo=github)](https://github.com/rxdock/rxdock)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:413-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pcbi.1003571)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:420-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pcbi.1003571)  
 - **SMINA**: A fork of AutoDock Vina that supports scoring function development and high-performance energy minimization, maintained by the University of Pittsburgh.  
 	[![Code](https://img.shields.io/badge/Code)](https://sourceforge.net/projects/smina/)
-	[![Publication](https://img.shields.io/badge/Publication-Citations:687-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci300604z)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:696-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci300604z)  
 - **Uni-Dock**: Uni-Dock is a GPU-accelerated molecular docking program that supports various scoring functions and achieves significant speed-up compared with AutoDock Vina on a single CPU core.  
 	[![Code](https://img.shields.io/github/stars/dptech-corp/Uni-Dock?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-Dock)  
 	[![Last Commit](https://img.shields.io/github/last-commit/dptech-corp/Uni-Dock?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-Dock)  
@@ -115,7 +115,7 @@ icon: simple/abbrobotstudio
 - **VinaXB (halogen-bonding)**: Introduces a halogen bonding scoring function (XBSF) in AutoDock Vina, termed AutoDock VinaXB, to improve docking accuracy with halogenated ligands.  
 	[![Code](https://img.shields.io/github/stars/sirimullalab/vinaXB?style=for-the-badge&logo=github)](https://github.com/sirimullalab/vinaXB/tree/master)  
 	[![Last Commit](https://img.shields.io/github/last-commit/sirimullalab/vinaXB?style=for-the-badge&logo=github)](https://github.com/sirimullalab/vinaXB/tree/master)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:100-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-016-0139-1)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:101-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-016-0139-1)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-016-0139-1)  
 - **Surflex-Tools**: starting with version 4 (standalone).  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.biopharmics.com/)  
@@ -128,15 +128,15 @@ icon: simple/abbrobotstudio
 - **DockingPie**: DockingPie is a PyMOL plugin that facilitates consensus docking and scoring analyses, integrating four docking programs (Smina, Autodock Vina, RxDock, and ADFR) to offer a versatile platform for molecular and consensus docking.  
 	[![Code](https://img.shields.io/github/stars/paiardin/DockingPie?style=for-the-badge&logo=github)](https://github.com/paiardin/DockingPie)  
 	[![Last Commit](https://img.shields.io/github/last-commit/paiardin/DockingPie?style=for-the-badge&logo=github)](https://github.com/paiardin/DockingPie)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:21-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btac452)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:22-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btac452)  
 - **Exponential Consensus Ranking**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://www.nature.com/articles/s41598-019-41594-3#Sec8)  
 - **VoteDock**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:73-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21642)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:74-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21642)  
 
 ## **Flexible Docking**
 - **ADFR**: AutoDockFR is a protein-ligand docking program supporting selective receptor flexibility and covalent docking, part of the ADFR suite for streamlined docking procedures.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:337-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pcbi.1004586)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:344-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pcbi.1004586)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://ccsb.scripps.edu/adfr/)  
 - **DSDPFlex**:   
 	[![Code](https://img.shields.io/github/stars/PKUGaoGroup/DSDP?style=for-the-badge&logo=github)](https://github.com/PKUGaoGroup/DSDP)  
@@ -150,7 +150,7 @@ icon: simple/abbrobotstudio
 - **GNINA**: GNINA is a molecular docking program that incorporates scoring and optimization of ligands using convolutional neural networks, aiming to combine the versatility of smina and AutoDock Vina with the predictive power of deep learning.  
 	[![Code](https://img.shields.io/github/stars/gnina/gnina?style=for-the-badge&logo=github)](https://github.com/gnina/gnina)  
 	[![Last Commit](https://img.shields.io/github/last-commit/gnina/gnina?style=for-the-badge&logo=github)](https://github.com/gnina/gnina)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:230-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00522-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:234-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00522-2)  
 - **iDock**: iDock is a multithreaded virtual screening tool for flexible ligand docking in computational drug discovery, inspired by AutoDock Vina and hosted on GitHub under Apache License 2.0.  
 	[![Code](https://img.shields.io/github/stars/gloglita/idock?style=for-the-badge&logo=github)](https://github.com/gloglita/idock)  
 	[![Last Commit](https://img.shields.io/github/last-commit/gloglita/idock?style=for-the-badge&logo=github)](https://github.com/gloglita/idock)  
@@ -181,7 +181,7 @@ icon: simple/abbrobotstudio
 	[![Last Commit](https://img.shields.io/github/last-commit/XiaohuaZhangLLNL/VinaLC?style=for-the-badge&logo=github)](https://github.com/XiaohuaZhangLLNL/VinaLC)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](http://onlinelibrary.wiley.com/doi/10.1002/jcc.23214/abstract)  
 - **VinaMPI**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:62-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.23367)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:64-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.23367)  
 - **VinaSC**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1109/BIBM.2016.7822624)  
 
@@ -197,11 +197,11 @@ icon: simple/abbrobotstudio
 - **EDM-Dock**:   
 	[![Code](https://img.shields.io/github/stars/MatthewMasters/EDM-Dock?style=for-the-badge&logo=github)](https://github.com/MatthewMasters/EDM-Dock)  
 	[![Last Commit](https://img.shields.io/github/last-commit/MatthewMasters/EDM-Dock?style=for-the-badge&logo=github)](https://github.com/MatthewMasters/EDM-Dock)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:26-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s43588-023-00511-5)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s43588-023-00511-5)  
 - **FlexPose**:   
 	[![Code](https://img.shields.io/github/stars/tiejundong/FlexPose?style=for-the-badge&logo=github)](https://github.com/tiejundong/FlexPose)  
 	[![Last Commit](https://img.shields.io/github/last-commit/tiejundong/FlexPose?style=for-the-badge&logo=github)](https://github.com/tiejundong/FlexPose)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c00273)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c00273)  
 - **AQDNet**: Implements a Deep Neural Network for Protein-Ligand Docking Simulation, focusing on identifying correct binding poses through convolutional neural network approaches.  
 	[![Code](https://img.shields.io/github/stars/koji11235/AQDnet?style=for-the-badge&logo=github)](https://github.com/koji11235/AQDnet)  
 	[![Last Commit](https://img.shields.io/github/last-commit/koji11235/AQDnet?style=for-the-badge&logo=github)](https://github.com/koji11235/AQDnet)  
@@ -209,7 +209,7 @@ icon: simple/abbrobotstudio
 - **CarsiDock**: a deep learning paradigm for accurate protein–ligand docking and screening based on large-scale pre-training (standalone, 2024).  
 	[![Code](https://img.shields.io/github/stars/carbonsilicon-ai/CarsiDock?style=for-the-badge&logo=github)](https://github.com/carbonsilicon-ai/CarsiDock)  
 	[![Last Commit](https://img.shields.io/github/last-commit/carbonsilicon-ai/CarsiDock?style=for-the-badge&logo=github)](https://github.com/carbonsilicon-ai/CarsiDock)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:6-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3SC05552C)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3SC05552C)  
 - **DeepBindBC**: A practical deep learning method for identifying native-like protein-ligand complexes in virtual screening (online).  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.ymeth.2022.07.009)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://cbblab.siat.ac.cn/DeepBindBC/index.php)  
@@ -232,7 +232,7 @@ icon: simple/abbrobotstudio
 - **EViS**: EViS is an enhanced virtual screening method integrating ligand docking, protein pocket template searching, and ligand template shape similarity calculations, utilizing a novel PL-score for evaluation.  
 	[![Code](https://img.shields.io/github/stars/JingHuangLab/EViS?style=for-the-badge&logo=github)](https://github.com/JingHuangLab/EViS)  
 	[![Last Commit](https://img.shields.io/github/last-commit/JingHuangLab/EViS?style=for-the-badge&logo=github)](https://github.com/JingHuangLab/EViS)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:6-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00944)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00944)  
 - **FABind**:   
 	[![Code](https://img.shields.io/github/stars/QizhiPei/FABind?style=for-the-badge&logo=github)](https://github.com/QizhiPei/FABind)  
 	[![Last Commit](https://img.shields.io/github/last-commit/QizhiPei/FABind?style=for-the-badge&logo=github)](https://github.com/QizhiPei/FABind)  
@@ -248,7 +248,7 @@ icon: simple/abbrobotstudio
 - **GNINA**: GNINA is a molecular docking program that incorporates scoring and optimization of ligands using convolutional neural networks, aiming to combine the versatility of smina and AutoDock Vina with the predictive power of deep learning.  
 	[![Code](https://img.shields.io/github/stars/gnina/gnina?style=for-the-badge&logo=github)](https://github.com/gnina/gnina)  
 	[![Last Commit](https://img.shields.io/github/last-commit/gnina/gnina?style=for-the-badge&logo=github)](https://github.com/gnina/gnina)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:230-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00522-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:234-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00522-2)  
 - **GNINA_KD**:   
 	[![Code](https://img.shields.io/github/stars/YanjingLiLi/GNINA_Knowledge_Distillation?style=for-the-badge&logo=github)](https://github.com/YanjingLiLi/GNINA_Knowledge_Distillation)  
 	[![Last Commit](https://img.shields.io/github/last-commit/YanjingLiLi/GNINA_Knowledge_Distillation?style=for-the-badge&logo=github)](https://github.com/YanjingLiLi/GNINA_Knowledge_Distillation)  
@@ -263,7 +263,7 @@ icon: simple/abbrobotstudio
 - **KarmaDock**:   
 	[![Code](https://img.shields.io/github/stars/schrojunzhang/KarmaDock?style=for-the-badge&logo=github)](https://github.com/schrojunzhang/KarmaDock/blob/main/README.md)  
 	[![Last Commit](https://img.shields.io/github/last-commit/schrojunzhang/KarmaDock?style=for-the-badge&logo=github)](https://github.com/schrojunzhang/KarmaDock/blob/main/README.md)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:26-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s43588-023-00511-5)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s43588-023-00511-5)  
 - **PLANTAIN**: Predicting LigANd pose wiTh an AI scoring functioN  
 	[![Code](https://img.shields.io/github/stars/molecularmodelinglab/plantain?style=for-the-badge&logo=github)](https://github.com/molecularmodelinglab/plantain)  
 	[![Last Commit](https://img.shields.io/github/last-commit/molecularmodelinglab/plantain?style=for-the-badge&logo=github)](https://github.com/molecularmodelinglab/plantain)  
@@ -316,12 +316,16 @@ icon: simple/abbrobotstudio
 - **LigPose**:   
 	[![Code](https://img.shields.io/badge/Code)](https://gitfront.io/r/LigPose/kMWuV4DW6JpE/LigPose4Review/)
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2408.11356)  
+- **PGBind**: pocket-guided explicit attention learning for protein–ligand docking  
+	[![Code](https://img.shields.io/github/stars/ShenAoAO/PGBind?style=for-the-badge&logo=github)](https://github.com/ShenAoAO/PGBind)  
+	[![Last Commit](https://img.shields.io/github/last-commit/ShenAoAO/PGBind?style=for-the-badge&logo=github)](https://github.com/ShenAoAO/PGBind)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbae455)  
 
 ## **MetalloProteins**
 - **MetalDock**:   
 	[![Code](https://img.shields.io/github/stars/MatthijsHak/MetalDock?style=for-the-badge&logo=github)](https://github.com/MatthijsHak/MetalDock)  
 	[![Last Commit](https://img.shields.io/github/last-commit/MatthijsHak/MetalDock?style=for-the-badge&logo=github)](https://github.com/MatthijsHak/MetalDock)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01582)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:5-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01582)  
 
 ## **Multi-Ligand**
 - **HARMONICFlow**:   
@@ -342,7 +346,7 @@ icon: simple/abbrobotstudio
 - **DeepRMSD-Vina**: DeepRMSD+Vina is a computational framework integrating ligand binding pose optimization and screening, utilizing deep learning alongside the classical Vina scoring function.  
 	[![Code](https://img.shields.io/github/stars/zchwang/DeepRMSD-Vina_Optimization?style=for-the-badge&logo=github)](https://github.com/zchwang/DeepRMSD-Vina_Optimization)  
 	[![Last Commit](https://img.shields.io/github/last-commit/zchwang/DeepRMSD-Vina_Optimization?style=for-the-badge&logo=github)](https://github.com/zchwang/DeepRMSD-Vina_Optimization)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:26-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbac520)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:28-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbac520)  
 
 ## **Protein Docking**
 - **EquiDock**: EquiDock employs geometric deep learning for fast and accurate rigid 3D protein-protein docking, focusing on efficiency and accessibility with comprehensive preprocessing and training guidelines.  
@@ -352,11 +356,11 @@ icon: simple/abbrobotstudio
 - **LightDock**: The open-source macromolecular docking framework written in Python  
 	[![Code](https://img.shields.io/github/stars/lightdock/lightdock?style=for-the-badge&logo=github)](https://github.com/lightdock/lightdock)  
 	[![Last Commit](https://img.shields.io/github/last-commit/lightdock/lightdock?style=for-the-badge&logo=github)](https://github.com/lightdock/lightdock)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:82-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btx555)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:83-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btx555)  
 - **PyDock3**: Electrostatics and desolvation for effective scoring of rigid-body protein-protein docking  
 	[![Code](https://img.shields.io/github/stars/brianjimenez/pydock_tutorial?style=for-the-badge&logo=github)](https://github.com/brianjimenez/pydock_tutorial)  
 	[![Last Commit](https://img.shields.io/github/last-commit/brianjimenez/pydock_tutorial?style=for-the-badge&logo=github)](https://github.com/brianjimenez/pydock_tutorial)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:282-blue?style=for-the-badge&logo=bookstack)](http://dx.doi.org/10.1002/prot.21419)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:284-blue?style=for-the-badge&logo=bookstack)](http://dx.doi.org/10.1002/prot.21419)  
 
 ## **Quantum**
 - **Zhang et al.**:   
@@ -364,7 +368,7 @@ icon: simple/abbrobotstudio
 
 ## **Reviews**
 - **Revolutionizing drug discovery: an AI-powered transformation of molecular docking**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s00044-024-03253-9)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s00044-024-03253-9)  
 
 ## **Shape-based**
 - **PheSA**: An Open-Source Tool for Pharmacophore-Enhanced Shape Alignment  
@@ -374,8 +378,8 @@ icon: simple/abbrobotstudio
 
 ## **Template**
 - **FitDock**: fits initial conformation to the given template using a hierachical multi-feature alignment approach, subsequently explores the possible conformations, and finally outputs refined docking poses  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:65-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbac087)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://cao.labshare.cn/fitdock/php/index.php)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:71-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbac087)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://cao.labshare.cn/fitdock/php/index.php)  
 
 ## **Water**
 - **WatVina**: Watvina facilitates drug design with support for explicit or implicit waters, pharmacophore, or position-constrained docking, and external torsion parameters, enhancing the Autodock Vina engine.  

@@ -13,11 +13,11 @@ icon: material/speedometer
 - **RAScore**: rapid machine learned synthesizability classification from AI driven retrosynthetic planning.  
 	[![Code](https://img.shields.io/github/stars/reymond-group/RAscore?style=for-the-badge&logo=github)](https://github.com/reymond-group/RAscore)  
 	[![Last Commit](https://img.shields.io/github/last-commit/reymond-group/RAscore?style=for-the-badge&logo=github)](https://github.com/reymond-group/RAscore)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:74-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d0sc05401a)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:76-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d0sc05401a)  
 - **SAScore**: The Synthetic Accessibility Score (SAScore) aims to assess the synthetic difficulty of chemical compounds.  
 	[![Code](https://img.shields.io/github/stars/rdkit/rdkit?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rdkit/rdkit?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:866-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-1-8)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:883-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-1-8)  
 - **SCscore**: SCScore is a synthetic complexity score that assigns a value between 1 and 5 to a molecule, based on the premise that published reactions should exhibit an increase in synthetic complexity.  
 	[![Code](https://img.shields.io/github/stars/connorcoley/scscore?style=for-the-badge&logo=github)](https://github.com/connorcoley/scscore)  
 	[![Last Commit](https://img.shields.io/github/last-commit/connorcoley/scscore?style=for-the-badge&logo=github)](https://github.com/connorcoley/scscore)  

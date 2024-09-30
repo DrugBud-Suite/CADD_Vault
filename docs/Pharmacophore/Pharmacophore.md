@@ -7,8 +7,8 @@ icon: material/dots-hexagon
 - **PGMG**: PGMG is a pharmacophore-guided deep learning approach for bioactive molecule generation, providing a strategy to generate molecules with structural diversity through the guidance of pharmacophore hypotheses.  
 	[![Code](https://img.shields.io/github/stars/CSUBioGroup/PGMG?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/PGMG)  
 	[![Last Commit](https://img.shields.io/github/last-commit/CSUBioGroup/PGMG?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/PGMG)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41467-023-41454-9)  
-	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.csuligroup.com/PGMG)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41467-023-41454-9)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.csuligroup.com/PGMG)  
 
 ## **From Apo Protein**
 - **Apo2ph4**: Workflow for the Generation of Receptor-based Pharmacophore Models for Virtual Screening (online).  
@@ -70,7 +70,7 @@ icon: material/dots-hexagon
 - **QPhar**: QPhar provides code for quantitative pharmacophore activity relationship modeling, offering a method and validation for quantitative pharmacophore modeling documented in a publication.  
 	[![Code](https://img.shields.io/github/stars/StefanKohlbacher/QuantPharmacophore?style=for-the-badge&logo=github)](https://github.com/StefanKohlbacher/QuantPharmacophore)  
 	[![Last Commit](https://img.shields.io/github/last-commit/StefanKohlbacher/QuantPharmacophore?style=for-the-badge&logo=github)](https://github.com/StefanKohlbacher/QuantPharmacophore)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:11-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00537-9)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00537-9)  
 
 ## **Screening**
 - **PheSA**: An Open-Source Tool for Pharmacophore-Enhanced Shape Alignment  
@@ -80,5 +80,5 @@ icon: material/dots-hexagon
 
 ## **Web-Servers**
 - **Pharmit**: Pharmit provides an interactive environment for the identification and visualization of pharmacophore models, enabling virtual screening against millions of compounds. It offers tools for specifying pharmacophores, flexibly searching chemical databases, and viewing results in 3D directly in the web browser.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:229-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkw287)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:233-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkw287)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pharmit.csb.pitt.edu/)  

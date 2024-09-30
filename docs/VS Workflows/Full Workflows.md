@@ -26,7 +26,7 @@ icon: fontawesome/solid/vr-cardboard
 - **DockStream**: DockStream is a docking wrapper offering access to various ligand embedders and docking backends, aimed at enhancing de novo molecular design through integration with the REINVENT platform.  
 	[![Code](https://img.shields.io/github/stars/MolecularAI/DockStream?style=for-the-badge&logo=github)](https://github.com/MolecularAI/DockStream)  
 	[![Last Commit](https://img.shields.io/github/last-commit/MolecularAI/DockStream?style=for-the-badge&logo=github)](https://github.com/MolecularAI/DockStream)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00563-7)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:32-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00563-7)  
 - **Dockstring**: A Python package for easy molecular docking (with Vina)… machine learning..(standalone).  
 	[![Code](https://img.shields.io/github/stars/dockstring/dockstring?style=for-the-badge&logo=github)](https://github.com/dockstring/dockstring)  
 	[![Last Commit](https://img.shields.io/github/last-commit/dockstring/dockstring?style=for-the-badge&logo=github)](https://github.com/dockstring/dockstring)  
@@ -45,19 +45,19 @@ icon: fontawesome/solid/vr-cardboard
 - **PyRMD2Dock**: Streamlining Large Chemical Library Docking with Artificial Intelligence: the PyRMD2Dock (and PyRMD) (ultralarge screening - 2023) (standalone).  
 	[![Code](https://img.shields.io/github/stars/cosconatilab/PyRMD?style=for-the-badge&logo=github)](https://github.com/cosconatilab/PyRMD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cosconatilab/PyRMD?style=for-the-badge&logo=github)](https://github.com/cosconatilab/PyRMD)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:25-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00653)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:28-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00653)  
 - **Scipion**: Scipion is a framework plugin that defines objects and protocols for CHEMoinformatics, incorporating various tools from the Autodock software suite and other computational chemistry tools.  
 	[![Code](https://img.shields.io/github/stars/scipion-chem/scipion-chem?style=for-the-badge&logo=github)](https://github.com/scipion-chem/scipion-chem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/scipion-chem/scipion-chem?style=for-the-badge&logo=github)](https://github.com/scipion-chem/scipion-chem)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01085)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01085)  
 - **VFLP**: VFLP (VirtualFlow for Ligand Preparation) is also part of the VirtualFlow project, focusing on preparing ligands for virtual screening tasks, utilizing the same core technology as VFVS.  
 	[![Code](https://img.shields.io/github/stars/VirtualFlow/VFLP?style=for-the-badge&logo=github)](https://github.com/VirtualFlow/VFLP?tab=readme-ov-file)  
 	[![Last Commit](https://img.shields.io/github/last-commit/VirtualFlow/VFLP?style=for-the-badge&logo=github)](https://github.com/VirtualFlow/VFLP?tab=readme-ov-file)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:371-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-020-2117-z)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:375-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-020-2117-z)  
 - **VFVS**: VFVS (VirtualFlow for Virtual Screening) is part of the VirtualFlow project, a parallel workflow platform for virtual screening tasks on Linux-based clusters, tailored for large-scale virtual screenings.  
 	[![Code](https://img.shields.io/github/stars/VirtualFlow/VFVS?style=for-the-badge&logo=github)](https://github.com/VirtualFlow/VFVS)  
 	[![Last Commit](https://img.shields.io/github/last-commit/VirtualFlow/VFVS?style=for-the-badge&logo=github)](https://github.com/VirtualFlow/VFVS)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:371-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-020-2117-z)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:375-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-020-2117-z)  
 - **VSpipe-GUI**: an Interactive Graphical User Interface for Virtual Screening and Hit Selection (examples with fragment docking...) (standalone, published 2024).  
 	[![Code](https://img.shields.io/github/stars/rashid-bioinfo/vspipe-gui?style=for-the-badge&logo=github)](https://github.com/rashid-bioinfo/vspipe-gui/tree/master/Installation_Guide)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rashid-bioinfo/vspipe-gui?style=for-the-badge&logo=github)](https://github.com/rashid-bioinfo/vspipe-gui/tree/master/Installation_Guide)  
@@ -69,8 +69,8 @@ icon: fontawesome/solid/vr-cardboard
 - **Mcule Cloud CADD Platform**: Comprehensive set of drug discovery tools that can be used as LEGO bricks to build up complex workflows  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://mcule.com/hit-identification/)  
 - **DrugFlow**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00621)  
-	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://drugflow.com/#/)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00621)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://drugflow.com/#/)  
 - **SmartCADD**: AI-QM Empowered Drug Discovery Platform with Explainability  
 	[![Code](https://img.shields.io/github/stars/SMU-CATCO/SmartCADD?style=for-the-badge&logo=github)](https://github.com/SMU-CATCO/SmartCADD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/SMU-CATCO/SmartCADD?style=for-the-badge&logo=github)](https://github.com/SMU-CATCO/SmartCADD)  

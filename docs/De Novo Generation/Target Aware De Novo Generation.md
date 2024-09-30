@@ -13,7 +13,7 @@ icon: material/target
 - **BindDM**: BindDM extracts subcomplex from protein-ligand complex, and utilizes it to enhance the binding-adaptive 3D molecule generation in complex  
 	[![Code](https://img.shields.io/github/stars/YangLing0818/BindDM?style=for-the-badge&logo=github)](https://github.com/YangLing0818/BindDM)  
 	[![Last Commit](https://img.shields.io/github/last-commit/YangLing0818/BindDM?style=for-the-badge&logo=github)](https://github.com/YangLing0818/BindDM)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1609/aaai.v38i11.29162)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1609/aaai.v38i11.29162)  
 - **cMolGPT**: cMolGPT, a Conditional Generative Pre-trained Transformer, aims for de novo molecular design by enforcing target specificity during the generation process, emphasizing the incorporation of target embeddings.  
 	[![Code](https://img.shields.io/github/stars/VV123/cMolGPT?style=for-the-badge&logo=github)](https://github.com/VV123/cMolGPT)  
 	[![Last Commit](https://img.shields.io/github/last-commit/VV123/cMolGPT?style=for-the-badge&logo=github)](https://github.com/VV123/cMolGPT)  
@@ -57,7 +57,7 @@ icon: material/target
 - **RELATION**: A software for DL-based de novo drug design, focusing on generating molecules based on target protein interactions.  
 	[![Code](https://img.shields.io/github/stars/micahwang/RELATION?style=for-the-badge&logo=github)](https://github.com/micahwang/RELATION)  
 	[![Last Commit](https://img.shields.io/github/last-commit/micahwang/RELATION?style=for-the-badge&logo=github)](https://github.com/micahwang/RELATION)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:42-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.2c00732)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:43-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.2c00732)  
 - **ResGen**: pocket-aware 3D molecular generation model based on parallel multiscale modelling (standalone).  
 	[![Code](https://img.shields.io/github/stars/HaotianZhangAI4Science/ResGen?style=for-the-badge&logo=github)](https://github.com/HaotianZhangAI4Science/ResGen)  
 	[![Last Commit](https://img.shields.io/github/last-commit/HaotianZhangAI4Science/ResGen?style=for-the-badge&logo=github)](https://github.com/HaotianZhangAI4Science/ResGen)  
@@ -78,7 +78,7 @@ icon: material/target
 - **ChemSpaceAL**: an Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation (generative chemistry) (standalone, 2024).  
 	[![Code](https://img.shields.io/github/stars/gregory-kyro/ChemSpaceAL?style=for-the-badge&logo=github)](https://github.com/gregory-kyro/ChemSpaceAL)  
 	[![Last Commit](https://img.shields.io/github/last-commit/gregory-kyro/ChemSpaceAL?style=for-the-badge&logo=github)](https://github.com/gregory-kyro/ChemSpaceAL)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01456)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01456)  
 
 ## **Benchmarks**
 - **From Theory to Therapy: Reframing SBDD Model Evaluation via Practical Metrics**:   
@@ -104,6 +104,10 @@ icon: material/target
 	[![Code](https://img.shields.io/github/stars/guanjq/targetdiff?style=for-the-badge&logo=github)](https://github.com/guanjq/targetdiff)  
 	[![Last Commit](https://img.shields.io/github/last-commit/guanjq/targetdiff?style=for-the-badge&logo=github)](https://github.com/guanjq/targetdiff)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2303.03543)  
+- **NucleusDiff**:   
+	[![Code](https://img.shields.io/github/stars/yanliang3612/NucleusDiff?style=for-the-badge&logo=github)](https://github.com/yanliang3612/NucleusDiff)  
+	[![Last Commit](https://img.shields.io/github/last-commit/yanliang3612/NucleusDiff?style=for-the-badge&logo=github)](https://github.com/yanliang3612/NucleusDiff)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://www.semanticscholar.org/reader/6b6d003033910d94ec5df96cdb2c884aad52ed4b)  
 
 ## **Docking-based**
 - **FREED**: Utilizes explorative experience replay in a generative reinforcement learning setup for drug design.  
@@ -122,7 +126,7 @@ icon: material/target
 - **Lib-INVENT**: Reaction-based Generative Scaffold Decoration for in Silico Library Design  
 	[![Code](https://img.shields.io/github/stars/MolecularAI/Lib-INVENT?style=for-the-badge&logo=github)](https://github.com/MolecularAI/Lib-INVENT)  
 	[![Last Commit](https://img.shields.io/github/last-commit/MolecularAI/Lib-INVENT?style=for-the-badge&logo=github)](https://github.com/MolecularAI/Lib-INVENT)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00469)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:40-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00469)  
 - **KGDiff**: A model for explainable target-aware molecule generation with knowledge guidance.  
 	[![Code](https://img.shields.io/github/stars/CMACH508/KGDiff?style=for-the-badge&logo=github)](https://github.com/CMACH508/KGDiff)  
 	[![Last Commit](https://img.shields.io/github/last-commit/CMACH508/KGDiff?style=for-the-badge&logo=github)](https://github.com/CMACH508/KGDiff)  
@@ -142,11 +146,11 @@ icon: material/target
 - **PMDM**: dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets  
 	[![Code](https://img.shields.io/github/stars/Layne-Huang/PMDM?style=for-the-badge&logo=github)](https://github.com/Layne-Huang/PMDM/tree/main)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Layne-Huang/PMDM?style=for-the-badge&logo=github)](https://github.com/Layne-Huang/PMDM/tree/main)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:5-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-46569-1)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-46569-1)  
 - **PocketOptimizer 2.0**: Design of small molecule‐binding pockets in proteins (standalone)  
 	[![Code](https://img.shields.io/github/stars/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:7374-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:7455-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
 - **RGA**: A reinforcement learning-based genetic algorithm for structure-based drug design, introduced at NeurIPS 2022.  
 	[![Code](https://img.shields.io/github/stars/futianfan/reinforced-genetic-algorithm?style=for-the-badge&logo=github)](https://github.com/futianfan/reinforced-genetic-algorithm)  
 	[![Last Commit](https://img.shields.io/github/last-commit/futianfan/reinforced-genetic-algorithm?style=for-the-badge&logo=github)](https://github.com/futianfan/reinforced-genetic-algorithm)  
@@ -154,7 +158,7 @@ icon: material/target
 - **SBMolGen**: integrates a recurrent neural network, a Monte Carlo tree search, and docking simulations  
 	[![Code](https://img.shields.io/github/stars/clinfo/SBMolGen?style=for-the-badge&logo=github)](https://github.com/clinfo/SBMolGen)  
 	[![Last Commit](https://img.shields.io/github/last-commit/clinfo/SBMolGen?style=for-the-badge&logo=github)](https://github.com/clinfo/SBMolGen)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:36-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00679)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:38-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00679)  
 - **SECSE**:   
 	[![Code](https://img.shields.io/github/stars/KeenThera/SECSE?style=for-the-badge&logo=github)](https://github.com/KeenThera/SECSE)  
 	[![Last Commit](https://img.shields.io/github/last-commit/KeenThera/SECSE?style=for-the-badge&logo=github)](https://github.com/KeenThera/SECSE)  
@@ -162,7 +166,7 @@ icon: material/target
 - **DockStream**:   
 	[![Code](https://img.shields.io/github/stars/MolecularAI/DockStream?style=for-the-badge&logo=github)](https://github.com/MolecularAI/DockStream)  
 	[![Last Commit](https://img.shields.io/github/last-commit/MolecularAI/DockStream?style=for-the-badge&logo=github)](https://github.com/MolecularAI/DockStream)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00563-7)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:32-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00563-7)  
 
 ## **Dual-target**
 - **Alx-Fuse**:   
@@ -199,11 +203,16 @@ icon: material/target
 	[![Last Commit](https://img.shields.io/github/last-commit/oxpig/DEVELOP?style=for-the-badge&logo=github)](https://github.com/oxpig/DEVELOP/tree/main)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2021.04.27.441676v1.full)  
 
+## **Physics-based generation**
+- **SPOTLIGHT**:   
+	[![Code](https://img.shields.io/github/stars/arnabpune/SPOTLIGHT?style=for-the-badge&logo=github)](https://github.com/arnabpune/SPOTLIGHT)  
+	[![Last Commit](https://img.shields.io/github/last-commit/arnabpune/SPOTLIGHT?style=for-the-badge&logo=github)](https://github.com/arnabpune/SPOTLIGHT)  
+
 ## **Protein-ligand interactions**
 - **DeepICL**: 3D molecular generative framework for interaction-guided drug design  
 	[![Code](https://img.shields.io/github/stars/ACE-KAIST/DeepICL?style=for-the-badge&logo=github)](https://github.com/ACE-KAIST/DeepICL)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ACE-KAIST/DeepICL?style=for-the-badge&logo=github)](https://github.com/ACE-KAIST/DeepICL)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-47011-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-47011-2)  
 - **DrugGPS**: Focuses on learning subpocket prototypes for generalizable structure-based drug design, introduced at ICML 2023.  
 	[![Code](https://img.shields.io/github/stars/zaixizhang/DrugGPS_ICML23?style=for-the-badge&logo=github)](https://github.com/zaixizhang/DrugGPS_ICML23)  
 	[![Last Commit](https://img.shields.io/github/last-commit/zaixizhang/DrugGPS_ICML23?style=for-the-badge&logo=github)](https://github.com/zaixizhang/DrugGPS_ICML23)  
@@ -227,13 +236,13 @@ icon: material/target
 - **Docking-based generative approaches in the search for new drug candidates [2022]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.drudis.2022.103439)  
 - **Generative Deep Learning for Targeted Compound Design [2021]**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:71-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01496)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:72-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01496)  
 
 ## **Scaffold Hopping**
 - **DeepHop**:   
 	[![Code](https://img.shields.io/github/stars/prokia/deepHops?style=for-the-badge&logo=github)](https://github.com/prokia/deepHops)  
 	[![Last Commit](https://img.shields.io/github/last-commit/prokia/deepHops?style=for-the-badge&logo=github)](https://github.com/prokia/deepHops)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:28-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00565-5)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00565-5)  
 
 ## **Sequence-based**
 - **Bajorath_Gen**:   

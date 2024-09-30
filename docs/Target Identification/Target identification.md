@@ -5,7 +5,7 @@ icon: material/target
 
 ## **Druggability Prediction**
 - **DrugnomeAI**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42003-022-04245-4)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:11-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42003-022-04245-4)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://drugnomeai.public.cgr.astrazeneca.com/)  
 
 ## **Target prediction models**

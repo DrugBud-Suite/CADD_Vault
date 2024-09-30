@@ -19,7 +19,7 @@ icon: material/ocr
 - **Img2Mol**: accurate SMILES recognition from molecular graphical depictions (image to smiles) (standalone)  
 	[![Code](https://img.shields.io/github/stars/bayer-science-for-a-better-life/Img2Mol?style=for-the-badge&logo=github)](https://github.com/bayer-science-for-a-better-life/Img2Mol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/bayer-science-for-a-better-life/Img2Mol?style=for-the-badge&logo=github)](https://github.com/bayer-science-for-a-better-life/Img2Mol)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:41-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D1SC01839F)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:43-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D1SC01839F)  
 - **SwinOCSR**: end-to-end optical chemical structure recognition using a Swin Transformer (standalone)  
 	[![Code](https://img.shields.io/github/stars/amine179/DrugDesign?style=for-the-badge&logo=github)](https://github.com/amine179/DrugDesign)  
 	[![Last Commit](https://img.shields.io/github/last-commit/amine179/DrugDesign?style=for-the-badge&logo=github)](https://github.com/amine179/DrugDesign)  

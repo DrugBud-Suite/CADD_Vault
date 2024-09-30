@@ -10,4 +10,4 @@ icon: material/database-plus
 - **MolFinder**: an evolutionary algorithm for the global optimization of molecular properties and the extensive exploration of chemical space using SMILES (standalone)  
 	[![Code](https://img.shields.io/github/stars/duaibeom/MolFinder?style=for-the-badge&logo=github)](https://github.com/duaibeom/MolFinder)  
 	[![Last Commit](https://img.shields.io/github/last-commit/duaibeom/MolFinder?style=for-the-badge&logo=github)](https://github.com/duaibeom/MolFinder)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:35-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00501-7)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:36-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00501-7)  

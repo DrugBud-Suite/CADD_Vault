@@ -25,4 +25,4 @@ icon: material/school
 - **TeachOpenCADD**: a teaching platform offering tutorials on central topics in cheminformatics and structural bioinformatics.  
 	[![Code](https://img.shields.io/github/stars/volkamerlab/TeachOpenCADD?style=for-the-badge&logo=github)](https://github.com/volkamerlab/TeachOpenCADD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/volkamerlab/TeachOpenCADD?style=for-the-badge&logo=github)](https://github.com/volkamerlab/TeachOpenCADD)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:38-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0351-x)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:39-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0351-x)  

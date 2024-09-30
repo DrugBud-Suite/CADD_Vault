@@ -16,10 +16,10 @@ icon: material/pickaxe
 - **Papyrus**: Collection of scripts to interact with the Papyrus bioactivity dataset.  
 	[![Code](https://img.shields.io/github/stars/OlivierBeq/Papyrus-scripts?style=for-the-badge&logo=github)](https://github.com/OlivierBeq/Papyrus-scripts?tab=readme-ov-file)  
 	[![Last Commit](https://img.shields.io/github/last-commit/OlivierBeq/Papyrus-scripts?style=for-the-badge&logo=github)](https://github.com/OlivierBeq/Papyrus-scripts?tab=readme-ov-file)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00672-x)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00672-x)  
 
 ## **Protein-ligand interaction**
 - **CPIExtract**:   
 	[![Code](https://img.shields.io/github/stars/menicgiulia/CPIExtract?style=for-the-badge&logo=github)](https://github.com/menicgiulia/CPIExtract)  
 	[![Last Commit](https://img.shields.io/github/last-commit/menicgiulia/CPIExtract?style=for-the-badge&logo=github)](https://github.com/menicgiulia/CPIExtract)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.07.03.601957)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.07.03.601957)  
