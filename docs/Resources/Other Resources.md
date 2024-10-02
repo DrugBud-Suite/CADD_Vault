@@ -17,6 +17,9 @@ icon: material/book
 - **awesome-AI4MolConformation-MD**:   
 	[![Code](https://img.shields.io/github/stars/AspirinCode/awesome-AI4MolConformation-MD?style=for-the-badge&logo=github)](https://github.com/AspirinCode/awesome-AI4MolConformation-MD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/AspirinCode/awesome-AI4MolConformation-MD?style=for-the-badge&logo=github)](https://github.com/AspirinCode/awesome-AI4MolConformation-MD)  
+- **awesome-pipeline**:   
+	[![Code](https://img.shields.io/github/stars/pditommaso/awesome-pipeline?style=for-the-badge&logo=github)](https://github.com/pditommaso/awesome-pipeline)  
+	[![Last Commit](https://img.shields.io/github/last-commit/pditommaso/awesome-pipeline?style=for-the-badge&logo=github)](https://github.com/pditommaso/awesome-pipeline)  
 - **comp_chem_colab**:   
 	[![Code](https://img.shields.io/github/stars/yboulaamane/comp_chem_colab?style=for-the-badge&logo=github)](https://github.com/yboulaamane/comp_chem_colab)  
 	[![Last Commit](https://img.shields.io/github/last-commit/yboulaamane/comp_chem_colab?style=for-the-badge&logo=github)](https://github.com/yboulaamane/comp_chem_colab)  

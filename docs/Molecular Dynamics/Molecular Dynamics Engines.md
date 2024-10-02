@@ -3,7 +3,7 @@ icon: material/engine
 ---
 
 - **AMBER**: suite of biomolecular simulation programs (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:263-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01153)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:270-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01153)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://ambermd.org/)  
 - **CHARMM**: Chemistry at HARvard Macromolecular Mechanics (standalone)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:7010-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21287)  
@@ -24,7 +24,7 @@ icon: material/engine
 	[![Publication](https://img.shields.io/badge/Publication-Citations:343-blue?style=for-the-badge&logo=bookstack)](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00049)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.htmd.org/)  
 - **LAMMPS**: Molecular Dynamics Simulator and much more  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4588-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2021.108171)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4614-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2021.108171)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.lammps.org/)  
 - **NAMD**: NAMD is a parallel molecular dynamics code for high-performance simulation of large biomolecular systems, recognized for its scalability and efficiency.  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.ks.uiuc.edu/Research/namd/)  
@@ -81,7 +81,7 @@ icon: material/engine
 	[![Last Commit](https://img.shields.io/github/last-commit/DeepDriveMD/DeepDriveMD-pipeline?style=for-the-badge&logo=github)](https://github.com/DeepDriveMD/DeepDriveMD-pipeline)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://deepdrivemd.github.io/)  
 - **Medbi et al.**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:25-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1146/annurev-physchem-083122-125941)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:26-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1146/annurev-physchem-083122-125941)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.annualreviews.org/doi/pdf/10.1146/annurev-physchem-083122-125941)  
 - **MLCGMD**: Simulate Time-integrated Coarse-grained Molecular Dynamics with Multi-scale Graph Networks  
 	[![Code](https://img.shields.io/github/stars/kyonofx/mlcgmd?style=for-the-badge&logo=github)](https://github.com/kyonofx/mlcgmd)  
@@ -95,7 +95,7 @@ icon: material/engine
 - **torchmd**:   
 	[![Code](https://img.shields.io/github/stars/torchmd/torchmd?style=for-the-badge&logo=github)](https://github.com/torchmd/torchmd)  
 	[![Last Commit](https://img.shields.io/github/last-commit/torchmd/torchmd?style=for-the-badge&logo=github)](https://github.com/torchmd/torchmd)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:126-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.0c01343)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:127-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.0c01343)  
 
 ## **Water**
 - **PyRod**: PyRod is a Python software for generating dynamic molecular interaction fields and pharmacophore features based on the protein environment of water molecules in molecular dynamics simulations.  

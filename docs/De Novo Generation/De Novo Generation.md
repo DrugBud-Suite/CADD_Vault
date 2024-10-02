@@ -5,7 +5,7 @@ icon: material/new-box
 - **Acegen-Open**: TorchRL-based toolkit for reinforcement learning in generative chemistry  
 	[![Code](https://img.shields.io/github/stars/acellera/acegen-open?style=for-the-badge&logo=github)](https://github.com/acellera/acegen-open)  
 	[![Last Commit](https://img.shields.io/github/last-commit/acellera/acegen-open?style=for-the-badge&logo=github)](https://github.com/acellera/acegen-open)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00646-z)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00646-z)  
 - **ChemTSv2**: An extended version of ChemTS, focusing on functional molecular design using de novo molecule generators, incorporating improvements for LogP maximization tasks and other molecular design objectives.  
 	[![Code](https://img.shields.io/github/stars/molecule-generator-collection/ChemTSv2?style=for-the-badge&logo=github)](https://github.com/molecule-generator-collection/ChemTSv2)  
 	[![Last Commit](https://img.shields.io/github/last-commit/molecule-generator-collection/ChemTSv2?style=for-the-badge&logo=github)](https://github.com/molecule-generator-collection/ChemTSv2)  
@@ -51,7 +51,7 @@ icon: material/new-box
 - **GENTRL (Generative Tensorial Reinforcement Learning)**: A variational autoencoder with a rich prior distribution of the latent space, trained to find molecules with high reward, emphasizing the relations between molecular structures and their properties.  
 	[![Code](https://img.shields.io/github/stars/insilicomedicine/GENTRL?style=for-the-badge&logo=github)](https://github.com/insilicomedicine/GENTRL)  
 	[![Last Commit](https://img.shields.io/github/last-commit/insilicomedicine/GENTRL?style=for-the-badge&logo=github)](https://github.com/insilicomedicine/GENTRL)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:735-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41587-019-0224-x)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:736-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41587-019-0224-x)  
 - **GenUI**: Offers API and GUI for molecular generators, QSAR modelling, and chemical space visualization.  
 	[![Code](https://img.shields.io/github/stars/martin-sicho/genui?style=for-the-badge&logo=github)](https://github.com/martin-sicho/genui)  
 	[![Last Commit](https://img.shields.io/github/last-commit/martin-sicho/genui?style=for-the-badge&logo=github)](https://github.com/martin-sicho/genui)  
@@ -154,15 +154,15 @@ icon: material/new-box
 	[![Code](https://img.shields.io/github/stars/CSUBioGroup/PGMG?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/PGMG)  
 	[![Last Commit](https://img.shields.io/github/last-commit/CSUBioGroup/PGMG?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/PGMG)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41467-023-41454-9)  
-	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.csuligroup.com/PGMG/)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.csuligroup.com/PGMG/)  
 - **Pytorch_VAE**: This repository provides a PyTorch implementation of the paper "Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules" by Gómez-Bombarelli, et al., focusing on a variational autoencoder for molecular design using the ChEMBL dataset.  
 	[![Code](https://img.shields.io/github/stars/Ishan-Kumar2/Molecular_VAE_Pytorch?style=for-the-badge&logo=github)](https://github.com/Ishan-Kumar2/Molecular_VAE_Pytorch)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Ishan-Kumar2/Molecular_VAE_Pytorch?style=for-the-badge&logo=github)](https://github.com/Ishan-Kumar2/Molecular_VAE_Pytorch)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1867-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.7b00572)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1868-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.7b00572)  
 - **QADD**: QADD is a novel de novo multi-objective quality assessment-based drug design approach that integrates an iterative refinement framework with a graph-based molecular quality assessment model to generate molecules with multiple desired properties.  
 	[![Code](https://img.shields.io/github/stars/yifang000/QADD?style=for-the-badge&logo=github)](https://github.com/yifang000/QADD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/yifang000/QADD?style=for-the-badge&logo=github)](https://github.com/yifang000/QADD)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btad157)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btad157)  
 - **REINVENT 4**: A molecular design tool for various design tasks like de novo design, scaffold hopping, and molecule optimization, using a reinforcement learning algorithm.  
 	[![Code](https://img.shields.io/github/stars/MolecularAI/REINVENT4?style=for-the-badge&logo=github)](https://github.com/MolecularAI/REINVENT4)  
 	[![Last Commit](https://img.shields.io/github/last-commit/MolecularAI/REINVENT4?style=for-the-badge&logo=github)](https://github.com/MolecularAI/REINVENT4)  
@@ -174,7 +174,7 @@ icon: material/new-box
 - **ReLeaSE**: Utilizes deep reinforcement learning for de novo drug design.  
 	[![Code](https://img.shields.io/github/stars/isayev/ReLeaSE?style=for-the-badge&logo=github)](https://github.com/isayev/ReLeaSE)  
 	[![Last Commit](https://img.shields.io/github/last-commit/isayev/ReLeaSE?style=for-the-badge&logo=github)](https://github.com/isayev/ReLeaSE)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:783-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/sciadv.aap7885)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:784-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/sciadv.aap7885)  
 - **RL-GraphInvent**: An extension using reinforcement learning for targeted molecular generation.  
 	[![Code](https://img.shields.io/github/stars/olsson-group/RL-GraphINVENT?style=for-the-badge&logo=github)](https://github.com/olsson-group/RL-GraphINVENT)  
 	[![Last Commit](https://img.shields.io/github/last-commit/olsson-group/RL-GraphINVENT?style=for-the-badge&logo=github)](https://github.com/olsson-group/RL-GraphINVENT)  
@@ -251,7 +251,7 @@ icon: material/new-box
 - **bio-diffusion**: Geometry-Complete Diffusion for 3D Molecule Generation and Optimization  
 	[![Code](https://img.shields.io/github/stars/BioinfoMachineLearning/bio-diffusion?style=for-the-badge&logo=github)](https://github.com/BioinfoMachineLearning/bio-diffusion)  
 	[![Last Commit](https://img.shields.io/github/last-commit/BioinfoMachineLearning/bio-diffusion?style=for-the-badge&logo=github)](https://github.com/BioinfoMachineLearning/bio-diffusion)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42004-024-01233-z)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42004-024-01233-z)  
 - **Washburn et al.**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2406.08511)  
 

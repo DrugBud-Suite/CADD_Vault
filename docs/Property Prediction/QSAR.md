@@ -5,7 +5,7 @@ icon: material/tune-vertical
 
 ## **Model Building And Training**
 - **ChemSAR**: full workflow of building a Structure‑Activity/Property Relationship(SAR/SPR) model (online)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://chemsar.scbdd.com/)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://chemsar.scbdd.com/)  
 - **FL-QSAR**: an horizontal federated-learning based QSAR platform  
 	[![Code](https://img.shields.io/github/stars/bm2-lab/FL-QSAR?style=for-the-badge&logo=github)](https://github.com/bm2-lab/FL-QSAR)  
 	[![Last Commit](https://img.shields.io/github/last-commit/bm2-lab/FL-QSAR?style=for-the-badge&logo=github)](https://github.com/bm2-lab/FL-QSAR)  
@@ -35,7 +35,7 @@ icon: material/tune-vertical
 - **CPSign**: Open Source Software tool for QSAR modeling using conformal and probabilistic prediction  
 	[![Code](https://img.shields.io/github/stars/arosbio/cpsign?style=for-the-badge&logo=github)](https://github.com/arosbio/cpsign)  
 	[![Last Commit](https://img.shields.io/github/last-commit/arosbio/cpsign?style=for-the-badge&logo=github)](https://github.com/arosbio/cpsign)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00870-9)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00870-9)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://cpsign.readthedocs.io/en/latest/index.html)  
 - **TopoReg_QSAR**: TR provides predictive performance that competes with deep-learning methods  
 	[![Code](https://img.shields.io/github/stars/Ribosome25/TopoReg_QSAR?style=for-the-badge&logo=github)](https://github.com/Ribosome25/TopoReg_QSAR)  

@@ -38,7 +38,7 @@ icon: material/filter-variant
 - **WHALES**: WHALES provides a virtual screening pipeline focusing on scaffold hopping and ligand-based drug discovery through a Jupyter notebook example.  
 	[![Code](https://img.shields.io/github/stars/grisoniFr/scaffold_hopping_whales?style=for-the-badge&logo=github)](https://github.com/grisoniFr/scaffold_hopping_whales/blob/master/code/virtual_screening_pipeline.ipynb)  
 	[![Last Commit](https://img.shields.io/github/last-commit/grisoniFr/scaffold_hopping_whales?style=for-the-badge&logo=github)](https://github.com/grisoniFr/scaffold_hopping_whales/blob/master/code/virtual_screening_pipeline.ipynb)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:26-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41598-018-34677-0)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:27-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41598-018-34677-0)  
 
 ## **3D**
 - **ROSHAMBO**: Open-Source Molecular Alignment and 3D Similarity Scoring  

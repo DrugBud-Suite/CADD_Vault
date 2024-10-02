@@ -45,7 +45,7 @@ icon: material/target
 - **PETrans**:   
 	[![Code](https://img.shields.io/github/stars/Chinafor/PETrans?style=for-the-badge&logo=github)](https://github.com/Chinafor/PETrans)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Chinafor/PETrans?style=for-the-badge&logo=github)](https://github.com/Chinafor/PETrans)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/ijms24021146)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:14-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/ijms24021146)  
 - **Pocket2Mol**: Uses equivariant graph neural networks for efficient molecular sampling based on 3D protein pockets.  
 	[![Code](https://img.shields.io/github/stars/pengxingang/Pocket2Mol?style=for-the-badge&logo=github)](https://github.com/pengxingang/Pocket2Mol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/pengxingang/Pocket2Mol?style=for-the-badge&logo=github)](https://github.com/pengxingang/Pocket2Mol)  
@@ -146,11 +146,11 @@ icon: material/target
 - **PMDM**: dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets  
 	[![Code](https://img.shields.io/github/stars/Layne-Huang/PMDM?style=for-the-badge&logo=github)](https://github.com/Layne-Huang/PMDM/tree/main)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Layne-Huang/PMDM?style=for-the-badge&logo=github)](https://github.com/Layne-Huang/PMDM/tree/main)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-46569-1)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-46569-1)  
 - **PocketOptimizer 2.0**: Design of small molecule‐binding pockets in proteins (standalone)  
 	[![Code](https://img.shields.io/github/stars/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:7455-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:7469-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
 - **RGA**: A reinforcement learning-based genetic algorithm for structure-based drug design, introduced at NeurIPS 2022.  
 	[![Code](https://img.shields.io/github/stars/futianfan/reinforced-genetic-algorithm?style=for-the-badge&logo=github)](https://github.com/futianfan/reinforced-genetic-algorithm)  
 	[![Last Commit](https://img.shields.io/github/last-commit/futianfan/reinforced-genetic-algorithm?style=for-the-badge&logo=github)](https://github.com/futianfan/reinforced-genetic-algorithm)  

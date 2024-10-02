@@ -24,7 +24,7 @@ The [CADD Vault](https://drugbud-suite.github.io/CADD_Vault/) includes resources
 - Datasets for Drug Design
 
 Number of publications: 964  
-Number of code repositories: 818  
+Number of code repositories: 835  
 Number of webserver links: 122  
   
   

@@ -62,7 +62,7 @@ icon: fontawesome/solid/gears
 - **DockQ**: DockQ is now also able to score interfaces between proteins, nucleic acids, and small molecules.  
 	[![Code](https://img.shields.io/github/stars/bjornwallner/DockQ?style=for-the-badge&logo=github)](https://github.com/bjornwallner/DockQ/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/bjornwallner/DockQ?style=for-the-badge&logo=github)](https://github.com/bjornwallner/DockQ/)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:250-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0161879)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:251-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0161879)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://wallnerlab.org/DockQ)  
 - **PECAN**: Implements convolutional neural network approaches for improving virtual high-throughput screening, using 3D atomic representation as input data.  
 	[![Code](https://img.shields.io/github/stars/LLNL/PECAN2?style=for-the-badge&logo=github)](https://github.com/LLNL/PECAN2)  

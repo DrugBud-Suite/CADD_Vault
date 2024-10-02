@@ -5,11 +5,11 @@ icon: material/sprout
 - **BIOFACQUIM**: novel compounds databse with natural products isolated and charcterized in Mexico (online)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.difacquim.com/d-tools/)  
 - **COCONUT**: COCONUT hosts one of the largest and best annotated natural product databases, freely available and undergoing continuous curation and improvement.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:282-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186%2Fs13321-020-00478-9)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:284-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186%2Fs13321-020-00478-9)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://coconut.naturalproducts.net/)  
 - **HIT 2.0**: an enhanced platform for Herbal Ingredients' Targets (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:254-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkq1165)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://hit2.badd-cao.net/)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:255-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkq1165)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://hit2.badd-cao.net/)  
 - **iSMART**: an integrated cloud computing web server for traditional Chinese medicine for online virtual screening, de novo evolution and drug design (online)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://ismart.cmu.edu.tw/)  
 - **LOTUS**: LOTUS is a significant, well-annotated resource for natural products, offering a user-friendly experience including structural search, taxonomy-oriented queries, and exports.  
@@ -23,7 +23,7 @@ icon: material/sprout
 	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac1069)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://bidd.group/NPASS/)  
 - **npatlas**: The Natural Products Atlas 2.0: A Database of Microbially-Derived Natural Products (online)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.npatlas.org/)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.npatlas.org/)  
 - **Nubbe**: a natural products database from the biodiversity of Brazil (online)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://nubbe.iq.unesp.br/portal/nubbe-search.html)  
 - **PeruNPDB**: the Peruvian Natural Products Database for in silico drug screening (database)  
@@ -32,7 +32,7 @@ icon: material/sprout
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac1008.)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://bioinf-applied.charite.de/supernatural_new/index.php)  
 - **SymMap**: SymMap integrates traditional Chinese medicine with modern medicine through molecular mechanisms and symptom mapping, offering information on herbs, ingredients, targets, symptoms, and diseases.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:282-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00478-9)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:284-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00478-9)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.symmap.org/)  
 - **TCM Database@Taiwan**: the world's largest traditional Chinese medicine database for drug screening in silico (online)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://tcm.cmu.edu.tw/)  

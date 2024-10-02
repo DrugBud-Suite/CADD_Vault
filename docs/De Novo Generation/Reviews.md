@@ -13,13 +13,13 @@ icon: material/message-draw
 - **The Hitchhiker’s Guide to Deep Learning Driven Generative Chemistry [2023]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsmedchemlett.3c00041)  
 - **Generative Models as an Emerging Paradigm in the Chemical Sciences [2023]**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:78-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/jacs.2c13467)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:80-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/jacs.2c13467)  
 - **MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design [2022]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2203.14500)  
 - **Deep generative molecular design reshapes drug discovery [2022]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:63-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.xcrm.2022.100794)  
 - **Generative models for molecular discovery: Recent advances and challenges [2022]**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:110-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/wcms.1608)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:111-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/wcms.1608)  
 - **Assessing Deep Generative Models in Chemical Composition Space [2022]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.chemmater.2c01860)  
 - **Generative machine learning for de novo drug discovery: A systematic review [2022]**:   
@@ -39,8 +39,8 @@ icon: material/message-draw
 - **De novo molecular design and generative models [2021]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:140-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.drudis.2021.05.019)  
 - **Deep learning for molecular design—a review of the state of the art [2019]**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:413-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/C9ME00039A)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:414-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/C9ME00039A)  
 - **Inverse molecular design using machine learning: Generative models for matter engineering [2018]**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1149-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.aat2663)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1151-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.aat2663)  
 - **Machine learning-aided generative molecular design**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-024-00843-5)  

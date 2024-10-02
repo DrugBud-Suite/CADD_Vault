@@ -5,13 +5,13 @@ icon: simple/authelia
 - **Get_Cleft**:   
 	[![Code](https://img.shields.io/github/stars/NRGlab/Get_Cleft?style=for-the-badge&logo=github)](https://github.com/NRGlab/Get_Cleft)  
 	[![Last Commit](https://img.shields.io/github/last-commit/NRGlab/Get_Cleft?style=for-the-badge&logo=github)](https://github.com/NRGlab/Get_Cleft)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://pan.baidu.com/s/1GvFMluZmmga2H7OmfAPSiA)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pan.baidu.com/s/1GvFMluZmmga2H7OmfAPSiA)  
 - **AF2BIND**: AF2BIND utilizes AlphaFold2 for predicting protein-ligand binding sites.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2023.10.15.562410)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://colab.research.google.com/github/sokrypton/af2bind/blob/main/af2bind.ipynb)  
 - **BindWeb**: a web server for ligand binding residue and pocket prediction from protein structures (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.4462)  
-	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://www.csbio.sjtu.edu.cn/bioinf/BindWeb/)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.csbio.sjtu.edu.cn/bioinf/BindWeb/)  
 - **BiteNet**: large-scale detection of protein binding sites (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:48-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42003-020-01350-0)  
 	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://sites.skoltech.ru/imolecule/tools/bitenet)  
@@ -28,7 +28,7 @@ icon: simple/authelia
 	[![Last Commit](https://img.shields.io/github/last-commit/PKUMDL2017/CavityPlus?style=for-the-badge&logo=github)](https://github.com/PKUMDL2017/CavityPlus?tab=readme-ov-file)  
 	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://doi.org/10.1093/nar/gky380http://repharma.pku.edu.cn/cavityplus)  
 - **COACH-D**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:171-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gky439)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:172-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gky439)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://zhanggroup.org/COACH/)  
 - **ConCavity**: prediction from protein sequence and structure (geometry-based) (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:349-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pcbi.1000585)  
@@ -40,7 +40,7 @@ icon: simple/authelia
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://pitools.niper.ac.in/CRAFT)  
 - **CSM-Potential**: mapping protein interactions and biological ligands in 3D space using geometric deep learning (PPI and regular binding sites) (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac381)  
-	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://biosig.unimelb.edu.au/csm_potential)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://biosig.unimelb.edu.au/csm_potential)  
 - **DeepPocket**: Ligand Binding Site Detection and Segmentation using 3D Convolutional Neural Networks (standalone)  
 	[![Code](https://img.shields.io/github/stars/devalab/DeepPocket?style=for-the-badge&logo=github)](https://github.com/devalab/DeepPocket)  
 	[![Last Commit](https://img.shields.io/github/last-commit/devalab/DeepPocket?style=for-the-badge&logo=github)](https://github.com/devalab/DeepPocket)  
@@ -167,10 +167,10 @@ icon: simple/authelia
 	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1111/cbdd.13161)  
 - **AlloReverse**: AlloReverse predicts multi-scale allosteric regulation information based on reversed allosteric communication theory, aiding in drug design and biological mechanism understanding.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkad279)  
-	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://www.allostery.net/AlloReverse/)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.allostery.net/AlloReverse/)  
 - **AlloSite**: allosteric site (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:151-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btt399)  
-	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://mdl.shsmu.edu.cn/AST/)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://mdl.shsmu.edu.cn/AST/)  
 - **APOP**: Predicting Allosteric Pockets in Protein Biological Assemblages (standalone)  
 	[![Code](https://img.shields.io/github/stars/Ambuj-UF/APOP?style=for-the-badge&logo=github)](https://github.com/Ambuj-UF/APOP)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Ambuj-UF/APOP?style=for-the-badge&logo=github)](https://github.com/Ambuj-UF/APOP)  
@@ -226,7 +226,7 @@ icon: simple/authelia
 	[![Code](https://img.shields.io/github/stars/hhz-lab/PinMyMetal?style=for-the-badge&logo=github)](https://github.com/hhz-lab/PinMyMetal.git)  
 	[![Last Commit](https://img.shields.io/github/last-commit/hhz-lab/PinMyMetal?style=for-the-badge&logo=github)](https://github.com/hhz-lab/PinMyMetal.git)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21203/rs.3.rs-3908734/v1)  
-	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://pmm.biocloud.top/)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pmm.biocloud.top/)  
 
 ## **Reviews**
 - **Barton et al.**: Comparative evaluation of methods for the prediction of protein-ligand binding sites  

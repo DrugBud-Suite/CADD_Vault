@@ -70,7 +70,7 @@ icon: fontawesome/solid/vr-cardboard
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://mcule.com/hit-identification/)  
 - **DrugFlow**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00621)  
-	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://drugflow.com/#/)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://drugflow.com/#/)  
 - **SmartCADD**: AI-QM Empowered Drug Discovery Platform with Explainability  
 	[![Code](https://img.shields.io/github/stars/SMU-CATCO/SmartCADD?style=for-the-badge&logo=github)](https://github.com/SMU-CATCO/SmartCADD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/SMU-CATCO/SmartCADD?style=for-the-badge&logo=github)](https://github.com/SMU-CATCO/SmartCADD)  

@@ -26,7 +26,7 @@ icon: fontawesome/brands/creative-commons-sampling
 - **gmx_MMPBSA**: gmx_MMPBSA is a new tool based on AMBER's MMPBSA.py aiming to perform end-state free energy calculations with GROMACS files  
 	[![Code](https://img.shields.io/github/stars/Valdes-Tresanco-MS/gmx_MMPBSA?style=for-the-badge&logo=github)](https://github.com/Valdes-Tresanco-MS/gmx_MMPBSA)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Valdes-Tresanco-MS/gmx_MMPBSA?style=for-the-badge&logo=github)](https://github.com/Valdes-Tresanco-MS/gmx_MMPBSA)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:969-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.1c00645)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:975-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.1c00645)  
 - **Uni-GBSA**: An Automatic Workflow to Perform MM/GB(PB)SA Calculations for Virtual Screening  
 	[![Code](https://img.shields.io/github/stars/dptech-corp/Uni-GBSA?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-GBSA)  
 	[![Last Commit](https://img.shields.io/github/last-commit/dptech-corp/Uni-GBSA?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-GBSA)  

@@ -9,7 +9,7 @@ icon: simple/adobeillustrator
 - **ZairaChem**: Automated ML-based (Q)SAR  
 	[![Code](https://img.shields.io/github/stars/ersilia-os/zaira-chem?style=for-the-badge&logo=github)](https://github.com/ersilia-os/zaira-chem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ersilia-os/zaira-chem?style=for-the-badge&logo=github)](https://github.com/ersilia-os/zaira-chem)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:21-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-023-41512-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:22-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-023-41512-2)  
 - **MolPipeline**:   
 	[![Code](https://img.shields.io/github/stars/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline)  
 	[![Last Commit](https://img.shields.io/github/last-commit/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline)  

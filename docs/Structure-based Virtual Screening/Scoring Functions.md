@@ -15,7 +15,7 @@ icon: material/speedometer
 ## **Electron Density**
 - **ExptGMS**: Experimental Electron Density based Grid Matching Score  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs42004-023-00984-5)  
-	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://exptgms.stonewise.cn/#/create)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://exptgms.stonewise.cn/#/create)  
 
 ## **Empirical**
 - **AA-Score**: An empirical protein-ligand scoring function focusing on amino acid-specific interaction components for improved virtual screening and lead optimization.  
@@ -33,7 +33,7 @@ icon: material/speedometer
 - **Cyscore**: An empirical scoring function for accurate protein-ligand binding affinty prediction (linux command line) (standalone).  
 	[![Code](https://img.shields.io/badge/Code)](http://clab.labshare.cn/software/)
 	[![Publication](https://img.shields.io/badge/Publication-Citations:70-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1471-2105-15-291)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://clab.labshare.cn/software/cyscore.html)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://clab.labshare.cn/software/cyscore.html)  
 
 ## **Hybrid**
 - **SQM-ML**: Hybrid Semiempirical Quantum Chemical - Machine Learning (SQM-ML) scoring function for protein-ligand interactions  
@@ -58,7 +58,7 @@ icon: material/speedometer
 	[![Publication](https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0373-4)  
 - **ITScoreAff**: iterative knowledge-based scoring function for protein-ligand interactions by considering binding affinity information  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jpcb.3c04421)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://huanglab.phys.hust.edu.cn/ITScoreAff/)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://huanglab.phys.hust.edu.cn/ITScoreAff/)  
 - **KORP-PL**: KORP-PL is a novel coarse-grained knowledge-based scoring function for protein-ligand interactions, focusing on the relative orientation of a ligand molecule to a protein residue.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btaa748)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://team.inria.fr/nano-d/software/korp-pl/)  
@@ -228,7 +228,7 @@ icon: material/speedometer
 - **OnionNet-SFCT**: Incorporates a scoring function correction term for improved docking and screening accuracies.  
 	[![Code](https://img.shields.io/github/stars/zhenglz/OnionNet-SFCT?style=for-the-badge&logo=github)](https://github.com/zhenglz/OnionNet-SFCT)  
 	[![Last Commit](https://img.shields.io/github/last-commit/zhenglz/OnionNet-SFCT?style=for-the-badge&logo=github)](https://github.com/zhenglz/OnionNet-SFCT)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:57-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbac051)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:58-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbac051)  
 - **PAMNet**: Official implementation of PAMNet in the paper "A universal framework for accurate and efficient geometric deep learning of molecular systems" accepted by Nature Scientific Reports. PAMNet improves upon MXMNet and achieves high performance in tasks like small molecule property prediction, RNA 3D structure prediction, and protein-ligand binding affinity prediction with both accuracy and efficiency.  
 	[![Code](https://img.shields.io/github/stars/XieResearchGroup/Physics-aware-Multiplex-GNN?style=for-the-badge&logo=github)](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)  
 	[![Last Commit](https://img.shields.io/github/last-commit/XieResearchGroup/Physics-aware-Multiplex-GNN?style=for-the-badge&logo=github)](https://github.com/XieResearchGroup/Physics-aware-Multiplex-GNN)  
@@ -337,7 +337,7 @@ icon: material/speedometer
 - **O-LAP**:   
 	[![Code](https://img.shields.io/github/stars/jvlehtonen/overlap-toolkit?style=for-the-badge&logo=github)](https://github.com/jvlehtonen/overlap-toolkit)  
 	[![Last Commit](https://img.shields.io/github/last-commit/jvlehtonen/overlap-toolkit?style=for-the-badge&logo=github)](https://github.com/jvlehtonen/overlap-toolkit)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00857-6)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00857-6)  
 
 ## **Protein-ligand interaction fingerprints**
 - **ECIFGraph**: Introduces a water network-augmented two-state model for protein-ligand binding affinity prediction, incorporating extended connectivity interaction features and graph transformer operators.  
@@ -362,7 +362,7 @@ icon: material/speedometer
 
 ## **Relative Binding Affinity**
 - **PBCNet**: Webserver for relative binding affinity calculation.  
-	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://pbcnet.alphama.com.cn/index)  
+	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pbcnet.alphama.com.cn/index)  
 
 ## **SF Optimisation**
 - **SANDRES2.0**: Statistical Analysis of Docking Results and Scoring functions  

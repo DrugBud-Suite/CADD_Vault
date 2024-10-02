@@ -4,7 +4,7 @@ icon: material/cog-refresh
 
 - **AIR**: Artificial Intelligence-Based Multi-Objective Optimization Protocol for Protein Structure Refinement (standalone)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/ijms22094408)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://www.csbio.sjtu.edu.cn/bioinf/AIR/)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.csbio.sjtu.edu.cn/bioinf/AIR/)  
 - **DeepRefiner**: high-accuracy protein structure refinement by deep network calibration (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkab361)  
 	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://watson.cse.eng.auburn.edu/DeepRefiner/)  

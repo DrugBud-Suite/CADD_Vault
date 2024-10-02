@@ -5,7 +5,7 @@ icon: material/message-draw
 - **A Systematic Survey in Geometric Deep Learning for Structure-based Drug Design [2023]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2306.11768)  
 - **How will generative AI disrupt data science in drug discovery? [2023]**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:31-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41587-023-01789-6)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:32-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41587-023-01789-6)  
 - **Chemical language models for de novo drug design: Challenges and opportunities [2023]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:31-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.sbi.2023.102527)  
 - **Artificial intelligence in multi-objective drug design [2023]**:   

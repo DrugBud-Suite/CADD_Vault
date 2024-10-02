@@ -8,7 +8,7 @@ icon: material/bench-back
 	[![Publication](https://img.shields.io/badge/Publication-Citations:5-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01211)  
 - **CASF**: CASF offers benchmark packages for the assessment of scoring functions, with versions CASF-2016, CASF-2013, and CASF-2007 available for download upon registration.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:417-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.8b00545)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://www.pdbbind.org.cn/casf.php)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.pdbbind.org.cn/casf.php)  
 - **DEKOIS**: Provides DEKOIS 2.0, a library of benchmark data sets for objective in silico screening.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:67-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci2001549)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://www.pharmchem.uni-tuebingen.de/dekois/)  
