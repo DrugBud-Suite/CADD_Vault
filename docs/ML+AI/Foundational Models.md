@@ -1,5 +1,5 @@
 ---
-icon: mateiral/atom-variant
+icon: material/atom-variant
 ---
 
 

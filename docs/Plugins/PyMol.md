@@ -20,7 +20,7 @@ icon: material/power-plug
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://insilab.org/probis-h2o-md/)  
 - **ProBis plugin**: The ProBis plugin for PyMOL and UCSF Chimera enables users to detect protein binding sites, developed to work on Linux and tested in Windows environments, supporting PyMOL version 1.7.0.0 and UCSF Chimera version 1.11.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:28-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.6b01277)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://insilab.org/probis-plugin/)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://insilab.org/probis-plugin/)  
 
 ## **AI**
 - **ChatMol**: An Agent for Molecular Modeling and Computation Powered by LLMs  
