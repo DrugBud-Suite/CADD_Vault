@@ -4,10 +4,11 @@ icon: material/needle
 
 
 ## **BBB**
+### **nan**
 - **BBB-score**:   
 	[![Code](https://img.shields.io/github/stars/gkxiao/BBB-score?style=for-the-badge&logo=github)](https://github.com/gkxiao/BBB-score)  
 	[![Last Commit](https://img.shields.io/github/last-commit/gkxiao/BBB-score?style=for-the-badge&logo=github)](https://github.com/gkxiao/BBB-score)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:191-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.9b01220)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:196-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.9b01220)  
 
 ## **CYP450**
 - **D-CyPre**: Tool for Accurately Predicting the Site of Metabolism of Human Cytochrome P450 Metabolism  
@@ -19,7 +20,7 @@ icon: material/needle
 - **ADMET_XGBoost**:   
 	[![Code](https://img.shields.io/github/stars/smu-tao-group/ADMET_XGBoost?style=for-the-badge&logo=github)](https://github.com/smu-tao-group/ADMET_XGBoost)  
 	[![Last Commit](https://img.shields.io/github/last-commit/smu-tao-group/ADMET_XGBoost?style=for-the-badge&logo=github)](https://github.com/smu-tao-group/ADMET_XGBoost)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:33-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s00894-022-05373-8)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:35-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s00894-022-05373-8)  
 - **admet-ai**:   
 	[![Code](https://img.shields.io/github/stars/swansonk14/admet_ai?style=for-the-badge&logo=github)](https://github.com/swansonk14/admet_ai)  
 	[![Last Commit](https://img.shields.io/github/last-commit/swansonk14/admet_ai?style=for-the-badge&logo=github)](https://github.com/swansonk14/admet_ai)  
@@ -45,7 +46,7 @@ icon: material/needle
 - **MetaPredictor**: in silico prediction of drug metabolites based on deep language models  
 	[![Code](https://img.shields.io/github/stars/zhukeyun/Meta-Predictor?style=for-the-badge&logo=github)](https://github.com/zhukeyun/Meta-Predictor)  
 	[![Last Commit](https://img.shields.io/github/last-commit/zhukeyun/Meta-Predictor?style=for-the-badge&logo=github)](https://github.com/zhukeyun/Meta-Predictor)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbae374)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbae374)  
 
 ## **PK**
 - **PKSmart**: This work used molecular structural fingerprints, physicochemical properties, and predicted animal PK data as features to model the human PK parameters VDss, CL, t½, fu and MRT for 1,283 unique compounds and developed a webhosted application **[PKSmart](https://pk-predictor.serve.scilifelab.se/)**, the first work that publicly releases PK models on par with industry-standard models.  
@@ -54,7 +55,7 @@ icon: material/needle
 
 ## **Toxicity**
 - **ProTox3**: Webserver for toxicity prediction  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:40-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae303)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:60-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae303)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://tox.charite.de/protox3/)  
 
 ## **hERG**
@@ -68,6 +69,10 @@ icon: material/needle
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://drugdesign.riken.jp/hERGdb/)  
 
 ## **logP**
+- **OWPCP**:   
+	[![Code](https://img.shields.io/github/stars/jmohammadmaleki/OWPCP?style=for-the-badge&logo=github)](https://github.com/jmohammadmaleki/OWPCP.git)  
+	[![Last Commit](https://img.shields.io/github/last-commit/jmohammadmaleki/OWPCP?style=for-the-badge&logo=github)](https://github.com/jmohammadmaleki/OWPCP.git)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2410.18118)  
 - **rescoss_logp_ml**: A repository dedicated to logP prediction using machine learning, offering insights into the solubility and distribution properties of compounds.  
 	[![Code](https://img.shields.io/github/stars/cisert/rescoss_logp_ml?style=for-the-badge&logo=github)](https://github.com/cisert/rescoss_logp_ml)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cisert/rescoss_logp_ml?style=for-the-badge&logo=github)](https://github.com/cisert/rescoss_logp_ml)  

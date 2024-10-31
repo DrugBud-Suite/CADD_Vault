@@ -15,4 +15,4 @@ icon: material/trending-up
 - **Modof**: Molecule Optimization via Fragment-based Generative Models  
 	[![Code](https://img.shields.io/github/stars/ziqi92/Modof?style=for-the-badge&logo=github)](https://github.com/ziqi92/Modof)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ziqi92/Modof?style=for-the-badge&logo=github)](https://github.com/ziqi92/Modof)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:31-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-021-00410-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:32-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-021-00410-2)  

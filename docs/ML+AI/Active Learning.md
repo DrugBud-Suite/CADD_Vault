@@ -2,6 +2,13 @@
 icon: material/school
 ---
 
+
+## **nan**
+### **nan**
+- **ActiveDelta**: predict molecular improvements from the best current training compound to prioritize molecules for training set expansion  
+	[![Code](https://img.shields.io/github/stars/RekerLab/ActiveDelta?style=for-the-badge&logo=github)](https://github.com/RekerLab/ActiveDelta)  
+	[![Last Commit](https://img.shields.io/github/last-commit/RekerLab/ActiveDelta?style=for-the-badge&logo=github)](https://github.com/RekerLab/ActiveDelta)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3762/bjoc.20.185)  
 - **active-learning-drug-discovery**: virtual screening (standalone)  
 	[![Code](https://img.shields.io/github/stars/gitter-lab/active-learning-drug-discovery?style=for-the-badge&logo=github)](https://github.com/gitter-lab/active-learning-drug-discovery)  
 	[![Last Commit](https://img.shields.io/github/last-commit/gitter-lab/active-learning-drug-discovery?style=for-the-badge&logo=github)](https://github.com/gitter-lab/active-learning-drug-discovery)  
@@ -24,11 +31,11 @@ icon: material/school
 - **HASTEN**:   
 	[![Code](https://img.shields.io/github/stars/TuomoKalliokoski/HASTEN?style=for-the-badge&logo=github)](https://github.com/TuomoKalliokoski/HASTEN)  
 	[![Last Commit](https://img.shields.io/github/last-commit/TuomoKalliokoski/HASTEN?style=for-the-badge&logo=github)](https://github.com/TuomoKalliokoski/HASTEN)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/minf.202100089)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/minf.202100089)  
 - **molpal**: Molecular Pool-based Active Learning  
 	[![Code](https://img.shields.io/github/stars/coleygroup/molpal?style=for-the-badge&logo=github)](https://github.com/coleygroup/molpal)  
 	[![Last Commit](https://img.shields.io/github/last-commit/coleygroup/molpal?style=for-the-badge&logo=github)](https://github.com/coleygroup/molpal)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:149-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D0SC06805E)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:159-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D0SC06805E)  
 - **PyRMD2Dock**: Streamlining Large Chemical Library Docking with Artificial Intelligence: the PyRMD2Dock (and PyRMD) (ultralarge screening - 2023) (standalone).  
 	[![Code](https://img.shields.io/github/stars/cosconatilab/PyRMD?style=for-the-badge&logo=github)](https://github.com/cosconatilab/PyRMD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cosconatilab/PyRMD?style=for-the-badge&logo=github)](https://github.com/cosconatilab/PyRMD)  
@@ -37,10 +44,10 @@ icon: material/school
 	[![Code](https://img.shields.io/github/stars/keiserlab/rad?style=for-the-badge&logo=github)](https://github.com/keiserlab/rad)  
 	[![Last Commit](https://img.shields.io/github/last-commit/keiserlab/rad?style=for-the-badge&logo=github)](https://github.com/keiserlab/rad)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=arxiv)](https://doi.org/10.26434/chemrxiv-2024-qsdd1)  
-- **ActiveDelta**: predict molecular improvements from the best current training compound to prioritize molecules for training set expansion  
-	[![Code](https://img.shields.io/github/stars/RekerLab/ActiveDelta?style=for-the-badge&logo=github)](https://github.com/RekerLab/ActiveDelta)  
-	[![Last Commit](https://img.shields.io/github/last-commit/RekerLab/ActiveDelta?style=for-the-badge&logo=github)](https://github.com/RekerLab/ActiveDelta)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3762/bjoc.20.185)  
+- **RAD (Retrieval Augmented Docking)**:   
+	[![Code](https://img.shields.io/github/stars/keiserlab/rad?style=for-the-badge&logo=github)](https://github.com/keiserlab/rad)  
+	[![Last Commit](https://img.shields.io/github/last-commit/keiserlab/rad?style=for-the-badge&logo=github)](https://github.com/keiserlab/rad)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00683)  
 
 ## **Reviews**
 - **Understanding active learning of molecular docking and its applications**:   

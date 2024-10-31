@@ -4,6 +4,7 @@ icon: material/filter-variant
 
 
 ## **2D**
+### **nan**
 - **Chem-Faiss**: Chem-Faiss utilizes vector similarity search from Faiss combined with chemical fingerprinting to build a scalable similarity search architecture for compounds/molecules.  
 	[![Code](https://img.shields.io/github/stars/ritabratamaiti/Chem-Faiss?style=for-the-badge&logo=github)](https://github.com/ritabratamaiti/Chem-Faiss)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ritabratamaiti/Chem-Faiss?style=for-the-badge&logo=github)](https://github.com/ritabratamaiti/Chem-Faiss)  
@@ -41,13 +42,13 @@ icon: material/filter-variant
 	[![Publication](https://img.shields.io/badge/Publication-Citations:27-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41598-018-34677-0)  
 
 ## **3D**
+- **AutoDock-SS**: AutoDock-SS enhances AutoDock for multiconformational and flexible ligand docking, considering various ligand conformations for accurate docking predictions.  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00136)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.semanticscholar.org/paper/AutoDock-SS%3A-AutoDock-for-Multiconformational-Ni-Wang/6a967759d3ab27e076e570238a7f8ce029bfc0e7)  
 - **ROSHAMBO**: Open-Source Molecular Alignment and 3D Similarity Scoring  
 	[![Code](https://img.shields.io/github/stars/molecularinformatics/roshambo?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/roshambo)  
 	[![Last Commit](https://img.shields.io/github/last-commit/molecularinformatics/roshambo?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/roshambo)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=arxiv)](https://doi.org/10.26434/chemrxiv-2024-6wk09)  
-- **AutoDock-SS**: AutoDock-SS enhances AutoDock for multiconformational and flexible ligand docking, considering various ligand conformations for accurate docking predictions.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00136)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.semanticscholar.org/paper/AutoDock-SS%3A-AutoDock-for-Multiconformational-Ni-Wang/6a967759d3ab27e076e570238a7f8ce029bfc0e7)  
 - **SCRdkit**: assesses the 3D similarity between generated molecules and a reference molecule  
 	[![Code](https://img.shields.io/github/stars/oxpig/DEVELOP?style=for-the-badge&logo=github)](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py)  
 	[![Last Commit](https://img.shields.io/github/last-commit/oxpig/DEVELOP?style=for-the-badge&logo=github)](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py)  
@@ -57,7 +58,7 @@ icon: material/filter-variant
 	[![Last Commit](https://img.shields.io/github/last-commit/SENSAAS/sensaas?style=for-the-badge&logo=github)](https://github.com/SENSAAS/sensaas)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/minf.202000081)  
 - **ShaEP**: ShaEP aligns two 3D molecular structures and computes a similarity index, useful for virtual screening and 3D QSAR methods.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:170-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci800315d)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:171-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci800315d)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://users.abo.fi/mivainio/shaep/)  
 
 ## **GPU**
@@ -69,7 +70,7 @@ icon: material/filter-variant
 ## **Hybrid**
 - **LiSiCa**: (Already described above under 2D) Offers both 2D and 3D ligand similarity screening options based on graph-theoretical methods.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:72-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.5b00136)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://insilab.org/lisica/)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://insilab.org/lisica/)  
 
 ## **Precomputed Libraries**
 - **USearch**: USearch facilitates structural similarity searches across billions of molecules in milliseconds, focusing on chemoinformatics applications.  

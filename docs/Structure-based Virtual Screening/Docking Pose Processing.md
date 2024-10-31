@@ -4,10 +4,11 @@ icon: fontawesome/solid/gears
 
 
 ## **Clustering**
+### **nan**
 - **ClusterX**: ClusterX is a deep clustering framework for learning molecular representations of protein-ligand complexes and accurately clustering ligands, designed to assist computational medicinal chemists in making visual decisions.  
 	[![Code](https://img.shields.io/github/stars/ChenSikang/ClusterX?style=for-the-badge&logo=github)](https://github.com/ChenSikang/ClusterX)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ChenSikang/ClusterX?style=for-the-badge&logo=github)](https://github.com/ChenSikang/ClusterX)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbad126)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbad126)  
 
 ## **Interaction Filtering**
 - **BINANA**: BINANA analyzes the geometries of predicted ligand poses to identify molecular interactions that contribute to binding, also featuring a web-browser application for visualizing these interactions.  
@@ -21,6 +22,12 @@ icon: fontawesome/solid/gears
 - **vsFilt**: A Tool to Improve Virtual Screening by Structural Filtration of Docking Poses (detect various types of interactions that are known to be involved in the molecular recognition, including hydrogen and halogen bonds, ionic interactions, hydrophobic contacts, pi-stacking, and cation-pi interactions) (online).  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c00303)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://biokinet.belozersky.msu.ru/vsfilt)  
+
+## **Interaction recovery**
+- **plif_validity**:   
+	[![Code](https://img.shields.io/github/stars/Exscientia/plif_validity?style=for-the-badge&logo=github)](https://github.com/Exscientia/plif_validity)  
+	[![Last Commit](https://img.shields.io/github/last-commit/Exscientia/plif_validity?style=for-the-badge&logo=github)](https://github.com/Exscientia/plif_validity)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2409.20227)  
 
 ## **Ligand Stability**
 - **MDFit**: protein–ligand compatibility, including stability of different ligand-pocket interactions and other useful metrics that enable easy rank-ordering of the ligand library for pocket optimization  
@@ -47,7 +54,13 @@ icon: fontawesome/solid/gears
 - **Energy minimization post-processing used in PoseBusters**:   
 	[![Code](https://img.shields.io/github/stars/maabuu/posebusters_em?style=for-the-badge&logo=github)](https://github.com/maabuu/posebusters_em)  
 	[![Last Commit](https://img.shields.io/github/last-commit/maabuu/posebusters_em?style=for-the-badge&logo=github)](https://github.com/maabuu/posebusters_em)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:44-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d3sc04185a)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:53-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d3sc04185a)  
+- **MMO: Molecular Mechanics in OCaml**:   
+	[![Code](https://img.shields.io/github/stars/UnixJunkie/MMO?style=for-the-badge&logo=github)](https://github.com/UnixJunkie/MMO)  
+	[![Last Commit](https://img.shields.io/github/last-commit/UnixJunkie/MMO?style=for-the-badge&logo=github)](https://github.com/UnixJunkie/MMO)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.27478)  
+- **PyRosettta**:   
+	[![Code](https://img.shields.io/badge/Code)](https://www.pyrosetta.org/)
 - **Vina_pose_Optimization**: optimize positions of ligand polar hydrogens in docking pose  
 	[![Code](https://img.shields.io/github/stars/rongfengzou/vina_pose_optimization?style=for-the-badge&logo=github)](https://github.com/rongfengzou/vina_pose_optimization)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rongfengzou/vina_pose_optimization?style=for-the-badge&logo=github)](https://github.com/rongfengzou/vina_pose_optimization)  
@@ -62,12 +75,16 @@ icon: fontawesome/solid/gears
 - **DockQ**: DockQ is now also able to score interfaces between proteins, nucleic acids, and small molecules.  
 	[![Code](https://img.shields.io/github/stars/bjornwallner/DockQ?style=for-the-badge&logo=github)](https://github.com/bjornwallner/DockQ/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/bjornwallner/DockQ?style=for-the-badge&logo=github)](https://github.com/bjornwallner/DockQ/)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:251-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0161879)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:252-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0161879)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://wallnerlab.org/DockQ)  
 - **PECAN**: Implements convolutional neural network approaches for improving virtual high-throughput screening, using 3D atomic representation as input data.  
 	[![Code](https://img.shields.io/github/stars/LLNL/PECAN2?style=for-the-badge&logo=github)](https://github.com/LLNL/PECAN2)  
 	[![Last Commit](https://img.shields.io/github/last-commit/LLNL/PECAN2?style=for-the-badge&logo=github)](https://github.com/LLNL/PECAN2)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/make6010030)  
+- **PLIF_validity**:   
+	[![Code](https://img.shields.io/github/stars/Exscientia/plif_validity?style=for-the-badge&logo=github)](https://github.com/Exscientia/plif_validity)  
+	[![Last Commit](https://img.shields.io/github/last-commit/Exscientia/plif_validity?style=for-the-badge&logo=github)](https://github.com/Exscientia/plif_validity)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2409.20227)  
 - **PoseBench**: comprehensive benchmark for practical protein-ligand docking  
 	[![Code](https://img.shields.io/github/stars/BioinfoMachineLearning/PoseBench?style=for-the-badge&logo=github)](https://github.com/BioinfoMachineLearning/PoseBench)  
 	[![Last Commit](https://img.shields.io/github/last-commit/BioinfoMachineLearning/PoseBench?style=for-the-badge&logo=github)](https://github.com/BioinfoMachineLearning/PoseBench)  
@@ -75,7 +92,7 @@ icon: fontawesome/solid/gears
 - **PoseBusters**: Plausibility checks for generated molecule poses.  
 	[![Code](https://img.shields.io/github/stars/maabuu/posebusters?style=for-the-badge&logo=github)](https://github.com/maabuu/posebusters)  
 	[![Last Commit](https://img.shields.io/github/last-commit/maabuu/posebusters?style=for-the-badge&logo=github)](https://github.com/maabuu/posebusters)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:44-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3SC04185A)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:53-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3SC04185A)  
 - **PoseCheck**:   
 	[![Code](https://img.shields.io/github/stars/cch1999/posecheck?style=for-the-badge&logo=github)](https://github.com/cch1999/posecheck)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cch1999/posecheck?style=for-the-badge&logo=github)](https://github.com/cch1999/posecheck)  
@@ -89,8 +106,8 @@ icon: fontawesome/solid/gears
 - **rmsd**: Calculate Root-mean-square deviation (RMSD) of Two Molecules Using Rotation  
 	[![Code](https://img.shields.io/github/stars/charnley/rmsd?style=for-the-badge&logo=github)](https://github.com/charnley/rmsd)  
 	[![Last Commit](https://img.shields.io/github/last-commit/charnley/rmsd?style=for-the-badge&logo=github)](https://github.com/charnley/rmsd)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2377-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1107/S0567739476001873)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:2386-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1107/S0567739476001873)  
 - **spyRMSD**: Python tool for symmetry-corrected RMSD calculations.  
 	[![Code](https://img.shields.io/github/stars/RMeli/spyrmsd?style=for-the-badge&logo=github)](https://github.com/RMeli/spyrmsd)  
 	[![Last Commit](https://img.shields.io/github/last-commit/RMeli/spyrmsd?style=for-the-badge&logo=github)](https://github.com/RMeli/spyrmsd)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:42-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00455-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:44-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00455-2)  

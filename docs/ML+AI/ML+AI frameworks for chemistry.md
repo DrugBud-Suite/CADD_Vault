@@ -2,6 +2,9 @@
 icon: simple/adobeillustrator
 ---
 
+
+## **nan**
+### **nan**
 - **AIRS**: AIRS is a collection of open-source software tools, datasets, and benchmarks associated with our paper entitled “Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems”  
 	[![Code](https://img.shields.io/github/stars/divelab/AIRS?style=for-the-badge&logo=github)](https://github.com/divelab/AIRS/tree/main)  
 	[![Last Commit](https://img.shields.io/github/last-commit/divelab/AIRS?style=for-the-badge&logo=github)](https://github.com/divelab/AIRS/tree/main)  
@@ -13,11 +16,11 @@ icon: simple/adobeillustrator
 - **cgcnn**:   
 	[![Code](https://img.shields.io/github/stars/txie-93/cgcnn?style=for-the-badge&logo=github)](https://github.com/txie-93/cgcnn)  
 	[![Last Commit](https://img.shields.io/github/last-commit/txie-93/cgcnn?style=for-the-badge&logo=github)](https://github.com/txie-93/cgcnn)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1296-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1103/PhysRevLett.120.145301)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1347-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1103/PhysRevLett.120.145301)  
 - **chainer-chemistry**:   
 	[![Code](https://img.shields.io/github/stars/chainer/chainer-chemistry?style=for-the-badge&logo=github)](https://github.com/chainer/chainer-chemistry)  
 	[![Last Commit](https://img.shields.io/github/last-commit/chainer/chainer-chemistry?style=for-the-badge&logo=github)](https://github.com/chainer/chainer-chemistry)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/1807.01985)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:5-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-3-030-04221-9_8)  
 - **ChemML**:   
 	[![Code](https://img.shields.io/github/stars/hachmannlab/chemml?style=for-the-badge&logo=github)](https://github.com/hachmannlab/chemml)  
 	[![Last Commit](https://img.shields.io/github/last-commit/hachmannlab/chemml?style=for-the-badge&logo=github)](https://github.com/hachmannlab/chemml)  
@@ -29,7 +32,7 @@ icon: simple/adobeillustrator
 - **chemprop**:   
 	[![Code](https://img.shields.io/github/stars/chemprop/chemprop?style=for-the-badge&logo=github)](https://github.com/chemprop/chemprop)  
 	[![Last Commit](https://img.shields.io/github/last-commit/chemprop/chemprop?style=for-the-badge&logo=github)](https://github.com/chemprop/chemprop)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:928-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b00237)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:947-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b00237)  
 - **DeepChem**:   
 	[![Code](https://img.shields.io/github/stars/deepchem/deepchem?style=for-the-badge&logo=github)](https://github.com/deepchem/deepchem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/deepchem/deepchem?style=for-the-badge&logo=github)](https://github.com/deepchem/deepchem)  
@@ -38,10 +41,26 @@ icon: simple/adobeillustrator
 	[![Code](https://img.shields.io/github/stars/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.05.27.595849)  
+- **DeepMol**:   
+	[![Code](https://img.shields.io/github/stars/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
+	[![Last Commit](https://img.shields.io/github/last-commit/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.05.27.595849)  
+- **DeepMol**: a python-based machine and deep learning framework for drug discovery (standalone)  
+	[![Code](https://img.shields.io/github/stars/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
+	[![Last Commit](https://img.shields.io/github/last-commit/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.05.27.595849)  
+- **DeepMol**:   
+	[![Code](https://img.shields.io/github/stars/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
+	[![Last Commit](https://img.shields.io/github/last-commit/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.05.27.595849)  
 - **DGL-LifeSci**:   
 	[![Code](https://img.shields.io/github/stars/awslabs/dgl-lifesci?style=for-the-badge&logo=github)](https://github.com/awslabs/dgl-lifesci)  
 	[![Last Commit](https://img.shields.io/github/last-commit/awslabs/dgl-lifesci?style=for-the-badge&logo=github)](https://github.com/awslabs/dgl-lifesci)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:99-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.1c04017)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:103-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.1c04017)  
+- **FlexMol**:   
+	[![Code](https://img.shields.io/github/stars/Steven51516/FlexMol?style=for-the-badge&logo=github)](https://github.com/Steven51516/FlexMol)  
+	[![Last Commit](https://img.shields.io/github/last-commit/Steven51516/FlexMol?style=for-the-badge&logo=github)](https://github.com/Steven51516/FlexMol)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2410.15010)  
 - **Minervachem**:   
 	[![Code](https://img.shields.io/github/stars/lanl/minervachem?style=for-the-badge&logo=github)](https://github.com/lanl/minervachem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/lanl/minervachem?style=for-the-badge&logo=github)](https://github.com/lanl/minervachem)  
@@ -54,6 +73,10 @@ icon: simple/adobeillustrator
 	[![Code](https://img.shields.io/github/stars/Exscientia/molflux?style=for-the-badge&logo=github)](https://github.com/Exscientia/molflux)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Exscientia/molflux?style=for-the-badge&logo=github)](https://github.com/Exscientia/molflux)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://exscientia.github.io/molflux/)  
+- **MolPipeline**:   
+	[![Code](https://img.shields.io/github/stars/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline)  
+	[![Last Commit](https://img.shields.io/github/last-commit/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00863)  
 - **MolProphet**: A One-Stop, General Purpose, and AI-Based Platform for the Early Stages of Drug Discovery (needs registration) (online, 2024).  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.molprophet.com/)  
 - **olorenchemengine**:   
@@ -62,7 +85,7 @@ icon: simple/adobeillustrator
 - **OpenChem**:   
 	[![Code](https://img.shields.io/github/stars/Mariewelt/OpenChem?style=for-the-badge&logo=github)](https://github.com/Mariewelt/OpenChem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Mariewelt/OpenChem?style=for-the-badge&logo=github)](https://github.com/Mariewelt/OpenChem)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:49-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c00971)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:51-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c00971)  
 - **pytorch-geometric**:   
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pytorch-geometric.readthedocs.io/en/latest/)  
 - **Scikit-mol**: Scikit-Learn classes for molecular vectorization using RDKit (standalone)  
@@ -78,11 +101,3 @@ icon: simple/adobeillustrator
 	[![Last Commit](https://img.shields.io/github/last-commit/DeepGraphLearning/torchdrug?style=for-the-badge&logo=github)](https://github.com/DeepGraphLearning/torchdrug/)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2202.08320)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://torchdrug.ai/)  
-- **DeepMol**:   
-	[![Code](https://img.shields.io/github/stars/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
-	[![Last Commit](https://img.shields.io/github/last-commit/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.05.27.595849)  
-- **MolPipeline**:   
-	[![Code](https://img.shields.io/github/stars/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline)  
-	[![Last Commit](https://img.shields.io/github/last-commit/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00863)  

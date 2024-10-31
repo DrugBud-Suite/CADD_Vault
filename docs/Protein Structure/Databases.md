@@ -4,6 +4,7 @@ icon: material/database
 
 
 ## **Data Mining**
+### **nan**
 - **Lemon**: a framework for rapidly mining structural information from the Protein Data Bank (standalone)  
 	[![Code](https://img.shields.io/github/stars/chopralab/lemon?style=for-the-badge&logo=github)](https://github.com/chopralab/lemon)  
 	[![Last Commit](https://img.shields.io/github/last-commit/chopralab/lemon?style=for-the-badge&logo=github)](https://github.com/chopralab/lemon)  
@@ -18,11 +19,11 @@ icon: material/database
 	[![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkad1019)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.ebi.ac.uk/emdb/)  
 - **PDB**: The RCSB Protein Data Bank provides access to experimentally determined 3D structures from the PDB archive and computed structure models, offering tools for exploration, visualization, and analysis.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:29595-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/28.1.235)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:29841-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/28.1.235)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.rcsb.org/)  
 - **PDBe**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:38-blue?style=for-the-badge&logo=bookstack)](http://dx.doi.org/10.1093/nar/gkz990)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.ebi.ac.uk/pdbe)  
 - **PDB-redo**: Offers optimized versions of PDB entries through an automated procedure that refines, rebuilds, and validates structural models, combining popular crystallographic software with specially developed tools.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:189-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1107/s0907444911054515)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:190-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1107/s0907444911054515)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pdb-redo.eu/)  

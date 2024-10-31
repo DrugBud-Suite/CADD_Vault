@@ -2,8 +2,9 @@
 icon: material/school
 ---
 
-- **CS231n: Convolutional Neural Networks for Visual Recognition**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://cs231n.github.io/)  
+
+## **nan**
+### **nan**
 - **2040FBDBIC - Chemo-informatics and computational drug design**: The repository contains course materials for "Chemo-informatics and computational drug design" taught at the University of Antwerp, Belgium. It offers an in-depth view into the course, supported by the European Union Recovery and Resilience Facility (RRF).  
 	[![Code](https://img.shields.io/github/stars/UAMCAntwerpen/2040FBDBIC?style=for-the-badge&logo=github)](https://github.com/UAMCAntwerpen/2040FBDBIC)  
 	[![Last Commit](https://img.shields.io/github/last-commit/UAMCAntwerpen/2040FBDBIC?style=for-the-badge&logo=github)](https://github.com/UAMCAntwerpen/2040FBDBIC)  
@@ -18,6 +19,8 @@ icon: material/school
 	[![Last Commit](https://img.shields.io/github/last-commit/Shiska07/Cheminformatics-and-Drug-Discovery?style=for-the-badge&logo=github)](https://github.com/Shiska07/Cheminformatics-and-Drug-Discovery)  
 - **Computer methods**: training, python, molecular modeling (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://education.molssi.org/resources.html#programming)  
+- **CS231n: Convolutional Neural Networks for Visual Recognition**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://cs231n.github.io/)  
 - **Drug Discovery**: This page provides an introduction to drug discovery, including a brief history of medicine development, in-silico technologies, drug discovery processes, rational drug design strategies, and the future aspects of drug discovery.  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.drugdesign.org/chapters/drug-discovery/)  
 - **Learncheminformatics.com**:   

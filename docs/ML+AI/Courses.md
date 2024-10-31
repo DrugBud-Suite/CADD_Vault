@@ -2,12 +2,15 @@
 icon: material/school
 ---
 
-- **CS231n: Convolutional Neural Networks for Visual Recognition**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://cs231n.github.io/)  
+
+## **nan**
+### **nan**
 - **AI4Chemistry**: open courses - training in ML and AI (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://schwallergroup.github.io/ai4chem_course/)  
 - **BigChem**:   
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://bigchem.eu/alllectures)  
+- **CS231n: Convolutional Neural Networks for Visual Recognition**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://cs231n.github.io/)  
 - **Machine Learning**: Deep learning for molecules (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://dmol.pub/index.html)  
 - **Machine Learning**: Backpropagation (standalone)  

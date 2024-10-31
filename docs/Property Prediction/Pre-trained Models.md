@@ -2,6 +2,9 @@
 icon: material/tune-vertical
 ---
 
+
+## **nan**
+### **nan**
 - **pQSAR**: build massively multitask, two-step machine learning models with unprecedented scope, accuracy, and applicability domain  
 	[![Code](https://img.shields.io/github/stars/Novartis/pQSAR?style=for-the-badge&logo=github)](https://github.com/Novartis/pQSAR)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Novartis/pQSAR?style=for-the-badge&logo=github)](https://github.com/Novartis/pQSAR)  
@@ -12,3 +15,9 @@ icon: material/tune-vertical
 	[![Code](https://img.shields.io/github/stars/rinikerlab/DASH-tree?style=for-the-badge&logo=github)](https://github.com/rinikerlab/DASH-tree)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rinikerlab/DASH-tree?style=for-the-badge&logo=github)](https://github.com/rinikerlab/DASH-tree)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1063/5.0218154)  
+
+## **logP**
+- **OWPCP**:   
+	[![Code](https://img.shields.io/github/stars/jmohammadmaleki/OWPCP?style=for-the-badge&logo=github)](https://github.com/jmohammadmaleki/OWPCP.git)  
+	[![Last Commit](https://img.shields.io/github/last-commit/jmohammadmaleki/OWPCP?style=for-the-badge&logo=github)](https://github.com/jmohammadmaleki/OWPCP.git)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2410.18118)  

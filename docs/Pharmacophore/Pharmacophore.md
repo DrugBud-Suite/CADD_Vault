@@ -4,6 +4,7 @@ icon: material/dots-hexagon
 
 
 ## **De Novo Generation**
+### **nan**
 - **PGMG**: PGMG is a pharmacophore-guided deep learning approach for bioactive molecule generation, providing a strategy to generate molecules with structural diversity through the guidance of pharmacophore hypotheses.  
 	[![Code](https://img.shields.io/github/stars/CSUBioGroup/PGMG?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/PGMG)  
 	[![Last Commit](https://img.shields.io/github/last-commit/CSUBioGroup/PGMG?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/PGMG)  
@@ -14,6 +15,10 @@ icon: material/dots-hexagon
 - **Apo2ph4**: Workflow for the Generation of Receptor-based Pharmacophore Models for Virtual Screening (online).  
 	[![Code](https://img.shields.io/github/stars/molinfo-vienna/apo2ph4?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/apo2ph4)  
 	[![Last Commit](https://img.shields.io/github/last-commit/molinfo-vienna/apo2ph4?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/apo2ph4)  
+- **PharmRL**:   
+	[![Code](https://img.shields.io/github/stars/RishalAggarwal/Pharmrl?style=for-the-badge&logo=github)](https://github.com/RishalAggarwal/Pharmrl)  
+	[![Last Commit](https://img.shields.io/github/last-commit/RishalAggarwal/Pharmrl?style=for-the-badge&logo=github)](https://github.com/RishalAggarwal/Pharmrl)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21203/rs.3.rs-5033986/v1)  
 
 ## **From MD Simulations**
 - **DynoPhores**: DynoPhores introduces dynamic pharmacophore modeling of molecular interactions throughout MD simulations, tracking pharmacophore features and their interaction partners over time.  
@@ -23,7 +28,7 @@ icon: material/dots-hexagon
 - **PharMD**: PharMD retrieves pharmacophore models from molecular dynamics (MD) trajectories of protein-ligand complexes, identifies redundant pharmacophores, and performs virtual screening using multiple pharmacophore models.  
 	[![Code](https://img.shields.io/github/stars/ci-lab-cz/pharmd?style=for-the-badge&logo=github)](https://github.com/ci-lab-cz/pharmd)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ci-lab-cz/pharmd?style=for-the-badge&logo=github)](https://github.com/ci-lab-cz/pharmd)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/ijms20235834)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:18-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/ijms20235834)  
 - **Pharmmaker**: Pharmacophore modeling model using outputs of druggability simulations. Uses multiple target conformations dependent on the binding poses of probes where they interact during druggability simulations (standalone and online).  
 	[![Code](https://img.shields.io/github/stars/prody/ProDy?style=for-the-badge&logo=github)](https://github.com/prody/ProDy)  
 	[![Last Commit](https://img.shields.io/github/last-commit/prody/ProDy?style=for-the-badge&logo=github)](https://github.com/prody/ProDy)  
@@ -40,7 +45,7 @@ icon: material/dots-hexagon
 - **Align-it**: Align-it is a tool for aligning molecules according to their pharmacophores, facilitating the comparison and matching of molecular structures based on pharmacophoric features.  
 	[![Code](https://img.shields.io/github/stars/OliverBScott/align-it?style=for-the-badge&logo=github)](https://github.com/OliverBScott/align-it)  
 	[![Last Commit](https://img.shields.io/github/last-commit/OliverBScott/align-it?style=for-the-badge&logo=github)](https://github.com/OliverBScott/align-it)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:100-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.jmgm.2008.04.003)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:102-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.jmgm.2008.04.003)  
 - **apo2ph4**: apo2ph4 offers a versatile workflow for generating receptor-based pharmacophore models for virtual screening, focusing on the identification and utilization of pharmacophoric features derived from protein structures.  
 	[![Code](https://img.shields.io/github/stars/molinfo-vienna/apo2ph4?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/apo2ph4)  
 	[![Last Commit](https://img.shields.io/github/last-commit/molinfo-vienna/apo2ph4?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/apo2ph4)  
@@ -76,9 +81,9 @@ icon: material/dots-hexagon
 - **PheSA**: An Open-Source Tool for Pharmacophore-Enhanced Shape Alignment  
 	[![Code](https://img.shields.io/github/stars/joewah/PheSAExamples?style=for-the-badge&logo=github)](https://github.com/joewah/PheSAExamples)  
 	[![Last Commit](https://img.shields.io/github/last-commit/joewah/PheSAExamples?style=for-the-badge&logo=github)](https://github.com/joewah/PheSAExamples)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00516)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00516)  
 
 ## **Web-Servers**
 - **Pharmit**: Pharmit provides an interactive environment for the identification and visualization of pharmacophore models, enabling virtual screening against millions of compounds. It offers tools for specifying pharmacophores, flexibly searching chemical databases, and viewing results in 3D directly in the web browser.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:233-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkw287)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:239-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkw287)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pharmit.csb.pitt.edu/)  

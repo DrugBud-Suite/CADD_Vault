@@ -2,6 +2,9 @@
 icon: material/molecule
 ---
 
+
+## **nan**
+### **nan**
 - **Chemaxon**: numerous tools for small molecules (standalone).  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.chemaxon.com/)  
 
@@ -57,7 +60,10 @@ icon: material/molecule
 - **ODDT**: Open Drug Discovery Toolkit, toolkit for drug discovery (standalone)  
 	[![Code](https://img.shields.io/github/stars/oddt/oddt?style=for-the-badge&logo=github)](https://github.com/oddt/oddt)  
 	[![Last Commit](https://img.shields.io/github/last-commit/oddt/oddt?style=for-the-badge&logo=github)](https://github.com/oddt/oddt)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:148-blue?style=for-the-badge&logo=bookstack)](https://dx.doi.org/10.1186/s13321-015-0078-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:151-blue?style=for-the-badge&logo=bookstack)](https://dx.doi.org/10.1186/s13321-015-0078-2)  
+- **OpenBabel**: toolkit for drug discovery, file format etc (standalone)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6305-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://openbabel.org/wiki/Main_Page)  
 - **RDKit**:   
 	[![Code](https://img.shields.io/github/stars/rdkit/rdkit?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rdkit/rdkit?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit)  
@@ -66,9 +72,6 @@ icon: material/molecule
 - **rdkit-scripts**: rdkit scripts making life easier (standalone)  
 	[![Code](https://img.shields.io/github/stars/DrrDom/rdkit-scripts?style=for-the-badge&logo=github)](https://github.com/DrrDom/rdkit-scripts)  
 	[![Last Commit](https://img.shields.io/github/last-commit/DrrDom/rdkit-scripts?style=for-the-badge&logo=github)](https://github.com/DrrDom/rdkit-scripts)  
-- **OpenBabel**: toolkit for drug discovery, file format etc (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:6198-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://openbabel.org/wiki/Main_Page)  
 
 ## **QM**
 - **aqme**: AQME, or Automated Quantum Mechanical Environments, facilitates transparent and reproducible quantum chemistry workflows, supporting tasks like conformer generation, QM input file creation, and descriptor generation.  

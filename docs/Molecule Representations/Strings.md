@@ -4,6 +4,7 @@ icon: material/format-text-rotation-none
 
 
 ## **Other Representations**
+### **nan**
 - **selfies**:   
 	[![Code](https://img.shields.io/github/stars/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies)  
 	[![Last Commit](https://img.shields.io/github/last-commit/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies)  
@@ -18,6 +19,10 @@ icon: material/format-text-rotation-none
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://smarts.plus/)  
 
 ## **SMILES-related**
+- **ClearSMILES**: stochastic data augmentation procedure called ClearSMILES, which reduces the vocabulary size needed  
+	[![Code](https://img.shields.io/github/stars/EtienneReboul/ClearSMILES?style=for-the-badge&logo=github)](https://github.com/EtienneReboul/ClearSMILES)  
+	[![Last Commit](https://img.shields.io/github/last-commit/EtienneReboul/ClearSMILES?style=for-the-badge&logo=github)](https://github.com/EtienneReboul/ClearSMILES)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.10.07.617002)  
 - **maxsmi**:   
 	[![Code](https://img.shields.io/github/stars/volkamerlab/maxsmi?style=for-the-badge&logo=github)](https://github.com/volkamerlab/maxsmi)  
 	[![Last Commit](https://img.shields.io/github/last-commit/volkamerlab/maxsmi?style=for-the-badge&logo=github)](https://github.com/volkamerlab/maxsmi)  

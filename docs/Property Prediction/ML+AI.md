@@ -2,6 +2,13 @@
 icon: simple/adobeillustrator
 ---
 
+
+## **nan**
+### **nan**
+- **MolPipeline**:   
+	[![Code](https://img.shields.io/github/stars/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline)  
+	[![Last Commit](https://img.shields.io/github/last-commit/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00863)  
 - **pQSAR**: build massively multitask, two-step machine learning models with unprecedented scope, accuracy, and applicability domain  
 	[![Code](https://img.shields.io/github/stars/Novartis/pQSAR?style=for-the-badge&logo=github)](https://github.com/Novartis/pQSAR)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Novartis/pQSAR?style=for-the-badge&logo=github)](https://github.com/Novartis/pQSAR)  
@@ -10,21 +17,19 @@ icon: simple/adobeillustrator
 	[![Code](https://img.shields.io/github/stars/ersilia-os/zaira-chem?style=for-the-badge&logo=github)](https://github.com/ersilia-os/zaira-chem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ersilia-os/zaira-chem?style=for-the-badge&logo=github)](https://github.com/ersilia-os/zaira-chem)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:22-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-023-41512-2)  
-- **MolPipeline**:   
-	[![Code](https://img.shields.io/github/stars/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline)  
-	[![Last Commit](https://img.shields.io/github/last-commit/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00863)  
+
+## **AI-Augmented R-Group Exploration**
+- **AIR**:   
+	[![Code](https://img.shields.io/github/stars/WIMNZhao/AIR?style=for-the-badge&logo=github)](https://github.com/WIMNZhao/AIR/tree/main)  
+	[![Last Commit](https://img.shields.io/github/last-commit/WIMNZhao/AIR?style=for-the-badge&logo=github)](https://github.com/WIMNZhao/AIR/tree/main)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.09.23.614417)  
 
 ## **CNN**
-- **conv_qsar_fast**: QSAR/QSPR using descriptor-free molecular embedding  
+- **conv_qsar_fast**: QSAR|QSPR using descriptor-free molecular embedding  
 	[![Code](https://img.shields.io/github/stars/connorcoley/conv_qsar_fast?style=for-the-badge&logo=github)](https://github.com/connorcoley/conv_qsar_fast)  
 	[![Last Commit](https://img.shields.io/github/last-commit/connorcoley/conv_qsar_fast?style=for-the-badge&logo=github)](https://github.com/connorcoley/conv_qsar_fast)  
 
 ## **Complete Package**
-- **SPOC**: A tool for calculating spatial and physicochemical descriptors from molecular dynamics simulations.  
-	[![Code](https://img.shields.io/github/stars/WhitestoneYang/spoc?style=for-the-badge&logo=github)](https://github.com/WhitestoneYang/spoc)  
-	[![Last Commit](https://img.shields.io/github/last-commit/WhitestoneYang/spoc?style=for-the-badge&logo=github)](https://github.com/WhitestoneYang/spoc)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/cphc.202200255)  
 - **DeepPurpose**: A Deep Learning Library for Compound and Protein Modeling, DTI, Drug Property, PPI, DDI, Protein Function Prediction  
 	[![Code](https://img.shields.io/github/stars/kexinhuang12345/DeepPurpose?style=for-the-badge&logo=github)](https://github.com/kexinhuang12345/DeepPurpose)  
 	[![Last Commit](https://img.shields.io/github/last-commit/kexinhuang12345/DeepPurpose?style=for-the-badge&logo=github)](https://github.com/kexinhuang12345/DeepPurpose)  
@@ -32,6 +37,10 @@ icon: simple/adobeillustrator
 - **Oloren ChemEngine**: unified API for the development and use of molecular property predictors  
 	[![Code](https://img.shields.io/github/stars/Oloren-AI/olorenchemengine?style=for-the-badge&logo=github)](https://github.com/Oloren-AI/olorenchemengine/tree/master)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Oloren-AI/olorenchemengine?style=for-the-badge&logo=github)](https://github.com/Oloren-AI/olorenchemengine/tree/master)  
+- **SPOC**: A tool for calculating spatial and physicochemical descriptors from molecular dynamics simulations.  
+	[![Code](https://img.shields.io/github/stars/WhitestoneYang/spoc?style=for-the-badge&logo=github)](https://github.com/WhitestoneYang/spoc)  
+	[![Last Commit](https://img.shields.io/github/last-commit/WhitestoneYang/spoc?style=for-the-badge&logo=github)](https://github.com/WhitestoneYang/spoc)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/cphc.202200255)  
 
 ## **DNN**
 - **DeepNeuralNet-QSAR**: For training a multi-task DNN with dense QSAR dataset(s)  
@@ -63,6 +72,10 @@ icon: simple/adobeillustrator
 	[![Code](https://img.shields.io/github/stars/ml-jku/MHNfs?style=for-the-badge&logo=github)](https://github.com/ml-jku/MHNfs?tab=readme-ov-file#setup)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ml-jku/MHNfs?style=for-the-badge&logo=github)](https://github.com/ml-jku/MHNfs?tab=readme-ov-file#setup)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://openreview.net/pdf?id=XrMWUuEevr)  
+- **MolecularGPT**:   
+	[![Code](https://img.shields.io/github/stars/NYUSHCS/MolecularGPT?style=for-the-badge&logo=github)](https://github.com/NYUSHCS/MolecularGPT)  
+	[![Last Commit](https://img.shields.io/github/last-commit/NYUSHCS/MolecularGPT?style=for-the-badge&logo=github)](https://github.com/NYUSHCS/MolecularGPT)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2406.12950)  
 - **MolFesCue**: molecular property prediction in Data-Limited and imbalanced contexts using Few-Shot and contrastive learning  
 	[![Code](https://img.shields.io/github/stars/zhangruochi/MolFeSCue?style=for-the-badge&logo=github)](https://github.com/zhangruochi/MolFeSCue)  
 	[![Last Commit](https://img.shields.io/github/last-commit/zhangruochi/MolFeSCue?style=for-the-badge&logo=github)](https://github.com/zhangruochi/MolFeSCue)  
@@ -70,10 +83,6 @@ icon: simple/adobeillustrator
 	[![Code](https://img.shields.io/github/stars/Bombtsti/PG-DERN?style=for-the-badge&logo=github)](https://github.com/Bombtsti/PG-DERN)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Bombtsti/PG-DERN?style=for-the-badge&logo=github)](https://github.com/Bombtsti/PG-DERN)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2107.07994)  
-- **MolecularGPT**:   
-	[![Code](https://img.shields.io/github/stars/NYUSHCS/MolecularGPT?style=for-the-badge&logo=github)](https://github.com/NYUSHCS/MolecularGPT)  
-	[![Last Commit](https://img.shields.io/github/last-commit/NYUSHCS/MolecularGPT?style=for-the-badge&logo=github)](https://github.com/NYUSHCS/MolecularGPT)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2406.12950)  
 
 ## **GAT**
 - **LGGA**:   
@@ -81,10 +90,6 @@ icon: simple/adobeillustrator
 	[![Last Commit](https://img.shields.io/github/last-commit/songlei101/LGGA?style=for-the-badge&logo=github)](https://github.com/songlei101/LGGA)  
 
 ## **GNN**
-- **MolE**: Molecular representations through redundancy reduction of Embeddings  
-	[![Code](https://img.shields.io/github/stars/rolayoalarcon/MolE?style=for-the-badge&logo=github)](https://github.com/rolayoalarcon/MolE)  
-	[![Last Commit](https://img.shields.io/github/last-commit/rolayoalarcon/MolE?style=for-the-badge&logo=github)](https://github.com/rolayoalarcon/MolE)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.03.11.584456v1)  
 - **CheMixNet**: A mixed DNN architecture that predicts chemical properties using multiple molecular representations.  
 	[![Code](https://img.shields.io/github/stars/NU-CUCIS/CheMixNet?style=for-the-badge&logo=github)](https://github.com/NU-CUCIS/CheMixNet)  
 	[![Last Commit](https://img.shields.io/github/last-commit/NU-CUCIS/CheMixNet?style=for-the-badge&logo=github)](https://github.com/NU-CUCIS/CheMixNet)  
@@ -100,10 +105,18 @@ icon: simple/adobeillustrator
 - **MolCLR**: Molecular Contrastive Learning of Representations via Graph Neural Networks  
 	[![Code](https://img.shields.io/github/stars/yuyangw/MolCLR?style=for-the-badge&logo=github)](https://github.com/yuyangw/MolCLR)  
 	[![Last Commit](https://img.shields.io/github/last-commit/yuyangw/MolCLR?style=for-the-badge&logo=github)](https://github.com/yuyangw/MolCLR)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:294-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-022-00447-x)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:316-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-022-00447-x)  
+- **MolE**: Molecular representations through redundancy reduction of Embeddings  
+	[![Code](https://img.shields.io/github/stars/rolayoalarcon/MolE?style=for-the-badge&logo=github)](https://github.com/rolayoalarcon/MolE)  
+	[![Last Commit](https://img.shields.io/github/last-commit/rolayoalarcon/MolE?style=for-the-badge&logo=github)](https://github.com/rolayoalarcon/MolE)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.03.11.584456v1)  
 - **molgraph**: Offers graph neural networks with TensorFlow and Keras for molecular machine learning, focusing on compatibility and ease of use.  
 	[![Code](https://img.shields.io/github/stars/akensert/molgraph?style=for-the-badge&logo=github)](https://github.com/akensert/molgraph)  
 	[![Last Commit](https://img.shields.io/github/last-commit/akensert/molgraph?style=for-the-badge&logo=github)](https://github.com/akensert/molgraph)  
+- **PA-GNN**:   
+	[![Code](https://img.shields.io/github/stars/tengjieksee/Patch-aggregation-Graph-Neural-Network?style=for-the-badge&logo=github)](https://github.com/tengjieksee/Patch-aggregation-Graph-Neural-Network/tree/main)  
+	[![Last Commit](https://img.shields.io/github/last-commit/tengjieksee/Patch-aggregation-Graph-Neural-Network?style=for-the-badge&logo=github)](https://github.com/tengjieksee/Patch-aggregation-Graph-Neural-Network/tree/main)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.4c00798)  
 
 ## **Graph-Fusion**
 - **MolProp**:   
@@ -118,14 +131,19 @@ icon: simple/adobeillustrator
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00586)  
 
 ## **LLM**
-- **MolPMoFiT**: transfer learning method based on self-supervised pre-training + task-specific fine-tuning for QSPR/QSAR modeling  
-	[![Code](https://img.shields.io/github/stars/XinhaoLi74/MolPMoFiT?style=for-the-badge&logo=github)](https://github.com/XinhaoLi74/MolPMoFiT)  
-	[![Last Commit](https://img.shields.io/github/last-commit/XinhaoLi74/MolPMoFiT?style=for-the-badge&logo=github)](https://github.com/XinhaoLi74/MolPMoFiT)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:81-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00430-x)  
+- **ChemFM**:   
+	[![Code](https://img.shields.io/github/stars/TheLuoFengLab/ChemFM?style=for-the-badge&logo=github)](https://github.com/TheLuoFengLab/ChemFM)  
+	[![Last Commit](https://img.shields.io/github/last-commit/TheLuoFengLab/ChemFM?style=for-the-badge&logo=github)](https://github.com/TheLuoFengLab/ChemFM)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2410.21422)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://huggingface.co/ChemFM)  
 - **MolecularGPT**:   
 	[![Code](https://img.shields.io/github/stars/NYUSHCS/MolecularGPT?style=for-the-badge&logo=github)](https://github.com/NYUSHCS/MolecularGPT)  
 	[![Last Commit](https://img.shields.io/github/last-commit/NYUSHCS/MolecularGPT?style=for-the-badge&logo=github)](https://github.com/NYUSHCS/MolecularGPT)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2406.12950)  
+- **MolPMoFiT**: transfer learning method based on self-supervised pre-training + task-specific fine-tuning for QSPR/QSAR modeling  
+	[![Code](https://img.shields.io/github/stars/XinhaoLi74/MolPMoFiT?style=for-the-badge&logo=github)](https://github.com/XinhaoLi74/MolPMoFiT)  
+	[![Last Commit](https://img.shields.io/github/last-commit/XinhaoLi74/MolPMoFiT?style=for-the-badge&logo=github)](https://github.com/XinhaoLi74/MolPMoFiT)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:81-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00430-x)  
 
 ## **MPGNN**
 - **Graphormer**: deep learning package that allows researchers and developers to train custom models for molecule modeling tasks  
@@ -137,7 +155,7 @@ icon: simple/adobeillustrator
 - **ChemProp**: Features a deep learning approach for molecular property prediction, focusing on scalability and fast uncertainty quantification.  
 	[![Code](https://img.shields.io/github/stars/aamini/chemprop?style=for-the-badge&logo=github)](https://github.com/aamini/chemprop)  
 	[![Last Commit](https://img.shields.io/github/last-commit/aamini/chemprop?style=for-the-badge&logo=github)](https://github.com/aamini/chemprop)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:92-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.1c00546)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:97-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.1c00546)  
 - **GeminiMol**: Incorporates conformational space profile into molecular representation learning, enhancing drug discovery including virtual screening, target identification, and QSAR.  
 	[![Code](https://img.shields.io/github/stars/Wang-Lin-boop/GeminiMol?style=for-the-badge&logo=github)](https://github.com/Wang-Lin-boop/GeminiMol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Wang-Lin-boop/GeminiMol?style=for-the-badge&logo=github)](https://github.com/Wang-Lin-boop/GeminiMol)  
@@ -165,10 +183,6 @@ icon: simple/adobeillustrator
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42004-024-01169-4)  
 
 ## **Transformer**
-- **KnoMol**:   
-	[![Code](https://img.shields.io/github/stars/gaojianl/TransFoxMol?style=for-the-badge&logo=github)](https://github.com/gaojianl/TransFoxMol)  
-	[![Last Commit](https://img.shields.io/github/last-commit/gaojianl/TransFoxMol?style=for-the-badge&logo=github)](https://github.com/gaojianl/TransFoxMol)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c01092)  
 - **ChemBERTa**: BERT-like models applied to chemical SMILES data for drug design, chemical modelling, and property prediction  
 	[![Code](https://img.shields.io/github/stars/seyonechithrananda/bert-loves-chemistry?style=for-the-badge&logo=github)](https://github.com/seyonechithrananda/bert-loves-chemistry)  
 	[![Last Commit](https://img.shields.io/github/last-commit/seyonechithrananda/bert-loves-chemistry?style=for-the-badge&logo=github)](https://github.com/seyonechithrananda/bert-loves-chemistry)  
@@ -176,6 +190,10 @@ icon: simple/adobeillustrator
 - **GPT-MolBERTa**: A text-based molecular property prediction model utilizing a novel approach to represent SMILES molecules.  
 	[![Code](https://img.shields.io/github/stars/Suryanarayanan-Balaji/GPT-MolBERTa?style=for-the-badge&logo=github)](https://github.com/Suryanarayanan-Balaji/GPT-MolBERTa)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Suryanarayanan-Balaji/GPT-MolBERTa?style=for-the-badge&logo=github)](https://github.com/Suryanarayanan-Balaji/GPT-MolBERTa)  
+- **KnoMol**:   
+	[![Code](https://img.shields.io/github/stars/gaojianl/TransFoxMol?style=for-the-badge&logo=github)](https://github.com/gaojianl/TransFoxMol)  
+	[![Last Commit](https://img.shields.io/github/last-commit/gaojianl/TransFoxMol?style=for-the-badge&logo=github)](https://github.com/gaojianl/TransFoxMol)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c01092)  
 - **PointGAT**:   
 	[![Code](https://img.shields.io/github/stars/sevencheung2021/PointGAT?style=for-the-badge&logo=github)](https://github.com/sevencheung2021/PointGAT)  
 	[![Last Commit](https://img.shields.io/github/last-commit/sevencheung2021/PointGAT?style=for-the-badge&logo=github)](https://github.com/sevencheung2021/PointGAT)  

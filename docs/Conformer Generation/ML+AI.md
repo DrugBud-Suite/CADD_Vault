@@ -2,10 +2,13 @@
 icon: simple/adobeillustrator
 ---
 
+
+## **nan**
+### **nan**
 - **Auto3D**: Automatic Generation of the Low-energy 3D Structures with ANI Neural Network Potentials (standalone).  
 	[![Code](https://img.shields.io/github/stars/isayevlab/Auto3D_pkg?style=for-the-badge&logo=github)](https://github.com/isayevlab/Auto3D_pkg)  
 	[![Last Commit](https://img.shields.io/github/last-commit/isayevlab/Auto3D_pkg?style=for-the-badge&logo=github)](https://github.com/isayevlab/Auto3D_pkg)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:26-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c00817)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:28-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c00817)  
 - **ConfGF**: ConfGF, as introduced in ICML 2021, learns gradient fields for molecular conformation generation, featuring an official implementation for their methodology.  
 	[![Code](https://img.shields.io/github/stars/DeepGraphLearning/ConfGF?style=for-the-badge&logo=github)](https://github.com/DeepGraphLearning/ConfGF)  
 	[![Last Commit](https://img.shields.io/github/last-commit/DeepGraphLearning/ConfGF?style=for-the-badge&logo=github)](https://github.com/DeepGraphLearning/ConfGF)  
@@ -20,7 +23,7 @@ icon: simple/adobeillustrator
 - **diffusion-conformer**: Physics-informed generative model for drug-like molecule conformers  
 	[![Code](https://img.shields.io/github/stars/nobiastx/diffusion-conformer?style=for-the-badge&logo=github)](https://github.com/nobiastx/diffusion-conformer)  
 	[![Last Commit](https://img.shields.io/github/last-commit/nobiastx/diffusion-conformer?style=for-the-badge&logo=github)](https://github.com/nobiastx/diffusion-conformer)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01816)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://pubs.acs.org/doi/10.1021/acs.jcim.3c01816)  
 - **DMCG**: DMCG, featured in TMLR2022, is focused on direct molecular conformation generation, supporting both small-scale and large-scale GEOM datasets.  
 	[![Code](https://img.shields.io/github/stars/DirectMolecularConfGen/DMCG?style=for-the-badge&logo=github)](https://github.com/DirectMolecularConfGen/DMCG)  
 	[![Last Commit](https://img.shields.io/github/last-commit/DirectMolecularConfGen/DMCG?style=for-the-badge&logo=github)](https://github.com/DirectMolecularConfGen/DMCG)  

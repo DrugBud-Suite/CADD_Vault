@@ -4,6 +4,7 @@ icon: material/database-edit
 
 
 ## **Functional Groups**
+### **nan**
 - **pyCheckmol**: application for detecting functional groups of a molecule, created using features from the compiled checkmol  
 	[![Code](https://img.shields.io/github/stars/jeffrichardchemistry/pyCheckmol?style=for-the-badge&logo=github)](https://github.com/jeffrichardchemistry/pyCheckmol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/jeffrichardchemistry/pyCheckmol?style=for-the-badge&logo=github)](https://github.com/jeffrichardchemistry/pyCheckmol)  
@@ -24,7 +25,7 @@ icon: material/database-edit
 - **rd_filters**: provides a simple means of applying the functional group filters from the ChEMBL database, as well as a number of property filters from the RDKit, to a set of compounds.  
 	[![Code](https://img.shields.io/github/stars/PatWalters/rd_filters?style=for-the-badge&logo=github)](https://github.com/PatWalters/rd_filters)  
 	[![Last Commit](https://img.shields.io/github/last-commit/PatWalters/rd_filters?style=for-the-badge&logo=github)](https://github.com/PatWalters/rd_filters)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2986-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/jm901137j)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:3023-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/jm901137j)  
 ### **Aggregators**
 - **BADGER**: Detection of Small Colloidal Aggregating Molecules Using the BAD Molecule Filter  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00363)  

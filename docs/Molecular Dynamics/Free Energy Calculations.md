@@ -2,10 +2,13 @@
 icon: material/lightning-bolt
 ---
 
+
+## **nan**
+### **nan**
 - **ABFE_workflow**: Automated Absolute Binding Free Energy Calculation Workflow for Drug Discovery  
 	[![Code](https://img.shields.io/github/stars/bigginlab/ABFE_workflow?style=for-the-badge&logo=github)](https://github.com/bigginlab/ABFE_workflow)  
 	[![Last Commit](https://img.shields.io/github/last-commit/bigginlab/ABFE_workflow?style=for-the-badge&logo=github)](https://github.com/bigginlab/ABFE_workflow)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00343)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00343)  
 
 ## **Benchmarks**
 - **Merck FEP Benchmark**: Benchmark set for relative free energy calculations.  
@@ -22,14 +25,14 @@ icon: material/lightning-bolt
 	[![Code](https://img.shields.io/github/stars/alchemistry/alchemlyb?style=for-the-badge&logo=github)](https://github.com/alchemistry/alchemlyb)  
 	[![Last Commit](https://img.shields.io/github/last-commit/alchemistry/alchemlyb?style=for-the-badge&logo=github)](https://github.com/alchemistry/alchemlyb)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://zenodo.org/badge/latestdoi/68669096)  
+- **BAT**: Binding Affinity Tool (BAT.py) is a python tool for fully automated absolute binding free energy (ABFE) calculations using all-atom Molecular Dynamics (MD)  
+	[![Code](https://img.shields.io/github/stars/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
+	[![Last Commit](https://img.shields.io/github/last-commit/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:65-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-020-80769-1)  
 - **BAT2**:   
 	[![Code](https://img.shields.io/github/stars/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
 	[![Last Commit](https://img.shields.io/github/last-commit/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.4c00205)  
-- **BAT**: Binding Affinity Tool (BAT.py) is a python tool for fully automated absolute binding free energy (ABFE) calculations using all-atom Molecular Dynamics (MD)  
-	[![Code](https://img.shields.io/github/stars/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
-	[![Last Commit](https://img.shields.io/github/last-commit/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:61-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-020-80769-1)  
 - **FEgrow**: An interactive workflow for building user-defined congeneric series of ligands in protein binding pockets for input to free energy calculations.  
 	[![Code](https://img.shields.io/github/stars/cole-group/FEgrow?style=for-the-badge&logo=github)](https://github.com/cole-group/FEgrow)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cole-group/FEgrow?style=for-the-badge&logo=github)](https://github.com/cole-group/FEgrow)  
@@ -55,7 +58,7 @@ icon: material/lightning-bolt
 - **ATM_with_NNPs**: Enhancing Protein-Ligand Binding Affinity Predictions Using Neural Network Potentials  
 	[![Code](https://img.shields.io/github/stars/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs)  
 	[![Last Commit](https://img.shields.io/github/last-commit/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:946-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:958-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q)  
 
 ## **Planning**
 - **HiMap**: High Information Mapper (HiMap), successor of the Lead Optimization Mapper (LOMAP), includes design generation based on statistical optimality for alchemical free energy calculations and optimization of free energy perturbation networks.  
@@ -65,7 +68,7 @@ icon: material/lightning-bolt
 ## **Thermodynamics Ensemble**
 - **DynaFormer**: deep learning model to predict the binding affinities based on dynamic protein-ligand interactions  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/advs.202405404)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://1drv.ms/f/s!Ah9r82oejjV8piQHq_qAieio_86z?e=B1E53d)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://1drv.ms/f/s!Ah9r82oejjV8piQHq_qAieio_86z?e=B1E53d)  
 
 ## **Tools**
 - **Kartograf**: Kartograf is a package focusing on 3D geometry-based atom mappings, useful for generating hybrid topology systems in free energy calculations and other applications.  
