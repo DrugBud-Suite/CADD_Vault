@@ -4,208 +4,250 @@ import shutil
 import requests
 import re
 import yaml
-from multiprocessing import Pool, cpu_count
-from functools import partial
+from concurrent.futures import ThreadPoolExecutor
+from functools import lru_cache
 import logging
-
-# Set up logging
-logging.basicConfig(level=logging.INFO,
-                    format='%(asctime)s - %(levelname)s - %(message)s')
-
-# Get the absolute path to the directory where the script is running
-script_dir = os.path.dirname(os.path.abspath(__file__))
-
-# Set the path to the docs folder, which is at the same level as the scripts folder
-docs_dir = os.path.join(script_dir, '../docs')
-readme = os.path.join(script_dir, '../README.md')
+from pathlib import Path
+from typing import Dict, List, Set, Optional, Tuple
+from dataclasses import dataclass
+from urllib.parse import urlparse
 
 
-# Function to clear the docs directory except for specified files
-def clear_directory_except(docs_path, keep_files):
-    for item in os.listdir(docs_path):
-        item_path = os.path.join(docs_path, item)
-        if item not in keep_files:
-            if os.path.isdir(item_path):
-                shutil.rmtree(item_path)
-            else:
-                os.remove(item_path)
+@dataclass
+class ProcessingConfig:
+    docs_dir: Path
+    readme_path: Path
+    keep_files: Set[str] = frozenset(
+        {'CONTRIBUTING.md', 'index.md', 'LogoV1.png', 'images'})
+    timeout: int = 10
+    max_workers: int = 10
 
 
-# Load the CSV file
-df = pd.read_csv('../processed_cadd_vault_data.csv')
+class UrlValidator:
 
+    def __init__(self, timeout: int):
+        self.timeout = timeout
+        self.session = requests.Session()
 
-def check_url(url):
-    try:
-        response = requests.get(url, timeout=10)  # Timeout after 10 seconds
-        if response.status_code == 200:
-            return "online"
-        else:
+    @lru_cache(maxsize=1000)
+    def check_url(self, url: str) -> str:
+        """Check if a URL is accessible. Results are cached."""
+        try:
+            response = self.session.head(url,
+                                         timeout=self.timeout,
+                                         allow_redirects=True)
+            return "online" if response.status_code == 200 else "offline"
+        except requests.RequestException:
             return "offline"
-    except requests.RequestException:
-        return "offline"
 
 
-def update_md_file(file_path, content, subcategory, subsubcategory, page_icon):
-    # Initialize headers as not written
-    header_written = {
-        'icon': False,
-        'subcategory': False,
-        'subsubcategory': False
-    }
+class GithubUrlProcessor:
 
-    # Check if file exists and set headers as written if it does
-    if os.path.exists(file_path):
-        with open(file_path, 'r', encoding='utf-8') as file:
-            existing_content = file.read()
-            if "---" in existing_content:
-                header_written['icon'] = True
-            if f"## **{subcategory}**" in existing_content:
-                header_written['subcategory'] = True
-            if f"### **{subsubcategory}**" in existing_content:
-                header_written['subsubcategory'] = True
-
-    # Write to file, appending if exists, otherwise create new
-    with open(file_path,
-              'a+' if os.path.exists(file_path) else 'w',
-              encoding='utf-8') as file:
-        if not header_written['icon'] and pd.notna(page_icon):
-            file.write(f"---\nicon: {page_icon}\n---\n\n")
-        if not header_written['subcategory'] and pd.notna(subcategory):
-            file.write(f"\n## **{subcategory}**\n")
-        if not header_written['subsubcategory'] and pd.notna(subsubcategory):
-            file.write(f"### **{subsubcategory}**\n")
-        file.write(content)
+    @staticmethod
+    def clean_url(url: str) -> Optional[str]:
+        """Clean and validate GitHub URLs."""
+        url = url.replace('.git', '')
+        match = re.match(r'https://github\.com/([^/]+)/([^/?#]+)', url)
+        return f"{match.group(1)}/{match.group(2)}" if match else None
 
 
-def process_folder(folder_group, docs_dir):
-    folder, group = folder_group
-    folder_path = os.path.join(docs_dir, folder)
+class BadgeGenerator:
 
-    if not os.path.exists(folder_path):
-        os.makedirs(folder_path)
+    @staticmethod
+    def github_badges(repo_path: str, url: str) -> str:
+        """Generate GitHub-specific badges."""
+        return (
+            f"\t[![Code](https://img.shields.io/github/stars/{repo_path}?"
+            f"style=for-the-badge&logo=github)]({url})  \n"
+            f"\t[![Last Commit](https://img.shields.io/github/last-commit/{repo_path}?"
+            f"style=for-the-badge&logo=github)]({url})  \n")
 
-    for _, row in group.iterrows():
-        file_name = str(row['CATEGORY1']) + '.md'
-        file_path = os.path.join(folder_path, file_name)
+    @staticmethod
+    def publication_badge(url: str, citations: str) -> str:
+        """Generate publication badge."""
+        logo = 'arxiv' if 'rxiv' in url else 'bookstack'
+        return (
+            f"\t[![Publication](https://img.shields.io/badge/Publication-"
+            f"Citations:{citations}-blue?style=for-the-badge&logo={logo})]({url})  \n"
+        )
 
-        entry_content = f"- **{row['ENTRY NAME']}**: {row['DESCRIPTION'] if pd.notna(row['DESCRIPTION']) else ''}  \n"
+    @staticmethod
+    def status_badge(url: str, status: str, badge_type: str) -> str:
+        """Generate status badge for webserver or link."""
+        if status == 'online':
+            return (
+                f"\t[![{badge_type}](https://img.shields.io/badge/{badge_type}-online-"
+                f"brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)]({url})  \n"
+            )
+        return (
+            f"\t[![{badge_type}](https://img.shields.io/badge/{badge_type}-offline-"
+            f"red?style=for-the-badge&logo=xamarin&logoColor=red)]({url})  \n")
+
+
+class MarkdownWriter:
+
+    def __init__(self, url_validator: UrlValidator,
+                 badge_generator: BadgeGenerator):
+        self.url_validator = url_validator
+        self.badge_generator = badge_generator
+
+    def update_file(self, file_path: Path, content: str,
+                    headers: Dict[str, str]) -> None:
+        """Update a Markdown file with new content and headers."""
+        header_written = self._check_existing_headers(file_path, headers)
+
+        with open(file_path,
+                  'a+' if file_path.exists() else 'w',
+                  encoding='utf-8') as f:
+            if not header_written['icon'] and headers.get('page_icon'):
+                f.write(f"---\nicon: {headers['page_icon']}\n---\n\n")
+            if not header_written['subcategory'] and headers.get(
+                    'subcategory'):
+                f.write(f"\n## **{headers['subcategory']}**\n")
+            if not header_written['subsubcategory'] and headers.get(
+                    'subsubcategory'):
+                f.write(f"### **{headers['subsubcategory']}**\n")
+            f.write(content)
+
+    def _check_existing_headers(self, file_path: Path,
+                                headers: Dict[str, str]) -> Dict[str, bool]:
+        """Check which headers already exist in the file."""
+        if not file_path.exists():
+            return {
+                'icon': False,
+                'subcategory': False,
+                'subsubcategory': False
+            }
+
+        content = file_path.read_text(encoding='utf-8')
+        return {
+            'icon': "---" in content,
+            'subcategory': f"## **{headers.get('subcategory')}**" in content,
+            'subsubcategory': f"### **{headers.get('subsubcategory')}**"
+            in content
+        }
+
+
+class DocumentationGenerator:
+
+    def __init__(self, config: ProcessingConfig):
+        self.config = config
+        self.url_validator = UrlValidator(config.timeout)
+        self.badge_generator = BadgeGenerator()  # Initialize BadgeGenerator
+        self.markdown_writer = MarkdownWriter(self.url_validator,
+                                              self.badge_generator)
+
+    def generate(self, df: pd.DataFrame) -> Tuple[int, int, int]:
+        """Generate documentation from DataFrame."""
+        self._clear_directory()
+
+        with ThreadPoolExecutor(
+                max_workers=self.config.max_workers) as executor:
+            list(executor.map(self._process_folder, df.groupby('FOLDER1')))
+
+        return (len(df['PUBLICATION'].dropna()), len(df['CODE'].dropna()),
+                len(df['WEBSERVER'].dropna()))
+
+    def _clear_directory(self) -> None:
+        """Clear the docs directory except for specified files."""
+        for item in os.listdir(self.config.docs_dir):
+            if item not in self.config.keep_files:
+                path = self.config.docs_dir / item
+                shutil.rmtree(path) if path.is_dir() else path.unlink()
+
+    def _process_folder(self, folder_group: Tuple[str, pd.DataFrame]) -> None:
+        """Process a folder of documentation entries."""
+        folder, group = folder_group
+        folder_path = self.config.docs_dir / folder
+        folder_path.mkdir(exist_ok=True)
+
+        for _, row in group.iterrows():
+            self._process_entry(folder_path, row)
+
+    def _process_entry(self, folder_path: Path, row: pd.Series) -> None:
+        """Process a single documentation entry."""
+        file_path = folder_path / f"{row['CATEGORY1']}.md"
+        content = self._generate_entry_content(row)
+
+        headers = {
+            'page_icon': row['PAGE_ICON'],
+            'subcategory': row['SUBCATEGORY1'],
+            'subsubcategory': row['SUBSUBCATEGORY1']
+        }
+
+        self.markdown_writer.update_file(file_path, content, headers)
+
+    def _generate_entry_content(self, row: pd.Series) -> str:
+        """Generate content for a documentation entry."""
+        content = [
+            f"- **{row['ENTRY NAME']}**: {row['DESCRIPTION'] if pd.notna(row['DESCRIPTION']) else ''}  \n"
+        ]
 
         if pd.notna(row['CODE']):
-            if 'github' in row['CODE'] and 'gist' not in row['CODE']:
-
-                def clean_github_url(url):
-                    url = url.replace('.git', '')  # Remove '.git' if present
-                    match = re.match(r'https://github\.com/([^/]+)/([^/?#]+)',
-                                     url)
-                    if match:
-                        return f"{match.group(1)}/{match.group(2)}"
-                    return None
-
-                url = clean_github_url(row['CODE'])
-                entry_content += f"\t[![Code](https://img.shields.io/github/stars/{url}?style=for-the-badge&logo=github)]({row['CODE']})  \n"
-                entry_content += f"\t[![Last Commit](https://img.shields.io/github/last-commit/{url}?style=for-the-badge&logo=github)]({row['CODE']})  \n"
-            else:
-                entry_content += f"\t[![Code](https://img.shields.io/badge/Code)]({row['CODE']})\n"
+            content.append(self._generate_code_badge(row['CODE']))
 
         if pd.notna(row['PUBLICATION']):
-            citations = int(row['CITATIONS']) if pd.notna(
+            citations = str(int(row['CITATIONS'])) if pd.notna(
                 row['CITATIONS']) else 'N/A'
-            logo = 'arxiv' if 'rxiv' in row['PUBLICATION'] else 'bookstack'
-            entry_content += f"\t[![Publication](https://img.shields.io/badge/Publication-Citations:{citations}-blue?style=for-the-badge&logo={logo})]({row['PUBLICATION']})  \n"
+            content.append(
+                self.badge_generator.publication_badge(row['PUBLICATION'],
+                                                       citations))
 
-        if pd.notna(row['WEBSERVER']):
-            status = check_url(row['WEBSERVER'])
-            if status == 'online':
-                entry_content += f"\t[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)]({row['WEBSERVER']})  \n"
-            else:
-                entry_content += f"\t[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)]({row['WEBSERVER']})  \n"
+        for field in ['WEBSERVER', 'LINK']:
+            if pd.notna(row[field]):
+                status = self.url_validator.check_url(row[field])
+                content.append(
+                    self.badge_generator.status_badge(row[field], status,
+                                                      field.capitalize()))
 
-        if pd.notna(row['LINK']):
-            status = check_url(row['LINK'])
-            if status == 'online':
-                entry_content += f"\t[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)]({row['LINK']})  \n"
-            else:
-                entry_content += f"\t[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)]({row['LINK']})  \n"
+        return ''.join(content)
 
-        update_md_file(file_path, entry_content, row['SUBCATEGORY1'],
-                       row['SUBSUBCATEGORY1'], row['PAGE_ICON'])
-
-    logging.info(f"Processed folder: {folder}")
-
-
-def update_index_file(docs_directory, readme, total_publications,
-                      total_code_repos, total_webserver_links):
-    index_file_path = os.path.join(docs_directory, "index.md")
-    if not os.path.exists(index_file_path):
-        logging.error(f"{index_file_path} does not exist.")
-        return
-
-    with open(index_file_path, "r", encoding='utf-8') as f:
-        lines = f.readlines()
-
-    if len(lines) < 5:
-        logging.error("The index.md file has less than 5 lines.")
-        return
-
-    lines[4] = f"Number of publications: {total_publications}  \n"
-    lines[5] = f"Number of code repositories: {total_code_repos}  \n"
-    lines[6] = f"Number of webserver links: {total_webserver_links}  \n"
-
-    with open(index_file_path, "w", encoding='utf-8') as f:
-        f.writelines(lines)
-
-    if not os.path.exists(readme):
-        logging.error(f"{readme} does not exist.")
-        return
-
-    with open(readme, "r", encoding='utf-8') as f:
-        lines = f.readlines()
-
-    if len(lines) < 5:
-        logging.error("The README.md file has less than 5 lines.")
-        return
-
-    lines[25] = f"Number of publications: {total_publications}  \n"
-    lines[26] = f"Number of code repositories: {total_code_repos}  \n"
-    lines[27] = f"Number of webserver links: {total_webserver_links}  \n"
-
-    with open(readme, "w", encoding='utf-8') as f:
-        f.writelines(lines)
+    def _generate_code_badge(self, code_url: str) -> str:
+        """Generate appropriate badge for code repository."""
+        if 'github.com' in code_url and 'gist' not in code_url:
+            if repo_path := GithubUrlProcessor.clean_url(code_url):
+                return self.badge_generator.github_badges(repo_path, code_url)
+        return f"\t[![Code](https://img.shields.io/badge/Code)]({code_url})\n"
 
 
 def main():
-    # First, clean up the docs directory except for the specified files
-    clear_directory_except(
-        docs_dir, ['CONTRIBUTING.md', 'index.md', 'LogoV1.png', 'images'])
+    logging.basicConfig(level=logging.INFO,
+                        format='%(asctime)s - %(levelname)s - %(message)s')
 
-    # Group the data by FOLDER1
-    grouped = df.groupby('FOLDER1')
+    script_dir = Path(__file__).parent
+    config = ProcessingConfig(docs_dir=script_dir.parent / 'docs',
+                              readme_path=script_dir.parent / 'README.md')
 
-    # Set up the multiprocessing pool
-    num_processes = min(cpu_count(), len(grouped))
-    pool = Pool(processes=num_processes)
+    try:
+        df = pd.read_csv(script_dir.parent / 'processed_cadd_vault_data.csv')
+        generator = DocumentationGenerator(config)
+        totals = generator.generate(df)
 
-    # Use partial to pass the docs_dir argument to process_folder
-    process_folder_partial = partial(process_folder, docs_dir=docs_dir)
+        # Update index and README files with totals
+        for file_path in [config.docs_dir / 'index.md', config.readme_path]:
+            if not file_path.exists():
+                logging.error(f"{file_path} does not exist.")
+                continue
 
-    # Process folders in parallel
-    pool.map(process_folder_partial, grouped)
+            content = file_path.read_text(encoding='utf-8').splitlines()
+            if len(content) < 28:
+                logging.error(f"{file_path} has insufficient lines.")
+                continue
 
-    # Close the pool and wait for all processes to finish
-    pool.close()
-    pool.join()
+            start_line = 4 if file_path.name == 'index.md' else 25
+            content[start_line:start_line + 3] = [
+                f"Number of publications: {totals[0]}  ",
+                f"Number of code repositories: {totals[1]}  ",
+                f"Number of webserver links: {totals[2]}  "
+            ]
 
-    # Calculate totals
-    total_publications = len(df['PUBLICATION'].dropna())
-    total_code_repos = len(df['CODE'].dropna())
-    total_webserver_links = len(df['WEBSERVER'].dropna())
+            file_path.write_text('\n'.join(content), encoding='utf-8')
 
-    # Update index file and README
-    update_index_file(docs_dir, readme, total_publications, total_code_repos,
-                      total_webserver_links)
+        logging.info("Documentation generation completed successfully.")
 
-    logging.info("Documentation generation completed successfully.")
+    except Exception as e:
+        logging.error(f"Error during documentation generation: {str(e)}")
+        raise
 
 
 if __name__ == "__main__":
