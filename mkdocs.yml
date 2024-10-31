@@ -1,5 +1,7 @@
 site_name: CADD Vault
 theme:
+  icon:
+    repo: fontawesome/brands/github
   name: material
   language: en
   font:
@@ -26,8 +28,9 @@ theme:
     toggle:
       icon: material/brightness-4
       name: Switch to system preference
-  logo: images/Logo_FINAL_white.svg
-  favicon: images/Logo_FINAL.svg
+  logo: images/caddvault_white_logo.svg
+  favicon: images/caddvault_white_logo.svg
   features:
   - navigation.top
   - toc.follow
+repo_url: https://github.com/DrugBud-Suite/CADD_Vault
