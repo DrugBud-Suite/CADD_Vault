@@ -99,14 +99,21 @@ class MarkdownWriter:
         with open(file_path,
                   'a+' if file_path.exists() else 'w',
                   encoding='utf-8') as f:
-            if not header_written['icon'] and headers.get('page_icon'):
+            # Only write page icon if it exists and isn't NaN
+            if not header_written['icon'] and headers.get(
+                    'page_icon') and pd.notna(headers['page_icon']):
                 f.write(f"---\nicon: {headers['page_icon']}\n---\n\n")
+
+            # Write subcategory header only if it exists and isn't NaN
             if not header_written['subcategory'] and headers.get(
-                    'subcategory'):
+                    'subcategory') and pd.notna(headers['subcategory']):
                 f.write(f"\n## **{headers['subcategory']}**\n")
+
+            # Write subsubcategory header only if it exists and isn't NaN
             if not header_written['subsubcategory'] and headers.get(
-                    'subsubcategory'):
+                    'subsubcategory') and pd.notna(headers['subsubcategory']):
                 f.write(f"### **{headers['subsubcategory']}**\n")
+
             f.write(content)
 
     def _check_existing_headers(self, file_path: Path,
@@ -121,10 +128,15 @@ class MarkdownWriter:
 
         content = file_path.read_text(encoding='utf-8')
         return {
-            'icon': "---" in content,
-            'subcategory': f"## **{headers.get('subcategory')}**" in content,
-            'subsubcategory': f"### **{headers.get('subsubcategory')}**"
-            in content
+            'icon':
+            "---" in content,
+            'subcategory':
+            (headers.get('subcategory') and pd.notna(headers['subcategory'])
+             and f"## **{headers['subcategory']}**" in content),
+            'subsubcategory':
+            (headers.get('subsubcategory')
+             and pd.notna(headers['subsubcategory'])
+             and f"### **{headers['subsubcategory']}**" in content)
         }
 
 
@@ -133,27 +145,117 @@ class DocumentationGenerator:
     def __init__(self, config: ProcessingConfig):
         self.config = config
         self.url_validator = UrlValidator(config.timeout)
-        self.badge_generator = BadgeGenerator()  # Initialize BadgeGenerator
+        self.badge_generator = BadgeGenerator()
         self.markdown_writer = MarkdownWriter(self.url_validator,
                                               self.badge_generator)
+        self.validation_stats = {
+            'processed': 0,
+            'skipped_no_entry_name': 0,
+            'skipped_no_folder': 0,
+            'skipped_no_category': 0,
+            'missing_subcategory': 0,
+            'missing_subsubcategory': 0
+        }
 
     def generate(self, df: pd.DataFrame) -> Tuple[int, int, int]:
         """Generate documentation from DataFrame."""
         self._clear_directory()
 
+        # Validate required fields first
+        valid_entries = self._validate_dataframe(df)
+
         with ThreadPoolExecutor(
                 max_workers=self.config.max_workers) as executor:
-            list(executor.map(self._process_folder, df.groupby('FOLDER1')))
+            list(
+                executor.map(self._process_folder,
+                             valid_entries.groupby('FOLDER1')))
+
+        self._report_statistics()
 
         return (len(df['PUBLICATION'].dropna()), len(df['CODE'].dropna()),
                 len(df['WEBSERVER'].dropna()))
 
     def _clear_directory(self) -> None:
         """Clear the docs directory except for specified files."""
-        for item in os.listdir(self.config.docs_dir):
-            if item not in self.config.keep_files:
-                path = self.config.docs_dir / item
-                shutil.rmtree(path) if path.is_dir() else path.unlink()
+        try:
+            if not self.config.docs_dir.exists():
+                logging.warning(
+                    f"Documentation directory {self.config.docs_dir} does not exist. Creating it."
+                )
+                self.config.docs_dir.mkdir(parents=True)
+                return
+
+            for item in os.listdir(self.config.docs_dir):
+                if item not in self.config.keep_files:
+                    path = self.config.docs_dir / item
+                    if path.is_dir():
+                        shutil.rmtree(path)
+                    else:
+                        path.unlink()
+        except Exception as e:
+            logging.error(f"Error clearing directory: {str(e)}")
+            raise
+
+    def _validate_dataframe(self, df: pd.DataFrame) -> pd.DataFrame:
+        """Validate DataFrame and log issues with entries."""
+        valid_entries = df.copy()
+
+        # Check for missing required fields
+        for idx, row in df.iterrows():
+            if pd.isna(row['ENTRY NAME']):
+                logging.warning(
+                    f"Row {idx}: Entry skipped - missing ENTRY NAME")
+                self.validation_stats['skipped_no_entry_name'] += 1
+                valid_entries = valid_entries.drop(idx)
+                continue
+
+            if pd.isna(row['FOLDER1']):
+                logging.warning(
+                    f"Row {idx}: Entry '{row['ENTRY NAME']}' skipped - missing FOLDER1"
+                )
+                self.validation_stats['skipped_no_folder'] += 1
+                valid_entries = valid_entries.drop(idx)
+                continue
+
+            if pd.isna(row['CATEGORY1']):
+                logging.warning(
+                    f"Row {idx}: Entry '{row['ENTRY NAME']}' skipped - missing CATEGORY1"
+                )
+                self.validation_stats['skipped_no_category'] += 1
+                valid_entries = valid_entries.drop(idx)
+                continue
+
+            # Log missing optional fields
+            if pd.isna(row['SUBCATEGORY1']):
+                self.validation_stats['missing_subcategory'] += 1
+
+            if pd.isna(row['SUBSUBCATEGORY1']):
+                self.validation_stats['missing_subsubcategory'] += 1
+
+            self.validation_stats['processed'] += 1
+
+        return valid_entries
+
+    def _report_statistics(self) -> None:
+        """Report statistics about processed and skipped entries."""
+        logging.info("\nDocumentation Generation Statistics:")
+        logging.info(
+            f"Total entries processed: {self.validation_stats['processed']}")
+        logging.info(
+            f"Entries skipped due to missing ENTRY NAME: {self.validation_stats['skipped_no_entry_name']}"
+        )
+        logging.info(
+            f"Entries skipped due to missing FOLDER1: {self.validation_stats['skipped_no_folder']}"
+        )
+        logging.info(
+            f"Entries skipped due to missing CATEGORY1: {self.validation_stats['skipped_no_category']}"
+        )
+        logging.info(
+            f"Entries with missing SUBCATEGORY1: {self.validation_stats['missing_subcategory']}"
+        )
+        logging.info(
+            f"Entries with missing SUBSUBCATEGORY1: {self.validation_stats['missing_subsubcategory']}"
+        )
 
     def _process_folder(self, folder_group: Tuple[str, pd.DataFrame]) -> None:
         """Process a folder of documentation entries."""
@@ -170,9 +272,13 @@ class DocumentationGenerator:
         content = self._generate_entry_content(row)
 
         headers = {
-            'page_icon': row['PAGE_ICON'],
-            'subcategory': row['SUBCATEGORY1'],
-            'subsubcategory': row['SUBSUBCATEGORY1']
+            'page_icon':
+            row['PAGE_ICON'] if pd.notna(row['PAGE_ICON']) else None,
+            'subcategory':
+            row['SUBCATEGORY1'] if pd.notna(row['SUBCATEGORY1']) else None,
+            'subsubcategory':
+            row['SUBSUBCATEGORY1']
+            if pd.notna(row['SUBSUBCATEGORY1']) else None
         }
 
         self.markdown_writer.update_file(file_path, content, headers)
