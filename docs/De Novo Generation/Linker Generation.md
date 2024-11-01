@@ -2,9 +2,6 @@
 icon: material/link-variant-plus
 ---
 
-
-## **nan**
-### **nan**
 - **DeLinker**: Deep Generative Models for 3D Linker Design  
 	[![Code](https://img.shields.io/github/stars/oxpig/DeLinker?style=for-the-badge&logo=github)](https://github.com/oxpig/DeLinker)  
 	[![Last Commit](https://img.shields.io/github/last-commit/oxpig/DeLinker?style=for-the-badge&logo=github)](https://github.com/oxpig/DeLinker)  

@@ -2,9 +2,6 @@
 icon: material/message-draw
 ---
 
-
-## **nan**
-### **nan**
 - **A Systematic Survey in Geometric Deep Learning for Structure-based Drug Design [2023]**: A Systematic Survey in Geometric Deep Learning for Structure-based Drug Design  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2306.11768)  
 - **AI in 3D compound design [2022]**:   

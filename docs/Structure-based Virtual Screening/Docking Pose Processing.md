@@ -4,7 +4,6 @@ icon: fontawesome/solid/gears
 
 
 ## **Clustering**
-### **nan**
 - **ClusterX**: ClusterX is a deep clustering framework for learning molecular representations of protein-ligand complexes and accurately clustering ligands, designed to assist computational medicinal chemists in making visual decisions.  
 	[![Code](https://img.shields.io/github/stars/ChenSikang/ClusterX?style=for-the-badge&logo=github)](https://github.com/ChenSikang/ClusterX)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ChenSikang/ClusterX?style=for-the-badge&logo=github)](https://github.com/ChenSikang/ClusterX)  
@@ -15,10 +14,10 @@ icon: fontawesome/solid/gears
 	[![Code](https://img.shields.io/github/stars/durrantlab/binana?style=for-the-badge&logo=github)](https://github.com/durrantlab/binana)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/binana?style=for-the-badge&logo=github)](https://github.com/durrantlab/binana)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:191-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016%2Fj.jmgm.2011.01.004)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://durrantlab.pitt.edu/binana-download/)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://durrantlab.pitt.edu/binana-download/)  
 - **LigGrep**: LigGrep is a program for identifying docked poses that participate in specified receptor/ligand interactions, accepting a protein receptor file, docked-compound files, and user-specified filters as input.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00471-2)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://durrantlab.pitt.edu/liggrep/)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://durrantlab.pitt.edu/liggrep/)  
 - **vsFilt**: A Tool to Improve Virtual Screening by Structural Filtration of Docking Poses (detect various types of interactions that are known to be involved in the molecular recognition, including hydrogen and halogen bonds, ionic interactions, hydrophobic contacts, pi-stacking, and cation-pi interactions) (online).  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c00303)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://biokinet.belozersky.msu.ru/vsfilt)  
@@ -106,7 +105,7 @@ icon: fontawesome/solid/gears
 - **rmsd**: Calculate Root-mean-square deviation (RMSD) of Two Molecules Using Rotation  
 	[![Code](https://img.shields.io/github/stars/charnley/rmsd?style=for-the-badge&logo=github)](https://github.com/charnley/rmsd)  
 	[![Last Commit](https://img.shields.io/github/last-commit/charnley/rmsd?style=for-the-badge&logo=github)](https://github.com/charnley/rmsd)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2386-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1107/S0567739476001873)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:2387-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1107/S0567739476001873)  
 - **spyRMSD**: Python tool for symmetry-corrected RMSD calculations.  
 	[![Code](https://img.shields.io/github/stars/RMeli/spyrmsd?style=for-the-badge&logo=github)](https://github.com/RMeli/spyrmsd)  
 	[![Last Commit](https://img.shields.io/github/last-commit/RMeli/spyrmsd?style=for-the-badge&logo=github)](https://github.com/RMeli/spyrmsd)  

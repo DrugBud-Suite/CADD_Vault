@@ -2,9 +2,6 @@
 icon: material/database
 ---
 
-
-## **nan**
-### **nan**
 - **Pan-Canadian Chemical Library**: a collection of nearly 150 billion diverse compounds that does not overlap with other ultra-large libraries such as Enamine REAL or SAVI  
 	[![Code](https://img.shields.io/github/stars/cbedart/PCCL?style=for-the-badge&logo=github)](https://github.com/cbedart/PCCL)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cbedart/PCCL?style=for-the-badge&logo=github)](https://github.com/cbedart/PCCL)  

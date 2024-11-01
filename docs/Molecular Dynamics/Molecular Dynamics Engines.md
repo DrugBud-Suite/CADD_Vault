@@ -2,14 +2,11 @@
 icon: material/engine
 ---
 
-
-## **nan**
-### **nan**
 - **AMBER**: suite of biomolecular simulation programs (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:311-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01153)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:312-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01153)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://ambermd.org/)  
 - **CHARMM**: Chemistry at HARvard Macromolecular Mechanics (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:7077-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21287)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:7078-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21287)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://academiccharmm.org/)  
 - **CHARMM-GUI**:   
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.charmm-gui.org/?doc=input)  
@@ -35,7 +32,7 @@ icon: material/engine
 	[![Publication](https://img.shields.io/badge/Publication-Citations:347-blue?style=for-the-badge&logo=bookstack)](http://pubs.acs.org/doi/abs/10.1021/acs.jctc.6b00049)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.htmd.org/)  
 - **LAMMPS**: Molecular Dynamics Simulator and much more  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4813-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2021.108171)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4820-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2021.108171)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.lammps.org/)  
 - **NAMD**: NAMD is a parallel molecular dynamics code for high-performance simulation of large biomolecular systems, recognized for its scalability and efficiency.  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.ks.uiuc.edu/Research/namd/)  

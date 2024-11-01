@@ -2,9 +2,6 @@
 icon: simple/adobeillustrator
 ---
 
-
-## **nan**
-### **nan**
 - **MolPipeline**:   
 	[![Code](https://img.shields.io/github/stars/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline)  
 	[![Last Commit](https://img.shields.io/github/last-commit/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline)  
@@ -155,7 +152,7 @@ icon: simple/adobeillustrator
 - **ChemProp**: Features a deep learning approach for molecular property prediction, focusing on scalability and fast uncertainty quantification.  
 	[![Code](https://img.shields.io/github/stars/aamini/chemprop?style=for-the-badge&logo=github)](https://github.com/aamini/chemprop)  
 	[![Last Commit](https://img.shields.io/github/last-commit/aamini/chemprop?style=for-the-badge&logo=github)](https://github.com/aamini/chemprop)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:97-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.1c00546)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:98-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.1c00546)  
 - **GeminiMol**: Incorporates conformational space profile into molecular representation learning, enhancing drug discovery including virtual screening, target identification, and QSAR.  
 	[![Code](https://img.shields.io/github/stars/Wang-Lin-boop/GeminiMol?style=for-the-badge&logo=github)](https://github.com/Wang-Lin-boop/GeminiMol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Wang-Lin-boop/GeminiMol?style=for-the-badge&logo=github)](https://github.com/Wang-Lin-boop/GeminiMol)  

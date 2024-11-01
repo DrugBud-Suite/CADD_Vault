@@ -2,9 +2,6 @@
 icon: simple/adobeillustrator
 ---
 
-
-## **nan**
-### **nan**
 - **Auto3D**: Automatic Generation of the Low-energy 3D Structures with ANI Neural Network Potentials (standalone).  
 	[![Code](https://img.shields.io/github/stars/isayevlab/Auto3D_pkg?style=for-the-badge&logo=github)](https://github.com/isayevlab/Auto3D_pkg)  
 	[![Last Commit](https://img.shields.io/github/last-commit/isayevlab/Auto3D_pkg?style=for-the-badge&logo=github)](https://github.com/isayevlab/Auto3D_pkg)  
@@ -19,7 +16,7 @@ icon: simple/adobeillustrator
 - **COSMIC**:   
 	[![Code](https://img.shields.io/github/stars/insilicomedicine/COSMIC?style=for-the-badge&logo=github)](https://github.com/insilicomedicine/COSMIC)  
 	[![Last Commit](https://img.shields.io/github/last-commit/insilicomedicine/COSMIC?style=for-the-badge&logo=github)](https://github.com/insilicomedicine/COSMIC)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00989)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00989)  
 - **diffusion-conformer**: Physics-informed generative model for drug-like molecule conformers  
 	[![Code](https://img.shields.io/github/stars/nobiastx/diffusion-conformer?style=for-the-badge&logo=github)](https://github.com/nobiastx/diffusion-conformer)  
 	[![Last Commit](https://img.shields.io/github/last-commit/nobiastx/diffusion-conformer?style=for-the-badge&logo=github)](https://github.com/nobiastx/diffusion-conformer)  
@@ -42,7 +39,7 @@ icon: simple/adobeillustrator
 	[![Code](https://img.shields.io/github/stars/durrantlab/gypsum_dl?style=for-the-badge&logo=github)](https://github.com/durrantlab/gypsum_dl/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/gypsum_dl?style=for-the-badge&logo=github)](https://github.com/durrantlab/gypsum_dl/)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:50-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0358-3)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://durrantlab.pitt.edu/gypsum-dl/)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://durrantlab.pitt.edu/gypsum-dl/)  
 - **TensorVAE**:   
 	[![Code](https://img.shields.io/github/stars/yuh8/TensorVAE?style=for-the-badge&logo=github)](https://github.com/yuh8/TensorVAE)  
 	[![Last Commit](https://img.shields.io/github/last-commit/yuh8/TensorVAE?style=for-the-badge&logo=github)](https://github.com/yuh8/TensorVAE)  

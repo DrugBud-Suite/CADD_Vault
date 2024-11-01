@@ -2,11 +2,8 @@
 icon: material/tray-full
 ---
 
-
-## **nan**
-### **nan**
 - **BindingDB**: BindingDB contains data for over 1.2 million compounds and 9.2k targets, supporting research, education, and practice in drug discovery, pharmacology, and related fields.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1064-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkv1072)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1065-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkv1072)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.bindingdb.org/bind/index.jsp)  
 - **BindingNet**: BindingNet is a dataset for analyzing protein-ligand interactions, containing modeled poses for compounds similar to the crystal ligands found in PDBbind, along with corresponding activities from ChEMBL.  
 	[![Code](https://img.shields.io/github/stars/hnlab/BindingNet?style=for-the-badge&logo=github)](https://github.com/hnlab/BindingNet)  

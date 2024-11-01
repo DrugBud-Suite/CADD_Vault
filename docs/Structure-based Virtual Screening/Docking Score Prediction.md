@@ -2,9 +2,6 @@
 icon: material/progress-question
 ---
 
-
-## **nan**
-### **nan**
 - **AL-VS**: Large-Scale Pretraining Improves Sample Efficiency of Active Learning-Based Virtual Screening  
 	[![Code](https://img.shields.io/github/stars/molecularinformatics/PretrainedAL-VS?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/PretrainedAL-VS)  
 	[![Last Commit](https://img.shields.io/github/last-commit/molecularinformatics/PretrainedAL-VS?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/PretrainedAL-VS)  
@@ -12,7 +9,7 @@ icon: material/progress-question
 - **ChemProp**:   
 	[![Code](https://img.shields.io/github/stars/aamini/chemprop?style=for-the-badge&logo=github)](https://github.com/aamini/chemprop)  
 	[![Last Commit](https://img.shields.io/github/last-commit/aamini/chemprop?style=for-the-badge&logo=github)](https://github.com/aamini/chemprop)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:97-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.1c00546)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:98-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.1c00546)  
 - **Conformalpredictor**: Rapid Traversal of Ultralarge Chemical Space using Machine Learning Guided Docking Screens (standalone).  
 	[![Code](https://img.shields.io/github/stars/Carlssonlab/conformalpredictor?style=for-the-badge&logo=github)](https://github.com/Carlssonlab/conformalpredictor)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Carlssonlab/conformalpredictor?style=for-the-badge&logo=github)](https://github.com/Carlssonlab/conformalpredictor)  

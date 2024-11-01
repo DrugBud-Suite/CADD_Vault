@@ -2,9 +2,6 @@
 icon: material/sitemap-outline
 ---
 
-
-## **nan**
-### **nan**
 - **AutoCouple**:   
 	[![Code](https://img.shields.io/github/stars/Caflisch-Group/AutoCouple_Python-based?style=for-the-badge&logo=github)](https://github.com/Caflisch-Group/AutoCouple_Python-based)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Caflisch-Group/AutoCouple_Python-based?style=for-the-badge&logo=github)](https://github.com/Caflisch-Group/AutoCouple_Python-based)  
@@ -23,7 +20,7 @@ icon: material/sitemap-outline
 	[![Code](https://img.shields.io/github/stars/durrantlab/deepfrag?style=for-the-badge&logo=github)](https://github.com/durrantlab/deepfrag/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/deepfrag?style=for-the-badge&logo=github)](https://github.com/durrantlab/deepfrag/)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:26-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00103)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://durrantlab.com/deepfragmodel)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://durrantlab.com/deepfragmodel)  
 - **FBDD_suite**: A collection of computational tools for fragment based drug design, including fragment selection, fragment docking, fragment growing, linking, merging etc.  
 	[![Code](https://img.shields.io/github/stars/KeenThera/FBDD_suite?style=for-the-badge&logo=github)](https://github.com/KeenThera/FBDD_suite)  
 	[![Last Commit](https://img.shields.io/github/last-commit/KeenThera/FBDD_suite?style=for-the-badge&logo=github)](https://github.com/KeenThera/FBDD_suite)  

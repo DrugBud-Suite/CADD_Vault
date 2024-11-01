@@ -4,7 +4,6 @@ icon: simple/adobeillustrator
 
 
 ## **General**
-### **nan**
 - **graphium**:   
 	[![Code](https://img.shields.io/github/stars/datamol-io/graphium?style=for-the-badge&logo=github)](https://github.com/datamol-io/graphium)  
 	[![Last Commit](https://img.shields.io/github/last-commit/datamol-io/graphium?style=for-the-badge&logo=github)](https://github.com/datamol-io/graphium)  

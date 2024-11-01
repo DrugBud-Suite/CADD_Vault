@@ -4,7 +4,6 @@ icon: material/speedometer
 
 
 ## **Carbohydrates**
-### **nan**
 - **VinaCarb**: Carbohydrate specific scoring function  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:95-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00834)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://pubs.acs.org/doi/10.1021/acs.jctc.5b00834)  
@@ -145,7 +144,7 @@ icon: material/speedometer
 - **FAST**: Fusion models for Atomic and molecular STructures aiming at predicting accurate protein-ligand binding affinity.  
 	[![Code](https://img.shields.io/github/stars/llnl/fast?style=for-the-badge&logo=github)](https://github.com/llnl/fast)  
 	[![Last Commit](https://img.shields.io/github/last-commit/llnl/fast?style=for-the-badge&logo=github)](https://github.com/llnl/fast)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:161-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01306)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:167-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01306)  
 - **FGNN**: Predicts ligand binding affinity with graph neural networks and 3D structure-based complex graph.  
 	[![Code](https://img.shields.io/github/stars/LinaDongXMU/FGNN?style=for-the-badge&logo=github)](https://github.com/LinaDongXMU/FGNN)  
 	[![Last Commit](https://img.shields.io/github/last-commit/LinaDongXMU/FGNN?style=for-the-badge&logo=github)](https://github.com/LinaDongXMU/FGNN)  
@@ -182,7 +181,7 @@ icon: material/speedometer
 - **GraphscoreDTA**: A graph neural network for protein-ligand binding affinity prediction.  
 	[![Code](https://img.shields.io/github/stars/CSUBioGroup/GraphscoreDTA?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/GraphscoreDTA)  
 	[![Last Commit](https://img.shields.io/github/last-commit/CSUBioGroup/GraphscoreDTA?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/GraphscoreDTA)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:24-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btad340)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:25-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btad340)  
 - **HAC-Net**: A Hybrid Attention-Based Convolutional Neural Network for Highly Accurate Protein-Ligand Binding Affinity Prediction.  
 	[![Code](https://img.shields.io/github/stars/gregory-kyro/HAC-Net?style=for-the-badge&logo=github)](https://github.com/gregory-kyro/HAC-Net/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/gregory-kyro/HAC-Net?style=for-the-badge&logo=github)](https://github.com/gregory-kyro/HAC-Net/)  
@@ -298,7 +297,7 @@ icon: material/speedometer
 - **SIEVE-Score**: A virtual screening method based on random forest using interaction energy-based scoring.  
 	[![Code](https://img.shields.io/github/stars/sekijima-lab/SIEVE-Score?style=for-the-badge&logo=github)](https://github.com/sekijima-lab/SIEVE-Score)  
 	[![Last Commit](https://img.shields.io/github/last-commit/sekijima-lab/SIEVE-Score?style=for-the-badge&logo=github)](https://github.com/sekijima-lab/SIEVE-Score)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:95-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.8b00673)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:98-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.8b00673)  
 - **SMPLIP-Score**: Substructural Molecular and Protein–Ligand Interaction Pattern Score, a direct interpretable predictor of absolute binding affinity.  
 	[![Code](https://img.shields.io/github/stars/college-of-pharmacy-gachon-university/SMPLIP-Score?style=for-the-badge&logo=github)](https://github.com/college-of-pharmacy-gachon-university/SMPLIP-Score)  
 	[![Last Commit](https://img.shields.io/github/last-commit/college-of-pharmacy-gachon-university/SMPLIP-Score?style=for-the-badge&logo=github)](https://github.com/college-of-pharmacy-gachon-university/SMPLIP-Score)  

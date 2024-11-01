@@ -2,9 +2,6 @@
 icon: material/dots-horizontal
 ---
 
-
-## **nan**
-### **nan**
 - **EvoMPF**: EvoMPF is a framework for evolutionary molecular pattern finding using SMARTS.  
 	[![Code](https://img.shields.io/badge/Code)](https://zivgitlab.uni-muenster.de/ag-glorius/published-paper/evompf)
 	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.chempr.2024.02.004)  

@@ -2,9 +2,6 @@
 icon: fontawesome/solid/blog
 ---
 
-
-## **nan**
-### **nan**
 - **Asad's Blog**:   
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://chembioinfo.com/)  
 - **ChEMBL blog**:   

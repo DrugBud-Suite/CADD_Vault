@@ -2,9 +2,6 @@
 icon: material/molecule
 ---
 
-
-## **nan**
-### **nan**
 - **Chemaxon**: numerous tools for small molecules (standalone).  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.chemaxon.com/)  
 
@@ -62,7 +59,7 @@ icon: material/molecule
 	[![Last Commit](https://img.shields.io/github/last-commit/oddt/oddt?style=for-the-badge&logo=github)](https://github.com/oddt/oddt)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:151-blue?style=for-the-badge&logo=bookstack)](https://dx.doi.org/10.1186/s13321-015-0078-2)  
 - **OpenBabel**: toolkit for drug discovery, file format etc (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:6305-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6309-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://openbabel.org/wiki/Main_Page)  
 - **RDKit**:   
 	[![Code](https://img.shields.io/github/stars/rdkit/rdkit?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit)  

@@ -2,9 +2,6 @@
 icon: fontawesome/solid/flask
 ---
 
-
-## **nan**
-### **nan**
 - **CIME4R**: AI-guided chemical reaction optimization  
 	[![Code](https://img.shields.io/github/stars/jku-vds-lab/reaction-cime?style=for-the-badge&logo=github)](https://github.com/jku-vds-lab/reaction-cime)  
 	[![Last Commit](https://img.shields.io/github/last-commit/jku-vds-lab/reaction-cime?style=for-the-badge&logo=github)](https://github.com/jku-vds-lab/reaction-cime)  

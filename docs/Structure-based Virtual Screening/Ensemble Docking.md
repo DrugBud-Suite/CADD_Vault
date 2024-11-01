@@ -4,7 +4,6 @@ icon: material/speedometer
 
 
 ## **ML Optimisation**
-### **nan**
 - **EnOpt**:   
 	[![Code](https://img.shields.io/github/stars/durrantlab/EnOpt?style=for-the-badge&logo=github)](https://github.com/durrantlab/EnOpt)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/EnOpt?style=for-the-badge&logo=github)](https://github.com/durrantlab/EnOpt)  

@@ -2,9 +2,6 @@
 icon: fontawesome/solid/flask-vial
 ---
 
-
-## **nan**
-### **nan**
 - **Open Reaction Database**: open access chemical reaction database to support machine learning and related efforts in reaction prediction, chemical synthesis planning, and experiment design  
 	[![Code](https://img.shields.io/github/stars/open-reaction-database/ord-schema?style=for-the-badge&logo=github)](https://github.com/open-reaction-database/ord-schema)  
 	[![Last Commit](https://img.shields.io/github/last-commit/open-reaction-database/ord-schema?style=for-the-badge&logo=github)](https://github.com/open-reaction-database/ord-schema)  

@@ -2,9 +2,6 @@
 icon: simple/adobeillustrator
 ---
 
-
-## **nan**
-### **nan**
 - **AIRS**: AIRS is a collection of open-source software tools, datasets, and benchmarks associated with our paper entitled “Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems”  
 	[![Code](https://img.shields.io/github/stars/divelab/AIRS?style=for-the-badge&logo=github)](https://github.com/divelab/AIRS/tree/main)  
 	[![Last Commit](https://img.shields.io/github/last-commit/divelab/AIRS?style=for-the-badge&logo=github)](https://github.com/divelab/AIRS/tree/main)  
@@ -16,7 +13,7 @@ icon: simple/adobeillustrator
 - **cgcnn**:   
 	[![Code](https://img.shields.io/github/stars/txie-93/cgcnn?style=for-the-badge&logo=github)](https://github.com/txie-93/cgcnn)  
 	[![Last Commit](https://img.shields.io/github/last-commit/txie-93/cgcnn?style=for-the-badge&logo=github)](https://github.com/txie-93/cgcnn)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1347-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1103/PhysRevLett.120.145301)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1349-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1103/PhysRevLett.120.145301)  
 - **chainer-chemistry**:   
 	[![Code](https://img.shields.io/github/stars/chainer/chainer-chemistry?style=for-the-badge&logo=github)](https://github.com/chainer/chainer-chemistry)  
 	[![Last Commit](https://img.shields.io/github/last-commit/chainer/chainer-chemistry?style=for-the-badge&logo=github)](https://github.com/chainer/chainer-chemistry)  

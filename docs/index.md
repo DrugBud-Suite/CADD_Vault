@@ -2,7 +2,7 @@
 
 Welcome to the CADD Vault, an open-source repository dedicated to sharing resources, tools, and knowledge in the field of computer-aided drug design. This vault aims to support researchers, students, and professionals by providing a comprehensive collection of materials related to CADD.
 
-Number of publications: 1011  
+Number of publications: 1012  
 Number of code repositories: 882  
 Number of webserver links: 122  
 

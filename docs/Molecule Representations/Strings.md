@@ -4,7 +4,6 @@ icon: material/format-text-rotation-none
 
 
 ## **Other Representations**
-### **nan**
 - **selfies**:   
 	[![Code](https://img.shields.io/github/stars/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies)  
 	[![Last Commit](https://img.shields.io/github/last-commit/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies)  

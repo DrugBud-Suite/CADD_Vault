@@ -2,9 +2,6 @@
 icon: material/school
 ---
 
-
-## **nan**
-### **nan**
 - **ActiveDelta**: predict molecular improvements from the best current training compound to prioritize molecules for training set expansion  
 	[![Code](https://img.shields.io/github/stars/RekerLab/ActiveDelta?style=for-the-badge&logo=github)](https://github.com/RekerLab/ActiveDelta)  
 	[![Last Commit](https://img.shields.io/github/last-commit/RekerLab/ActiveDelta?style=for-the-badge&logo=github)](https://github.com/RekerLab/ActiveDelta)  

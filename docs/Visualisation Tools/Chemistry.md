@@ -2,9 +2,6 @@
 icon: material/molecule
 ---
 
-
-## **nan**
-### **nan**
 - **BKchem**: chemical drawing program (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://bkchem.zirael.org/)  
 - **Chemfig**: draw molecules with easy syntax (standalone)  
@@ -31,7 +28,7 @@ icon: material/molecule
 - **SketchEl**: interactive chemical molecule sketching tool (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://sketchel.sourceforge.net/)  
 - **SMARTS-plus**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/minf.202000216)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/minf.202000216)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://smarts.plus/)  
 - **SmilesDrawer**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:52-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.7b00425)  

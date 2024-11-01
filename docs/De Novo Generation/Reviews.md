@@ -2,9 +2,6 @@
 icon: material/message-draw
 ---
 
-
-## **nan**
-### **nan**
 - **A Survey of Generative AI for De Novo Drug Design: New Frontiers in Molecule and Protein Generation**:   
 	[![Code](https://img.shields.io/github/stars/gersteinlab/GenAI4Drug?style=for-the-badge&logo=github)](https://github.com/gersteinlab/GenAI4Drug)  
 	[![Last Commit](https://img.shields.io/github/last-commit/gersteinlab/GenAI4Drug?style=for-the-badge&logo=github)](https://github.com/gersteinlab/GenAI4Drug)  
@@ -34,7 +31,7 @@ icon: material/message-draw
 - **Generative Models as an Emerging Paradigm in the Chemical Sciences [2023]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:88-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/jacs.2c13467)  
 - **Generative Models for De Novo Drug Design [2021]**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:97-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.1c00927)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:99-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.1c00927)  
 - **Generative models for molecular discovery: Recent advances and challenges [2022]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:112-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/wcms.1608)  
 - **Inverse molecular design using machine learning: Generative models for matter engineering [2018]**:   
@@ -42,7 +39,7 @@ icon: material/message-draw
 - **Machine learning-aided generative molecular design**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-024-00843-5)  
 - **Molecular design in drug discovery: a comprehensive review of deep generative models [2021]**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:83-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbab344)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:84-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbab344)  
 - **MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design [2022]**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2203.14500)  
 - **The Hitchhiker’s Guide to Deep Learning Driven Generative Chemistry [2023]**:   

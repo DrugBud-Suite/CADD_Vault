@@ -2,9 +2,6 @@
 icon: material/school
 ---
 
-
-## **nan**
-### **nan**
 - **2040FBDBIC - Chemo-informatics and computational drug design**: The repository contains course materials for "Chemo-informatics and computational drug design" taught at the University of Antwerp, Belgium. It offers an in-depth view into the course, supported by the European Union Recovery and Resilience Facility (RRF).  
 	[![Code](https://img.shields.io/github/stars/UAMCAntwerpen/2040FBDBIC?style=for-the-badge&logo=github)](https://github.com/UAMCAntwerpen/2040FBDBIC)  
 	[![Last Commit](https://img.shields.io/github/last-commit/UAMCAntwerpen/2040FBDBIC?style=for-the-badge&logo=github)](https://github.com/UAMCAntwerpen/2040FBDBIC)  

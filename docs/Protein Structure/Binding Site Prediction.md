@@ -2,9 +2,6 @@
 icon: simple/authelia
 ---
 
-
-## **nan**
-### **nan**
 - **AF2BIND**: AF2BIND utilizes AlphaFold2 for predicting protein-ligand binding sites.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2023.10.15.562410)  
 	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://colab.research.google.com/github/sokrypton/af2bind/blob/main/af2bind.ipynb)  
@@ -43,7 +40,7 @@ icon: simple/authelia
 - **DeepPocket**: Ligand Binding Site Detection and Segmentation using 3D Convolutional Neural Networks (standalone)  
 	[![Code](https://img.shields.io/github/stars/devalab/DeepPocket?style=for-the-badge&logo=github)](https://github.com/devalab/DeepPocket)  
 	[![Last Commit](https://img.shields.io/github/last-commit/devalab/DeepPocket?style=for-the-badge&logo=github)](https://github.com/devalab/DeepPocket)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:51-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00799)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:55-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00799)  
 - **DeepSite**:   
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.playmolecule.org/)  
 - **DeepSurf**: a surface-based deep learning approach for the prediction of ligand binding sites on proteins (standalone)  
@@ -68,7 +65,7 @@ icon: simple/authelia
 	[![Code](https://img.shields.io/github/stars/durrantlab/fpocketweb?style=for-the-badge&logo=github)](https://github.com/durrantlab/fpocketweb/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/fpocketweb?style=for-the-badge&logo=github)](https://github.com/durrantlab/fpocketweb/)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00637-0)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://durrantlab.pitt.edu/fpocketweb-download/)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://durrantlab.pitt.edu/fpocketweb-download/)  
 - **FrustraPocket**: A protein–ligand binding site predictor using energetic local frustration (standalone)  
 	[![Code](https://img.shields.io/github/stars/CamilaClemente/FrustraPocket?style=for-the-badge&logo=github)](https://github.com/CamilaClemente/FrustraPocket/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/CamilaClemente/FrustraPocket?style=for-the-badge&logo=github)](https://github.com/CamilaClemente/FrustraPocket/)  
@@ -100,7 +97,7 @@ icon: simple/authelia
 	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00821-4)  
 - **Kalasanty**: Improving detection of protein-ligand binding sites with 3D segmentation (standalone)  
 	[![Code](https://img.shields.io/badge/Code)](http://gitlab.com/cheminfIBB/kalasanty)
-	[![Publication](https://img.shields.io/badge/Publication-Citations:73-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-020-61860-z)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:75-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-020-61860-z)  
 - **LVPocket**: 3D global-local information to protein binding pockets prediction  
 	[![Code](https://img.shields.io/github/stars/ZRF-ZRF/LVpocket?style=for-the-badge&logo=github)](https://github.com/ZRF-ZRF/LVpocket)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ZRF-ZRF/LVpocket?style=for-the-badge&logo=github)](https://github.com/ZRF-ZRF/LVpocket)  
@@ -129,7 +126,7 @@ icon: simple/authelia
 	[![Last Commit](https://img.shields.io/github/last-commit/PointSite/PointSite?style=for-the-badge&logo=github)](https://github.com/PointSite/PointSite)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/831131)  
 - **PrankWeb 3**: accelerated ligand-binding site predictions for experimental and modelled protein structures (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:241-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkz424)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:242-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkz424)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://prankweb.cz/)  
 - **ProteinPocketDetection**: Protein pocket detection via convex hull surface evolution and associated Reeb graph (standalone)  
 	[![Code](https://img.shields.io/github/stars/rdzhao/PPD?style=for-the-badge&logo=github)](https://github.com/rdzhao/PPD)  
@@ -209,7 +206,7 @@ icon: simple/authelia
 
 ## **Fragment Site Prediction**
 - **FTMap**: FTMap maps unbound protein surfaces to identify druggable hot spots where small molecules may bind.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:501-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/nprot.2015.043)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:503-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/nprot.2015.043)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://ftmap.bu.edu/show_example.php?example=ace)  
 
 ## **From Molecular Dynamics simulations**
@@ -223,7 +220,7 @@ icon: simple/authelia
 	[![Code](https://img.shields.io/github/stars/durrantlab/POVME?style=for-the-badge&logo=github)](https://github.com/durrantlab/POVME/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/POVME?style=for-the-badge&logo=github)](https://github.com/durrantlab/POVME/)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:206-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021%2Fct500381c)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://durrantlab.pitt.edu/povme2/)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://durrantlab.pitt.edu/povme2/)  
 - **TACTICS**: machine-learning algorithm (trajectory-based analysis of conformations to identify cryptic sites), which uses an ensemble of molecular structures (such as molecular dynamics simulation data) as input (standalone)  
 	[![Code](https://img.shields.io/github/stars/Albert-Lau-Lab/tactics_protein_analysis?style=for-the-badge&logo=github)](https://github.com/Albert-Lau-Lab/tactics_protein_analysis)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Albert-Lau-Lab/tactics_protein_analysis?style=for-the-badge&logo=github)](https://github.com/Albert-Lau-Lab/tactics_protein_analysis)  

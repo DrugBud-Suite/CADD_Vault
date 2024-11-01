@@ -2,9 +2,6 @@
 icon: material/rotate-3d
 ---
 
-
-## **nan**
-### **nan**
 - **confgen-webapp**: A simple web application for generating small ligand conformers for docking purposes using RDKit, accessible at **[http://confgen.net](http://confgen.net/)**.  
 	[![Code](https://img.shields.io/github/stars/Et9797/confgen-webapp?style=for-the-badge&logo=github)](https://github.com/Et9797/confgen-webapp)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Et9797/confgen-webapp?style=for-the-badge&logo=github)](https://github.com/Et9797/confgen-webapp)  

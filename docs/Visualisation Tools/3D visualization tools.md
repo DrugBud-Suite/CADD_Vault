@@ -2,20 +2,17 @@
 icon: material/video-3d-variant
 ---
 
-
-## **nan**
-### **nan**
 - **Avogadro**: advanced molecule editor and visualizer designed for cross-platform use (draw molecules...) (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:6664-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-4-17)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6671-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-4-17)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://avogadro.cc/)  
 - **BlendMol**: Advanced Macromolecular Visualization in Blender (standalone)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/bty968)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://durrantlab.com/blendmol/)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://durrantlab.com/blendmol/)  
 - **Chimera**: (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:37590-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.20084)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:37601-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.20084)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.cgl.ucsf.edu/chimera/)  
 - **ChimeraX**: molecular graphics (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:3956-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.3235)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:3958-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.3235)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.cgl.ucsf.edu/chimerax/)  
 - **MichelaNGLO**: An interactive protein on your website with a few clicks (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://michelanglo.sgc.ox.ac.uk/)  
@@ -48,7 +45,7 @@ icon: material/video-3d-variant
 - **SAMSON**: software for adaptative modeling and simulation (nano), GROMACS can be launched from SAMSON... (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.samson-connect.net/app/main?execution=e1s1)  
 - **VMD**: molecular visualization program (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:49243-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/0263-7855(96)00018-5)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:49263-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/0263-7855(96)00018-5)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.ks.uiuc.edu/Research/vmd/)  
 - **VTX**: High performance molecular visualization software (Windows, Linux) (standalone)  
 	[![Code](https://img.shields.io/badge/Code)](https://gitlab.com/VTX_mol/VTX)

@@ -4,7 +4,6 @@ icon: material/water-check
 
 
 ## **ML**
-### **nan**
 - **GNNImplictSolvent**:   
 	[![Code](https://img.shields.io/github/stars/rinikerlab/GNNImplicitSolvent?style=for-the-badge&logo=github)](https://github.com/rinikerlab/GNNImplicitSolvent)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rinikerlab/GNNImplicitSolvent?style=for-the-badge&logo=github)](https://github.com/rinikerlab/GNNImplicitSolvent)  

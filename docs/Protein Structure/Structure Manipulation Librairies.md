@@ -2,9 +2,6 @@
 icon: material/bio
 ---
 
-
-## **nan**
-### **nan**
 - **biopandas**: Working with molecular structures of biological macromolecules (from PDB and MOL2 files) in pandas DataFrames  
 	[![Code](https://img.shields.io/github/stars/BioPandas/biopandas?style=for-the-badge&logo=github)](https://github.com/BioPandas/biopandas)  
 	[![Last Commit](https://img.shields.io/github/last-commit/BioPandas/biopandas?style=for-the-badge&logo=github)](https://github.com/BioPandas/biopandas)  

@@ -4,7 +4,6 @@ icon: material/filter-variant
 
 
 ## **2D**
-### **nan**
 - **Chem-Faiss**: Chem-Faiss utilizes vector similarity search from Faiss combined with chemical fingerprinting to build a scalable similarity search architecture for compounds/molecules.  
 	[![Code](https://img.shields.io/github/stars/ritabratamaiti/Chem-Faiss?style=for-the-badge&logo=github)](https://github.com/ritabratamaiti/Chem-Faiss)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ritabratamaiti/Chem-Faiss?style=for-the-badge&logo=github)](https://github.com/ritabratamaiti/Chem-Faiss)  
@@ -70,7 +69,7 @@ icon: material/filter-variant
 ## **Hybrid**
 - **LiSiCa**: (Already described above under 2D) Offers both 2D and 3D ligand similarity screening options based on graph-theoretical methods.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:72-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.5b00136)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://insilab.org/lisica/)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://insilab.org/lisica/)  
 
 ## **Precomputed Libraries**
 - **USearch**: USearch facilitates structural similarity searches across billions of molecules in milliseconds, focusing on chemoinformatics applications.  

@@ -2,9 +2,6 @@
 icon: material/set-all
 ---
 
-
-## **nan**
-### **nan**
 - **3D-Garden**: A system for modelling protein-protein complexes based on conformational refinement of ensembles generated with the marching cubes algorithm (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:53-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btn093)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.sbg.bio.ic.ac.uk/~3dgarden/)  
@@ -12,7 +9,7 @@ icon: material/set-all
 	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c01499)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://affinity.cuhk.edu.cn/)  
 - **Arpeggio**: A webserver for calculating interatomic interactions in protein structures (online & standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:358-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.jmb.2016.12.004)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:361-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.jmb.2016.12.004)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://biosig.unimelb.edu.au/arpeggioweb/)  
 - **BAlaS**: fast, interactive and accessible computational alanine-scanning using BudeAlaScan (online)  
 	[![Code](https://img.shields.io/github/stars/wells-wood-research/balas?style=for-the-badge&logo=github)](https://github.com/wells-wood-research/balas)  
@@ -70,7 +67,7 @@ icon: material/set-all
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://filtrest3d.genesilico.pl/filtrest3d/help.html)  
 - **FoldDock**: simultaneous folding and docking protocol FoldDock and AlphaFold (standalone)  
 	[![Code](https://img.shields.io/badge/Code)](https://gitlab.com/ElofssonLab/FoldDock/)
-	[![Publication](https://img.shields.io/badge/Publication-Citations:497-blue?style=for-the-badge&logo=bookstack)](http://dx.doi.org/10.1038/s41467-022-28865-w)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:498-blue?style=for-the-badge&logo=bookstack)](http://dx.doi.org/10.1038/s41467-022-28865-w)  
 - **FRODOCK**: Fast Rotational DOCKing (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:124-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btw141)  
 	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://frodock.chaconlab.org/)  
@@ -99,10 +96,10 @@ icon: material/set-all
 	[![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21769%2FBioProtoc.3793)  
 	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://haddock.chem.uu.nl/)  
 - **HawkDock**: to predict and analyze the protein-protein complex based on computational docking and MM/GBSA (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:382-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkz397)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:383-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkz397)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://cadd.zju.edu.cn/hawkdock/)  
 - **HDOCK**: hybrid protein–protein and protein–DNA/RNA docking, Pushing the accuracy limit of shape complementarity for protein-protein docking (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:786-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkx407)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:787-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkx407)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://hdock.phys.hust.edu.cn/)  
 - **HMI-PRED**: A Web Server for Structural Prediction of Host-Microbe Interactions Based on Interface Mimicry (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btac633)  
@@ -126,7 +123,7 @@ icon: material/set-all
 	[![Publication](https://img.shields.io/badge/Publication-Citations:83-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btx555)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://server.lightdock.org/)  
 - **P3DOCK**: a protein-RNA docking webserver based on template-based and template-free docking (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz478)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:18-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz478)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.rnabinding.com/P3DOCK/P3DOCK.html)  
 - **PIIMS**: Mutation Hotspot Scanning at the Protein-Protein Interface (online)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://chemyang.ccnu.edu.cn/ccb/server/PIIMS/index.php)  
@@ -134,7 +131,7 @@ icon: material/set-all
 	[![Publication](https://img.shields.io/badge/Publication-Citations:39-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jproteome.2c00020)  
 	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://protdcal.zmb.uni-due.de/PPIAffinity)  
 - **PRODIGY**: PROtein binDIng enerGY prediction (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:828-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btw514)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:829-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btw514)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://wenmr.science.uu.nl/prodigy/)  
 - **PRODIGY-crystal**: classification of biological interfaces in protein complexes (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz437)  

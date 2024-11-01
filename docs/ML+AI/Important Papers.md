@@ -2,9 +2,6 @@
 icon: material/paperclip-check
 ---
 
-
-## **nan**
-### **nan**
 - **A Simple NN Module for Relational Reasoning**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.1706.01427)  
 - **A Tutorial Introduction to the Minimum Description Length Principle**:   
@@ -20,7 +17,7 @@ icon: material/paperclip-check
 - **Identity Mappings in Deep Residual Networks**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.1603.05027)  
 - **ImageNet classification with deep convolutional neural networks**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:23079-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1145/3065386)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:23087-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1145/3065386)  
 - **Keeping Neural Networks Simple by Minimizing the Description Length of the Weights**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://www.cs.toronto.edu/~hinton/absps/colt93.pdf)  
 - **Machine Super Intelligence**:   

@@ -2,9 +2,6 @@
 icon: material/target
 ---
 
-
-## **nan**
-### **nan**
 - **3D-Generative-SBDD**: Focuses on structure-based drug design (SBDD) using a 3D generative model to sample molecules for specific protein pockets.  
 	[![Code](https://img.shields.io/github/stars/luost26/3D-Generative-SBDD?style=for-the-badge&logo=github)](https://github.com/luost26/3D-Generative-SBDD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/luost26/3D-Generative-SBDD?style=for-the-badge&logo=github)](https://github.com/luost26/3D-Generative-SBDD)  
@@ -16,7 +13,7 @@ icon: material/target
 - **BindDM**: BindDM extracts subcomplex from protein-ligand complex, and utilizes it to enhance the binding-adaptive 3D molecule generation in complex  
 	[![Code](https://img.shields.io/github/stars/YangLing0818/BindDM?style=for-the-badge&logo=github)](https://github.com/YangLing0818/BindDM)  
 	[![Last Commit](https://img.shields.io/github/last-commit/YangLing0818/BindDM?style=for-the-badge&logo=github)](https://github.com/YangLing0818/BindDM)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1609/aaai.v38i11.29162)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1609/aaai.v38i11.29162)  
 - **cMolGPT**: cMolGPT, a Conditional Generative Pre-trained Transformer, aims for de novo molecular design by enforcing target specificity during the generation process, emphasizing the incorporation of target embeddings.  
 	[![Code](https://img.shields.io/github/stars/VV123/cMolGPT?style=for-the-badge&logo=github)](https://github.com/VV123/cMolGPT)  
 	[![Last Commit](https://img.shields.io/github/last-commit/VV123/cMolGPT?style=for-the-badge&logo=github)](https://github.com/VV123/cMolGPT)  
@@ -152,7 +149,7 @@ icon: material/target
 - **PocketOptimizer 2.0**: Design of small molecule‐binding pockets in proteins (standalone)  
 	[![Code](https://img.shields.io/github/stars/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Hoecker-Lab/pocketoptimizer?style=for-the-badge&logo=github)](https://github.com/Hoecker-Lab/pocketoptimizer)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:7578-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:7584-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00255)  
 - **RGA**: A reinforcement learning-based genetic algorithm for structure-based drug design, introduced at NeurIPS 2022.  
 	[![Code](https://img.shields.io/github/stars/futianfan/reinforced-genetic-algorithm?style=for-the-badge&logo=github)](https://github.com/futianfan/reinforced-genetic-algorithm)  
 	[![Last Commit](https://img.shields.io/github/last-commit/futianfan/reinforced-genetic-algorithm?style=for-the-badge&logo=github)](https://github.com/futianfan/reinforced-genetic-algorithm)  

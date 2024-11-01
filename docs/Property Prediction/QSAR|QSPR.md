@@ -4,7 +4,6 @@ icon: material/wrench
 
 
 ## **Model Building And Training**
-### **nan**
 - **ChemSAR**:   
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://chemsar.scbdd.com/)  
 - **CPSign**:   

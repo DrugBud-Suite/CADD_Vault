@@ -4,7 +4,6 @@ icon: material/set-split
 
 
 ## **Conformation Clustering**
-### **nan**
 - **protein-cluster-conformers**: used to cluster a parsed set of monomeric protein chains via a global conformational change metric based on CA distances.  
 	[![Code](https://img.shields.io/github/stars/PDBeurope/protein-cluster-conformers?style=for-the-badge&logo=github)](https://github.com/PDBeurope/protein-cluster-conformers)  
 	[![Last Commit](https://img.shields.io/github/last-commit/PDBeurope/protein-cluster-conformers?style=for-the-badge&logo=github)](https://github.com/PDBeurope/protein-cluster-conformers)  
@@ -18,13 +17,13 @@ icon: material/set-split
 	[![Code](https://img.shields.io/github/stars/durrantlab/subpex?style=for-the-badge&logo=github)](https://github.com/durrantlab/subpex/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/subpex?style=for-the-badge&logo=github)](https://github.com/durrantlab/subpex/)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021%2Facs.jctc.3c00478)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://durrantlab.com/subpex/)  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://durrantlab.com/subpex/)  
 
 ## **ML**
 - **AF2-Rave**: AF2-Rave combines AlphaFold2 with enhanced sampling to predict a range of conformations for a given protein sequence, aiming to generate Boltzmann-ranked conformations  
 	[![Code](https://img.shields.io/github/stars/tiwarylab/alphafold2rave?style=for-the-badge&logo=github)](https://github.com/tiwarylab/alphafold2rave)  
 	[![Last Commit](https://img.shields.io/github/last-commit/tiwarylab/alphafold2rave?style=for-the-badge&logo=github)](https://github.com/tiwarylab/alphafold2rave)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:38-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c00290)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:41-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c00290)  
 - **AF-cluster**: This method predicts multiple protein conformations using sequence clustering and AlphaFold2, aiming to capture the diversity of protein structures.  
 	[![Code](https://img.shields.io/github/stars/HWaymentSteele/AF_Cluster?style=for-the-badge&logo=github)](https://github.com/HWaymentSteele/AF_Cluster)  
 	[![Last Commit](https://img.shields.io/github/last-commit/HWaymentSteele/AF_Cluster?style=for-the-badge&logo=github)](https://github.com/HWaymentSteele/AF_Cluster)  
@@ -48,7 +47,7 @@ icon: material/set-split
 - **Str2Str**: Str2Str is a score-based framework for zero-shot protein conformation sampling, drawing inspiration from traditional methods to sample conformations guided by a neural score network trained on the PDB database.  
 	[![Code](https://img.shields.io/github/stars/lujiarui/Str2Str?style=for-the-badge&logo=github)](https://github.com/lujiarui/Str2Str)  
 	[![Last Commit](https://img.shields.io/github/last-commit/lujiarui/Str2Str?style=for-the-badge&logo=github)](https://github.com/lujiarui/Str2Str)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1331-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ade2574)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1337-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ade2574)  
 
 ## **Other**
 - **AlphTraj**: AlphaTraj is software designed for analyzing pocket dynamics.  

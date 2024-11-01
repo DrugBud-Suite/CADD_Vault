@@ -2,9 +2,6 @@
 icon: material/pickaxe
 ---
 
-
-## **nan**
-### **nan**
 - **chembl_downloader**: A Python package designed to automatically download and extract versions of the ChemBL database, simplifying data access for research purposes.  
 	[![Code](https://img.shields.io/github/stars/cthoyt/chembl-downloader?style=for-the-badge&logo=github)](https://github.com/cthoyt/chembl-downloader)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cthoyt/chembl-downloader?style=for-the-badge&logo=github)](https://github.com/cthoyt/chembl-downloader)  

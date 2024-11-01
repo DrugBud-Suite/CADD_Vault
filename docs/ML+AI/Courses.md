@@ -2,9 +2,6 @@
 icon: material/school
 ---
 
-
-## **nan**
-### **nan**
 - **AI4Chemistry**: open courses - training in ML and AI (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://schwallergroup.github.io/ai4chem_course/)  
 - **BigChem**:   

@@ -2,9 +2,6 @@
 icon: material/cctv
 ---
 
-
-## **nan**
-### **nan**
 - **ChemPlot**: python library for chemical space visualization  
 	[![Code](https://img.shields.io/github/stars/mcsorkun/ChemPlot?style=for-the-badge&logo=github)](https://github.com/mcsorkun/ChemPlot)  
 	[![Last Commit](https://img.shields.io/github/last-commit/mcsorkun/ChemPlot?style=for-the-badge&logo=github)](https://github.com/mcsorkun/ChemPlot)  

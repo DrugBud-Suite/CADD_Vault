@@ -4,7 +4,6 @@ icon: material/database-edit
 
 
 ## **Functional Groups**
-### **nan**
 - **pyCheckmol**: application for detecting functional groups of a molecule, created using features from the compiled checkmol  
 	[![Code](https://img.shields.io/github/stars/jeffrichardchemistry/pyCheckmol?style=for-the-badge&logo=github)](https://github.com/jeffrichardchemistry/pyCheckmol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/jeffrichardchemistry/pyCheckmol?style=for-the-badge&logo=github)](https://github.com/jeffrichardchemistry/pyCheckmol)  

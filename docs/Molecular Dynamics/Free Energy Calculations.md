@@ -2,9 +2,6 @@
 icon: material/lightning-bolt
 ---
 
-
-## **nan**
-### **nan**
 - **ABFE_workflow**: Automated Absolute Binding Free Energy Calculation Workflow for Drug Discovery  
 	[![Code](https://img.shields.io/github/stars/bigginlab/ABFE_workflow?style=for-the-badge&logo=github)](https://github.com/bigginlab/ABFE_workflow)  
 	[![Last Commit](https://img.shields.io/github/last-commit/bigginlab/ABFE_workflow?style=for-the-badge&logo=github)](https://github.com/bigginlab/ABFE_workflow)  
@@ -58,7 +55,7 @@ icon: material/lightning-bolt
 - **ATM_with_NNPs**: Enhancing Protein-Ligand Binding Affinity Predictions Using Neural Network Potentials  
 	[![Code](https://img.shields.io/github/stars/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs)  
 	[![Last Commit](https://img.shields.io/github/last-commit/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:958-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:959-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q)  
 
 ## **Planning**
 - **HiMap**: High Information Mapper (HiMap), successor of the Lead Optimization Mapper (LOMAP), includes design generation based on statistical optimality for alchemical free energy calculations and optimization of free energy perturbation networks.  

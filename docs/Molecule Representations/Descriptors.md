@@ -2,9 +2,6 @@
 icon: material/alphabet-greek
 ---
 
-
-## **nan**
-### **nan**
 - **CATS-descriptor**:   
 	[![Code](https://img.shields.io/github/stars/alexarnimueller/cats-descriptor?style=for-the-badge&logo=github)](https://github.com/alexarnimueller/cats-descriptor)  
 	[![Last Commit](https://img.shields.io/github/last-commit/alexarnimueller/cats-descriptor?style=for-the-badge&logo=github)](https://github.com/alexarnimueller/cats-descriptor)  
@@ -33,14 +30,14 @@ icon: material/alphabet-greek
 - **mordred**: A molecular descriptor calculator that is extendable and supports various chemical informatics tasks.  
 	[![Code](https://img.shields.io/github/stars/mordred-descriptor/mordred?style=for-the-badge&logo=github)](https://github.com/mordred-descriptor/mordred)  
 	[![Last Commit](https://img.shields.io/github/last-commit/mordred-descriptor/mordred?style=for-the-badge&logo=github)](https://github.com/mordred-descriptor/mordred)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:757-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-018-0258-y)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:759-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-018-0258-y)  
 - **PaDEL**: A software for calculating molecular descriptors and fingerprints.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2053-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21707)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:2054-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21707)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://yapcwsoft.com/dd/padeldescriptor/)  
 - **PadelPy**: A Python wrapper for PaDEL-Descriptor software (standalone)  
 	[![Code](https://img.shields.io/github/stars/ecrl/padelpy?style=for-the-badge&logo=github)](https://github.com/ecrl/padelpy)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ecrl/padelpy?style=for-the-badge&logo=github)](https://github.com/ecrl/padelpy)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2053-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21707)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:2054-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21707)  
 - **Spectrophores**: Calculates spectrophoric descriptors that capture electronic and spatial properties of molecules.  
 	[![Code](https://img.shields.io/github/stars/silicos-it/spectrophore?style=for-the-badge&logo=github)](https://github.com/silicos-it/spectrophore)  
 	[![Last Commit](https://img.shields.io/github/last-commit/silicos-it/spectrophore?style=for-the-badge&logo=github)](https://github.com/silicos-it/spectrophore)  
