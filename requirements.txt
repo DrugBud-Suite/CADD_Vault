@@ -8,3 +8,4 @@ openpyxl
 python-doi
 arxiv
 python-dotenv
+backoff
