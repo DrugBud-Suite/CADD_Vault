@@ -5,3 +5,4 @@ scripts/fix_excel_file.ipynb
 .vscode
 scripts/.env
 temp.ipynb
+.cache/
