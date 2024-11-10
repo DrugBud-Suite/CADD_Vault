@@ -46,9 +46,13 @@ class GithubUrlProcessor:
     @staticmethod
     def clean_url(url: str) -> Optional[str]:
         """Clean and validate GitHub URLs."""
+        # Remove trailing slashes and .git extension
+        url = url.rstrip('/')
         url = url.replace('.git', '')
-        match = re.match(r'https://github\.com/([^/]+)/([^/?#]+)', url)
-        return f"{match.group(1)}/{match.group(2)}" if match else None
+
+        # Try to match the GitHub URL pattern
+        match = re.match(r'https?://github\.com/([^/]+/[^/?#]+)', url)
+        return match.group(1) if match else None
 
 
 class BadgeGenerator:
@@ -58,17 +62,17 @@ class BadgeGenerator:
         """Generate GitHub-specific badges."""
         return (
             f"\t[![Code](https://img.shields.io/github/stars/{repo_path}?"
-            f"style=for-the-badge&logo=github)]({url})  \n"
-            f"\t[![Last Commit](https://img.shields.io/github/last-commit/{repo_path}?"
-            f"style=for-the-badge&logo=github)]({url})  \n")
+            f"style=for-the-badge&logo=github)]({url}) "
+            f"[![Last Commit](https://img.shields.io/github/last-commit/{repo_path}?"
+            f"style=for-the-badge&logo=github)]({url}) ")
 
     @staticmethod
     def publication_badge(url: str, citations: str) -> str:
         """Generate publication badge."""
         logo = 'arxiv' if 'rxiv' in url else 'bookstack'
         return (
-            f"\t[![Publication](https://img.shields.io/badge/Publication-"
-            f"Citations:{citations}-blue?style=for-the-badge&logo={logo})]({url})  \n"
+            f"[![Publication](https://img.shields.io/badge/Publication-"
+            f"Citations:{citations}-blue?style=for-the-badge&logo={logo})]({url}) "
         )
 
     @staticmethod
@@ -76,12 +80,12 @@ class BadgeGenerator:
         """Generate status badge for webserver or link."""
         if status == 'online':
             return (
-                f"\t[![{badge_type}](https://img.shields.io/badge/{badge_type}-online-"
-                f"brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)]({url})  \n"
+                f"[![{badge_type}](https://img.shields.io/badge/{badge_type}-online-"
+                f"brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)]({url}) "
             )
         return (
-            f"\t[![{badge_type}](https://img.shields.io/badge/{badge_type}-offline-"
-            f"red?style=for-the-badge&logo=xamarin&logoColor=red)]({url})  \n")
+            f"[![{badge_type}](https://img.shields.io/badge/{badge_type}-offline-"
+            f"red?style=for-the-badge&logo=xamarin&logoColor=red)]({url}) ")
 
 
 class MarkdownWriter:
@@ -286,7 +290,7 @@ class DocumentationGenerator:
     def _generate_entry_content(self, row: pd.Series) -> str:
         """Generate content for a documentation entry."""
         content = [
-            f"- **{row['ENTRY NAME']}**: {row['DESCRIPTION'] if pd.notna(row['DESCRIPTION']) else ''}  \n"
+            f"- **{row['ENTRY NAME']}**: {row['DESCRIPTION'] if pd.notna(row['DESCRIPTION']) else ''}  \n\t"
         ]
 
         if pd.notna(row['CODE']):
@@ -306,14 +310,22 @@ class DocumentationGenerator:
                     self.badge_generator.status_badge(row[field], status,
                                                       field.capitalize()))
 
+        content.append('\n')  # Add single newline at the end
         return ''.join(content)
 
     def _generate_code_badge(self, code_url: str) -> str:
         """Generate appropriate badge for code repository."""
         if 'github.com' in code_url and 'gist' not in code_url:
             if repo_path := GithubUrlProcessor.clean_url(code_url):
-                return self.badge_generator.github_badges(repo_path, code_url)
-        return f"\t[![Code](https://img.shields.io/badge/Code)]({code_url})\n"
+                try:
+                    return self.badge_generator.github_badges(
+                        repo_path, code_url)
+                except Exception as e:
+                    logging.warning(
+                        f"Failed to generate GitHub badges for {code_url}: {str(e)}"
+                    )
+        # Fallback to a simple badge
+        return f"[![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)]({code_url}) "
 
 
 def main():
