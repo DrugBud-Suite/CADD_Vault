@@ -31,6 +31,30 @@ theme:
   logo: images/caddvault_white_logo.svg
   favicon: images/caddvault_white_logo.svg
   features:
-  - navigation.top
-  - toc.follow
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
 repo_url: https://github.com/DrugBud-Suite/CADD_Vault
+extra:
+  analytics:
+    provider: google
+    property: G-DDYHHCRM5R
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of the CADD Vault and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make the CADD Vault better.
+    actions:
+      - accept
+      - reject
+      - manage
+plugins:
+  - privacy
+  - search
+copyright: >
+  Copyright &copy; 2024 Antoine Lacour –
+  <a href="#__consent">Change cookie settings</a>
