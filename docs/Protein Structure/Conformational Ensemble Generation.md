@@ -5,72 +5,42 @@ icon: material/set-split
 
 ## **Conformation Clustering**
 - **protein-cluster-conformers**: used to cluster a parsed set of monomeric protein chains via a global conformational change metric based on CA distances.  
-	[![Code](https://img.shields.io/github/stars/PDBeurope/protein-cluster-conformers?style=for-the-badge&logo=github)](https://github.com/PDBeurope/protein-cluster-conformers)  
-	[![Last Commit](https://img.shields.io/github/last-commit/PDBeurope/protein-cluster-conformers?style=for-the-badge&logo=github)](https://github.com/PDBeurope/protein-cluster-conformers)  
+		[![Code](https://img.shields.io/github/stars/PDBeurope/protein-cluster-conformers?style=for-the-badge&logo=github)](https://github.com/PDBeurope/protein-cluster-conformers) [![Last Commit](https://img.shields.io/github/last-commit/PDBeurope/protein-cluster-conformers?style=for-the-badge&logo=github)](https://github.com/PDBeurope/protein-cluster-conformers) 
 
 ## **MD**
 - **MDSubSampler**: a posteriori sampling of important protein conformations from biomolecular simulations (standalone)  
-	[![Code](https://img.shields.io/github/stars/alepandini/MDSubSampler?style=for-the-badge&logo=github)](https://github.com/alepandini/MDSubSampler)  
-	[![Last Commit](https://img.shields.io/github/last-commit/alepandini/MDSubSampler?style=for-the-badge&logo=github)](https://github.com/alepandini/MDSubSampler)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btad427)  
+		[![Code](https://img.shields.io/github/stars/alepandini/MDSubSampler?style=for-the-badge&logo=github)](https://github.com/alepandini/MDSubSampler) [![Last Commit](https://img.shields.io/github/last-commit/alepandini/MDSubSampler?style=for-the-badge&logo=github)](https://github.com/alepandini/MDSubSampler) [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btad427) 
 - **SubPEx**: Worth the Weight: Sub-Pocket EXplorer (SubPEx), a Weighted Ensemble Method to Enhance Binding-Pocket Conformational Sampling  
-	[![Code](https://img.shields.io/github/stars/durrantlab/subpex?style=for-the-badge&logo=github)](https://github.com/durrantlab/subpex/)  
-	[![Last Commit](https://img.shields.io/github/last-commit/durrantlab/subpex?style=for-the-badge&logo=github)](https://github.com/durrantlab/subpex/)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021%2Facs.jctc.3c00478)  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://durrantlab.com/subpex/)  
+		[![Code](https://img.shields.io/github/stars/durrantlab/subpex?style=for-the-badge&logo=github)](https://github.com/durrantlab/subpex/) [![Last Commit](https://img.shields.io/github/last-commit/durrantlab/subpex?style=for-the-badge&logo=github)](https://github.com/durrantlab/subpex/) [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021%2Facs.jctc.3c00478) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://durrantlab.com/subpex/) 
 
 ## **ML**
 - **AF2-Rave**: AF2-Rave combines AlphaFold2 with enhanced sampling to predict a range of conformations for a given protein sequence, aiming to generate Boltzmann-ranked conformations  
-	[![Code](https://img.shields.io/github/stars/tiwarylab/alphafold2rave?style=for-the-badge&logo=github)](https://github.com/tiwarylab/alphafold2rave)  
-	[![Last Commit](https://img.shields.io/github/last-commit/tiwarylab/alphafold2rave?style=for-the-badge&logo=github)](https://github.com/tiwarylab/alphafold2rave)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:41-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c00290)  
+		[![Code](https://img.shields.io/github/stars/tiwarylab/alphafold2rave?style=for-the-badge&logo=github)](https://github.com/tiwarylab/alphafold2rave) [![Last Commit](https://img.shields.io/github/last-commit/tiwarylab/alphafold2rave?style=for-the-badge&logo=github)](https://github.com/tiwarylab/alphafold2rave) [![Publication](https://img.shields.io/badge/Publication-Citations:41-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c00290) 
 - **AF-cluster**: This method predicts multiple protein conformations using sequence clustering and AlphaFold2, aiming to capture the diversity of protein structures.  
-	[![Code](https://img.shields.io/github/stars/HWaymentSteele/AF_Cluster?style=for-the-badge&logo=github)](https://github.com/HWaymentSteele/AF_Cluster)  
-	[![Last Commit](https://img.shields.io/github/last-commit/HWaymentSteele/AF_Cluster?style=for-the-badge&logo=github)](https://github.com/HWaymentSteele/AF_Cluster)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3410/f.742471530.793597305)  
+		[![Code](https://img.shields.io/github/stars/HWaymentSteele/AF_Cluster?style=for-the-badge&logo=github)](https://github.com/HWaymentSteele/AF_Cluster) [![Last Commit](https://img.shields.io/github/last-commit/HWaymentSteele/AF_Cluster?style=for-the-badge&logo=github)](https://github.com/HWaymentSteele/AF_Cluster) [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3410/f.742471530.793597305) 
 - **AFsample2**: a method employing random MSA column masking to reduce the influence of co-evolutionary signals to enhance the structural diversity of models generated by the AF2 neural network  
-	[![Code](https://img.shields.io/github/stars/iamysk/AFsample2?style=for-the-badge&logo=github)](https://github.com/iamysk/AFsample2)  
-	[![Last Commit](https://img.shields.io/github/last-commit/iamysk/AFsample2?style=for-the-badge&logo=github)](https://github.com/iamysk/AFsample2)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/springerreference_36022)  
+		[![Code](https://img.shields.io/github/stars/iamysk/AFsample2?style=for-the-badge&logo=github)](https://github.com/iamysk/AFsample2) [![Last Commit](https://img.shields.io/github/last-commit/iamysk/AFsample2?style=for-the-badge&logo=github)](https://github.com/iamysk/AFsample2) [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/springerreference_36022) 
 - **AlphaFlow**: AlphaFold Meets Flow Matching for Generating Protein Ensembles. (Note: There is a preprint challenging the claims in the AF-Cluster paper. You can read it **[here](https://doi.org/10.1101/2024.01.05.574434)**.)  
-	[![Code](https://img.shields.io/github/stars/bjing2016/alphaflow?style=for-the-badge&logo=github)](https://github.com/bjing2016/alphaflow)  
-	[![Last Commit](https://img.shields.io/github/last-commit/bjing2016/alphaflow?style=for-the-badge&logo=github)](https://github.com/bjing2016/alphaflow)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00309.s001)  
+		[![Code](https://img.shields.io/github/stars/bjing2016/alphaflow?style=for-the-badge&logo=github)](https://github.com/bjing2016/alphaflow) [![Last Commit](https://img.shields.io/github/last-commit/bjing2016/alphaflow?style=for-the-badge&logo=github)](https://github.com/bjing2016/alphaflow) [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00309.s001) 
 - **DeepConformer**: diffusion generative model for sampling protein conformation distributions from a given amino acid sequence  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.8b01609.s001)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.8b01609.s001) 
 - **EGDiff**: ExEnDiff: An Experiment-guided Diffusion model for protein conformational Ensemble generation  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acschembio.8b00231.s001)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acschembio.8b00231.s001) 
 - **ICoN**: Sampling Conformational Ensembles of Highly Dynamic Proteins via Generative Deep Learning  
-	[![Code](https://img.shields.io/github/stars/chang-group/ICoN?style=for-the-badge&logo=github)](https://github.com/chang-group/ICoN)  
-	[![Last Commit](https://img.shields.io/github/last-commit/chang-group/ICoN?style=for-the-badge&logo=github)](https://github.com/chang-group/ICoN)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21203/rs.3.rs-4301803/)  
+		[![Code](https://img.shields.io/github/stars/chang-group/ICoN?style=for-the-badge&logo=github)](https://github.com/chang-group/ICoN) [![Last Commit](https://img.shields.io/github/last-commit/chang-group/ICoN?style=for-the-badge&logo=github)](https://github.com/chang-group/ICoN) [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21203/rs.3.rs-4301803/) 
 - **Str2Str**: Str2Str is a score-based framework for zero-shot protein conformation sampling, drawing inspiration from traditional methods to sample conformations guided by a neural score network trained on the PDB database.  
-	[![Code](https://img.shields.io/github/stars/lujiarui/Str2Str?style=for-the-badge&logo=github)](https://github.com/lujiarui/Str2Str)  
-	[![Last Commit](https://img.shields.io/github/last-commit/lujiarui/Str2Str?style=for-the-badge&logo=github)](https://github.com/lujiarui/Str2Str)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1386-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ade2574)  
+		[![Code](https://img.shields.io/github/stars/lujiarui/Str2Str?style=for-the-badge&logo=github)](https://github.com/lujiarui/Str2Str) [![Last Commit](https://img.shields.io/github/last-commit/lujiarui/Str2Str?style=for-the-badge&logo=github)](https://github.com/lujiarui/Str2Str) [![Publication](https://img.shields.io/badge/Publication-Citations:1386-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ade2574) 
 
 ## **Other**
 - **AlphTraj**: AlphaTraj is software designed for analyzing pocket dynamics.  
-	[![Code](https://img.shields.io/github/stars/dooo12332/AlphaTraj?style=for-the-badge&logo=github)](https://github.com/dooo12332/AlphaTraj)  
-	[![Last Commit](https://img.shields.io/github/last-commit/dooo12332/AlphaTraj?style=for-the-badge&logo=github)](https://github.com/dooo12332/AlphaTraj)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.4c00476)  
+		[![Code](https://img.shields.io/github/stars/dooo12332/AlphaTraj?style=for-the-badge&logo=github)](https://github.com/dooo12332/AlphaTraj) [![Last Commit](https://img.shields.io/github/last-commit/dooo12332/AlphaTraj?style=for-the-badge&logo=github)](https://github.com/dooo12332/AlphaTraj) [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.4c00476) 
 - **DANCE**: DANCE is designed to process a set of input protein 3D structures provided in Crystallographic Information File (CIF) format and output protein or protein family-specific conformational collections in CIF or PDB format.  
-	[![Code](https://img.shields.io/github/stars/PhyloSofS-Team/DANCE?style=for-the-badge&logo=github)](https://github.com/PhyloSofS-Team/DANCE)  
-	[![Last Commit](https://img.shields.io/github/last-commit/PhyloSofS-Team/DANCE?style=for-the-badge&logo=github)](https://github.com/PhyloSofS-Team/DANCE)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41597-024-03524-5)  
+		[![Code](https://img.shields.io/github/stars/PhyloSofS-Team/DANCE?style=for-the-badge&logo=github)](https://github.com/PhyloSofS-Team/DANCE) [![Last Commit](https://img.shields.io/github/last-commit/PhyloSofS-Team/DANCE?style=for-the-badge&logo=github)](https://github.com/PhyloSofS-Team/DANCE) [![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41597-024-03524-5) 
 - **EnGens**: a computational framework for generation andanalysis of representative protein conformationalensembles (online)  
-	[![Code](https://img.shields.io/github/stars/KavrakiLab/EnGens?style=for-the-badge&logo=github)](https://github.com/KavrakiLab/EnGens)  
-	[![Last Commit](https://img.shields.io/github/last-commit/KavrakiLab/EnGens?style=for-the-badge&logo=github)](https://github.com/KavrakiLab/EnGens)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbad242)  
+		[![Code](https://img.shields.io/github/stars/KavrakiLab/EnGens?style=for-the-badge&logo=github)](https://github.com/KavrakiLab/EnGens) [![Last Commit](https://img.shields.io/github/last-commit/KavrakiLab/EnGens?style=for-the-badge&logo=github)](https://github.com/KavrakiLab/EnGens) [![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbad242) 
 - **GMdSilva**: Predicting Relative Populations of Protein Conformations without a Physics Engine Using AlphaFold2  
-	[![Code](https://img.shields.io/github/stars/GMdSilva/gms_natcomms_1705932980_data?style=for-the-badge&logo=github)](https://github.com/GMdSilva/gms_natcomms_1705932980_data)  
-	[![Last Commit](https://img.shields.io/github/last-commit/GMdSilva/gms_natcomms_1705932980_data?style=for-the-badge&logo=github)](https://github.com/GMdSilva/gms_natcomms_1705932980_data)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.bpj.2023.11.1283)  
+		[![Code](https://img.shields.io/github/stars/GMdSilva/gms_natcomms_1705932980_data?style=for-the-badge&logo=github)](https://github.com/GMdSilva/gms_natcomms_1705932980_data) [![Last Commit](https://img.shields.io/github/last-commit/GMdSilva/gms_natcomms_1705932980_data?style=for-the-badge&logo=github)](https://github.com/GMdSilva/gms_natcomms_1705932980_data) [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.bpj.2023.11.1283) 
 - **ICoN**: Sampling Conformational Ensembles of Highly Dynamic Proteins via Generative Deep Learning  
-	[![Code](https://img.shields.io/github/stars/chang-group/ICoN?style=for-the-badge&logo=github)](https://github.com/chang-group/ICoN)  
-	[![Last Commit](https://img.shields.io/github/last-commit/chang-group/ICoN?style=for-the-badge&logo=github)](https://github.com/chang-group/ICoN)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21203/rs.3.rs-4301803/)  
+		[![Code](https://img.shields.io/github/stars/chang-group/ICoN?style=for-the-badge&logo=github)](https://github.com/chang-group/ICoN) [![Last Commit](https://img.shields.io/github/last-commit/chang-group/ICoN?style=for-the-badge&logo=github)](https://github.com/chang-group/ICoN) [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21203/rs.3.rs-4301803/) 
 - **SMA-MD**: Generation of conformational ensembles of small molecules via surrogate model-assisted molecular dynamics  
-	[![Code](https://img.shields.io/github/stars/olsson-group/sma-md?style=for-the-badge&logo=github)](https://github.com/olsson-group/sma-md)  
-	[![Last Commit](https://img.shields.io/github/last-commit/olsson-group/sma-md?style=for-the-badge&logo=github)](https://github.com/olsson-group/sma-md)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1088/2632-2153/ad3b64)  
+		[![Code](https://img.shields.io/github/stars/olsson-group/sma-md?style=for-the-badge&logo=github)](https://github.com/olsson-group/sma-md) [![Last Commit](https://img.shields.io/github/last-commit/olsson-group/sma-md?style=for-the-badge&logo=github)](https://github.com/olsson-group/sma-md) [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1088/2632-2153/ad3b64) 
