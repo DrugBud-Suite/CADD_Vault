@@ -7,17 +7,17 @@ icon: material/dots-hexagon
 - **PGMG**: PGMG is a pharmacophore-guided deep learning approach for bioactive molecule generation, providing a strategy to generate molecules with structural diversity through the guidance of pharmacophore hypotheses.  
 	[![Code](https://img.shields.io/github/stars/CSUBioGroup/PGMG?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/PGMG)  
 	[![Last Commit](https://img.shields.io/github/last-commit/CSUBioGroup/PGMG?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/PGMG)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41467-023-41454-9)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:11-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41467-023-41454-9)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.csuligroup.com/PGMG)  
 
 ## **From Apo Protein**
 - **Apo2ph4**: Workflow for the Generation of Receptor-based Pharmacophore Models for Virtual Screening (online).  
 	[![Code](https://img.shields.io/github/stars/molinfo-vienna/apo2ph4?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/apo2ph4)  
 	[![Last Commit](https://img.shields.io/github/last-commit/molinfo-vienna/apo2ph4?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/apo2ph4)  
-- **PharmRL**:   
+- **PharmRL**: PharmRL: Pharmacophore elucidation with Deep Geometric Reinforcement Learning  
 	[![Code](https://img.shields.io/github/stars/RishalAggarwal/Pharmrl?style=for-the-badge&logo=github)](https://github.com/RishalAggarwal/Pharmrl)  
 	[![Last Commit](https://img.shields.io/github/last-commit/RishalAggarwal/Pharmrl?style=for-the-badge&logo=github)](https://github.com/RishalAggarwal/Pharmrl)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21203/rs.3.rs-5033986/v1)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21203/rs.3.rs-5033986/)  
 
 ## **From MD Simulations**
 - **DynoPhores**: DynoPhores introduces dynamic pharmacophore modeling of molecular interactions throughout MD simulations, tracking pharmacophore features and their interaction partners over time.  
@@ -34,6 +34,19 @@ icon: material/dots-hexagon
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://prody.csb.pitt.edu/pharmmaker/)  
 
 ## **Python**
+- **GRAIL**: GRids of phArmacophore Interaction fieLds  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.8b00495)  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://cdpkit.org/master/cdpl_api_doc/python_api_doc/namespaceCDPL_1_1GRAIL.html)  
+- **Qphar**: quantitative pharmacophore activity relationship  
+	[![Code](https://img.shields.io/github/stars/StefanKohlbacher/QuantPharmacophore?style=for-the-badge&logo=github)](https://github.com/StefanKohlbacher/QuantPharmacophore)  
+	[![Last Commit](https://img.shields.io/github/last-commit/StefanKohlbacher/QuantPharmacophore?style=for-the-badge&logo=github)](https://github.com/StefanKohlbacher/QuantPharmacophore)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00537-9)  
+- **CDPKit Pharm**:   
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://cdpkit.org/master/cdpl_api_doc/python_api_doc/namespaceCDPL_1_1Pharm.html)  
+- **PharmacoMatch**: 3D Pharmacophore Screening through Neural Subgraph Matching  
+	[![Code](https://img.shields.io/github/stars/molinfo-vienna/PharmacoMatch?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/PharmacoMatch)  
+	[![Last Commit](https://img.shields.io/github/last-commit/molinfo-vienna/PharmacoMatch?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/PharmacoMatch)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci700024q.s014)  
 - **2DPharmSearch**: 2DPharmSearch is a simple RDKit script for scaffold hopping experiments, utilizing 2D pharmacophore comparisons against a library of compounds to identify structurally similar molecules.  
 	[![Code](https://img.shields.io/github/stars/arthuc01/2d-pharmacophore-search?style=for-the-badge&logo=github)](https://github.com/arthuc01/2d-pharmacophore-search)  
 	[![Last Commit](https://img.shields.io/github/last-commit/arthuc01/2d-pharmacophore-search?style=for-the-badge&logo=github)](https://github.com/arthuc01/2d-pharmacophore-search)  
@@ -44,7 +57,7 @@ icon: material/dots-hexagon
 - **Align-it**: Align-it is a tool for aligning molecules according to their pharmacophores, facilitating the comparison and matching of molecular structures based on pharmacophoric features.  
 	[![Code](https://img.shields.io/github/stars/OliverBScott/align-it?style=for-the-badge&logo=github)](https://github.com/OliverBScott/align-it)  
 	[![Last Commit](https://img.shields.io/github/last-commit/OliverBScott/align-it?style=for-the-badge&logo=github)](https://github.com/OliverBScott/align-it)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:102-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.jmgm.2008.04.003)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:103-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.jmgm.2008.04.003)  
 - **apo2ph4**: apo2ph4 offers a versatile workflow for generating receptor-based pharmacophore models for virtual screening, focusing on the identification and utilization of pharmacophoric features derived from protein structures.  
 	[![Code](https://img.shields.io/github/stars/molinfo-vienna/apo2ph4?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/apo2ph4)  
 	[![Last Commit](https://img.shields.io/github/last-commit/molinfo-vienna/apo2ph4?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/apo2ph4)  
@@ -58,11 +71,11 @@ icon: material/dots-hexagon
 - **PharmacoNet**: PharmacoNet is designed for accelerating large-scale virtual screening by incorporating deep pharmacophore modeling, achieving rapid and reasonably accurate structure-based scoring.  
 	[![Code](https://img.shields.io/github/stars/SeonghwanSeo/PharmacoNet?style=for-the-badge&logo=github)](https://github.com/SeonghwanSeo/PharmacoNet)  
 	[![Last Commit](https://img.shields.io/github/last-commit/SeonghwanSeo/PharmacoNet?style=for-the-badge&logo=github)](https://github.com/SeonghwanSeo/PharmacoNet)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2310.03223)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d4sc04854g)  
 - **PharmRF**: PharmRF introduces a new scoring function to select the best crystal structures for pharmacophore-based virtual screening, employing a random forest regressor to predict high-affinity ligands.  
 	[![Code](https://img.shields.io/github/stars/Prasanth-Kumar87/PharmRF?style=for-the-badge&logo=github)](https://github.com/Prasanth-Kumar87/PharmRF)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Prasanth-Kumar87/PharmRF?style=for-the-badge&logo=github)](https://github.com/Prasanth-Kumar87/PharmRF)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.26840.)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.26840)  
 - **PMapper**: PMapper is a Python module designed to generate 3D pharmacophore signatures and fingerprints, enabling fast identification of identical pharmacophores through unique hash encoding.  
 	[![Code](https://img.shields.io/github/stars/DrrDom/pmapper?style=for-the-badge&logo=github)](https://github.com/DrrDom/pmapper)  
 	[![Last Commit](https://img.shields.io/github/last-commit/DrrDom/pmapper?style=for-the-badge&logo=github)](https://github.com/DrrDom/pmapper)  
@@ -84,5 +97,5 @@ icon: material/dots-hexagon
 
 ## **Web-Servers**
 - **Pharmit**: Pharmit provides an interactive environment for the identification and visualization of pharmacophore models, enabling virtual screening against millions of compounds. It offers tools for specifying pharmacophores, flexibly searching chemical databases, and viewing results in 3D directly in the web browser.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:239-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkw287)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:242-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkw287)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pharmit.csb.pitt.edu/)  

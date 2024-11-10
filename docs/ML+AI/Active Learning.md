@@ -20,19 +20,19 @@ icon: material/school
 - **Conformalpredictor**: Rapid Traversal of Ultralarge Chemical Space using Machine Learning Guided Docking Screens (standalone).  
 	[![Code](https://img.shields.io/github/stars/Carlssonlab/conformalpredictor?style=for-the-badge&logo=github)](https://github.com/Carlssonlab/conformalpredictor)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Carlssonlab/conformalpredictor?style=for-the-badge&logo=github)](https://github.com/Carlssonlab/conformalpredictor)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=arxiv)](https://doi.org/10.26434/chemrxiv-2023-w3x36)  
-- **DeepDocking**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00055.s001)  
+- **DeepDocking**: Deep Docking: A Deep Learning Platform for Augmentation of Structure Based Drug Discovery  
 	[![Code](https://img.shields.io/github/stars/jamesgleave/Deep-Docking-NonAutomated?style=for-the-badge&logo=github)](https://github.com/jamesgleave/Deep-Docking-NonAutomated)  
 	[![Last Commit](https://img.shields.io/github/last-commit/jamesgleave/Deep-Docking-NonAutomated?style=for-the-badge&logo=github)](https://github.com/jamesgleave/Deep-Docking-NonAutomated)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.0c00229).)  
-- **HASTEN**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:244-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.0c00229)  
+- **HASTEN**: Machine Learning Boosted Docking (HASTEN): An Open‐source Tool To Accelerate Structure‐based Virtual Screening Campaigns  
 	[![Code](https://img.shields.io/github/stars/TuomoKalliokoski/HASTEN?style=for-the-badge&logo=github)](https://github.com/TuomoKalliokoski/HASTEN)  
 	[![Last Commit](https://img.shields.io/github/last-commit/TuomoKalliokoski/HASTEN?style=for-the-badge&logo=github)](https://github.com/TuomoKalliokoski/HASTEN)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/minf.202100089)  
 - **molpal**: Molecular Pool-based Active Learning  
 	[![Code](https://img.shields.io/github/stars/coleygroup/molpal?style=for-the-badge&logo=github)](https://github.com/coleygroup/molpal)  
 	[![Last Commit](https://img.shields.io/github/last-commit/coleygroup/molpal?style=for-the-badge&logo=github)](https://github.com/coleygroup/molpal)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:159-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D0SC06805E)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:164-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D0SC06805E)  
 - **PyRMD2Dock**: Streamlining Large Chemical Library Docking with Artificial Intelligence: the PyRMD2Dock (and PyRMD) (ultralarge screening - 2023) (standalone).  
 	[![Code](https://img.shields.io/github/stars/cosconatilab/PyRMD?style=for-the-badge&logo=github)](https://github.com/cosconatilab/PyRMD)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cosconatilab/PyRMD?style=for-the-badge&logo=github)](https://github.com/cosconatilab/PyRMD)  
@@ -40,12 +40,12 @@ icon: material/school
 - **RAD**: Retrieval Augmented Docking (standalone, 2024).  
 	[![Code](https://img.shields.io/github/stars/keiserlab/rad?style=for-the-badge&logo=github)](https://github.com/keiserlab/rad)  
 	[![Last Commit](https://img.shields.io/github/last-commit/keiserlab/rad?style=for-the-badge&logo=github)](https://github.com/keiserlab/rad)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=arxiv)](https://doi.org/10.26434/chemrxiv-2024-qsdd1)  
-- **RAD (Retrieval Augmented Docking)**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00683.s001)  
+- **RAD (Retrieval Augmented Docking)**: Retrieval Augmented Docking Using Hierarchical Navigable Small Worlds  
 	[![Code](https://img.shields.io/github/stars/keiserlab/rad?style=for-the-badge&logo=github)](https://github.com/keiserlab/rad)  
 	[![Last Commit](https://img.shields.io/github/last-commit/keiserlab/rad?style=for-the-badge&logo=github)](https://github.com/keiserlab/rad)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00683)  
 
 ## **Reviews**
-- **Understanding active learning of molecular docking and its applications**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2406.12919)  
+- **Understanding active learning of molecular docking and its applications**: Understanding active learning of molecular docking and its applications  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.32657/10356/69462)  

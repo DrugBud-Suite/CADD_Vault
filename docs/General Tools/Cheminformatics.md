@@ -6,7 +6,7 @@ icon: material/molecule
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.chemaxon.com/)  
 
 ## **Chemical Formulas**
-- **ChemFormula**:   
+- **ChemFormula**: ON A SYSTEM OF INDEXING CHEMICAL LITERATURE; ADOPTED BY THE CLASSIFICATION DIVISION OF THE U. S. PATENT OFFICE.<sup>1</sup>  
 	[![Code](https://img.shields.io/github/stars/molshape/ChemFormula?style=for-the-badge&logo=github)](https://github.com/molshape/ChemFormula)  
 	[![Last Commit](https://img.shields.io/github/last-commit/molshape/ChemFormula?style=for-the-badge&logo=github)](https://github.com/molshape/ChemFormula)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:100-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja02046a005)  
@@ -25,10 +25,10 @@ icon: material/molecule
 	[![Last Commit](https://img.shields.io/github/last-commit/Actelion/openchemlib?style=for-the-badge&logo=github)](https://github.com/Actelion/openchemlib)  
 
 ## **NMR**
-- **nmrglue**:   
+- **nmrglue**: Nmrglue: an open source Python package for the analysis of multidimensional NMR data  
 	[![Code](https://img.shields.io/github/stars/jjhelmus/nmrglue?style=for-the-badge&logo=github)](https://github.com/jjhelmus/nmrglue)  
 	[![Last Commit](https://img.shields.io/github/last-commit/jjhelmus/nmrglue?style=for-the-badge&logo=github)](https://github.com/jjhelmus/nmrglue)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:258-blue?style=for-the-badge&logo=bookstack)](http://dx.doi.org/10.1007/s10858-013-9718-x)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:264-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10858-013-9718-x)  
 
 ## **Other**
 - **LillyMol**: Eli Lilly set of cheminformatic tools (standalone)  
@@ -57,11 +57,11 @@ icon: material/molecule
 - **ODDT**: Open Drug Discovery Toolkit, toolkit for drug discovery (standalone)  
 	[![Code](https://img.shields.io/github/stars/oddt/oddt?style=for-the-badge&logo=github)](https://github.com/oddt/oddt)  
 	[![Last Commit](https://img.shields.io/github/last-commit/oddt/oddt?style=for-the-badge&logo=github)](https://github.com/oddt/oddt)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:151-blue?style=for-the-badge&logo=bookstack)](https://dx.doi.org/10.1186/s13321-015-0078-2)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:152-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-015-0078-2)  
 - **OpenBabel**: toolkit for drug discovery, file format etc (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:6309-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6332-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33)  
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://openbabel.org/wiki/Main_Page)  
-- **RDKit**:   
+- **RDKit**: Scopy: an integrated negative design python library for desirable HTS/VS database design  
 	[![Code](https://img.shields.io/github/stars/rdkit/rdkit?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rdkit/rdkit?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:26-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbaa194)  
@@ -74,13 +74,13 @@ icon: material/molecule
 - **aqme**: AQME, or Automated Quantum Mechanical Environments, facilitates transparent and reproducible quantum chemistry workflows, supporting tasks like conformer generation, QM input file creation, and descriptor generation.  
 	[![Code](https://img.shields.io/github/stars/jvalegre/aqme?style=for-the-badge&logo=github)](https://github.com/jvalegre/aqme)  
 	[![Last Commit](https://img.shields.io/github/last-commit/jvalegre/aqme?style=for-the-badge&logo=github)](https://github.com/jvalegre/aqme)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/wcms.1663).)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/wcms.1663)  
 - **psikit**: Psikit is a Python library that serves as a wrapper for Psi4 and RDKit, designed for quick quantum chemical calculations and molecular manipulation.  
 	[![Code](https://img.shields.io/github/stars/Mishima-syk/psikit?style=for-the-badge&logo=github)](https://github.com/Mishima-syk/psikit)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Mishima-syk/psikit?style=for-the-badge&logo=github)](https://github.com/Mishima-syk/psikit)  
 
 ## **Reaction Tools**
-- **ChemPy**:   
+- **ChemPy**: ChemPy: A package useful for chemistry written in Python  
 	[![Code](https://img.shields.io/github/stars/bjodah/chempy?style=for-the-badge&logo=github)](https://github.com/bjodah/chempy)  
 	[![Last Commit](https://img.shields.io/github/last-commit/bjodah/chempy?style=for-the-badge&logo=github)](https://github.com/bjodah/chempy)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21105/joss.00565)  

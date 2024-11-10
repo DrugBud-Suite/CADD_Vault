@@ -6,12 +6,12 @@ icon: material/alpha-h-box
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c02013)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.computbiophys.com/DeepKa/main)  
 - **H++**: automated system that computes pK values of ionizable groups in macromolecules and adds missing hydrogen atoms according to the specified pH of the environment (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1298-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgki464)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1312-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgki464)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://biophysics.cs.vt.edu/)  
-- **propka**:   
+- **propka**: Improved Treatment of Ligands and Coupling Effects in Empirical Calculation and Rationalization of p<i>K</i><sub>a</sub> Values  
 	[![Code](https://img.shields.io/github/stars/jensengroup/propka?style=for-the-badge&logo=github)](https://github.com/jensengroup/propka)  
 	[![Last Commit](https://img.shields.io/github/last-commit/jensengroup/propka?style=for-the-badge&logo=github)](https://github.com/jensengroup/propka)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1492-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ct200133y)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1498-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ct200133y)  
 - **ProteinPrepare**:   
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.playmolecule.org/)  
 - **PypKa**: a flexible Python module for Poisson-Boltzmann based pKa calculations (for proteins) (standalone)  

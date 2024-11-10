@@ -4,7 +4,7 @@ icon: material/format-text-rotation-none
 
 
 ## **Other Representations**
-- **selfies**:   
+- **selfies**: Recent advances in the self-referencing embedded strings (SELFIES) library  
 	[![Code](https://img.shields.io/github/stars/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies)  
 	[![Last Commit](https://img.shields.io/github/last-commit/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3DD00044C)  
@@ -21,8 +21,8 @@ icon: material/format-text-rotation-none
 - **ClearSMILES**: stochastic data augmentation procedure called ClearSMILES, which reduces the vocabulary size needed  
 	[![Code](https://img.shields.io/github/stars/EtienneReboul/ClearSMILES?style=for-the-badge&logo=github)](https://github.com/EtienneReboul/ClearSMILES)  
 	[![Last Commit](https://img.shields.io/github/last-commit/EtienneReboul/ClearSMILES?style=for-the-badge&logo=github)](https://github.com/EtienneReboul/ClearSMILES)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.10.07.617002)  
-- **maxsmi**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00512.s001)  
+- **maxsmi**: Maxsmi: Maximizing molecular property prediction performance with confidence estimation using SMILES augmentation and deep learning  
 	[![Code](https://img.shields.io/github/stars/volkamerlab/maxsmi?style=for-the-badge&logo=github)](https://github.com/volkamerlab/maxsmi)  
 	[![Last Commit](https://img.shields.io/github/last-commit/volkamerlab/maxsmi?style=for-the-badge&logo=github)](https://github.com/volkamerlab/maxsmi)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:6-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.ailsci.2021.100014)  

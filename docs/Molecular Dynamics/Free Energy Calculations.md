@@ -15,18 +15,18 @@ icon: material/lightning-bolt
 - **OpenFF Benchmark**: Protein-Ligand Benchmark Dataset for testing Parameters and Methods of Free Energy Calculations.  
 	[![Code](https://img.shields.io/github/stars/openforcefield/protein-ligand-benchmark?style=for-the-badge&logo=github)](https://github.com/openforcefield/protein-ligand-benchmark)  
 	[![Last Commit](https://img.shields.io/github/last-commit/openforcefield/protein-ligand-benchmark?style=for-the-badge&logo=github)](https://github.com/openforcefield/protein-ligand-benchmark)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.5281/zenodo.4813735.svg)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.5281/zenodo.4813735)  
 
 ## **Classical**
 - **alchemlyb**:   
 	[![Code](https://img.shields.io/github/stars/alchemistry/alchemlyb?style=for-the-badge&logo=github)](https://github.com/alchemistry/alchemlyb)  
 	[![Last Commit](https://img.shields.io/github/last-commit/alchemistry/alchemlyb?style=for-the-badge&logo=github)](https://github.com/alchemistry/alchemlyb)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://zenodo.org/badge/latestdoi/68669096)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](68669096)  
 - **BAT**: Binding Affinity Tool (BAT.py) is a python tool for fully automated absolute binding free energy (ABFE) calculations using all-atom Molecular Dynamics (MD)  
 	[![Code](https://img.shields.io/github/stars/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
 	[![Last Commit](https://img.shields.io/github/last-commit/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:65-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-020-80769-1)  
-- **BAT2**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:66-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-020-80769-1)  
+- **BAT2**: BAT2: an Open-Source Tool for Flexible, Automated, and Low Cost Absolute Binding Free Energy Calculations  
 	[![Code](https://img.shields.io/github/stars/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
 	[![Last Commit](https://img.shields.io/github/last-commit/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.4c00205)  
@@ -40,7 +40,7 @@ icon: material/lightning-bolt
 - **OpenFE**: A Python package for executing alchemical free energy calculations  
 	[![Code](https://img.shields.io/github/stars/OpenFreeEnergy/openfe?style=for-the-badge&logo=github)](https://github.com/OpenFreeEnergy/openfe)  
 	[![Last Commit](https://img.shields.io/github/last-commit/OpenFreeEnergy/openfe?style=for-the-badge&logo=github)](https://github.com/OpenFreeEnergy/openfe)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.5281/zenodo.8344248.svg)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.5281/zenodo.8344248)  
 - **pAPRika**: pAPRika is a toolkit for setting up, running, and analyzing free energy molecular dynamics simulations.  
 	[![Code](https://img.shields.io/github/stars/GilsonLabUCSD/pAPRika?style=for-the-badge&logo=github)](https://github.com/GilsonLabUCSD/pAPRika)  
 	[![Last Commit](https://img.shields.io/github/last-commit/GilsonLabUCSD/pAPRika?style=for-the-badge&logo=github)](https://github.com/GilsonLabUCSD/pAPRika)  
@@ -55,7 +55,7 @@ icon: material/lightning-bolt
 - **ATM_with_NNPs**: Enhancing Protein-Ligand Binding Affinity Predictions Using Neural Network Potentials  
 	[![Code](https://img.shields.io/github/stars/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs)  
 	[![Last Commit](https://img.shields.io/github/last-commit/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:959-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:961-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q)  
 
 ## **Planning**
 - **HiMap**: High Information Mapper (HiMap), successor of the Lead Optimization Mapper (LOMAP), includes design generation based on statistical optimality for alchemical free energy calculations and optimization of free energy perturbation networks.  
@@ -71,4 +71,4 @@ icon: material/lightning-bolt
 - **Kartograf**: Kartograf is a package focusing on 3D geometry-based atom mappings, useful for generating hybrid topology systems in free energy calculations and other applications.  
 	[![Code](https://img.shields.io/github/stars/OpenFreeEnergy/kartograf?style=for-the-badge&logo=github)](https://github.com/OpenFreeEnergy/kartograf)  
 	[![Last Commit](https://img.shields.io/github/last-commit/OpenFreeEnergy/kartograf?style=for-the-badge&logo=github)](https://github.com/OpenFreeEnergy/kartograf)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c01206).)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c01206)  

@@ -7,7 +7,7 @@ icon: material/filter-variant
 - **Chem-Faiss**: Chem-Faiss utilizes vector similarity search from Faiss combined with chemical fingerprinting to build a scalable similarity search architecture for compounds/molecules.  
 	[![Code](https://img.shields.io/github/stars/ritabratamaiti/Chem-Faiss?style=for-the-badge&logo=github)](https://github.com/ritabratamaiti/Chem-Faiss)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ritabratamaiti/Chem-Faiss?style=for-the-badge&logo=github)](https://github.com/ritabratamaiti/Chem-Faiss)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://zenodo.org/badge/latestdoi/267277104)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](267277104)  
 - **eiR**: eiR is a Bioconductor package for accelerated structure similarity searching of small molecules using an embedding and indexing approach.  
 	[![Code](https://img.shields.io/github/stars/girke-lab/eiR?style=for-the-badge&logo=github)](https://github.com/girke-lab/eiR)  
 	[![Last Commit](https://img.shields.io/github/last-commit/girke-lab/eiR?style=for-the-badge&logo=github)](https://github.com/girke-lab/eiR)  
@@ -33,7 +33,7 @@ icon: material/filter-variant
 - **SmallWorld**: web-based ligand similarity on a variety of commercial databases  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://sw.docking.org/search.html)  
 - **SwissSimilarity**: SwissSimilarity offers an online service for small molecule similarity screening against selected compound libraries using various cheminformatics methods.  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:73-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390%2Fijms23020811)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:75-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390%2Fijms23020811)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.swisssimilarity.ch/)  
 - **WHALES**: WHALES provides a virtual screening pipeline focusing on scaffold hopping and ligand-based drug discovery through a Jupyter notebook example.  
 	[![Code](https://img.shields.io/github/stars/grisoniFr/scaffold_hopping_whales?style=for-the-badge&logo=github)](https://github.com/grisoniFr/scaffold_hopping_whales/blob/master/code/virtual_screening_pipeline.ipynb)  
@@ -47,11 +47,11 @@ icon: material/filter-variant
 - **ROSHAMBO**: Open-Source Molecular Alignment and 3D Similarity Scoring  
 	[![Code](https://img.shields.io/github/stars/molecularinformatics/roshambo?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/roshambo)  
 	[![Last Commit](https://img.shields.io/github/last-commit/molecularinformatics/roshambo?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/roshambo)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=arxiv)](https://doi.org/10.26434/chemrxiv-2024-6wk09)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c01225)  
 - **SCRdkit**: assesses the 3D similarity between generated molecules and a reference molecule  
 	[![Code](https://img.shields.io/github/stars/oxpig/DEVELOP?style=for-the-badge&logo=github)](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py)  
 	[![Last Commit](https://img.shields.io/github/last-commit/oxpig/DEVELOP?style=for-the-badge&logo=github)](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2021.04.27.441676v1.full)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:48-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d1sc02436a)  
 - **SENSAAS**: SENSAAS is a shape-based alignment software for superimposing molecules, utilizing a colored point-based surface representation for molecular comparison.  
 	[![Code](https://img.shields.io/github/stars/SENSAAS/sensaas?style=for-the-badge&logo=github)](https://github.com/SENSAAS/sensaas)  
 	[![Last Commit](https://img.shields.io/github/last-commit/SENSAAS/sensaas?style=for-the-badge&logo=github)](https://github.com/SENSAAS/sensaas)  
@@ -61,7 +61,7 @@ icon: material/filter-variant
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://users.abo.fi/mivainio/shaep/)  
 
 ## **GPU**
-- **Open_ChemSearch**:   
+- **Open_ChemSearch**: Open-Source Approach to GPU-Accelerated Substructure Search  
 	[![Code](https://img.shields.io/github/stars/ZIFODS/Open_ChemSearch?style=for-the-badge&logo=github)](https://github.com/ZIFODS/Open_ChemSearch)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ZIFODS/Open_ChemSearch?style=for-the-badge&logo=github)](https://github.com/ZIFODS/Open_ChemSearch)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00679)  
@@ -77,13 +77,13 @@ icon: material/filter-variant
 	[![Last Commit](https://img.shields.io/github/last-commit/ashvardanian/usearch-molecules?style=for-the-badge&logo=github)](https://github.com/ashvardanian/usearch-molecules)  
 
 ## **Sequence-based potency prediction**
-- **BIND**:   
+- **BIND**: Protein language models are performant in structure-free virtual screening  
 	[![Code](https://img.shields.io/github/stars/Chokyotager/BIND?style=for-the-badge&logo=github)](https://github.com/Chokyotager/BIND)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Chokyotager/BIND?style=for-the-badge&logo=github)](https://github.com/Chokyotager/BIND)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.04.16.589765)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbae480)  
 
 ## **Similarity calculations**
-- **iSIM**:   
+- **iSIM**: Exposing the Limitations of Molecular Machine Learning with Activity Cliffs  
 	[![Code](https://img.shields.io/github/stars/mqcomplab/iSIM?style=for-the-badge&logo=github)](https://github.com/mqcomplab/iSIM/blob/main/iSIM_example.ipynb)  
 	[![Last Commit](https://img.shields.io/github/last-commit/mqcomplab/iSIM?style=for-the-badge&logo=github)](https://github.com/mqcomplab/iSIM/blob/main/iSIM_example.ipynb)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:70-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c01073)  

@@ -14,7 +14,7 @@ icon: material/tune-vertical
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1063/5.0218154)  
 
 ## **logP**
-- **OWPCP**:   
+- **OWPCP**: OWPCP: A Deep Learning Model to Predict Octanol-Water Partition Coefficient  
 	[![Code](https://img.shields.io/github/stars/jmohammadmaleki/OWPCP?style=for-the-badge&logo=github)](https://github.com/jmohammadmaleki/OWPCP.git)  
 	[![Last Commit](https://img.shields.io/github/last-commit/jmohammadmaleki/OWPCP?style=for-the-badge&logo=github)](https://github.com/jmohammadmaleki/OWPCP.git)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2410.18118)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-981-99-9283-6_1969)  

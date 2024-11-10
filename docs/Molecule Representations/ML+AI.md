@@ -11,7 +11,7 @@ icon: simple/adobeillustrator
 - **molfeat**:   
 	[![Code](https://img.shields.io/github/stars/datamol-io/molfeat?style=for-the-badge&logo=github)](https://github.com/datamol-io/molfeat)  
 	[![Last Commit](https://img.shields.io/github/last-commit/datamol-io/molfeat?style=for-the-badge&logo=github)](https://github.com/datamol-io/molfeat)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://zenodo.org/badge/latestdoi/613548667)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](613548667)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://molfeat.datamol.io/)  
 
 ## **Transformer**
@@ -24,4 +24,4 @@ icon: simple/adobeillustrator
 - **BERT**: A transformer model specifically designed for molecular property prediction tasks.  
 	[![Code](https://img.shields.io/github/stars/odb9402/MoleculeTransformer?style=for-the-badge&logo=github)](https://github.com/odb9402/MoleculeTransformer)  
 	[![Last Commit](https://img.shields.io/github/last-commit/odb9402/MoleculeTransformer?style=for-the-badge&logo=github)](https://github.com/odb9402/MoleculeTransformer)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://proceedings.mlr.press/v106/shin19a.html)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](shin19a)  

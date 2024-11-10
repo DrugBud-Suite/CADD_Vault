@@ -3,8 +3,8 @@ icon: material/arrow-decision-auto
 ---
 
 - **Airflow**: Python-based workflow system created by AirBnb.  
-	[![Code](https://img.shields.io/github/stars/airbnb/airflow?style=for-the-badge&logo=github)](https://github.com/airbnb/airflow)  
-	[![Last Commit](https://img.shields.io/github/last-commit/airbnb/airflow?style=for-the-badge&logo=github)](https://github.com/airbnb/airflow)  
+	[![Code](https://img.shields.io/github/stars/apache/airflow?style=for-the-badge&logo=github)](https://github.com/apache/airflow)  
+	[![Last Commit](https://img.shields.io/github/last-commit/apache/airflow?style=for-the-badge&logo=github)](https://github.com/apache/airflow)  
 - **Balsam**: Python-based high throughput task and workflow engine.  
 	[![Code](https://img.shields.io/github/stars/argonne-lcf/balsam?style=for-the-badge&logo=github)](https://github.com/argonne-lcf/balsam)  
 	[![Last Commit](https://img.shields.io/github/last-commit/argonne-lcf/balsam?style=for-the-badge&logo=github)](https://github.com/argonne-lcf/balsam)  
@@ -23,15 +23,15 @@ icon: material/arrow-decision-auto
 - **DVC**: Data version control system for ML project with lightweight pipeline support.  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://dvc.org)  
 - **Flyte**: Container-native type-safe workflow and pipelines platform for large scale processing and ML.  
-	[![Code](https://img.shields.io/github/stars/lyft/flyte?style=for-the-badge&logo=github)](https://github.com/lyft/flyte)  
-	[![Last Commit](https://img.shields.io/github/last-commit/lyft/flyte?style=for-the-badge&logo=github)](https://github.com/lyft/flyte)  
+	[![Code](https://img.shields.io/github/stars/flyteorg/flyte?style=for-the-badge&logo=github)](https://github.com/flyteorg/flyte)  
+	[![Last Commit](https://img.shields.io/github/last-commit/flyteorg/flyte?style=for-the-badge&logo=github)](https://github.com/flyteorg/flyte)  
 - **IPython**: A rich architecture for interactive computing.  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://ipython.org/)  
 - **Jupyter**: Language-agnostic notebook literate programming environment.  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://jupyter.org/)  
 - **Kedro**: Workflow development tool that helps you build data pipelines.  
-	[![Code](https://img.shields.io/github/stars/quantumblacklabs/kedro?style=for-the-badge&logo=github)](https://github.com/quantumblacklabs/kedro)  
-	[![Last Commit](https://img.shields.io/github/last-commit/quantumblacklabs/kedro?style=for-the-badge&logo=github)](https://github.com/quantumblacklabs/kedro)  
+	[![Code](https://img.shields.io/github/stars/kedro-org/kedro?style=for-the-badge&logo=github)](https://github.com/kedro-org/kedro)  
+	[![Last Commit](https://img.shields.io/github/last-commit/kedro-org/kedro?style=for-the-badge&logo=github)](https://github.com/kedro-org/kedro)  
 - **Kubeflow Pipelines**: Framework for building and deploying portable scalable machine learning workflows using Docker containers and Argo Workflows.  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.kubeflow.org/docs/components/pipelines/)  
 - **Luigi**: Python module that helps you build complex pipelines of batch jobs.  

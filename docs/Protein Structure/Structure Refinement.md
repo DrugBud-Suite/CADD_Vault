@@ -13,7 +13,7 @@ icon: material/cog-refresh
 - **FASPR**: An Open-Source Tool for Fast and Accurate Protein Side-Chain Packing (standalone on github and online)  
 	[![Code](https://img.shields.io/github/stars/tommyhuangthu/FASPR?style=for-the-badge&logo=github)](https://github.com/tommyhuangthu/FASPR)  
 	[![Last Commit](https://img.shields.io/github/last-commit/tommyhuangthu/FASPR?style=for-the-badge&logo=github)](https://github.com/tommyhuangthu/FASPR)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:66-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btaa234)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:68-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btaa234)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://zhanglab.ccmb.med.umich.edu/FASPR)  
 - **FG-MD**: molecular dynamics (MD) based algorithm for atomic-level protein structure refinement (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:283-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.str.2011.09.022)  

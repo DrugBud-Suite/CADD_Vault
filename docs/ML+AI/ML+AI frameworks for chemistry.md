@@ -5,20 +5,20 @@ icon: simple/adobeillustrator
 - **AIRS**: AIRS is a collection of open-source software tools, datasets, and benchmarks associated with our paper entitled “Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems”  
 	[![Code](https://img.shields.io/github/stars/divelab/AIRS?style=for-the-badge&logo=github)](https://github.com/divelab/AIRS/tree/main)  
 	[![Last Commit](https://img.shields.io/github/last-commit/divelab/AIRS?style=for-the-badge&logo=github)](https://github.com/divelab/AIRS/tree/main)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2307.08423)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1201/9781003374404-1)  
 - **AMPL**: A Data-Driven Modeling Pipeline for Drug Discovery (ATOM Modeling PipeLine) (standalone)  
 	[![Code](https://img.shields.io/github/stars/ATOMScience-org/AMPL?style=for-the-badge&logo=github)](https://github.com/ATOMScience-org/AMPL)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ATOMScience-org/AMPL?style=for-the-badge&logo=github)](https://github.com/ATOMScience-org/AMPL)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:59-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01053)  
-- **cgcnn**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:60-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01053)  
+- **cgcnn**: Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties  
 	[![Code](https://img.shields.io/github/stars/txie-93/cgcnn?style=for-the-badge&logo=github)](https://github.com/txie-93/cgcnn)  
 	[![Last Commit](https://img.shields.io/github/last-commit/txie-93/cgcnn?style=for-the-badge&logo=github)](https://github.com/txie-93/cgcnn)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:1349-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1103/PhysRevLett.120.145301)  
-- **chainer-chemistry**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1360-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1103/PhysRevLett.120.145301)  
+- **chainer-chemistry**: BayesGrad: Explaining Predictions of Graph Convolutional Networks  
 	[![Code](https://img.shields.io/github/stars/chainer/chainer-chemistry?style=for-the-badge&logo=github)](https://github.com/chainer/chainer-chemistry)  
 	[![Last Commit](https://img.shields.io/github/last-commit/chainer/chainer-chemistry?style=for-the-badge&logo=github)](https://github.com/chainer/chainer-chemistry)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:5-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-3-030-04221-9_8)  
-- **ChemML**:   
+- **ChemML**: <i>ChemML</i>: A machine learning and informatics program package for the analysis, mining, and modeling of chemical and materials data  
 	[![Code](https://img.shields.io/github/stars/hachmannlab/chemml?style=for-the-badge&logo=github)](https://github.com/hachmannlab/chemml)  
 	[![Last Commit](https://img.shields.io/github/last-commit/hachmannlab/chemml?style=for-the-badge&logo=github)](https://github.com/hachmannlab/chemml)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:41-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/wcms.1458)  
@@ -26,51 +26,51 @@ icon: simple/adobeillustrator
 	[![Code](https://img.shields.io/github/stars/hachmannlab/chemml?style=for-the-badge&logo=github)](https://github.com/hachmannlab/chemml)  
 	[![Last Commit](https://img.shields.io/github/last-commit/hachmannlab/chemml?style=for-the-badge&logo=github)](https://github.com/hachmannlab/chemml)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://hachmannlab.github.io/chemml/)  
-- **chemprop**:   
+- **chemprop**: Analyzing Learned Molecular Representations for Property Prediction  
 	[![Code](https://img.shields.io/github/stars/chemprop/chemprop?style=for-the-badge&logo=github)](https://github.com/chemprop/chemprop)  
 	[![Last Commit](https://img.shields.io/github/last-commit/chemprop/chemprop?style=for-the-badge&logo=github)](https://github.com/chemprop/chemprop)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:947-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b00237)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:954-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b00237)  
 - **DeepChem**:   
 	[![Code](https://img.shields.io/github/stars/deepchem/deepchem?style=for-the-badge&logo=github)](https://github.com/deepchem/deepchem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/deepchem/deepchem?style=for-the-badge&logo=github)](https://github.com/deepchem/deepchem)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://books.google.fr/books/about/Deep_Learning_for_the_Life_Sciences.html?id=5uiRDwAAQBAJ&redir_esc=y)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](Deep_Learning_for_the_Life_Sciences)  
 - **DeepMol**: a python-based machine and deep learning framework for drug discovery (standalone)  
 	[![Code](https://img.shields.io/github/stars/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.05.27.595849)  
-- **DeepMol**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.31219/osf.io/9xc2j)  
+- **DeepMol**: DeepMol: An Automated Machine and Deep Learning Framework for Computational Chemistry  
 	[![Code](https://img.shields.io/github/stars/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.05.27.595849)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.31219/osf.io/9xc2j)  
 - **DeepMol**: a python-based machine and deep learning framework for drug discovery (standalone)  
 	[![Code](https://img.shields.io/github/stars/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.05.27.595849)  
-- **DeepMol**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.31219/osf.io/9xc2j)  
+- **DeepMol**: DeepMol: An Automated Machine and Deep Learning Framework for Computational Chemistry  
 	[![Code](https://img.shields.io/github/stars/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/BioSystemsUM/DeepMol?style=for-the-badge&logo=github)](https://github.com/BioSystemsUM/DeepMol)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.05.27.595849)  
-- **DGL-LifeSci**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.31219/osf.io/9xc2j)  
+- **DGL-LifeSci**: DGL-LifeSci: An Open-Source Toolkit for Deep Learning on Graphs in Life Science  
 	[![Code](https://img.shields.io/github/stars/awslabs/dgl-lifesci?style=for-the-badge&logo=github)](https://github.com/awslabs/dgl-lifesci)  
 	[![Last Commit](https://img.shields.io/github/last-commit/awslabs/dgl-lifesci?style=for-the-badge&logo=github)](https://github.com/awslabs/dgl-lifesci)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:103-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.1c04017)  
-- **FlexMol**:   
+- **FlexMol**: FlexMol: A Flexible Toolkit for Benchmarking Molecular Relational Learning  
 	[![Code](https://img.shields.io/github/stars/Steven51516/FlexMol?style=for-the-badge&logo=github)](https://github.com/Steven51516/FlexMol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Steven51516/FlexMol?style=for-the-badge&logo=github)](https://github.com/Steven51516/FlexMol)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2410.15010)  
-- **Minervachem**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1109/inm.2009.5188870)  
+- **Minervachem**: Linear Graphlet Models for Accurate and Interpretable Cheminformatics  
 	[![Code](https://img.shields.io/github/stars/lanl/minervachem?style=for-the-badge&logo=github)](https://github.com/lanl/minervachem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/lanl/minervachem?style=for-the-badge&logo=github)](https://github.com/lanl/minervachem)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=arxiv)](https://doi.org/10.26434/chemrxiv-2024-r81c8)  
-- **Minerva-Chem**:   
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=arxiv)](https://doi.org/10.26434/chemrxiv-2024-r81c8-v2)  
+- **Minerva-Chem**: Linear Graphlet Models for Accurate and Interpretable Cheminformatics  
 	[![Code](https://img.shields.io/github/stars/lanl/minervachem?style=for-the-badge&logo=github)](https://github.com/lanl/minervachem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/lanl/minervachem?style=for-the-badge&logo=github)](https://github.com/lanl/minervachem)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=arxiv)](https://doi.org/10.26434/chemrxiv-2024-r81c8)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=arxiv)](https://doi.org/10.26434/chemrxiv-2024-r81c8-v2)  
 - **MolFlux**:   
 	[![Code](https://img.shields.io/github/stars/Exscientia/molflux?style=for-the-badge&logo=github)](https://github.com/Exscientia/molflux)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Exscientia/molflux?style=for-the-badge&logo=github)](https://github.com/Exscientia/molflux)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://exscientia.github.io/molflux/)  
-- **MolPipeline**:   
+- **MolPipeline**: MolPipeline: A Python Package for Processing Molecules with RDKit in Scikit-learn  
 	[![Code](https://img.shields.io/github/stars/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline)  
 	[![Last Commit](https://img.shields.io/github/last-commit/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00863)  
@@ -79,22 +79,22 @@ icon: simple/adobeillustrator
 - **olorenchemengine**:   
 	[![Code](https://img.shields.io/github/stars/Oloren-AI/olorenchemengine?style=for-the-badge&logo=github)](https://github.com/Oloren-AI/olorenchemengine)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Oloren-AI/olorenchemengine?style=for-the-badge&logo=github)](https://github.com/Oloren-AI/olorenchemengine)  
-- **OpenChem**:   
+- **OpenChem**: OpenChem: A Deep Learning Toolkit for Computational Chemistry and Drug Design  
 	[![Code](https://img.shields.io/github/stars/Mariewelt/OpenChem?style=for-the-badge&logo=github)](https://github.com/Mariewelt/OpenChem)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Mariewelt/OpenChem?style=for-the-badge&logo=github)](https://github.com/Mariewelt/OpenChem)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:51-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c00971)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:53-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c00971)  
 - **pytorch-geometric**:   
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pytorch-geometric.readthedocs.io/en/latest/)  
 - **Scikit-mol**: Scikit-Learn classes for molecular vectorization using RDKit (standalone)  
 	[![Code](https://img.shields.io/github/stars/EBjerrum/scikit-mol?style=for-the-badge&logo=github)](https://github.com/EBjerrum/scikit-mol)  
 	[![Last Commit](https://img.shields.io/github/last-commit/EBjerrum/scikit-mol?style=for-the-badge&logo=github)](https://github.com/EBjerrum/scikit-mol)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pypi.org/project/scikit-mol/)  
-- **Summit**:   
+- **Summit**: Summit: Benchmarking Machine Learning Methods for Reaction Optimisation  
 	[![Code](https://img.shields.io/github/stars/sustainable-processes/summit?style=for-the-badge&logo=github)](https://github.com/sustainable-processes/summit)  
 	[![Last Commit](https://img.shields.io/github/last-commit/sustainable-processes/summit?style=for-the-badge&logo=github)](https://github.com/sustainable-processes/summit)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/cmtd.202000051).)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/cmtd.202000051)  
 - **TorchDrug**: A powerful and flexible machine learning platform for drug discovery  
 	[![Code](https://img.shields.io/github/stars/DeepGraphLearning/torchdrug?style=for-the-badge&logo=github)](https://github.com/DeepGraphLearning/torchdrug/)  
 	[![Last Commit](https://img.shields.io/github/last-commit/DeepGraphLearning/torchdrug?style=for-the-badge&logo=github)](https://github.com/DeepGraphLearning/torchdrug/)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2202.08320)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.6019/tol.mldrugdisc-t.2021.00001.1)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://torchdrug.ai/)  

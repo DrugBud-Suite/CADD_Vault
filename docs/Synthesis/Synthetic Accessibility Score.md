@@ -6,14 +6,14 @@ icon: material/speedometer
 	[![Code](https://img.shields.io/github/stars/Hwoo-Kim/DFRscore?style=for-the-badge&logo=github)](https://github.com/Hwoo-Kim/DFRscore)  
 	[![Last Commit](https://img.shields.io/github/last-commit/Hwoo-Kim/DFRscore?style=for-the-badge&logo=github)](https://github.com/Hwoo-Kim/DFRscore)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:5-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01134)  
-- **Emin**:   
+- **Emin**: <i>E</i><sub>min</sub>: A First-Principles Thermochemical Descriptor for Predicting Molecular Synthesizability  
 	[![Code](https://img.shields.io/github/stars/andrewlee1030/Emin-A-First-Principles-Thermochemical-Descriptor-for-Predicting-Molecular-Synthesizability?style=for-the-badge&logo=github)](https://github.com/andrewlee1030/Emin-A-First-Principles-Thermochemical-Descriptor-for-Predicting-Molecular-Synthesizability)  
 	[![Last Commit](https://img.shields.io/github/last-commit/andrewlee1030/Emin-A-First-Principles-Thermochemical-Descriptor-for-Predicting-Molecular-Synthesizability?style=for-the-badge&logo=github)](https://github.com/andrewlee1030/Emin-A-First-Principles-Thermochemical-Descriptor-for-Predicting-Molecular-Synthesizability)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01583)  
-- **Fscore**:   
+- **Fscore**: FSscore: A Personalized Machine Learning‐Based Synthetic Feasibility Score  
 	[![Code](https://img.shields.io/github/stars/schwallergroup/fsscore?style=for-the-badge&logo=github)](https://github.com/schwallergroup/fsscore)  
 	[![Last Commit](https://img.shields.io/github/last-commit/schwallergroup/fsscore?style=for-the-badge&logo=github)](https://github.com/schwallergroup/fsscore)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/cmtd.202400024)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/cmtd.202400024)  
 - **led3score**:   
 	[![Code](https://img.shields.io/github/stars/AlanHassen/led3score?style=for-the-badge&logo=github)](https://github.com/AlanHassen/led3score)  
 	[![Last Commit](https://img.shields.io/github/last-commit/AlanHassen/led3score?style=for-the-badge&logo=github)](https://github.com/AlanHassen/led3score)  
@@ -24,7 +24,7 @@ icon: material/speedometer
 - **SAScore**: The Synthetic Accessibility Score (SAScore) aims to assess the synthetic difficulty of chemical compounds.  
 	[![Code](https://img.shields.io/github/stars/rdkit/rdkit?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score)  
 	[![Last Commit](https://img.shields.io/github/last-commit/rdkit/rdkit?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:909-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-1-8)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:923-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-1-8)  
 - **SCscore**: SCScore is a synthetic complexity score that assigns a value between 1 and 5 to a molecule, based on the premise that published reactions should exhibit an increase in synthetic complexity.  
 	[![Code](https://img.shields.io/github/stars/connorcoley/scscore?style=for-the-badge&logo=github)](https://github.com/connorcoley/scscore)  
 	[![Last Commit](https://img.shields.io/github/last-commit/connorcoley/scscore?style=for-the-badge&logo=github)](https://github.com/connorcoley/scscore)  

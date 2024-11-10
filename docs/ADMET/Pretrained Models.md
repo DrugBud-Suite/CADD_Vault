@@ -4,10 +4,10 @@ icon: material/needle
 
 
 ## **BBB**
-- **BBB-score**:   
+- **BBB-score**: The Blood–Brain Barrier (BBB) Score  
 	[![Code](https://img.shields.io/github/stars/gkxiao/BBB-score?style=for-the-badge&logo=github)](https://github.com/gkxiao/BBB-score)  
 	[![Last Commit](https://img.shields.io/github/last-commit/gkxiao/BBB-score?style=for-the-badge&logo=github)](https://github.com/gkxiao/BBB-score)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:196-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.9b01220)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:197-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.9b01220)  
 
 ## **CYP450**
 - **D-CyPre**: Tool for Accurately Predicting the Site of Metabolism of Human Cytochrome P450 Metabolism  
@@ -15,24 +15,29 @@ icon: material/needle
 	[![Last Commit](https://img.shields.io/github/last-commit/67520/D-CyPre?style=for-the-badge&logo=github)](https://github.com/67520/D-CyPre)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00144)  
 
+## **CYP451**
+- **GTransCYPs**: graph transformer neural network with attention pooling for reliably predicting CYP450 inhibitors  
+	[![Code](https://img.shields.io/github/stars/zonwoo/GTransCYPs?style=for-the-badge&logo=github)](https://github.com/zonwoo/GTransCYPs)  
+	[![Last Commit](https://img.shields.io/github/last-commit/zonwoo/GTransCYPs?style=for-the-badge&logo=github)](https://github.com/zonwoo/GTransCYPs)  
+
 ## **General**
-- **ADMET_XGBoost**:   
+- **ADMET_XGBoost**: ADMETboost: a web server for accurate ADMET prediction  
 	[![Code](https://img.shields.io/github/stars/smu-tao-group/ADMET_XGBoost?style=for-the-badge&logo=github)](https://github.com/smu-tao-group/ADMET_XGBoost)  
 	[![Last Commit](https://img.shields.io/github/last-commit/smu-tao-group/ADMET_XGBoost?style=for-the-badge&logo=github)](https://github.com/smu-tao-group/ADMET_XGBoost)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:35-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s00894-022-05373-8)  
-- **admet-ai**:   
+- **admet-ai**: ADMET-AI: A machine learning ADMET platform for evaluation of large-scale chemical libraries  
 	[![Code](https://img.shields.io/github/stars/swansonk14/admet_ai?style=for-the-badge&logo=github)](https://github.com/swansonk14/admet_ai)  
 	[![Last Commit](https://img.shields.io/github/last-commit/swansonk14/admet_ai?style=for-the-badge&logo=github)](https://github.com/swansonk14/admet_ai)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:5-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2023.12.28.573531)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btae416)  
 - **ADMETlab**:   
 	[![Code](https://img.shields.io/github/stars/ifyoungnet/ADMETlab?style=for-the-badge&logo=github)](https://github.com/ifyoungnet/ADMETlab)  
 	[![Last Commit](https://img.shields.io/github/last-commit/ifyoungnet/ADMETlab?style=for-the-badge&logo=github)](https://github.com/ifyoungnet/ADMETlab)  
 - **ADMETlab3.0**:   
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://admetlab3.scbdd.com)  
-- **ChemMORT**:   
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://admetlab3.scbdd.com)  
+- **ChemMORT**: ChemMORT: an automatic ADMET optimization platform using deep learning and multi-objective particle swarm optimization  
 	[![Code](https://img.shields.io/github/stars/leelasd/ChemMORT?style=for-the-badge&logo=github)](https://github.com/leelasd/ChemMORT)  
 	[![Last Commit](https://img.shields.io/github/last-commit/leelasd/ChemMORT?style=for-the-badge&logo=github)](https://github.com/leelasd/ChemMORT)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbae008)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbae008)  
 - **Computation-ADME**:   
 	[![Code](https://img.shields.io/github/stars/molecularinformatics/Computational-ADME?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/Computational-ADME)  
 	[![Last Commit](https://img.shields.io/github/last-commit/molecularinformatics/Computational-ADME?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/Computational-ADME)  
@@ -54,7 +59,7 @@ icon: material/needle
 
 ## **Toxicity**
 - **ProTox3**: Webserver for toxicity prediction  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:60-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae303)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:64-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae303)  
 	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://tox.charite.de/protox3/)  
 
 ## **hERG**
@@ -65,14 +70,14 @@ icon: material/needle
 	[![Code](https://img.shields.io/github/stars/heshida01/CLOP-hERG?style=for-the-badge&logo=github)](https://github.com/heshida01/CLOP-hERG/blob/main/README.md)  
 	[![Last Commit](https://img.shields.io/github/last-commit/heshida01/CLOP-hERG?style=for-the-badge&logo=github)](https://github.com/heshida01/CLOP-hERG/blob/main/README.md)  
 - **hERGdb**: web-based cardiotoxicity prediction  
-	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://drugdesign.riken.jp/hERGdb/)  
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://drugdesign.riken.jp/hERGdb/)  
 
 ## **logP**
-- **OWPCP**:   
+- **OWPCP**: OWPCP: A Deep Learning Model to Predict Octanol-Water Partition Coefficient  
 	[![Code](https://img.shields.io/github/stars/jmohammadmaleki/OWPCP?style=for-the-badge&logo=github)](https://github.com/jmohammadmaleki/OWPCP.git)  
 	[![Last Commit](https://img.shields.io/github/last-commit/jmohammadmaleki/OWPCP?style=for-the-badge&logo=github)](https://github.com/jmohammadmaleki/OWPCP.git)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2410.18118)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-981-99-9283-6_1969)  
 - **rescoss_logp_ml**: A repository dedicated to logP prediction using machine learning, offering insights into the solubility and distribution properties of compounds.  
 	[![Code](https://img.shields.io/github/stars/cisert/rescoss_logp_ml?style=for-the-badge&logo=github)](https://github.com/cisert/rescoss_logp_ml)  
 	[![Last Commit](https://img.shields.io/github/last-commit/cisert/rescoss_logp_ml?style=for-the-badge&logo=github)](https://github.com/cisert/rescoss_logp_ml)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.2c05607).)  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:23-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.2c05607)  

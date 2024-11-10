@@ -17,7 +17,6 @@ icon: material/school
 - **Computer methods**: training, python, molecular modeling (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://education.molssi.org/resources.html#programming)  
 - **CS231n: Convolutional Neural Networks for Visual Recognition**:   
-	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://cs231n.github.io/)  
 - **Drug Discovery**: This page provides an introduction to drug discovery, including a brief history of medicine development, in-silico technologies, drug discovery processes, rational drug design strategies, and the future aspects of drug discovery.  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.drugdesign.org/chapters/drug-discovery/)  
 - **Learncheminformatics.com**:   
