@@ -5,8 +5,6 @@
 ![License](https://img.shields.io/github/license/drugbud-suite/CADD_Vault?style=for-the-badge)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/drugbud-suite)
-
 Welcome to the [CADD Vault](https://drugbud-suite.github.io/CADD_Vault/), an open-source repository dedicated to sharing resources, tools, and knowledge in the field of computer-aided drug design. This vault aims to support researchers, students, and professionals by providing a comprehensive collection of materials related to CADD.
 
 ## About the Vault
