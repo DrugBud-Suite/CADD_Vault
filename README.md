@@ -1,3 +1,6 @@
+
+![Logo](./caddvault_medium.svg)
+
 # [Computer-Aided Drug Design (CADD) Vault](https://drugbud-suite.github.io/CADD_Vault/)
 
 ![Stars](https://img.shields.io/github/stars/drugbud-suite/CADD_Vault?style=for-the-badge)
