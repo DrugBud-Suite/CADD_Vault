@@ -55,7 +55,6 @@ extra:
 plugins:
   - privacy
   - search
-  - optimize
 copyright: >
   Copyright &copy; 2024 Antoine Lacour –
   <a href="#__consent">Change cookie settings</a>
