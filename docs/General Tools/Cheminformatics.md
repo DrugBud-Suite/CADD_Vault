@@ -4,6 +4,8 @@ icon: material/molecule
 
 - **Chemaxon**: numerous tools for small molecules (standalone).  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.chemaxon.com/) 
+- **Datagrok Cheminformatics**: Cheminformatics functions in Datagrok  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://datagrok.ai/help/datagrok/solutions/domains/chem/) 
 
 ## **Chemical Formulas**
 - **ChemFormula**: ON A SYSTEM OF INDEXING CHEMICAL LITERATURE; ADOPTED BY THE CLASSIFICATION DIVISION OF THE U. S. PATENT OFFICE.<sup>1</sup>  
@@ -43,9 +45,9 @@ icon: material/molecule
 - **cinfony**:   
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://cinfony.github.io/) 
 - **ODDT**: Open Drug Discovery Toolkit, toolkit for drug discovery (standalone)  
-		[![Code](https://img.shields.io/github/stars/oddt/oddt?style=for-the-badge&logo=github)](https://github.com/oddt/oddt) [![Last Commit](https://img.shields.io/github/last-commit/oddt/oddt?style=for-the-badge&logo=github)](https://github.com/oddt/oddt) [![Publication](https://img.shields.io/badge/Publication-Citations:152-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-015-0078-2) 
+		[![Code](https://img.shields.io/github/stars/oddt/oddt?style=for-the-badge&logo=github)](https://github.com/oddt/oddt) [![Last Commit](https://img.shields.io/github/last-commit/oddt/oddt?style=for-the-badge&logo=github)](https://github.com/oddt/oddt) [![Publication](https://img.shields.io/badge/Publication-Citations:153-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-015-0078-2) 
 - **OpenBabel**: toolkit for drug discovery, file format etc (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:6332-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://openbabel.org/wiki/Main_Page) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:6360-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://openbabel.org/wiki/Main_Page) 
 - **RDKit**: Scopy: an integrated negative design python library for desirable HTS/VS database design  
 		[![Code](https://img.shields.io/github/stars/rdkit/rdkit?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit) [![Last Commit](https://img.shields.io/github/last-commit/rdkit/rdkit?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit) [![Publication](https://img.shields.io/badge/Publication-Citations:26-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbaa194) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.rdkit.org/) 
 - **rdkit-scripts**: rdkit scripts making life easier (standalone)  
@@ -53,7 +55,7 @@ icon: material/molecule
 
 ## **QM**
 - **aqme**: AQME, or Automated Quantum Mechanical Environments, facilitates transparent and reproducible quantum chemistry workflows, supporting tasks like conformer generation, QM input file creation, and descriptor generation.  
-		[![Code](https://img.shields.io/github/stars/jvalegre/aqme?style=for-the-badge&logo=github)](https://github.com/jvalegre/aqme) [![Last Commit](https://img.shields.io/github/last-commit/jvalegre/aqme?style=for-the-badge&logo=github)](https://github.com/jvalegre/aqme) [![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/wcms.1663) 
+		[![Code](https://img.shields.io/github/stars/jvalegre/aqme?style=for-the-badge&logo=github)](https://github.com/jvalegre/aqme) [![Last Commit](https://img.shields.io/github/last-commit/jvalegre/aqme?style=for-the-badge&logo=github)](https://github.com/jvalegre/aqme) [![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/wcms.1663) 
 - **psikit**: Psikit is a Python library that serves as a wrapper for Psi4 and RDKit, designed for quick quantum chemical calculations and molecular manipulation.  
 		[![Code](https://img.shields.io/github/stars/Mishima-syk/psikit?style=for-the-badge&logo=github)](https://github.com/Mishima-syk/psikit) [![Last Commit](https://img.shields.io/github/last-commit/Mishima-syk/psikit?style=for-the-badge&logo=github)](https://github.com/Mishima-syk/psikit) 
 

@@ -7,7 +7,7 @@ icon: material/molecule
 - **Chemfig**: draw molecules with easy syntax (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.ctan.org/pkg/chemfig) 
 - **Chemtools**: program for drawing chemical structures (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:57-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cplett.2016.07.039) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://ruby.chemie.uni-freiburg.de/~martin/chemtool) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:58-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cplett.2016.07.039) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://ruby.chemie.uni-freiburg.de/~martin/chemtool) 
 - **CineMol**: direct-to-SVG small molecule drawer  
 		[![Code](https://img.shields.io/github/stars/moltools/cinemol?style=for-the-badge&logo=github)](https://github.com/moltools/cinemol) [![Last Commit](https://img.shields.io/github/last-commit/moltools/cinemol?style=for-the-badge&logo=github)](https://github.com/moltools/cinemol) [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00851-y) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://moltools.bioinformatics.nl/cinemol) 
 - **JChemPaint**: chemical 2D structure editor (standalone)  
@@ -23,4 +23,4 @@ icon: material/molecule
 - **SMARTS-plus**: SMARTS.plus – A Toolbox for Chemical Pattern Design  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/minf.202000216) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://smarts.plus/) 
 - **SmilesDrawer**: SmilesDrawer: Parsing and Drawing SMILES-Encoded Molecular Structures Using Client-Side JavaScript  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:52-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.7b00425) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://doc.gdb.tools/smilesDrawer/) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:53-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.7b00425) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://doc.gdb.tools/smilesDrawer/) 

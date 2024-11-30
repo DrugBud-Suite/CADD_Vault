@@ -29,7 +29,7 @@ icon: fontawesome/solid/blog
 - **PubChem Blog**:   
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pubchemblog.ncbi.nlm.nih.gov/) 
 - **So much to do, so little time - Trying to squeeze sense out of chemical data**:   
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://blog.rguha.net/) 
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://blog.rguha.net/) 
 - **steeveslab-blog**:   
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://asteeves.github.io/) 
 - **SteinBlog**:   

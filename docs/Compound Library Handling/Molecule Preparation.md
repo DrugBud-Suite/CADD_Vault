@@ -13,13 +13,13 @@ icon: material/database-sync
 
 ## **Reviews**
 - **Sherman et al**: Protein and ligand preparation: parameters, protocols, and influence on virtual screening enrichments  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4282-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-013-9644-8) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4297-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-013-9644-8) 
 
 ## **Standardization**
 - **Ambitcli**: no 3D but Java application for standardization (standalone).  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://ambit.sourceforge.net/download_ambitcli.html) 
 - **ChEMBL_Structure_Pipeline (formerly standardiser)**: An open source chemical structure curation pipeline using RDKit  
-		[![Code](https://img.shields.io/github/stars/chembl/ChEMBL_Structure_Pipeline?style=for-the-badge&logo=github)](https://github.com/chembl/ChEMBL_Structure_Pipeline) [![Last Commit](https://img.shields.io/github/last-commit/chembl/ChEMBL_Structure_Pipeline?style=for-the-badge&logo=github)](https://github.com/chembl/ChEMBL_Structure_Pipeline) [![Publication](https://img.shields.io/badge/Publication-Citations:236-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00456-1) 
+		[![Code](https://img.shields.io/github/stars/chembl/ChEMBL_Structure_Pipeline?style=for-the-badge&logo=github)](https://github.com/chembl/ChEMBL_Structure_Pipeline) [![Last Commit](https://img.shields.io/github/last-commit/chembl/ChEMBL_Structure_Pipeline?style=for-the-badge&logo=github)](https://github.com/chembl/ChEMBL_Structure_Pipeline) [![Publication](https://img.shields.io/badge/Publication-Citations:239-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00456-1) 
 - **MolVS**:   
 		[![Code](https://img.shields.io/github/stars/mcs07/MolVS?style=for-the-badge&logo=github)](https://github.com/mcs07/MolVS) [![Last Commit](https://img.shields.io/github/last-commit/mcs07/MolVS?style=for-the-badge&logo=github)](https://github.com/mcs07/MolVS) 
 - **QSAR-Ready (KNIME)**: Standardization workflow for QSAR-ready chemical structures pretreatment  
