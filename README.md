@@ -1,5 +1,5 @@
 
-![Logo](./caddvault_medium.svg)
+![Logo](./caddvault_medium.png)
 
 # [Computer-Aided Drug Design (CADD) Vault](https://drugbud-suite.github.io/CADD_Vault/)
 
