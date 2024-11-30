@@ -6,3 +6,4 @@ scripts/fix_excel_file.ipynb
 scripts/.env
 temp.ipynb
 .cache/
+scripts/processing.log
