@@ -21,4 +21,4 @@ icon: material/book
 - **MolSSI Molecular Software Database**:   
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://molssi.org/software-search/) 
 - **Pages created by Tobias Kind, PhD**:   
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://fiehnlab.ucdavis.edu/staff/kind/metabolomics) 
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://fiehnlab.ucdavis.edu/staff/kind/metabolomics) 

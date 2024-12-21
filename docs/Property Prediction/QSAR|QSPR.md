@@ -9,7 +9,7 @@ icon: material/wrench
 - **CPSign**: CPSign: conformal prediction for cheminformatics modeling  
 		[![Code](https://img.shields.io/github/stars/arosbio/cpsign?style=for-the-badge&logo=github)](https://github.com/arosbio/cpsign) [![Last Commit](https://img.shields.io/github/last-commit/arosbio/cpsign?style=for-the-badge&logo=github)](https://github.com/arosbio/cpsign) [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00870-9) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://cpsign.readthedocs.io/en/latest/index.html) 
 - **FL-QSAR**: Deep Neural Nets as a Method for Quantitative Structure–Activity Relationships  
-		[![Code](https://img.shields.io/github/stars/bm2-lab/FL-QSAR?style=for-the-badge&logo=github)](https://github.com/bm2-lab/FL-QSAR) [![Last Commit](https://img.shields.io/github/last-commit/bm2-lab/FL-QSAR?style=for-the-badge&logo=github)](https://github.com/bm2-lab/FL-QSAR) [![Publication](https://img.shields.io/badge/Publication-Citations:863-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci500747n) 
+		[![Code](https://img.shields.io/github/stars/bm2-lab/FL-QSAR?style=for-the-badge&logo=github)](https://github.com/bm2-lab/FL-QSAR) [![Last Commit](https://img.shields.io/github/last-commit/bm2-lab/FL-QSAR?style=for-the-badge&logo=github)](https://github.com/bm2-lab/FL-QSAR) [![Publication](https://img.shields.io/badge/Publication-Citations:873-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci500747n) 
 - **Hierarchical-QSAR-Modeling**:   
 		[![Code](https://img.shields.io/github/stars/XinhaoLi74/Hierarchical-QSAR-Modeling?style=for-the-badge&logo=github)](https://github.com/XinhaoLi74/Hierarchical-QSAR-Modeling) [![Last Commit](https://img.shields.io/github/last-commit/XinhaoLi74/Hierarchical-QSAR-Modeling?style=for-the-badge&logo=github)](https://github.com/XinhaoLi74/Hierarchical-QSAR-Modeling) 
 - **mod-QSAR**:   
@@ -32,7 +32,7 @@ icon: material/wrench
 		[![Code](https://img.shields.io/github/stars/rougeth/Web-4D-QSAR?style=for-the-badge&logo=github)](https://github.com/rougeth/Web-4D-QSAR) [![Last Commit](https://img.shields.io/github/last-commit/rougeth/Web-4D-QSAR?style=for-the-badge&logo=github)](https://github.com/rougeth/Web-4D-QSAR) 
 ### **3D**
 - **3D-MIL-QSAR**: QSAR Modeling Based on Conformation Ensembles Using a Multi-Instance Learning Approach  
-		[![Code](https://img.shields.io/github/stars/cimm-kzn/3D-MIL-QSAR?style=for-the-badge&logo=github)](https://github.com/cimm-kzn/3D-MIL-QSAR) [![Last Commit](https://img.shields.io/github/last-commit/cimm-kzn/3D-MIL-QSAR?style=for-the-badge&logo=github)](https://github.com/cimm-kzn/3D-MIL-QSAR) [![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00692) 
+		[![Code](https://img.shields.io/github/stars/cimm-kzn/3D-MIL-QSAR?style=for-the-badge&logo=github)](https://github.com/cimm-kzn/3D-MIL-QSAR) [![Last Commit](https://img.shields.io/github/last-commit/cimm-kzn/3D-MIL-QSAR?style=for-the-badge&logo=github)](https://github.com/cimm-kzn/3D-MIL-QSAR) [![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00692) 
 ### **Hyperparameter Optimization**
 - **QSARTuna**:   
 		[![Code](https://img.shields.io/github/stars/MolecularAI/QSARtuna?style=for-the-badge&logo=github)](https://github.com/MolecularAI/QSARtuna) [![Last Commit](https://img.shields.io/github/last-commit/MolecularAI/QSARtuna?style=for-the-badge&logo=github)](https://github.com/MolecularAI/QSARtuna) 
@@ -46,7 +46,7 @@ icon: material/wrench
 
 ## **Representation Optimization**
 - **EvoMPF**: An evolutionary algorithm for interpretable molecular representations  
-	[![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://zivgitlab.uni-muenster.de/ag-glorius/published-paper/evompf) [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.chempr.2024.02.004) 
+	[![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://zivgitlab.uni-muenster.de/ag-glorius/published-paper/evompf) [![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.chempr.2024.02.004) 
 
 ## **Visualisation**
 - **MolCompass**: MolCompass: multi-tool for the navigation in chemical space and visual validation of QSAR/QSPR models  

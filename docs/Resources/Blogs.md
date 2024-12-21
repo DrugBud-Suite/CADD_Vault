@@ -8,6 +8,8 @@ icon: fontawesome/solid/blog
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://chembl.github.io/) 
 - **chem-bla-ics**:   
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://chem-bla-ics.blogspot.tw/) 
+- **Cheminformantics**:   
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://cheminformantics.blogspot.com/) 
 - **Cheminformania**:   
 	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.cheminformania.com) 
 - **Cheminformatics 2.0**:   
