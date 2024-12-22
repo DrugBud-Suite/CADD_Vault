@@ -1,5 +1,5 @@
 ---
-icon: material/new-box
+icon: material/read
 ---
 
 - **Acegen-Open**: TorchRL-based toolkit for reinforcement learning in generative chemistry  
@@ -15,7 +15,7 @@ icon: material/new-box
 - **ReLeaSE**: Utilizes deep reinforcement learning for de novo drug design.  
 		[![Code](https://img.shields.io/github/stars/isayev/ReLeaSE?style=for-the-badge&logo=github)](https://github.com/isayev/ReLeaSE) [![Last Commit](https://img.shields.io/github/last-commit/isayev/ReLeaSE?style=for-the-badge&logo=github)](https://github.com/isayev/ReLeaSE) [![Publication](https://img.shields.io/badge/Publication-Citations:816-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/sciadv.aap7885) 
 - **RL-GraphInvent**: An extension using reinforcement learning for targeted molecular generation.  
-		[![Code](https://img.shields.io/github/stars/olsson-group/RL-GraphINVENT?style=for-the-badge&logo=github)](https://github.com/olsson-group/RL-GraphINVENT) [![Last Commit](https://img.shields.io/github/last-commit/olsson-group/RL-GraphINVENT?style=for-the-badge&logo=github)](https://github.com/olsson-group/RL-GraphINVENT) [![Publication](https://img.shields.io/badge/Publication-Citations:87-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1088/2632-2153/abcf91) 
+		[![Code](https://img.shields.io/github/stars/olsson-group/RL-GraphINVENT?style=for-the-badge&logo=github)](https://github.com/olsson-group/RL-GraphINVENT) [![Last Commit](https://img.shields.io/github/last-commit/olsson-group/RL-GraphINVENT?style=for-the-badge&logo=github)](https://github.com/olsson-group/RL-GraphINVENT) [![Publication](https://img.shields.io/badge/Publication-Citations:86-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1088/2632-2153/abcf91) 
 
 ## **Human-in-the-loop**
 - **REINVENT-HITL**: Focuses on human-in-the-loop assisted de novo molecular design, leveraging reinforcement learning for optimizing molecules based on human feedback.  

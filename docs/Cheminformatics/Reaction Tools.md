@@ -1,5 +1,5 @@
 ---
-icon: material/molecule
+icon: material/flask
 ---
 
 - **ChemPy**: ChemPy: A package useful for chemistry written in Python  

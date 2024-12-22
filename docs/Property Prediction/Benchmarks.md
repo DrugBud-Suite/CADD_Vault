@@ -1,5 +1,5 @@
 ---
-icon: simple/adobeillustrator
+icon: material/bench-back
 ---
 
 - **WelQRate**: Gold Standard in Small Molecule Drug Discovery Benchmarking  

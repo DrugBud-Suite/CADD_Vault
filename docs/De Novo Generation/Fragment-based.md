@@ -1,5 +1,5 @@
 ---
-icon: material/sitemap-outline
+icon: material/arrange-bring-forward
 ---
 
 - **CRem**: open-source Python framework to generate chemical structures using a fragment-based approach  

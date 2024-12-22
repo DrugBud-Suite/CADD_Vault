@@ -1,5 +1,5 @@
 ---
-icon: material/new-box
+icon: material/restore
 ---
 
 - **MF-LAL**: MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning  

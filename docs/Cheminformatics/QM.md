@@ -1,5 +1,5 @@
 ---
-icon: material/molecule
+icon: material/atom
 ---
 
 - **aqme**: AQME, or Automated Quantum Mechanical Environments, facilitates transparent and reproducible quantum chemistry workflows, supporting tasks like conformer generation, QM input file creation, and descriptor generation.  

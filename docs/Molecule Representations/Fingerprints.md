@@ -30,6 +30,8 @@ icon: material/numeric-10
 		[![Code](https://img.shields.io/github/stars/keiserlab/e3fp?style=for-the-badge&logo=github)](https://github.com/keiserlab/e3fp) [![Last Commit](https://img.shields.io/github/last-commit/keiserlab/e3fp?style=for-the-badge&logo=github)](https://github.com/keiserlab/e3fp) [![Publication](https://img.shields.io/badge/Publication-Citations:84-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.7b00696) 
 
 ## **Protein-ligand interaction fingerprints**
+- **LUNA**: Prioritizing virtual screening with interpretable interaction fingerprints  
+		[![Code](https://img.shields.io/github/stars/keiserlab/LUNA?style=for-the-badge&logo=github)](https://github.com/keiserlab/LUNA) [![Last Commit](https://img.shields.io/github/last-commit/keiserlab/LUNA?style=for-the-badge&logo=github)](https://github.com/keiserlab/LUNA) [![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2022.05.25.493419) 
 - **2D-SIFt**: 2D-SIFt provides a two-dimensional method for analyzing protein-ligand interactions.  
 	[![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://bitbucket.org/zchl/sift2d/src/master/) 
 - **BINANA**: BINANA is a tool for characterizing the binding interactions of ligands with proteins.  

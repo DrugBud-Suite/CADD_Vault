@@ -1,5 +1,5 @@
 ---
-icon: material/numeric-zero-circle
+icon: material/numeric-0-circle
 ---
 
 - **SiMGen**: Zero Shot Molecular Generation via Similarity Kernels  

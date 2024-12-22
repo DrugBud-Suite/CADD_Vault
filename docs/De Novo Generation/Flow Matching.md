@@ -1,5 +1,5 @@
 ---
-icon: material/new-box
+icon: material/wave
 ---
 
 - **FlowMol**: Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation  

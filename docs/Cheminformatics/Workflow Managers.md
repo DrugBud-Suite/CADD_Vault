@@ -1,5 +1,5 @@
 ---
-icon: material/molecule
+icon: material/sitemap-outline
 ---
 
 - **maize**: a graph-based workflow manager for computational chemistry pipelines  

@@ -1,5 +1,5 @@
 ---
-icon: material/new-box
+icon: material/vector-polygon
 ---
 
 - **POLYGON**: POLYGON attempts to optimize the chemical space for multiple protein target domains  

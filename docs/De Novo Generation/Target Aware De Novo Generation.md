@@ -57,7 +57,7 @@ icon: material/target
 - **SBMolGen**: integrates a recurrent neural network, a Monte Carlo tree search, and docking simulations  
 		[![Code](https://img.shields.io/github/stars/clinfo/SBMolGen?style=for-the-badge&logo=github)](https://github.com/clinfo/SBMolGen) [![Last Commit](https://img.shields.io/github/last-commit/clinfo/SBMolGen?style=for-the-badge&logo=github)](https://github.com/clinfo/SBMolGen) [![Publication](https://img.shields.io/badge/Publication-Citations:40-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00679) 
 - **SECSE**: Systemic evolutionary chemical space exploration for drug discovery  
-		[![Code](https://img.shields.io/github/stars/KeenThera/SECSE?style=for-the-badge&logo=github)](https://github.com/KeenThera/SECSE) [![Last Commit](https://img.shields.io/github/last-commit/KeenThera/SECSE?style=for-the-badge&logo=github)](https://github.com/KeenThera/SECSE) [![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00598-4) 
+		[![Code](https://img.shields.io/github/stars/KeenThera/SECSE?style=for-the-badge&logo=github)](https://github.com/KeenThera/SECSE) [![Last Commit](https://img.shields.io/github/last-commit/KeenThera/SECSE?style=for-the-badge&logo=github)](https://github.com/KeenThera/SECSE) [![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00598-4) 
 
 ## **Dual-target**
 - **Alx-Fuse**: Structure-Aware Dual-Target Drug Design through Collaborative Learning of Pharmacophore Combination and Molecular Simulation  
@@ -107,7 +107,7 @@ icon: material/target
 
 ## **PROTACs**
 - **PROTACable**: Integrative Computational Pipeline of 3-D Modeling and Deep Learning To Automate the De Novo Design of PROTACs (standalone, published 2024).  
-		[![Code](https://img.shields.io/github/stars/giaguaro/PROTACable?style=for-the-badge&logo=github)](https://github.com/giaguaro/PROTACable/) [![Last Commit](https://img.shields.io/github/last-commit/giaguaro/PROTACable?style=for-the-badge&logo=github)](https://github.com/giaguaro/PROTACable/) [![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01878) 
+		[![Code](https://img.shields.io/github/stars/giaguaro/PROTACable?style=for-the-badge&logo=github)](https://github.com/giaguaro/PROTACable/) [![Last Commit](https://img.shields.io/github/last-commit/giaguaro/PROTACable?style=for-the-badge&logo=github)](https://github.com/giaguaro/PROTACable/) [![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01878) 
 
 ## **Pharmacophore**
 - **DEVELOP**: Deep Generative Design with 3D Pharmacophoric Constraints  
@@ -135,7 +135,7 @@ icon: material/target
 - **Docking-based generative approaches in the search for new drug candidates [2022]**: Docking-based generative approaches in the search for new drug candidates  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.drudis.2022.103439) 
 - **Generative Deep Learning for Targeted Compound Design [2021]**: Generative Deep Learning for Targeted Compound Design  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:81-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01496) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:83-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01496) 
 - **Integrating structure-based approaches in generative molecular design [2023]**: Integrating structure-based approaches in generative molecular design  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.sbi.2023.102559) 
 - **Structure-based Drug Design Benchmark: Do 3D Methods Really Dominate?**: benchmark to evaluate the performance of sixteen models across these different algorithmic foundations by assessing the pharmaceutical properties of the generated molecules and their docking affinities with specified target proteins  
@@ -143,7 +143,7 @@ icon: material/target
 
 ## **Scaffold Hopping**
 - **DeepHop**: Deep scaffold hopping with multimodal transformer neural networks  
-		[![Code](https://img.shields.io/github/stars/prokia/deepHops?style=for-the-badge&logo=github)](https://github.com/prokia/deepHops) [![Last Commit](https://img.shields.io/github/last-commit/prokia/deepHops?style=for-the-badge&logo=github)](https://github.com/prokia/deepHops) [![Publication](https://img.shields.io/badge/Publication-Citations:32-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00565-5) 
+		[![Code](https://img.shields.io/github/stars/prokia/deepHops?style=for-the-badge&logo=github)](https://github.com/prokia/deepHops) [![Last Commit](https://img.shields.io/github/last-commit/prokia/deepHops?style=for-the-badge&logo=github)](https://github.com/prokia/deepHops) [![Publication](https://img.shields.io/badge/Publication-Citations:33-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00565-5) 
 - **DiffHopp**: Graph Diffusion Model for Novel Drug Design via Scaffold Hopping  
 		[![Code](https://img.shields.io/github/stars/jostorge/diffusion-hopping?style=for-the-badge&logo=github)](https://github.com/jostorge/diffusion-hopping) [![Last Commit](https://img.shields.io/github/last-commit/jostorge/diffusion-hopping?style=for-the-badge&logo=github)](https://github.com/jostorge/diffusion-hopping) [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2308.07416) 
 - **TurboHopp**: Accelerated Molecule Scaffold Hopping with Consistency Models  

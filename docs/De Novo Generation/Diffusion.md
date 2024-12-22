@@ -1,5 +1,5 @@
 ---
-icon: material/new-box
+icon: material/blur
 ---
 
 - **DrugDiff**: latent diffusion model — DrugDiff — paired with predictor guidance to generate novel compounds with a variety of desired molecular properties  

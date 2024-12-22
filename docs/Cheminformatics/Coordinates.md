@@ -1,5 +1,5 @@
 ---
-icon: material/molecule
+icon: material/axis-arrow
 ---
 
 - **chemcoord**: A python module for coordinates of molecules  

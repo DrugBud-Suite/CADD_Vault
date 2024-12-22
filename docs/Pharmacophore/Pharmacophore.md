@@ -23,6 +23,10 @@ icon: material/dots-hexagon
 - **Pharmmaker**: Pharmacophore modeling model using outputs of druggability simulations. Uses multiple target conformations dependent on the binding poses of probes where they interact during druggability simulations (standalone and online).  
 		[![Code](https://img.shields.io/github/stars/prody/ProDy?style=for-the-badge&logo=github)](https://github.com/prody/ProDy) [![Last Commit](https://img.shields.io/github/last-commit/prody/ProDy?style=for-the-badge&logo=github)](https://github.com/prody/ProDy) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://prody.csb.pitt.edu/pharmmaker/) 
 
+## **PyMol plugin**
+- **OpenPharmaco**: Open-source Protein-based Pharmacophore Modeling Software  
+		[![Code](https://img.shields.io/github/stars/SeonghwanSeo/OpenPharmaco?style=for-the-badge&logo=github)](https://github.com/SeonghwanSeo/OpenPharmaco) [![Last Commit](https://img.shields.io/github/last-commit/SeonghwanSeo/OpenPharmaco?style=for-the-badge&logo=github)](https://github.com/SeonghwanSeo/OpenPharmaco) [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D4SC04854G) 
+
 ## **Python**
 - **2DPharmSearch**: 2DPharmSearch is a simple RDKit script for scaffold hopping experiments, utilizing 2D pharmacophore comparisons against a library of compounds to identify structurally similar molecules.  
 		[![Code](https://img.shields.io/github/stars/arthuc01/2d-pharmacophore-search?style=for-the-badge&logo=github)](https://github.com/arthuc01/2d-pharmacophore-search) [![Last Commit](https://img.shields.io/github/last-commit/arthuc01/2d-pharmacophore-search?style=for-the-badge&logo=github)](https://github.com/arthuc01/2d-pharmacophore-search) 

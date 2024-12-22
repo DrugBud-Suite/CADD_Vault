@@ -1,5 +1,5 @@
 ---
-icon: material/new-box
+icon: material/dots-horizontal
 ---
 
 - **MACAW**: an accessible tool for molecular embedding and inverse molecular design (generative chemistry) (standalone)  

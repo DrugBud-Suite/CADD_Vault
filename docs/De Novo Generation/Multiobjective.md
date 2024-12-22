@@ -1,5 +1,5 @@
 ---
-icon: material/new-box
+icon: material/chart-multiple
 ---
 
 - **MOMO**: multiobjective molecule optimization framework (MOMO)  

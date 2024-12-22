@@ -1,5 +1,5 @@
 ---
-icon: material/new-box
+icon: material/dots-hexagon
 ---
 
 - **DEVELOP**: Implements Deep Generative Design with 3D Pharmacophoric Constraints for molecular design, focusing on linker design and scaffold elaboration using a combination of variational autoencoders and 3D pharmacophore modeling.  

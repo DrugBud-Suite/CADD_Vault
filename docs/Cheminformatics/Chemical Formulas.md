@@ -1,5 +1,5 @@
 ---
-icon: material/molecule
+icon: material/format-subscript
 ---
 
 - **ChemFormula**: ON A SYSTEM OF INDEXING CHEMICAL LITERATURE; ADOPTED BY THE CLASSIFICATION DIVISION OF THE U. S. PATENT OFFICE.  

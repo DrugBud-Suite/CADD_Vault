@@ -2,6 +2,8 @@
 icon: fontawesome/solid/eye
 ---
 
+- **Datagrok**: Dimensionality reduction in Datagrok  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://datagrok.ai/help/explore/dim-reduction) 
 - **Chemical Space dataviz**: Visualizing chemical space networks with RDKit and NetworkX (standalone)  
 		[![Code](https://img.shields.io/github/stars/vfscalfani/CSN_tutorial?style=for-the-badge&logo=github)](https://github.com/vfscalfani/CSN_tutorial) [![Last Commit](https://img.shields.io/github/last-commit/vfscalfani/CSN_tutorial?style=for-the-badge&logo=github)](https://github.com/vfscalfani/CSN_tutorial) [![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00664-x) 
 - **ChemTreeMap**: ChemTreeMap: an interactive map of biochemical similarity in molecular datasets  

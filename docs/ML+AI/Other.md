@@ -1,5 +1,5 @@
 ---
-icon: simple/adobeillustrator
+icon: material/dots-horizontal
 ---
 
 - **SuperGradientDescent**:   

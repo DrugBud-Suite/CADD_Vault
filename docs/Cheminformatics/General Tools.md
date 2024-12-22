@@ -10,3 +10,5 @@ icon: material/molecule
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.chemaxon.com/) 
 - **Datagrok Cheminformatics**: Cheminformatics functions in Datagrok  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://datagrok.ai/help/datagrok/solutions/domains/chem/) 
+- **DataWarrior**: numerous tools (standalone).  
+	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.openmolecules.org/datawarrior/) 

@@ -1,5 +1,5 @@
 ---
-icon: material/school
+icon: material/restore
 ---
 
 - **ActiveDelta**: predict molecular improvements from the best current training compound to prioritize molecules for training set expansion  

@@ -1,5 +1,5 @@
 ---
-icon: material/new-box
+icon: material/sitemap-outline
 ---
 
 - **LEADD**: Lamarckian evolutionary algorithm for de novo drug design (standalone)  

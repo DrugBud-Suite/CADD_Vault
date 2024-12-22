@@ -1,5 +1,5 @@
 ---
-icon: material/sitemap-outline
+icon: material/network-outline
 ---
 
 - **GAN-Drug-Generator**: Proposes a framework based on Feedback Generative Adversarial Network (GAN) for the generation and optimization of drug-like molecules, including a multiobjective optimization selection technique.  
