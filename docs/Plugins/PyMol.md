@@ -2,8 +2,6 @@
 icon: material/power-plug
 ---
 
-- **DockingPie**: DockingPie is a PyMOL plugin that offers a graphical interface for molecular and consensus docking analyses, integrating docking programs like Smina, Autodock Vina, RxDock, and ADFR.  
-		[![Code](https://img.shields.io/github/stars/paiardin/DockingPie?style=for-the-badge&logo=github)](https://github.com/paiardin/DockingPie) [![Last Commit](https://img.shields.io/github/last-commit/paiardin/DockingPie?style=for-the-badge&logo=github)](https://github.com/paiardin/DockingPie) [![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btac452) 
 - **iPBAVizu**: iPBA: a tool for protein structure comparison using sequence alignment strategies  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:82-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkr333) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.dsimb.inserm.fr/dsimb_tools/iPBAVizu/) 
 - **ProBis H2O plugin**: ProBis H2O is a plugin for PyMOL that identifies conserved water sites in protein structures for drug design, supporting PyMOL version 2.3 and above on Linux and Windows.  
@@ -20,3 +18,5 @@ icon: material/power-plug
 ## **Docking**
 - **NRGSuite**:   
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://biophys.umontreal.ca/nrg/resources.html) 
+- **DockingPie**: DockingPie is a PyMOL plugin that offers a graphical interface for molecular and consensus docking analyses, integrating docking programs like Smina, Autodock Vina, RxDock, and ADFR.  
+		[![Code](https://img.shields.io/github/stars/paiardin/DockingPie?style=for-the-badge&logo=github)](https://github.com/paiardin/DockingPie) [![Last Commit](https://img.shields.io/github/last-commit/paiardin/DockingPie?style=for-the-badge&logo=github)](https://github.com/paiardin/DockingPie) [![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btac452) 

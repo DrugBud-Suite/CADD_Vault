@@ -1,9 +1,7 @@
 ---
-icon: material/molecule
+icon: material/numeric-10
 ---
 
-- **Datagrok Fingerprints**: Fingerprints in Datagrok  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://datagrok.ai/help/datagrok/solutions/domains/chem/#molecular-descriptors-and-fingerprints) 
 
 ## **Protein-ligand interaction fingerprints**
 - **LUNA**: Prioritizing virtual screening with interpretable interaction fingerprints  

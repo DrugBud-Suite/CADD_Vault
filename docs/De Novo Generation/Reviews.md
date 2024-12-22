@@ -2,16 +2,14 @@
 icon: material/message-draw
 ---
 
-- **Blundell et al.**: Machine learning-aided generative molecular design  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-024-00843-5) 
-- **Washburn et al.**: Diffusion Models in De Novo Drug Design  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:41-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.sbi.2023.102527) 
 - **A Survey of Generative AI for De Novo Drug Design: New Frontiers in Molecule and Protein Generation**: A Survey of Generative AI for de novo Drug Design: New Frontiers in Molecule and Protein Generation  
 		[![Code](https://img.shields.io/github/stars/gersteinlab/GenAI4Drug?style=for-the-badge&logo=github)](https://github.com/gersteinlab/GenAI4Drug) [![Last Commit](https://img.shields.io/github/last-commit/gersteinlab/GenAI4Drug?style=for-the-badge&logo=github)](https://github.com/gersteinlab/GenAI4Drug) [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbae338) 
 - **Advances and Challenges in De Novo Drug Design Using Three-Dimensional Deep Generative Models [2022]**: Advances and Challenges in De Novo Drug Design Using Three-Dimensional Deep Generative Models  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:39-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c00042) 
 - **Assessing Deep Generative Models in Chemical Composition Space [2022]**: Assessing Deep Generative Models in Chemical Composition Space  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.chemmater.2c01860) 
+- **Blundell et al.**: Machine learning-aided generative molecular design  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-024-00843-5) 
 - **De novo molecular design and generative models [2021]**: De novo molecular design and generative models  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:157-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.drudis.2021.05.019) 
 - **Deep Generative Models in De Novo Drug Molecule Generation [2023]**: Deep Generative Models in De Novo Drug Molecule Generation  
@@ -45,4 +43,6 @@ icon: material/message-draw
 - **MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design [2022]**: MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2203.14500) 
 - **The Hitchhiker’s Guide to Deep Learning Driven Generative Chemistry [2023]**: The Hitchhiker’s Guide to Deep Learning Driven Generative Chemistry  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsmedchemlett.3c00041) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsmedchemlett.3c00041) 
+- **Washburn et al.**: Diffusion Models in De Novo Drug Design  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:41-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.sbi.2023.102527) 

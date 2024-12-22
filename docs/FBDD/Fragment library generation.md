@@ -1,5 +1,5 @@
 ---
-icon: material/sitemap-outline
+icon: material/database-plus
 ---
 
 - **MolFrag**: digital fragmentation method that highlights important substructures by focusing locally within the molecular graph  

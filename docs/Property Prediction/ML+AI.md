@@ -14,8 +14,10 @@ icon: simple/adobeillustrator
 		[![Code](https://img.shields.io/github/stars/WIMNZhao/AIR?style=for-the-badge&logo=github)](https://github.com/WIMNZhao/AIR/tree/main) [![Last Commit](https://img.shields.io/github/last-commit/WIMNZhao/AIR?style=for-the-badge&logo=github)](https://github.com/WIMNZhao/AIR/tree/main) [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.09.23.614417) 
 
 ## **Activity Cliffs**
+- **ACANET**:   
+		[![Code](https://img.shields.io/github/stars/shenwanxiang/ACANet?style=for-the-badge&logo=github)](https://github.com/shenwanxiang/ACANet) [![Last Commit](https://img.shields.io/github/last-commit/shenwanxiang/ACANet?style=for-the-badge&logo=github)](https://github.com/shenwanxiang/ACANet) [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21203/rs.3.rs-2988283%2F) 
 - **MoleculeACE**: Molecule Activity Cliff Estimation (MoleculeACE) is a tool for evaluating the predictive performance on activity cliff compounds of machine learning models.  
-		[![Code](https://img.shields.io/github/stars/molML/MoleculeACE?style=for-the-badge&logo=github)](https://github.com/molML/MoleculeACE) [![Last Commit](https://img.shields.io/github/last-commit/molML/MoleculeACE?style=for-the-badge&logo=github)](https://github.com/molML/MoleculeACE) [![Publication](https://img.shields.io/badge/Publication-Citations:74-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c01073) 
+		[![Code](https://img.shields.io/github/stars/molML/MoleculeACE?style=for-the-badge&logo=github)](https://github.com/molML/MoleculeACE) [![Last Commit](https://img.shields.io/github/last-commit/molML/MoleculeACE?style=for-the-badge&logo=github)](https://github.com/molML/MoleculeACE) [![Publication](https://img.shields.io/badge/Publication-Citations:83-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c01073) 
 
 ## **CNN**
 - **conv_qsar_fast**: QSAR|QSPR using descriptor-free molecular embedding  
@@ -41,7 +43,7 @@ icon: simple/adobeillustrator
 - **FewGS**: This repository contains source code and datasets for "Few-Shot Graph and SMILES Learning for Molecular Property Prediction."  
 		[![Code](https://img.shields.io/github/stars/zixiaodan-99/FewGS?style=for-the-badge&logo=github)](https://github.com/zixiaodan-99/FewGS) [![Last Commit](https://img.shields.io/github/last-commit/zixiaodan-99/FewGS?style=for-the-badge&logo=github)](https://github.com/zixiaodan-99/FewGS) 
 - **Few-Shot-Learning-for-Low-Data-Drug-Discovery**: Low Data Drug Discovery with One-Shot Learning  
-		[![Code](https://img.shields.io/github/stars/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery?style=for-the-badge&logo=github)](https://github.com/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery) [![Last Commit](https://img.shields.io/github/last-commit/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery?style=for-the-badge&logo=github)](https://github.com/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery) [![Publication](https://img.shields.io/badge/Publication-Citations:548-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.6b00367) 
+		[![Code](https://img.shields.io/github/stars/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery?style=for-the-badge&logo=github)](https://github.com/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery) [![Last Commit](https://img.shields.io/github/last-commit/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery?style=for-the-badge&logo=github)](https://github.com/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery) [![Publication](https://img.shields.io/badge/Publication-Citations:549-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.6b00367) 
 - **FS-Mol**: A Few-Shot Learning Dataset of Molecules  
 		[![Code](https://img.shields.io/github/stars/microsoft/FS-Mol?style=for-the-badge&logo=github)](https://github.com/microsoft/FS-Mol/) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/FS-Mol?style=for-the-badge&logo=github)](https://github.com/microsoft/FS-Mol/) [![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](2002.08264) 
 - **Meta-MGNN**:   
@@ -97,6 +99,10 @@ icon: simple/adobeillustrator
 - **Graphormer**: deep learning package that allows researchers and developers to train custom models for molecule modeling tasks  
 		[![Code](https://img.shields.io/github/stars/microsoft/Graphormer?style=for-the-badge&logo=github)](https://github.com/microsoft/Graphormer) [![Last Commit](https://img.shields.io/github/last-commit/microsoft/Graphormer?style=for-the-badge&logo=github)](https://github.com/microsoft/Graphormer) [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2203.04810) 
 
+## **Multi-modal**
+- **DeltaClassifiers**: a novel molecular pairing approach to process this data. This creates a new classification task of predicting which one of two paired molecules is more potent.  
+		[![Code](https://img.shields.io/github/stars/RekerLab/DeltaClassifier?style=for-the-badge&logo=github)](https://github.com/RekerLab/DeltaClassifier) [![Last Commit](https://img.shields.io/github/last-commit/RekerLab/DeltaClassifier?style=for-the-badge&logo=github)](https://github.com/RekerLab/DeltaClassifier) [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D4MD00325J) 
+
 ## **Other NN**
 - **ChemProp**: Features a deep learning approach for molecular property prediction, focusing on scalability and fast uncertainty quantification.  
 		[![Code](https://img.shields.io/github/stars/aamini/chemprop?style=for-the-badge&logo=github)](https://github.com/aamini/chemprop) [![Last Commit](https://img.shields.io/github/last-commit/aamini/chemprop?style=for-the-badge&logo=github)](https://github.com/aamini/chemprop) [![Publication](https://img.shields.io/badge/Publication-Citations:104-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.1c00546) 
@@ -110,10 +116,6 @@ icon: simple/adobeillustrator
 ## **Reviews**
 - **A Survey of Graph Neural Network Architectures in Ligand Binding Affinity Prediction Models**: A Survey of Graph Neural Network Architectures in Ligand Binding Affinity Prediction Models  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1109/MIPRO60963.2024.10569609) 
-
-## **Several architectures**
-- **DeltaClassifiers**: a novel molecular pairing approach to process this data. This creates a new classification task of predicting which one of two paired molecules is more potent.  
-		[![Code](https://img.shields.io/github/stars/RekerLab/DeltaClassifier?style=for-the-badge&logo=github)](https://github.com/RekerLab/DeltaClassifier) [![Last Commit](https://img.shields.io/github/last-commit/RekerLab/DeltaClassifier?style=for-the-badge&logo=github)](https://github.com/RekerLab/DeltaClassifier) [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D4MD00325J) 
 
 ## **Transfer Learning**
 - **PGM**: Fast and effective molecular property prediction with transferability map  

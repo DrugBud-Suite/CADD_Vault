@@ -1,5 +1,5 @@
 ---
-icon: material/sitemap-outline
+icon: material/link-variant-plus
 ---
 
 - **DeLinker**: Deep Generative Models for 3D Linker Design  

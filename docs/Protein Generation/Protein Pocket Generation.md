@@ -1,5 +1,5 @@
 ---
-icon: material/bio
+icon: material/professional-hexagon
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-icon: material/sitemap-outline
+icon: material/seed-plus
 ---
 
 - **NAOMINext**: from a co-crystallized small fragment, synthetic feasible lead compounds are generated  

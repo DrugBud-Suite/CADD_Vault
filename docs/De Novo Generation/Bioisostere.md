@@ -1,5 +1,5 @@
 ---
-icon: material/new-box
+icon: material/approximately-equal
 ---
 
 - **ShEPhERD**: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design  

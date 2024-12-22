@@ -11,6 +11,6 @@ icon: material/dots-circle
 - **MERMAID**: web server to prepare and run coarse-grained membrane protein dynamics (online)  
 	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://molsim.sci.univr.it/mangesh/index.php) 
 
-## **Force Fields**
+## **Forcefields**
 - **SIRAH**: Coarse-Grained forcefield for Gromacs and Amber (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.sirahff.com/) 

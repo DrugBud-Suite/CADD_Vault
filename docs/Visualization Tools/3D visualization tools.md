@@ -7,9 +7,12 @@ icon: material/video-3d-variant
 - **BlendMol**: Advanced Macromolecular Visualization in Blender (standalone)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/bty968) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://durrantlab.com/blendmol/) 
 - **Chimera**: (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:38184-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.20084) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.cgl.ucsf.edu/chimera/) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:38186-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.20084) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.cgl.ucsf.edu/chimera/) 
 - **ChimeraX**: molecular graphics (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4114-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.3235) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.cgl.ucsf.edu/chimerax/) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4115-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.3235) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.cgl.ucsf.edu/chimerax/) 
+- **Datagrok**: NGL viewer integrated in Datagrok  
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://datagrok.ai/help/visualize/viewers/ngl
+https://datagrok.ai/help/visualize/viewers/biostructure) 
 - **MichelaNGLO**: An interactive protein on your website with a few clicks (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://michelanglo.sgc.ox.ac.uk/) 
 - **MolView**: draw and viewer in 2D or 3D of small molecules and proteins (online)  
@@ -33,13 +36,10 @@ icon: material/video-3d-variant
 - **SAMSON**: software for adaptative modeling and simulation (nano), GROMACS can be launched from SAMSON... (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.samson-connect.net/app/main?execution=e1s1) 
 - **VMD**: molecular visualization program (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:50283-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/0263-7855(96)00018-5) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.ks.uiuc.edu/Research/vmd/) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:50291-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/0263-7855(96)00018-5) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.ks.uiuc.edu/Research/vmd/) 
 - **VTX**: High performance molecular visualization software (Windows, Linux) (standalone)  
 	[![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://gitlab.com/VTX_mol/VTX) 
 - **Web3DMol**: view protein in 3D and sequences (online)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:21-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkx383) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://web3dmol.net/) 
 - **YASARA**: molecular-graphics, -modeling and -simulation program (standalone)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:362-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-1-4939-7366-8_4) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.yasara.org/) 
-- **Datagrok**: NGL viewer integrated in Datagrok  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://datagrok.ai/help/visualize/viewers/ngl
-https://datagrok.ai/help/visualize/viewers/biostructure) 

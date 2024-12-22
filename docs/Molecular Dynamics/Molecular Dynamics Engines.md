@@ -3,7 +3,7 @@ icon: material/engine
 ---
 
 - **AMBER**: suite of biomolecular simulation programs (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:412-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01153) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://ambermd.org/) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:413-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01153) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://ambermd.org/) 
 - **CHARMM**: Chemistry at HARvard Macromolecular Mechanics (standalone)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:7201-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21287) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://academiccharmm.org/) 
 - **CHARMM-GUI**:   
@@ -19,7 +19,7 @@ icon: material/engine
 - **HTMD**: a molecular-specific programmable environment to prepare, handle, simulate, visualize and analyze molecular systems (standalone)  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](acs.jctc.6b00049) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.htmd.org/) 
 - **LAMMPS**: Molecular Dynamics Simulator and much more  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:5231-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2021.108171) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.lammps.org/) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:5237-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2021.108171) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.lammps.org/) 
 - **NAMD**: NAMD is a parallel molecular dynamics code for high-performance simulation of large biomolecular systems, recognized for its scalability and efficiency.  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.ks.uiuc.edu/Research/namd/) 
 - **openff-toolkit**:   
@@ -31,7 +31,7 @@ icon: material/engine
 - **openmmtools**: Time Step Rescaling Recovers Continuous-Time Dynamical Properties for Discrete-Time Langevin Integration of Nonequilibrium Systems  
 		[![Code](https://img.shields.io/github/stars/choderalab/openmmtools?style=for-the-badge&logo=github)](https://github.com/choderalab/openmmtools) [![Last Commit](https://img.shields.io/github/last-commit/choderalab/openmmtools?style=for-the-badge&logo=github)](https://github.com/choderalab/openmmtools) [![Publication](https://img.shields.io/badge/Publication-Citations:55-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/jp411770f) 
 - **QwikMD**: QwikMD — Integrative Molecular Dynamics Toolkit for Novices and Experts  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:158-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/srep26536) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.ks.uiuc.edu/Research/qwikmd/) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:159-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/srep26536) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.ks.uiuc.edu/Research/qwikmd/) 
 - **SENPAI**: SENPAI is a molecular dynamics simulation software aimed at students and academia, designed to simulate molecular systems of educational and academic interest efficiently.  
 		[![Code](https://img.shields.io/github/stars/SENPAI-Molecular-Dynamics/SENPAI?style=for-the-badge&logo=github)](https://github.com/SENPAI-Molecular-Dynamics/SENPAI) [![Last Commit](https://img.shields.io/github/last-commit/SENPAI-Molecular-Dynamics/SENPAI?style=for-the-badge&logo=github)](https://github.com/SENPAI-Molecular-Dynamics/SENPAI) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://senpaimd.org/) 
 - **STORMM**: STORMM: Structure and TOpology Replica Molecular Mechanics for chemical simulations  

@@ -20,9 +20,9 @@ icon: material/molecule
 	[![Publication](https://img.shields.io/badge/Publication-Citations:78-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186%2F1758-2946-1-20) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://pubchem.ncbi.nlm.nih.gov/edit2/index.html) 
 - **SketchEl**: interactive chemical molecule sketching tool (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://sketchel.sourceforge.net/) 
-- **SMARTS-plus**: SMARTS.plus – A Toolbox for Chemical Pattern Design  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/minf.202000216) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://smarts.plus/) 
 - **SMARTeditor**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.drudis.2013.02.001) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.zbh.uni-hamburg.de/en/forschung/amd/software/smartseditor.html) 
+- **SMARTS-plus**: SMARTS.plus – A Toolbox for Chemical Pattern Design  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/minf.202000216) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://smarts.plus/) 
 - **SmilesDrawer**: SmilesDrawer: Parsing and Drawing SMILES-Encoded Molecular Structures Using Client-Side JavaScript  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:54-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.7b00425) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://doc.gdb.tools/smilesDrawer/) 
