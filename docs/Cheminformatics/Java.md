@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/java
+icon: fontawesome/brands/java
 ---
 
 - **CDK**: toolkit for drug discovery, descriptors (standalone)  

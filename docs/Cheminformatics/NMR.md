@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/magnet
+icon: material/magnet-on
 ---
 
 - **nmrglue**: Nmrglue: an open source Python package for the analysis of multidimensional NMR data  

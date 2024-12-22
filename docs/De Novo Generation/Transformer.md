@@ -1,5 +1,5 @@
 ---
-icon: fontawesome/right-left
+icon: material/arrow-expand-right
 ---
 
 - **LSTM_Chem**: Implements generative recurrent networks for drug design.  

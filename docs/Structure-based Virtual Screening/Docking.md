@@ -217,7 +217,7 @@ icon: simple/abbrobotstudio
 
 ## **MetalloProteins**
 - **MetalDock**: MetalDock: An Open Access Docking Tool for Easy and Reproducible Docking of Metal Complexes  
-		[![Code](https://img.shields.io/github/stars/MatthijsHak/MetalDock?style=for-the-badge&logo=github)](https://github.com/MatthijsHak/MetalDock) [![Last Commit](https://img.shields.io/github/last-commit/MatthijsHak/MetalDock?style=for-the-badge&logo=github)](https://github.com/MatthijsHak/MetalDock) [![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01582) 
+		[![Code](https://img.shields.io/github/stars/MatthijsHak/MetalDock?style=for-the-badge&logo=github)](https://github.com/MatthijsHak/MetalDock) [![Last Commit](https://img.shields.io/github/last-commit/MatthijsHak/MetalDock?style=for-the-badge&logo=github)](https://github.com/MatthijsHak/MetalDock) [![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01582) 
 
 ## **Multi-Ligand**
 - **HARMONICFlow**: Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design  

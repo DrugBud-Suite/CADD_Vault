@@ -1651,3 +1651,404 @@ Processing Results:
 2024-12-22 10:35:32,500 - processor - INFO - DOIs Normalized: 1116
 2024-12-22 10:35:32,502 - __main__ - INFO - 
 === Processing Complete ===
+2024-12-22 11:52:44,903 - __main__ - INFO - 
+=== Starting Data Processing ===
+2024-12-22 11:52:44,925 - __main__ - INFO - Input file: /home/tony/CADD_Vault/scripts/../cadd_vault_data.xlsx
+2024-12-22 11:52:44,925 - __main__ - INFO - Output CSV: /home/tony/CADD_Vault/scripts/../processed_cadd_vault_data.csv
+2024-12-22 11:52:44,925 - __main__ - INFO - Output Excel: /home/tony/CADD_Vault/scripts/../cadd_vault_data.xlsx
+2024-12-22 11:52:44,925 - processor - INFO - Loading data...
+2024-12-22 11:52:46,315 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2410.18118&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:52:46,365 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2105.03902&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:52:46,696 - preprint - INFO - Searching for published version of chemRxiv paper: CHEESE: 3D Shape and Electrostatic Virtual Screening in a Vector Space
+2024-12-22 11:52:47,006 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:52:47,007 - preprint - INFO - Searching for published version of arXiv paper: OWPCP: A Deep Learning Model to Predict Octanol-Water Partition Coefficient
+2024-12-22 11:52:47,010 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:52:47,010 - preprint - INFO - Searching for published version of arXiv paper: Learning Gradient Fields for Molecular Conformation Generation
+2024-12-22 11:52:47,071 - preprint - INFO - Searching for published version of bioRxiv paper: Efficient clustering of large molecular libraries
+2024-12-22 11:52:47,422 - preprint - INFO - Searching for published version of bioRxiv paper: PKSmart: An Open-Source Computational Model to Predict<i>in vivo</i>Pharmacokinetics of Small Molecules
+2024-12-22 11:52:49,666 - arxiv - INFO - Sleeping: 0.342141 seconds
+2024-12-22 11:52:50,009 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2202.01356&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:52:50,260 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:52:50,260 - preprint - INFO - Searching for published version of arXiv paper: Direct Molecular Conformation Generation
+2024-12-22 11:52:50,561 - arxiv - INFO - Sleeping: 2.696442 seconds
+2024-12-22 11:52:51,701 - arxiv - INFO - Sleeping: 1.556242 seconds
+2024-12-22 11:52:52,013 - arxiv - INFO - Sleeping: 1.244755 seconds
+2024-12-22 11:52:52,553 - arxiv - INFO - Sleeping: 0.704582 seconds
+2024-12-22 11:52:52,564 - preprint - INFO - Searching for published version of bioRxiv paper: Improved automated model building for cryo-EM maps using CryFold
+2024-12-22 11:52:53,258 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2411.09820&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:52:53,259 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2106.07802&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:52:53,260 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2203.02923&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:52:53,261 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2406.05738&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:52:53,511 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:52:53,511 - preprint - INFO - Searching for published version of arXiv paper: WelQrate: Defining the Gold Standard in Small Molecule Drug Discovery Benchmarking
+2024-12-22 11:52:53,514 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:52:53,514 - preprint - INFO - Searching for published version of arXiv paper: GeoMol: Torsional Geometric Generation of Molecular 3D Conformer Ensembles
+2024-12-22 11:52:53,956 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:52:53,956 - preprint - INFO - Searching for published version of arXiv paper: GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation
+2024-12-22 11:52:53,959 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:52:53,959 - preprint - INFO - Searching for published version of arXiv paper: Smiles2Dock: an open large-scale multi-task dataset for ML-based molecular docking
+2024-12-22 11:52:56,969 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2308.05326&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:52:57,226 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:52:57,226 - preprint - INFO - Searching for published version of arXiv paper: OpenProteinSet: Training data for structural biology at scale
+2024-12-22 11:52:58,389 - arxiv - INFO - Sleeping: 1.834888 seconds
+2024-12-22 11:52:58,391 - arxiv - INFO - Sleeping: 1.833524 seconds
+2024-12-22 11:52:58,710 - arxiv - INFO - Sleeping: 1.514306 seconds
+2024-12-22 11:52:59,637 - preprint - INFO - Searching for published version of bioRxiv paper: PLINDER: The protein-ligand interactions dataset and evaluation resource
+2024-12-22 11:53:00,225 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2411.01223&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:00,226 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2411.01223&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:00,231 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2406.08961&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:00,488 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:00,488 - preprint - INFO - Searching for published version of arXiv paper: PDBBind Optimization to Create a High-Quality Protein-Ligand Binding Dataset for Binding Affinity Prediction
+2024-12-22 11:53:00,497 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:00,497 - preprint - INFO - Searching for published version of arXiv paper: PDBBind Optimization to Create a High-Quality Protein-Ligand Binding Dataset for Binding Affinity Prediction
+2024-12-22 11:53:00,514 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:00,514 - preprint - INFO - Searching for published version of arXiv paper: SIU: A Million-Scale Structural Small Molecule-Protein Interaction Dataset for Unbiased Bioactivity Prediction
+2024-12-22 11:53:02,491 - arxiv - INFO - Sleeping: 1.019834 seconds
+2024-12-22 11:53:03,512 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2410.19316&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:03,763 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:03,763 - preprint - INFO - Searching for published version of arXiv paper: An Open Quantum Chemistry Property Database of 120 Kilo Molecules with 20 Million Conformers
+2024-12-22 11:53:05,575 - preprint - INFO - Searching for published version of bioRxiv paper: CPIExtract: A software package to collect and harmonize small molecule and protein interactions
+2024-12-22 11:53:05,816 - arxiv - INFO - Sleeping: 0.944907 seconds
+2024-12-22 11:53:06,762 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2305.13266&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:07,016 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:07,016 - preprint - INFO - Searching for published version of arXiv paper: Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D
+2024-12-22 11:53:07,027 - arxiv - INFO - Sleeping: 2.986599 seconds
+2024-12-22 11:53:07,654 - arxiv - INFO - Sleeping: 2.360386 seconds
+2024-12-22 11:53:07,830 - arxiv - INFO - Sleeping: 2.183675 seconds
+2024-12-22 11:53:09,531 - arxiv - INFO - Sleeping: 0.482790 seconds
+2024-12-22 11:53:10,015 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2410.11226&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:10,016 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2305.12347&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:10,015 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2407.04424&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:10,015 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2406.10840&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:10,264 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:10,264 - preprint - INFO - Searching for published version of arXiv paper: Benchmarking structure-based three-dimensional molecular generative models using GenBench3D: ligand conformation quality matters
+2024-12-22 11:53:10,267 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:10,267 - preprint - INFO - Searching for published version of arXiv paper: Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation
+2024-12-22 11:53:10,277 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:10,278 - preprint - INFO - Searching for published version of arXiv paper: MF-LAL: Drug Compound Generation Using Multi-Fidelity Latent Space Active Learning
+2024-12-22 11:53:10,568 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:10,568 - preprint - INFO - Searching for published version of arXiv paper: CBGBench: Fill in the Blank of Protein-Molecule Complex Binding Graph
+2024-12-22 11:53:13,063 - arxiv - INFO - Sleeping: 0.503805 seconds
+2024-12-22 11:53:13,567 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2411.04130&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:13,826 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:13,826 - preprint - INFO - Searching for published version of arXiv paper: ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design
+2024-12-22 11:53:14,545 - arxiv - INFO - Sleeping: 2.278727 seconds
+2024-12-22 11:53:15,590 - preprint - INFO - Searching for published version of bioRxiv paper: DrugDiff - small molecule diffusion model with flexible guidance towards molecular properties
+2024-12-22 11:53:15,601 - preprint - INFO - Searching for published version of bioRxiv paper: A dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets
+2024-12-22 11:53:16,825 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2403.02706&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:17,065 - preprint - INFO - Searching for published version of bioRxiv paper: A dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets
+2024-12-22 11:53:17,067 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:17,067 - preprint - INFO - Searching for published version of arXiv paper: DeepBioisostere: Discovering Bioisosteres with Deep Learning for a Fine Control of Multiple Molecular Properties
+2024-12-22 11:53:17,613 - arxiv - INFO - Sleeping: 2.452860 seconds
+2024-12-22 11:53:19,855 - arxiv - INFO - Sleeping: 0.211027 seconds
+2024-12-22 11:53:20,066 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2404.19739&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:20,069 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2406.16821&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:20,317 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:20,317 - preprint - INFO - Searching for published version of arXiv paper: General Binding Affinity Guidance for Diffusion Models in Structure-Based Drug Design
+2024-12-22 11:53:20,320 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:20,320 - preprint - INFO - Searching for published version of arXiv paper: Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation
+2024-12-22 11:53:20,675 - preprint - INFO - Searching for published version of bioRxiv paper: moPPIt:<i>De Novo</i>Generation of Motif-Specific Binders with Protein Language Models
+2024-12-22 11:53:21,484 - arxiv - INFO - Sleeping: 1.830882 seconds
+2024-12-22 11:53:21,566 - services - WARNING - No title found for DOI: 10.26434/chemrxiv-2023-kww
+2024-12-22 11:53:21,914 - preprint - INFO - Searching for published version of chemRxiv paper: HyFactor: Hydrogen-count labelled graph-based defactorization Autoencoder
+2024-12-22 11:53:23,317 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2002.03230&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:23,580 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:23,581 - preprint - INFO - Searching for published version of arXiv paper: Hierarchical Generation of Molecular Graphs using Structural Motifs
+2024-12-22 11:53:24,483 - arxiv - INFO - Sleeping: 2.095922 seconds
+2024-12-22 11:53:25,027 - services - WARNING - No title found for DOI: 10.26434/chemrxiv-14700831
+2024-12-22 11:53:25,027 - arxiv - INFO - Sleeping: 1.551554 seconds
+2024-12-22 11:53:25,465 - arxiv - INFO - Sleeping: 1.113165 seconds
+2024-12-22 11:53:26,339 - arxiv - INFO - Sleeping: 0.239278 seconds
+2024-12-22 11:53:26,579 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2203.14500&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:26,580 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2406.16976&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:26,581 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2405.17066&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:26,582 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2103.03864&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:26,828 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:26,828 - preprint - INFO - Searching for published version of arXiv paper: MolGenSurvey: A Systematic Survey in Machine Learning Models for Molecule Design
+2024-12-22 11:53:26,832 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:26,832 - preprint - INFO - Searching for published version of arXiv paper: Efficient Evolutionary Search Over Chemical Space with Large Language Models
+2024-12-22 11:53:27,145 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:27,145 - preprint - INFO - Searching for published version of arXiv paper: Saturn: Sample-efficient Generative Molecular Design using Memory Manipulation
+2024-12-22 11:53:27,151 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:27,151 - preprint - INFO - Searching for published version of arXiv paper: Learning to Extend Molecular Scaffolds with Structural Motifs
+2024-12-22 11:53:27,784 - preprint - INFO - Searching for published version of chemRxiv paper: Scaffold Hopping with Generative Reinforcement Learning
+2024-12-22 11:53:30,926 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2210.04893&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:31,180 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:31,181 - preprint - INFO - Searching for published version of arXiv paper: Equivariant Shape-Conditioned Generation of 3D Molecules for Ligand-Based Drug Design
+2024-12-22 11:53:31,565 - arxiv - INFO - Sleeping: 2.613666 seconds
+2024-12-22 11:53:31,840 - arxiv - INFO - Sleeping: 2.338667 seconds
+2024-12-22 11:53:32,407 - preprint - INFO - Searching for published version of bioRxiv paper: MolSnapper: Conditioning Diffusion for Structure Based Drug Design
+2024-12-22 11:53:33,418 - arxiv - INFO - Sleeping: 0.760672 seconds
+2024-12-22 11:53:34,180 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2211.16508&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:34,181 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2409.10584&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:34,182 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2205.07249&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:34,425 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:34,425 - preprint - INFO - Searching for published version of arXiv paper: Reinforced Genetic Algorithm for Structure-based Drug Design
+2024-12-22 11:53:34,428 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:34,428 - preprint - INFO - Searching for published version of arXiv paper: Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets
+2024-12-22 11:53:34,431 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:34,431 - preprint - INFO - Searching for published version of arXiv paper: Manifold-Constrained Nucleus-Level Denoising Diffusion Model for Structure-Based Drug Design
+2024-12-22 11:53:35,511 - arxiv - INFO - Sleeping: 1.917640 seconds
+2024-12-22 11:53:37,431 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2205.07249&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:37,639 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2305.13997&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:37,677 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:37,678 - preprint - INFO - Searching for published version of arXiv paper: Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets
+2024-12-22 11:53:37,893 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:37,893 - preprint - INFO - Searching for published version of arXiv paper: Learning Subpocket Prototypes for Generalizable Structure-based Drug Design
+2024-12-22 11:53:38,770 - arxiv - INFO - Sleeping: 2.120664 seconds
+2024-12-22 11:53:39,250 - arxiv - INFO - Sleeping: 1.641575 seconds
+2024-12-22 11:53:39,632 - preprint - INFO - Searching for published version of bioRxiv paper: Rag2Mol: Structure-based drug design based on Retrieval Augmented Generation
+2024-12-22 11:53:40,893 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2308.07416&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:40,894 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2204.09410&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:41,159 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:41,160 - preprint - INFO - Searching for published version of arXiv paper: DiffHopp: A Graph Diffusion Model for Novel Drug Design via Scaffold Hopping
+2024-12-22 11:53:41,162 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:41,162 - preprint - INFO - Searching for published version of arXiv paper: Generating 3D Molecules for Target Protein Binding
+2024-12-22 11:53:42,092 - arxiv - INFO - Sleeping: 2.069116 seconds
+2024-12-22 11:53:43,581 - arxiv - INFO - Sleeping: 0.579815 seconds
+2024-12-22 11:53:44,098 - arxiv - INFO - Sleeping: 0.063261 seconds
+2024-12-22 11:53:44,161 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2401.01059&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:44,162 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2209.13865&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:44,163 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2410.20660&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:44,405 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:44,405 - preprint - INFO - Searching for published version of arXiv paper: Accelerating Discovery of Novel and Bioactive Ligands With Pharmacophore-Informed Generative Models
+2024-12-22 11:53:44,409 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:44,412 - preprint - INFO - Searching for published version of arXiv paper: TurboHopp: Accelerated Molecule Scaffold Hopping with Consistency Models
+2024-12-22 11:53:44,411 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:44,415 - preprint - INFO - Searching for published version of arXiv paper: Zero-Shot 3D Drug Design by Sketching and Generating
+2024-12-22 11:53:44,687 - arxiv - INFO - Sleeping: 2.722327 seconds
+2024-12-22 11:53:44,722 - arxiv - INFO - Sleeping: 2.687937 seconds
+2024-12-22 11:53:47,413 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2310.06367&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:47,414 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2402.08708&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:47,571 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2411.15418&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:47,660 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:47,660 - preprint - INFO - Searching for published version of arXiv paper: Zero Shot Molecular Generation via Similarity Kernels
+2024-12-22 11:53:47,681 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:47,681 - preprint - INFO - Searching for published version of arXiv paper: DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening
+2024-12-22 11:53:47,818 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:47,819 - preprint - INFO - Searching for published version of arXiv paper: SPRINT Enables Interpretable and Ultra-Fast Virtual Screening against Thousands of Proteomes
+2024-12-22 11:53:47,988 - arxiv - INFO - Sleeping: 2.828676 seconds
+2024-12-22 11:53:48,299 - preprint - INFO - Searching for published version of bioRxiv paper: iSIM-sigma: efficient standard deviation calculation for molecular similarity
+2024-12-22 11:53:50,042 - arxiv - INFO - Sleeping: 0.774925 seconds
+2024-12-22 11:53:50,818 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2305.09481&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:50,819 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2405.15544&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:51,066 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:51,066 - preprint - INFO - Searching for published version of arXiv paper: Context-enriched molecule representations improve few-shot drug discovery
+2024-12-22 11:53:51,076 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:51,076 - preprint - INFO - Searching for published version of arXiv paper: Knowledge-enhanced Relation Graph and Task Sampling for Few-shot Molecular Property Prediction
+2024-12-22 11:53:52,390 - arxiv - INFO - Sleeping: 1.684872 seconds
+2024-12-22 11:53:52,449 - arxiv - INFO - Sleeping: 1.625910 seconds
+2024-12-22 11:53:53,092 - arxiv - INFO - Sleeping: 0.982236 seconds
+2024-12-22 11:53:53,797 - arxiv - INFO - Sleeping: 0.277470 seconds
+2024-12-22 11:53:54,075 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=1706.01427&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:54,076 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2410.21422&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:54,076 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2406.12950&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:54,077 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2205.07249&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:54,320 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:54,321 - preprint - INFO - Searching for published version of arXiv paper: A Foundation Model for Chemical Design and Property Prediction
+2024-12-22 11:53:54,323 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:54,323 - preprint - INFO - Searching for published version of arXiv paper: A simple neural network module for relational reasoning
+2024-12-22 11:53:54,333 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:54,333 - preprint - INFO - Searching for published version of arXiv paper: MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction
+2024-12-22 11:53:54,772 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:54,772 - preprint - INFO - Searching for published version of arXiv paper: Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets
+2024-12-22 11:53:57,427 - arxiv - INFO - Sleeping: 0.343331 seconds
+2024-12-22 11:53:57,654 - arxiv - INFO - Sleeping: 0.116553 seconds
+2024-12-22 11:53:57,710 - arxiv - INFO - Sleeping: 0.060327 seconds
+2024-12-22 11:53:57,771 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=1512.02595&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:57,772 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=1706.03762&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:57,774 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=math%2F0406077&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:53:58,022 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:58,024 - preprint - INFO - Searching for published version of arXiv paper: Deep Speech 2: End-to-End Speech Recognition in English and Mandarin
+2024-12-22 11:53:58,024 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:58,025 - preprint - INFO - Searching for published version of arXiv paper: Attention Is All You Need
+2024-12-22 11:53:58,030 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:53:58,030 - preprint - INFO - Searching for published version of arXiv paper: A tutorial introduction to the minimum description length principle
+2024-12-22 11:54:00,654 - arxiv - INFO - Sleeping: 0.374587 seconds
+2024-12-22 11:54:01,029 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=1811.06965&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:01,263 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=1511.07122&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:01,289 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:01,289 - preprint - INFO - Searching for published version of arXiv paper: GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism
+2024-12-22 11:54:01,328 - arxiv - INFO - Sleeping: 2.959462 seconds
+2024-12-22 11:54:01,508 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:01,508 - preprint - INFO - Searching for published version of arXiv paper: Multi-Scale Context Aggregation by Dilated Convolutions
+2024-12-22 11:54:01,976 - arxiv - INFO - Sleeping: 2.530832 seconds
+2024-12-22 11:54:03,949 - arxiv - INFO - Sleeping: 0.557744 seconds
+2024-12-22 11:54:04,290 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=1409.0473&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:04,507 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=1410.5401&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:04,509 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=1704.01212&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:04,548 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:04,548 - preprint - INFO - Searching for published version of arXiv paper: Neural Machine Translation by Jointly Learning to Align and Translate
+2024-12-22 11:54:04,764 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:04,764 - preprint - INFO - Searching for published version of arXiv paper: Neural Message Passing for Quantum Chemistry
+2024-12-22 11:54:04,766 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:04,767 - preprint - INFO - Searching for published version of arXiv paper: Neural Turing Machines
+2024-12-22 11:54:07,268 - arxiv - INFO - Sleeping: 0.497420 seconds
+2024-12-22 11:54:07,766 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=1511.06391&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:08,039 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:08,039 - preprint - INFO - Searching for published version of arXiv paper: Order Matters: Sequence to sequence for sets
+2024-12-22 11:54:09,023 - arxiv - INFO - Sleeping: 2.015412 seconds
+2024-12-22 11:54:09,144 - arxiv - INFO - Sleeping: 1.893638 seconds
+2024-12-22 11:54:09,518 - arxiv - INFO - Sleeping: 1.520030 seconds
+2024-12-22 11:54:09,611 - arxiv - INFO - Sleeping: 1.427208 seconds
+2024-12-22 11:54:11,040 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=1806.01822&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:11,041 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=1506.03134&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:11,041 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=1405.6903&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:11,042 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=1409.2329&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:11,303 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:11,303 - preprint - INFO - Searching for published version of arXiv paper: Relational recurrent neural networks
+2024-12-22 11:54:11,306 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:11,306 - preprint - INFO - Searching for published version of arXiv paper: Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton
+2024-12-22 11:54:11,308 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:11,308 - preprint - INFO - Searching for published version of arXiv paper: Pointer Networks
+2024-12-22 11:54:11,567 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:11,568 - preprint - INFO - Searching for published version of arXiv paper: Recurrent Neural Network Regularization
+2024-12-22 11:54:12,075 - arxiv - INFO - Sleeping: 2.490427 seconds
+2024-12-22 11:54:14,021 - arxiv - INFO - Sleeping: 0.544867 seconds
+2024-12-22 11:54:14,566 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=1611.02731&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:14,568 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2001.08361&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:14,819 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:14,819 - preprint - INFO - Searching for published version of arXiv paper: Variational Lossy Autoencoder
+2024-12-22 11:54:14,826 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:14,826 - preprint - INFO - Searching for published version of arXiv paper: Scaling Laws for Neural Language Models
+2024-12-22 11:54:14,881 - arxiv - INFO - Sleeping: 2.943255 seconds
+2024-12-22 11:54:15,206 - arxiv - INFO - Sleeping: 2.618070 seconds
+2024-12-22 11:54:15,397 - preprint - INFO - Searching for published version of chemRxiv paper: Linear Graphlet Models for Accurate and Interpretable Cheminformatics
+2024-12-22 11:54:17,825 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2202.08320&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:17,826 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2307.08423&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:18,017 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2411.07798&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:18,092 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:18,093 - preprint - INFO - Searching for published version of arXiv paper: TorchDrug: A Powerful and Flexible Machine Learning Platform for Drug Discovery
+2024-12-22 11:54:18,101 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:18,101 - preprint - INFO - Searching for published version of arXiv paper: Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems
+2024-12-22 11:54:18,134 - preprint - INFO - Searching for published version of bioRxiv paper: drMD: Molecular Dynamics for Experimentalists
+2024-12-22 11:54:18,273 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:18,273 - preprint - INFO - Searching for published version of arXiv paper: MDRefine: a Python package for refining Molecular Dynamics trajectories with experimental data
+2024-12-22 11:54:20,684 - preprint - INFO - Searching for published version of bioRxiv paper: Multi-Level Contrastive Learning for Protein-Ligand Binding Residue Prediction
+2024-12-22 11:54:21,311 - preprint - INFO - Searching for published version of bioRxiv paper: Prioritizing virtual screening with interpretable interaction fingerprints
+2024-12-22 11:54:23,378 - preprint - INFO - Searching for published version of bioRxiv paper: Prioritizing virtual screening with interpretable interaction fingerprints
+2024-12-22 11:54:24,767 - preprint - INFO - Searching for published version of bioRxiv paper: Improving the reliability of molecular string representations for generative chemistry
+2024-12-22 11:54:24,899 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2411.09820&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:25,184 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:25,184 - preprint - INFO - Searching for published version of arXiv paper: WelQrate: Defining the Gold Standard in Small Molecule Drug Discovery Benchmarking
+2024-12-22 11:54:25,589 - preprint - INFO - Searching for published version of chemRxiv paper: Practically significant method comparison protocols for machine learning in small molecule drug discovery.
+2024-12-22 11:54:27,083 - preprint - INFO - Searching for published version of bioRxiv paper: AI-Augmented R-Group Exploration in Medicinal Chemistry
+2024-12-22 11:54:27,877 - arxiv - INFO - Sleeping: 0.304758 seconds
+2024-12-22 11:54:28,182 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2411.01158&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:28,480 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:28,480 - preprint - INFO - Searching for published version of arXiv paper: Pin-Tuning: Parameter-Efficient In-Context Tuning for Few-Shot Molecular Property Prediction
+2024-12-22 11:54:28,488 - arxiv - INFO - Sleeping: 2.990860 seconds
+2024-12-22 11:54:28,664 - arxiv - INFO - Sleeping: 2.814756 seconds
+2024-12-22 11:54:30,425 - preprint - INFO - Searching for published version of bioRxiv paper: Assessing the accuracy of octanol-water partition coefficient predictions in the SAMPL6 Part II log<i>P</i>Challenge
+2024-12-22 11:54:31,482 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2203.04810&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:31,483 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2406.12950&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:31,774 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:31,774 - preprint - INFO - Searching for published version of arXiv paper: MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction
+2024-12-22 11:54:31,777 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:31,777 - preprint - INFO - Searching for published version of arXiv paper: Benchmarking Graphormer on Large-Scale Molecular Modeling Datasets
+2024-12-22 11:54:31,809 - preprint - INFO - Searching for published version of bioRxiv paper: PKSmart: An Open-Source Computational Model to Predict<i>in vivo</i>Pharmacokinetics of Small Molecules
+2024-12-22 11:54:33,142 - arxiv - INFO - Sleeping: 1.633226 seconds
+2024-12-22 11:54:34,778 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2410.18118&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:35,061 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:35,061 - preprint - INFO - Searching for published version of arXiv paper: OWPCP: A Deep Learning Model to Predict Octanol-Water Partition Coefficient
+2024-12-22 11:54:36,085 - preprint - INFO - Searching for published version of bioRxiv paper: AF2BIND: Predicting ligand-binding sites using the pair representation of AlphaFold2
+2024-12-22 11:54:36,122 - services - WARNING - No title found for DOI: 10.26434/chemrxiv-12806819
+2024-12-22 11:54:36,122 - arxiv - INFO - Sleeping: 1.937825 seconds
+2024-12-22 11:54:36,616 - preprint - INFO - Searching for published version of bioRxiv paper: E(Q)AGNN-PPIS: Attention Enhanced Equivariant Graph Neural Network for Protein-Protein Interaction Site Prediction
+2024-12-22 11:54:38,062 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2202.00451&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:38,436 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:38,436 - preprint - INFO - Searching for published version of arXiv paper: GENEOnet: A new machine learning paradigm based on Group Equivariant Non-Expansive Operators. An application to protein pocket detection
+2024-12-22 11:54:40,192 - preprint - INFO - Searching for published version of bioRxiv paper: DeepAllo: Allosteric Site Prediction using Protein Language Model (pLM) with Multitask Learning
+2024-12-22 11:54:40,597 - preprint - INFO - Searching for published version of bioRxiv paper: Modeling Protein Structure Using Geometric Vector Field Networks
+2024-12-22 11:54:41,051 - preprint - INFO - Searching for published version of bioRxiv paper: Prediction of multiple conformational states by combining sequence clustering with AlphaFold2
+2024-12-22 11:54:44,142 - preprint - INFO - Searching for published version of bioRxiv paper: AFsample2: Predicting multiple conformations and ensembles with AlphaFold2
+2024-12-22 11:54:45,882 - preprint - INFO - Searching for published version of bioRxiv paper: Deep learning of protein energy landscape and conformational dynamics from experimental structures in PDB
+2024-12-22 11:54:46,363 - preprint - INFO - Searching for published version of bioRxiv paper: ExEnDiff: An Experiment-guided Diffusion model for protein conformational Ensemble generation
+2024-12-22 11:54:46,828 - preprint - INFO - Searching for published version of bioRxiv paper: PyVOL: a PyMOL plugin for visualization, comparison, and volume calculation of drug-binding sites
+2024-12-22 11:54:47,022 - preprint - INFO - Searching for published version of bioRxiv paper: ExEnDiff: An Experiment-guided Diffusion model for protein conformational Ensemble generation
+2024-12-22 11:54:47,997 - preprint - INFO - Searching for published version of bioRxiv paper: AlphaFold-Metainference: Prediction of Structural Ensembles of Disordered Proteins
+2024-12-22 11:54:50,679 - preprint - INFO - Searching for published version of bioRxiv paper: MSA Transformer
+2024-12-22 11:54:51,273 - preprint - INFO - Searching for published version of bioRxiv paper: Boltz-1 Democratizing Biomolecular Interaction Modeling
+2024-12-22 11:54:51,580 - preprint - INFO - Searching for published version of bioRxiv paper: Chai-1: Decoding the molecular interactions of life
+2024-12-22 11:54:51,636 - preprint - INFO - Searching for published version of bioRxiv paper: MembraneFold: Visualising transmembrane protein structure and topology
+2024-12-22 11:54:51,859 - preprint - INFO - Searching for published version of bioRxiv paper: RosettaGPCR: Multiple Template Homology Modeling of GPCRs with Rosetta
+2024-12-22 11:54:53,697 - preprint - INFO - Searching for published version of bioRxiv paper: AI-Augmented R-Group Exploration in Medicinal Chemistry
+2024-12-22 11:54:53,861 - preprint - INFO - Searching for published version of bioRxiv paper: Water position prediction with SE(3)-Graph Neural Network
+2024-12-22 11:54:53,873 - preprint - INFO - Searching for published version of bioRxiv paper: SuperWater: Predicting Water Molecule Positions on Protein Structures by Generative AI
+2024-12-22 11:54:55,272 - preprint - INFO - Searching for published version of bioRxiv paper: Boltz-1 Democratizing Biomolecular Interaction Modeling
+2024-12-22 11:54:55,828 - preprint - INFO - Searching for published version of bioRxiv paper: DockFormer: Efficient Multi-Modal Receptor-Ligand Interaction Prediction using Pair Transformer
+2024-12-22 11:54:56,078 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2412.10966&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:54:56,594 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:54:56,594 - preprint - INFO - Searching for published version of arXiv paper: FlowDock: Geometric Flow Matching for Generative Protein-Ligand Docking and Affinity Prediction
+2024-12-22 11:54:58,106 - preprint - INFO - Searching for published version of chemRxiv paper: SpaceHASTEN: A structure-based virtual screening tool for non-enumerated virtual chemical libraries
+2024-12-22 11:54:58,630 - preprint - INFO - Searching for published version of chemRxiv paper: A new protein-ligand docking software with an improved method of molecular conformation optimization
+2024-12-22 11:55:00,244 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2310.06763&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:55:00,246 - preprint - INFO - Searching for published version of bioRxiv paper: ApoDock: Ligand-Conditioned Sidechain Packing for Flexible Molecular Docking
+2024-12-22 11:55:00,502 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:55:00,502 - preprint - INFO - Searching for published version of arXiv paper: FABind: Fast and Accurate Protein-Ligand Binding
+2024-12-22 11:55:00,775 - preprint - INFO - Searching for published version of bioRxiv paper: ArtiDock: fast and accurate machine learning approach to protein-ligand docking based on multimodal data augmentation
+2024-12-22 11:55:00,990 - arxiv - INFO - Sleeping: 2.510261 seconds
+2024-12-22 11:55:02,371 - preprint - INFO - Searching for published version of chemRxiv paper: FeatureDock: Protein-Ligand Docking Guided by Physicochemical Feature-Based Local Environment Learning using Transformer
+2024-12-22 11:55:03,503 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2310.06763&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:55:03,770 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:55:03,770 - preprint - INFO - Searching for published version of arXiv paper: FABind: Fast and Accurate Protein-Ligand Binding
+2024-12-22 11:55:04,011 - preprint - INFO - Searching for published version of chemRxiv paper: Condensing Molecular Docking CNNs via Knowledge Distillation
+2024-12-22 11:55:04,685 - arxiv - INFO - Sleeping: 2.083069 seconds
+2024-12-22 11:55:06,770 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2410.16474&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:55:07,130 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:55:07,130 - preprint - INFO - Searching for published version of arXiv paper: QuickBind: A Light-Weight And Interpretable Molecular Docking Model
+2024-12-22 11:55:09,550 - arxiv - INFO - Sleeping: 0.578720 seconds
+2024-12-22 11:55:09,733 - arxiv - INFO - Sleeping: 0.395334 seconds
+2024-12-22 11:55:10,129 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2411.00004&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:55:10,131 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2402.11459&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:55:10,442 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:55:10,442 - preprint - INFO - Searching for published version of arXiv paper: RapidDock: Unlocking Proteome-scale Molecular Docking
+2024-12-22 11:55:11,045 - preprint - INFO - Searching for published version of bioRxiv paper: SurfDock is a Surface-Informed Diffusion Generative Model for Reliable and Accurate Protein-ligand Complex Prediction
+2024-12-22 11:55:11,143 - preprint - INFO - Searching for published version of bioRxiv paper: TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction
+2024-12-22 11:55:11,655 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:55:11,655 - preprint - INFO - Searching for published version of arXiv paper: Re-Dock: Towards Flexible and Realistic Molecular Docking with Diffusion Bridge
+2024-12-22 11:55:12,349 - arxiv - INFO - Sleeping: 2.303616 seconds
+2024-12-22 11:55:14,030 - preprint - INFO - Searching for published version of bioRxiv paper: SE(3)-Equivariant Energy-based Models for End-to-End Protein Folding
+2024-12-22 11:55:14,309 - arxiv - INFO - Sleeping: 0.343928 seconds
+2024-12-22 11:55:14,654 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2308.07413&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:55:14,655 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2310.05764&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:55:14,912 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:55:14,912 - preprint - INFO - Searching for published version of arXiv paper: Benchmarking Generated Poses: How Rational is Structure-based Drug Design with Generative Models?
+2024-12-22 11:55:14,915 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:55:14,915 - preprint - INFO - Searching for published version of arXiv paper: Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design
+2024-12-22 11:55:15,606 - preprint - INFO - Searching for published version of chemRxiv paper: Rapid Traversal of Ultralarge Chemical Space using Machine Learning Guided Docking Screens
+2024-12-22 11:55:16,394 - arxiv - INFO - Sleeping: 1.519148 seconds
+2024-12-22 11:55:17,915 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2403.10478&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:55:18,180 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:55:18,180 - preprint - INFO - Searching for published version of arXiv paper: An Improved Metric and Benchmark for Assessing the Performance of Virtual Screening Models
+2024-12-22 11:55:18,858 - preprint - INFO - Searching for published version of bioRxiv paper: Physics-inspired accuracy estimator for model-docked ligand complexes
+2024-12-22 11:55:19,342 - preprint - INFO - Searching for published version of chemRxiv paper: Enhancing Semiempirical Quantum Mechanical Scoring with Machine Learning: a new scoring function that accounts for both the enthalpic and entropic contributions to the ligand binding free energy
+2024-12-22 11:55:20,764 - preprint - INFO - Searching for published version of bioRxiv paper: EquiScore: A generic protein-ligand interaction scoring method integrating physical prior knowledge with data augmentation modeling
+2024-12-22 11:55:21,200 - preprint - INFO - Searching for published version of bioRxiv paper: PLAPT: Protein-Ligand Binding Affinity Prediction Using Pretrained Transformers
+2024-12-22 11:55:22,369 - services - WARNING - No title found for DOI: 10.26434/chemrxiv-12465371
+2024-12-22 11:55:22,520 - arxiv - INFO - Requesting page (first: True, try: 0): https://export.arxiv.org/api/query?search_query=&id_list=2411.08306&sortBy=relevance&sortOrder=descending&start=0&max_results=1
+2024-12-22 11:55:22,713 - preprint - INFO - Searching for published version of chemRxiv paper: BatGPT-Chem: A Foundation Large Model For Chemical Engineering
+2024-12-22 11:55:22,897 - arxiv - INFO - Got first page: 1 of 1 total results
+2024-12-22 11:55:22,897 - preprint - INFO - Searching for published version of arXiv paper: SDDBench: A Benchmark for Synthesizable Drug Design
+2024-12-22 11:55:49,017 - github.Requester - INFO - Following Github server redirection from /repos/cthoyt/drugbank_downloader to /repositories/321374043
+2024-12-22 11:56:05,723 - services - ERROR - GitHub data fetch error for URL: https://github.com/LRossentue/RUSH. Error: 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/repos/repos#get-a-repository", "status": "404"}
+2024-12-22 11:56:07,498 - services - ERROR - GitHub data fetch error for URL: https://github.com/yanliang3612/NucleusDiff. Error: 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/repos/repos#get-a-repository", "status": "404"}
+2024-12-22 11:56:53,504 - services - ERROR - GitHub data fetch error for URL: https://github.com/iwatobipen/QSAR_TOOLBOX. Error: 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/repos/repos#get-a-repository", "status": "404"}
+2024-12-22 11:57:03,810 - services - ERROR - GitHub data fetch error for URL: https://github.com/molinfo-vienna/PharmacoMatch. Error: 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/repos/repos#get-a-repository", "status": "404"}
+2024-12-22 11:57:20,250 - services - ERROR - GitHub data fetch error for URL: https://github.com/iwatobipen/QSAR_TOOLBOX. Error: 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/repos/repos#get-a-repository", "status": "404"}
+2024-12-22 11:57:20,435 - services - ERROR - GitHub data fetch error for URL: https://github.com/iwatobipen/QSAR_TOOLBOX. Error: 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/repos/repos#get-a-repository", "status": "404"}
+2024-12-22 11:57:22,048 - services - ERROR - GitHub data fetch error for URL: https://github.com/iceplussss/QSAR-Complete. Error: 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest/repos/repos#get-a-repository", "status": "404"}
+2024-12-22 11:58:16,165 - github.Requester - INFO - Following Github server redirection from /repos/trrt-good/WELP-PLAPT to /repositories/695659181
+2024-12-22 11:58:44,173 - services - ERROR - Citation fetch error for DOI: https://zenodo.org/badge/latestdoi/496163299. Error: list index out of range
+2024-12-22 11:59:35,333 - processor - INFO - Saved processed data to /home/tony/CADD_Vault/scripts/../processed_cadd_vault_data.csv and /home/tony/CADD_Vault/scripts/../cadd_vault_data.xlsx
+2024-12-22 11:59:35,334 - processor - INFO - 
+Processing Results:
+2024-12-22 11:59:35,334 - processor - INFO - Total Rows: 1499
+2024-12-22 11:59:35,334 - processor - INFO - Successfully Processed: 0
+2024-12-22 11:59:35,334 - processor - INFO - Failed: 0
+2024-12-22 11:59:35,334 - processor - INFO - Citations Retrieved: 1087
+2024-12-22 11:59:35,334 - processor - INFO - GitHub Repos Processed: 914
+2024-12-22 11:59:35,334 - processor - INFO - Preprints Checked: 3
+2024-12-22 11:59:35,334 - processor - INFO - DOIs Normalized: 1116
+2024-12-22 11:59:35,334 - __main__ - INFO - 
+=== Processing Complete ===
