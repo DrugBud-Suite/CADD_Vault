@@ -5,7 +5,7 @@ icon: material/format-text-rotation-none
 
 ## **Other Representations**
 - **selfies**: Recent advances in the self-referencing embedded strings (SELFIES) library  
-		[![Code](https://img.shields.io/github/stars/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies) [![Last Commit](https://img.shields.io/github/last-commit/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies) [![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3DD00044C) 
+		[![Code](https://img.shields.io/github/stars/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies) [![Last Commit](https://img.shields.io/github/last-commit/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies) [![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3DD00044C) 
 
 ## **SMARTS-related**
 - **SMARTS**: SMARTS is like a regular expression for chemical compounds  
@@ -21,4 +21,4 @@ icon: material/format-text-rotation-none
 - **SMILESAugmentation**: A tool for augmenting SMILES strings to enhance the performance of machine learning models in cheminformatics.  
 		[![Code](https://img.shields.io/github/stars/jcorreia11/SMILESAugmentation?style=for-the-badge&logo=github)](https://github.com/jcorreia11/SMILESAugmentation) [![Last Commit](https://img.shields.io/github/last-commit/jcorreia11/SMILESAugmentation?style=for-the-badge&logo=github)](https://github.com/jcorreia11/SMILESAugmentation) 
 - **t-SMILES**: Transforms SMILES strings for improved molecular representation and machine learning model performance.  
-		[![Code](https://img.shields.io/github/stars/juanniwu/t-smiles?style=for-the-badge&logo=github)](https://github.com/juanniwu/t-smiles) [![Last Commit](https://img.shields.io/github/last-commit/juanniwu/t-smiles?style=for-the-badge&logo=github)](https://github.com/juanniwu/t-smiles) [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-49388-6) 
+		[![Code](https://img.shields.io/github/stars/juanniwu/t-smiles?style=for-the-badge&logo=github)](https://github.com/juanniwu/t-smiles) [![Last Commit](https://img.shields.io/github/last-commit/juanniwu/t-smiles?style=for-the-badge&logo=github)](https://github.com/juanniwu/t-smiles) [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-49388-6) 

@@ -5,7 +5,7 @@ icon: material/timeline-question
 - **AiZynthFinder**: package for retrosynthesis planning.  
 		[![Code](https://img.shields.io/github/stars/MolecularAI/aizynthfinder?style=for-the-badge&logo=github)](https://github.com/MolecularAI/aizynthfinder) [![Last Commit](https://img.shields.io/github/last-commit/MolecularAI/aizynthfinder?style=for-the-badge&logo=github)](https://github.com/MolecularAI/aizynthfinder) [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=arxiv)](https://doi.org/10.26434/chemrxiv.12465371) 
 - **BatGPT-Chem**: A Foundation Large Model For Retrosynthesis Prediction  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=arxiv)](https://doi.org/10.26434/chemrxiv-2024-1p4xt) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.batgpt.net/dapp/chem) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=arxiv)](https://doi.org/10.26434/chemrxiv-2024-1p4xt) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.batgpt.net/dapp/chem) 
 - **https://github.com/gmum/RetroGFN**: RetroGFN: Diverse and Feasible Retrosynthesis using GFlowNets  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01074.s001) 
 - **SPARROW**: synthetic cost-aware decision making in molecular design  

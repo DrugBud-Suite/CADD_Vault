@@ -9,15 +9,15 @@ icon: material/paperclip-check
 - **Attention is all you need**: Attention Is All You Need  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.1706.03762) 
 - **Deep Residual Learning for Image Recognition**: Deep Residual Learning for Image Recognition  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:124048-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1109/cvpr.2016.90) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:124447-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1109/cvpr.2016.90) 
 - **Deep Speech 2: End-to-End Speech Recognition in English and Mandarin**: Deep Speech 2: End-to-End Speech Recognition in English and Mandarin  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.1512.02595) 
 - **GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism**: GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.1811.06965) 
 - **Identity Mappings in Deep Residual Networks**: Identity Mappings in Deep Residual Networks  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4269-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-3-319-46493-0_38) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4282-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-3-319-46493-0_38) 
 - **ImageNet classification with deep convolutional neural networks**: ImageNet classification with deep convolutional neural networks  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:23915-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1145/3065386) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:23979-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1145/3065386) 
 - **Keeping Neural Networks Simple by Minimizing the Description Length of the Weights**:   
 	[![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](https://www.cs.toronto.edu/~hinton/absps/colt93) 
 - **Machine Super Intelligence**:   

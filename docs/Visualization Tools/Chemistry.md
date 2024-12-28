@@ -17,7 +17,7 @@ icon: material/molecule
 - **Molsketch**: 2D molecular editing tool (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://sourceforge.net/projects/molsketch) 
 - **PubChem Sketcher**: A web-based tool for chemical sketching...(online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:78-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186%2F1758-2946-1-20) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://pubchem.ncbi.nlm.nih.gov/edit2/index.html) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:79-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186%2F1758-2946-1-20) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://pubchem.ncbi.nlm.nih.gov/edit2/index.html) 
 - **SketchEl**: interactive chemical molecule sketching tool (standalone)  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://sketchel.sourceforge.net/) 
 - **SMARTeditor**:   

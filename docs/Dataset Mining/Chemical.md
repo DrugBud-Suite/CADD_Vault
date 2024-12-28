@@ -9,7 +9,7 @@ icon: material/pickaxe
 - **drugbank-downloader**:   
 		[![Code](https://img.shields.io/github/stars/cthoyt/drugbank_downloader?style=for-the-badge&logo=github)](https://github.com/cthoyt/drugbank_downloader) [![Last Commit](https://img.shields.io/github/last-commit/cthoyt/drugbank_downloader?style=for-the-badge&logo=github)](https://github.com/cthoyt/drugbank_downloader) 
 - **Papyrus**: Collection of scripts to interact with the Papyrus bioactivity dataset.  
-		[![Code](https://img.shields.io/github/stars/OlivierBeq/Papyrus-scripts?style=for-the-badge&logo=github)](https://github.com/OlivierBeq/Papyrus-scripts?tab=readme-ov-file) [![Last Commit](https://img.shields.io/github/last-commit/OlivierBeq/Papyrus-scripts?style=for-the-badge&logo=github)](https://github.com/OlivierBeq/Papyrus-scripts?tab=readme-ov-file) [![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00672-x) 
+		[![Code](https://img.shields.io/github/stars/OlivierBeq/Papyrus-scripts?style=for-the-badge&logo=github)](https://github.com/OlivierBeq/Papyrus-scripts?tab=readme-ov-file) [![Last Commit](https://img.shields.io/github/last-commit/OlivierBeq/Papyrus-scripts?style=for-the-badge&logo=github)](https://github.com/OlivierBeq/Papyrus-scripts?tab=readme-ov-file) [![Publication](https://img.shields.io/badge/Publication-Citations:22-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00672-x) 
 - **pubchempy**:   
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://pubchempy.readthedocs.io/en/latest/) 
 

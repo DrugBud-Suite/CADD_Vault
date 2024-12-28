@@ -13,7 +13,7 @@ icon: material/database-sync
 
 ## **Reviews**
 - **Sherman et al**: Protein and ligand preparation: parameters, protocols, and influence on virtual screening enrichments  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4365-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-013-9644-8) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:4374-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-013-9644-8) 
 
 ## **Standardization**
 - **Ambitcli**: no 3D but Java application for standardization (standalone).  
