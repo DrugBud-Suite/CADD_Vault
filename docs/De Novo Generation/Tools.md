@@ -7,7 +7,7 @@ icon: material/tools
 - **MolScore**:   
 		[![Code](https://img.shields.io/github/stars/MorganCThomas/MolScore?style=for-the-badge&logo=github)](https://github.com/MorganCThomas/MolScore/tree/main?tab=readme-ov-file) [![Last Commit](https://img.shields.io/github/last-commit/MorganCThomas/MolScore?style=for-the-badge&logo=github)](https://github.com/MorganCThomas/MolScore/tree/main?tab=readme-ov-file) [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00861-w) 
 - **SCRdkit**: assesses the 3D similarity between generated molecules and a reference molecule  
-		[![Code](https://img.shields.io/github/stars/oxpig/DEVELOP?style=for-the-badge&logo=github)](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py) [![Last Commit](https://img.shields.io/github/last-commit/oxpig/DEVELOP?style=for-the-badge&logo=github)](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py) [![Publication](https://img.shields.io/badge/Publication-Citations:50-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d1sc02436a) 
+		[![Code](https://img.shields.io/github/stars/oxpig/DEVELOP?style=for-the-badge&logo=github)](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py) [![Last Commit](https://img.shields.io/github/last-commit/oxpig/DEVELOP?style=for-the-badge&logo=github)](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py) [![Publication](https://img.shields.io/badge/Publication-Citations:51-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d1sc02436a) 
 
 ## **Expert Feedback**
 - **Metis**: Metis - A Python-Based User Interface to Collect Expert Feedback for Generative Chemistry Models  

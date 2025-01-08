@@ -3,7 +3,7 @@ icon: material/dots-horizontal
 ---
 
 - **ambit**: AMBIT offers chemoinformatics functionality via REST web services, supporting a wide range of chemical data processing and analysis tasks.  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://ambit.sourceforge.net/) 
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://ambit.sourceforge.net/) 
 - **Cheminformatics Recipes**:   
 		[![Code](https://img.shields.io/github/stars/UnixJunkie/chemoinfo_recipes?style=for-the-badge&logo=github)](https://github.com/UnixJunkie/chemoinfo_recipes) [![Last Commit](https://img.shields.io/github/last-commit/UnixJunkie/chemoinfo_recipes?style=for-the-badge&logo=github)](https://github.com/UnixJunkie/chemoinfo_recipes) 
 - **chemminetools**: ChemMine Tools is an open-source web framework for small molecule analysis based on Django, offering various analytical tools for chemical data.  
@@ -13,7 +13,7 @@ icon: material/dots-horizontal
 - **datamol**: - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.  
 		[![Code](https://img.shields.io/github/stars/datamol-io/datamol?style=for-the-badge&logo=github)](https://github.com/datamol-io/datamol) [![Last Commit](https://img.shields.io/github/last-commit/datamol-io/datamol?style=for-the-badge&logo=github)](https://github.com/datamol-io/datamol) [![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)](zenodo.5131279) 
 - **MayaChemTools**: MayaChemTools is a collection of Perl and Python scripts, modules, and classes that support a variety of computational discovery needs, with functionalities for processing, analyzing, and visualizing chemical data.  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.mayachemtools.org/index.html) 
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://www.mayachemtools.org/index.html) 
 - **rdkit-tutorials**: Offers RDKit basics through Jupyter notebooks, aiding users in starting with RDKit, including installation, configuration, and initial steps.  
 		[![Code](https://img.shields.io/github/stars/suneelbvs/rdkit_tutorials?style=for-the-badge&logo=github)](https://github.com/suneelbvs/rdkit_tutorials) [![Last Commit](https://img.shields.io/github/last-commit/suneelbvs/rdkit_tutorials?style=for-the-badge&logo=github)](https://github.com/suneelbvs/rdkit_tutorials) 
 

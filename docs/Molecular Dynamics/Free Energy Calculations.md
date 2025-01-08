@@ -6,6 +6,8 @@ icon: material/lightning-bolt
 
 - **ABFE_workflow**: Automated Absolute Binding Free Energy Calculation Workflow for Drug Discovery  
 		[![Code](https://img.shields.io/github/stars/bigginlab/ABFE_workflow?style=for-the-badge&logo=github)](https://github.com/bigginlab/ABFE_workflow) [![Last Commit](https://img.shields.io/github/last-commit/bigginlab/ABFE_workflow?style=for-the-badge&logo=github)](https://github.com/bigginlab/ABFE_workflow) [![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00343) 
+- **Multi-eGO**: Estimation of Ligand Binding Free Energy Using Multi-eGO  
+		[![Code](https://img.shields.io/github/stars/multi-ego/multi-eGO?style=for-the-badge&logo=github)](https://github.com/multi-ego/multi-eGO) [![Last Commit](https://img.shields.io/github/last-commit/multi-ego/multi-eGO?style=for-the-badge&logo=github)](https://github.com/multi-ego/multi-eGO) [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c01545) 
 
 ## **Accelerated**
 - **CS-FEP**: combined-structure free energy perturbation  
@@ -39,7 +41,7 @@ icon: material/lightning-bolt
 
 ## **ML-enabled**
 - **ATM_with_NNPs**: Enhancing Protein-Ligand Binding Affinity Predictions Using Neural Network Potentials  
-		[![Code](https://img.shields.io/github/stars/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs) [![Last Commit](https://img.shields.io/github/last-commit/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs) [![Publication](https://img.shields.io/badge/Publication-Citations:975-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q) 
+		[![Code](https://img.shields.io/github/stars/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs) [![Last Commit](https://img.shields.io/github/last-commit/compsciencelab/ATM_benchmark?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs) [![Publication](https://img.shields.io/badge/Publication-Citations:973-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q) 
 
 ## **Planning**
 - **HiMap**: High Information Mapper (HiMap), successor of the Lead Optimization Mapper (LOMAP), includes design generation based on statistical optimality for alchemical free energy calculations and optimization of free energy perturbation networks.  

@@ -5,13 +5,13 @@ icon: material/format-text-rotation-none
 
 ## **Other Representations**
 - **selfies**: Recent advances in the self-referencing embedded strings (SELFIES) library  
-		[![Code](https://img.shields.io/github/stars/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies) [![Last Commit](https://img.shields.io/github/last-commit/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies) [![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3DD00044C) 
+		[![Code](https://img.shields.io/github/stars/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies) [![Last Commit](https://img.shields.io/github/last-commit/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies) [![Publication](https://img.shields.io/badge/Publication-Citations:6-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3DD00044C) 
 
 ## **SMARTS-related**
 - **SMARTS**: SMARTS is like a regular expression for chemical compounds  
-		[![Code](https://img.shields.io/github/stars/SqrtNegInf/SMARTS?style=for-the-badge&logo=github)](https://github.com/SqrtNegInf/SMARTS) [![Last Commit](https://img.shields.io/github/last-commit/SqrtNegInf/SMARTS?style=for-the-badge&logo=github)](https://github.com/SqrtNegInf/SMARTS) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://github.com/SqrtNegInf/SMARTS/blob/master/cheat-sheet.txt) 
+		[![Code](https://img.shields.io/github/stars/SqrtNegInf/SMARTS?style=for-the-badge&logo=github)](https://github.com/SqrtNegInf/SMARTS) [![Last Commit](https://img.shields.io/github/last-commit/SqrtNegInf/SMARTS?style=for-the-badge&logo=github)](https://github.com/SqrtNegInf/SMARTS) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://github.com/SqrtNegInf/SMARTS/blob/master/cheat-sheet.txt) 
 - **SMARTS-plus**: easy to comprehend visualization for your SMARTS expression.  
-	[![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://smarts.plus/) 
+	[![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://smarts.plus/) 
 
 ## **SMILES-related**
 - **ClearSMILES**: stochastic data augmentation procedure called ClearSMILES, which reduces the vocabulary size needed  

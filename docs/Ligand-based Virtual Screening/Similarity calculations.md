@@ -7,4 +7,4 @@ icon: material/sim
 - **iSIM-sigma**: efficient standard deviation calculation for molecular similarity  
 	[![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://github.com/mqcomplab/) [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.11.24.625084) 
 - **Surflex-Tools**: starting with version 4 (standalone).  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.biopharmics.com/) 
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://www.biopharmics.com/) 

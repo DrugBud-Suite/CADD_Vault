@@ -3,7 +3,7 @@ icon: material/snake
 ---
 
 - **Bokeh**: A library for creating interactive web-based visualizations, allowing users to explore data dynamically in a web browser.  
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.aipythonlibraries.com/bokeh/) 
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.aipythonlibraries.com/bokeh/) 
 - **Keras**: A user-friendly neural network library that acts as a high-level API for TensorFlow, making it easier to define and train deep learning models.  
 	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.aipythonlibraries.com/keras/) 
 - **Matplotlib**: A versatile plotting library for creating static, interactive, and animated visualizations in various formats.  

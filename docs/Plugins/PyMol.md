@@ -3,7 +3,7 @@ icon: material/power-plug
 ---
 
 - **iPBAVizu**: iPBA: a tool for protein structure comparison using sequence alignment strategies  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:82-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkr333) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.dsimb.inserm.fr/dsimb_tools/iPBAVizu/) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:82-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkr333) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.dsimb.inserm.fr/dsimb_tools/iPBAVizu/) 
 - **ProBis H2O plugin**: ProBis H2O is a plugin for PyMOL that identifies conserved water sites in protein structures for drug design, supporting PyMOL version 2.3 and above on Linux and Windows.  
 	[![Publication](https://img.shields.io/badge/Publication-Citations:43-blue?style=for-the-badge&logo=bookstack)](doi:10.1021/acs.jcim.7b00443) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://insilab.org/probis-h2o/) 
 - **ProBis H2O-MD plugin**: ProBiS H2O MD Approach for Identification of Conserved Water Sites in Protein Structures for Drug Design  
@@ -16,7 +16,7 @@ icon: material/power-plug
 		[![Code](https://img.shields.io/github/stars/ChatMol/ChatMol?style=for-the-badge&logo=github)](https://github.com/ChatMol/ChatMol) [![Last Commit](https://img.shields.io/github/last-commit/ChatMol/ChatMol?style=for-the-badge&logo=github)](https://github.com/ChatMol/ChatMol) [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.18653/v1%2F2024.langmol-1.7) 
 
 ## **Docking**
-- **NRGSuite**:   
-	[![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://biophys.umontreal.ca/nrg/resources.html) 
 - **DockingPie**: DockingPie is a PyMOL plugin that offers a graphical interface for molecular and consensus docking analyses, integrating docking programs like Smina, Autodock Vina, RxDock, and ADFR.  
-		[![Code](https://img.shields.io/github/stars/paiardin/DockingPie?style=for-the-badge&logo=github)](https://github.com/paiardin/DockingPie) [![Last Commit](https://img.shields.io/github/last-commit/paiardin/DockingPie?style=for-the-badge&logo=github)](https://github.com/paiardin/DockingPie) [![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btac452) 
+		[![Code](https://img.shields.io/github/stars/paiardin/DockingPie?style=for-the-badge&logo=github)](https://github.com/paiardin/DockingPie) [![Last Commit](https://img.shields.io/github/last-commit/paiardin/DockingPie?style=for-the-badge&logo=github)](https://github.com/paiardin/DockingPie) [![Publication](https://img.shields.io/badge/Publication-Citations:28-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btac452) 
+- **NRGSuite**:   
+	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://biophys.umontreal.ca/nrg/resources.html) 

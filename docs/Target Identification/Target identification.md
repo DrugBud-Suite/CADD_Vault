@@ -5,11 +5,15 @@ icon: material/target
 
 ## **Druggability Prediction**
 - **DrugnomeAI**: DrugnomeAI is an ensemble machine-learning framework for predicting druggability of candidate drug targets  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42003-022-04245-4) [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://drugnomeai.public.cgr.astrazeneca.com/) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42003-022-04245-4) [![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://drugnomeai.public.cgr.astrazeneca.com/) 
 
 ## **Knowledge graph**
 - **TarKG**: comprehensive biomedical KG focusing on target discovery  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics%2Fbtae598) [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://tarkg.ddtmlab.org) 
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics%2Fbtae598) [![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://tarkg.ddtmlab.org) 
+
+## **Multi-modla**
+- **COMET**: Combined Matrix for Elucidating Targets  
+	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2412.02471) [![Webserver](https://img.shields.io/badge/Webserver-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.pdbbind-plus.org.cn/comet) 
 
 ## **Structure-based**
 - **Target Fisher**: Target Fisher: a Consensus Structure‐Based Target Prediction Tool, and its Application in the Discovery of Selective MAO‐B Inhibitors  
