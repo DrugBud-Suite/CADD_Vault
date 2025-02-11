@@ -1,0 +1,56 @@
+{# Category template for documentation generation #}
+{% if entries[0].documentation and entries[0].documentation.page_icon %}
+---
+icon: {{ entries[0].documentation.page_icon }}
+---
+{% endif %}
+
+{# Group entries by subcategory #}
+{% set grouped_entries = {} %}
+{% for entry in entries %}
+    {% set subcategory = entry.subcategory or "Other" %}
+    {% if subcategory not in grouped_entries %}
+        {% set _ = grouped_entries.update({subcategory: []}) %}
+    {% endif %}
+    {% set _ = grouped_entries[subcategory].append(entry) %}
+{% endfor %}
+
+{# Generate content for each subcategory #}
+{% for subcategory, subentries in grouped_entries.items() %}
+{% if subcategory != "Other" %}
+## **{{ subcategory }}**
+{% endif %}
+
+{% for entry in subentries %}
+{% if entry.subsubcategory %}
+### **{{ entry.subsubcategory }}**
+{% endif %}
+
+- **{{ entry.name }}**: {{ entry.description }}  
+    {# Generate badges based on available data #}
+    {% if entry.repository %}
+    {% if "github.com" in entry.repository.url|string %}
+    [![Code](https://img.shields.io/github/stars/{{ entry.repository.url|replace("https://github.com/", "")|replace(".git", "") }}?style=for-the-badge&logo=github)]({{ entry.repository.url }}) 
+    [![Last Commit](https://img.shields.io/github/last-commit/{{ entry.repository.url|replace("https://github.com/", "")|replace(".git", "") }}?style=for-the-badge&logo=github)]({{ entry.repository.url }}) 
+    {% else %}
+    [![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)]({{ entry.repository.url }}) 
+    {% endif %}
+    {% endif %}
+
+    {% if entry.publication %}
+    {% if entry.publication.citations is not none %}
+    [![Publication](https://img.shields.io/badge/Publication-Citations:{{ entry.publication.citations }}-blue?style=for-the-badge&logo=bookstack)]({{ entry.publication.url }}) 
+    {% if entry.publication.impact_factor %}
+    [![JIF](https://img.shields.io/badge/Impact_Factor-{{ "%.2f"|format(entry.publication.impact_factor) }}-purple?style=for-the-badge&logo=academia)]({{ entry.publication.url }})
+    {% endif %}
+    {% else %}
+    [![Publication](https://img.shields.io/badge/Publication-Citations:N/A-blue?style=for-the-badge&logo=bookstack)]({{ entry.publication.url }}) 
+    {% endif %}
+    {% endif %}
+
+    {% if entry.webserver %}
+    [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)]({{ entry.webserver.url }}) 
+    {% endif %}
+
+{% endfor %}
+{% endfor %}
