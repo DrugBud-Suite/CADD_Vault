@@ -1,45 +1,135 @@
----
-icon: material/video-3d-variant
----
+
+
+
 
 - **Avogadro**: advanced molecule editor and visualizer designed for cross-platform use (draw molecules...) (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:6903-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-4-17) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://avogadro.cc/) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:7025-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-4-17) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/1758-2946-4-17)
+
+
+
 - **BlendMol**: Advanced Macromolecular Visualization in Blender (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/bty968) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://durrantlab.com/blendmol/) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/bty968) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/bty968)
+
+
+
 - **Chimera**: (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:38277-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.20084) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.cgl.ucsf.edu/chimera/) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:38677-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.20084) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-3.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/jcc.20084)
+
+
+
 - **ChimeraX**: molecular graphics (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:4138-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.3235) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.cgl.ucsf.edu/chimerax/) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:4230-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.3235) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-4.50-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/pro.3235)
+
+
+
 - **Datagrok**: NGL viewer integrated in Datagrok  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://datagrok.ai/help/visualize/viewers/ngl
-https://datagrok.ai/help/visualize/viewers/biostructure) 
+
+
+
+
 - **MichelaNGLO**: An interactive protein on your website with a few clicks (standalone)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://michelanglo.sgc.ox.ac.uk/) 
+
+
+
+
 - **MolView**: draw and viewer in 2D or 3D of small molecules and proteins (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:86-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/0263-7855(94)00019-O) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://molview.org/) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:86-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/0263-7855(94)00019-O) 
+
+
+
 - **MolViewSpec**: Toolkit and Mol* Extension for Describing Molecular Visualizations  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/cpz1.1099) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://molstar.org/mol-view-spec/) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/cpz1.1099) 
+
+
+
 - **Nglviewer**: view molecular 3D structures (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gk) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://nglviewer.org/ngl/) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gk) 
+
+
+
+- **Open-source PyMol**: molecular graphics (standalone)  
+    [![Code](https://img.shields.io/github/stars/kullik01/pymol-open-source-windows-setup/?style=for-the-badge&logo=github)](https://github.com/kullik01/pymol-open-source-windows-setup/) 
+    [![Last Commit](https://img.shields.io/github/last-commit/kullik01/pymol-open-source-windows-setup/?style=for-the-badge&logo=github)](https://github.com/kullik01/pymol-open-source-windows-setup/) 
+
+
+
+
 - **OpenStructure**: look at molecular structures (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:99-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1107%2FS0907444913007051) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://www.openstructure.org/) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:103-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1107%2FS0907444913007051) 
+
+
+
 - **Protein Imager**: 3D molecular structure display (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:163-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btaa009) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://3dproteinimaging.com/protein-imager/) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:165-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btaa009) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btaa009)
+
+
+
 - **PyMol**: molecular graphics (standalone)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.pymol.org/) 
-- **Pymol-script-repo**: PyMol python scripts (standalone)  
-		[![Code](https://img.shields.io/github/stars/Pymol-Scripts/Pymol-script-repo?style=for-the-badge&logo=github)](https://github.com/Pymol-Scripts/Pymol-script-repo) [![Last Commit](https://img.shields.io/github/last-commit/Pymol-Scripts/Pymol-script-repo?style=for-the-badge&logo=github)](https://github.com/Pymol-Scripts/Pymol-script-repo) 
+
+
+
+
 - **PyMolshortcuts**: Shortcuts For Faster Image Creation in PyMOL - Scripts (standalone)  
-		[![Code](https://img.shields.io/github/stars/MooersLab/pymolshortcuts?style=for-the-badge&logo=github)](https://github.com/MooersLab/pymolshortcuts) [![Last Commit](https://img.shields.io/github/last-commit/MooersLab/pymolshortcuts?style=for-the-badge&logo=github)](https://github.com/MooersLab/pymolshortcuts) [![Publication](https://img.shields.io/badge/Publication-Citations:110-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.3781) 
+    [![Code](https://img.shields.io/github/stars/MooersLab/pymolshortcuts?style=for-the-badge&logo=github)](https://github.com/MooersLab/pymolshortcuts) 
+    [![Last Commit](https://img.shields.io/github/last-commit/MooersLab/pymolshortcuts?style=for-the-badge&logo=github)](https://github.com/MooersLab/pymolshortcuts) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:112-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.3781) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-4.50-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/pro.3781)
+
+
+
+- **Pymol-script-repo**: PyMol python scripts (standalone)  
+    [![Code](https://img.shields.io/github/stars/Pymol-Scripts/Pymol-script-repo?style=for-the-badge&logo=github)](https://github.com/Pymol-Scripts/Pymol-script-repo) 
+    [![Last Commit](https://img.shields.io/github/last-commit/Pymol-Scripts/Pymol-script-repo?style=for-the-badge&logo=github)](https://github.com/Pymol-Scripts/Pymol-script-repo) 
+
+
+
+
 - **QuteMol**: (standalone)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://qutemol.sourceforge.net/) 
+
+
+
+
 - **SAMSON**: software for adaptative modeling and simulation (nano), GROMACS can be launched from SAMSON... (standalone)  
-	[![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](https://www.samson-connect.net/app/main?execution=e1s1) 
+
+
+
+
 - **VMD**: molecular visualization program (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:50461-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/0263-7855(96)00018-5) [![Link](https://img.shields.io/badge/Link-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.ks.uiuc.edu/Research/vmd/) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:51115-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/0263-7855(96)00018-5) 
+
+
+
 - **VTX**: High performance molecular visualization software (Windows, Linux) (standalone)  
-	[![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://gitlab.com/VTX_mol/VTX) 
+    [![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://gitlab.com/VTX_mol/VTX) 
+
+
+
+
 - **Web3DMol**: view protein in 3D and sequences (online)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:21-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkx383) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://web3dmol.net/) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:21-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkx383) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkx383)
+
+
+
 - **YASARA**: molecular-graphics, -modeling and -simulation program (standalone)  
-	[![Publication](https://img.shields.io/badge/Publication-Citations:366-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-1-4939-7366-8_4) [![Link](https://img.shields.io/badge/Link-offline-red?style=for-the-badge&logo=xamarin&logoColor=red)](http://www.yasara.org/) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:377-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-1-4939-7366-8_4) 
+
+
