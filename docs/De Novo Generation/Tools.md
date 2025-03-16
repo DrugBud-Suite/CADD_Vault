@@ -15,7 +15,7 @@
     [![Code](https://img.shields.io/github/stars/MorganCThomas/MolScore/tree/main?tab=readme-ov-file?style=for-the-badge&logo=github)](https://github.com/MorganCThomas/MolScore/tree/main?tab=readme-ov-file) 
     [![Last Commit](https://img.shields.io/github/last-commit/MorganCThomas/MolScore/tree/main?tab=readme-ov-file?style=for-the-badge&logo=github)](https://github.com/MorganCThomas/MolScore/tree/main?tab=readme-ov-file) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00861-w) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00861-w) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-024-00861-w)
 
 
@@ -24,7 +24,7 @@
     [![Code](https://img.shields.io/github/stars/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py?style=for-the-badge&logo=github)](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py) 
     [![Last Commit](https://img.shields.io/github/last-commit/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py?style=for-the-badge&logo=github)](https://github.com/oxpig/DEVELOP/blob/main/analysis/calc_SC_RDKit.py) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:54-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d1sc02436a) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:59-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d1sc02436a) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1039/d1sc02436a)
 
 
@@ -35,7 +35,7 @@
     [![Code](https://img.shields.io/github/stars/JanoschMenke/metis?style=for-the-badge&logo=github)](https://github.com/JanoschMenke/metis) 
     [![Last Commit](https://img.shields.io/github/last-commit/JanoschMenke/metis?style=for-the-badge&logo=github)](https://github.com/JanoschMenke/metis) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00892-3) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00892-3) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-024-00892-3)
 
 

@@ -4,7 +4,7 @@
 
 - **AWSEM-MD**: a coarse-grained protein simulation package (Associative Memory, Water Mediated, Structure and Energy Model) which is implemented as a package for the LAMMPS tool  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:283-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/jp212541y) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:288-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/jp212541y) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/jp212541y)
 
 

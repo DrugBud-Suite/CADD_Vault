@@ -22,7 +22,7 @@
     [![Code](https://img.shields.io/github/stars/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery?style=for-the-badge&logo=github)](https://github.com/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery) 
     [![Last Commit](https://img.shields.io/github/last-commit/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery?style=for-the-badge&logo=github)](https://github.com/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:563-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.6b00367) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:572-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.6b00367) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-12.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acscentsci.6b00367)
 
 
@@ -68,7 +68,7 @@
     [![Code](https://img.shields.io/github/stars/Bombtsti/PG-DERN?style=for-the-badge&logo=github)](https://github.com/Bombtsti/PG-DERN) 
     [![Last Commit](https://img.shields.io/github/last-commit/Bombtsti/PG-DERN?style=for-the-badge&logo=github)](https://github.com/Bombtsti/PG-DERN) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1109/jbhi.2024.3381896) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1109/jbhi.2024.3381896) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1109/jbhi.2024.3381896)
 
 

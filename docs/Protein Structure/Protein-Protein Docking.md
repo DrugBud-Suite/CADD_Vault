@@ -12,14 +12,14 @@
 
 - **AREA-AFFINITY**: Server for Machine Learning-Based Prediction of Protein-Protein and Antibody-Protein Antigen Binding Affinities (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:11-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c01499) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c01499) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.2c01499)
 
 
 
 - **Arpeggio**: A webserver for calculating interatomic interactions in protein structures (online & standalone)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:376-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.jmb.2016.12.004) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:379-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.jmb.2016.12.004) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1016/j.jmb.2016.12.004)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://biosig.unimelb.edu.au/arpeggioweb/) 
@@ -29,28 +29,28 @@
     [![Code](https://img.shields.io/github/stars/wells-wood-research/balas?style=for-the-badge&logo=github)](https://github.com/wells-wood-research/balas) 
     [![Last Commit](https://img.shields.io/github/last-commit/wells-wood-research/balas?style=for-the-badge&logo=github)](https://github.com/wells-wood-research/balas) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:52-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btaa026) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:55-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btaa026) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btaa026)
 
 
 
 - **ClusPro FMFT-SAXS**: Ultra-fast Filtering Using Small-Angle X-ray Scattering Data in Protein Docking (online and standalone)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:2278-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fnprot.2016.169) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2326-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fnprot.2016.169) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-13.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038%2Fnprot.2016.169)
 
 
 
 - **ClusPro TBM**: Toward combining template-based methods with free docking (protein-protein docking) (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:2278-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fnprot.2016.169) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2326-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fnprot.2016.169) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-13.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038%2Fnprot.2016.169)
 
 
 
 - **ClusPro-DC**: discrimination between Xray and biological dimers (online requires login)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:2278-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fnprot.2016.169) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2326-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fnprot.2016.169) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-13.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038%2Fnprot.2016.169)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://cluspro.bu.edu/) 
@@ -58,7 +58,7 @@
 
 - **Cluspro**: protein docking (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:2278-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fnprot.2016.169) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2326-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fnprot.2016.169) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-13.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038%2Fnprot.2016.169)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://cluspro.bu.edu/login.php) 
@@ -88,7 +88,7 @@
 
 - **DOVE**: convolutional deep neural network-based approach named DOcking decoy selection with Voxel-based deep neural nEtwork (DOVE) for evaluating protein docking models (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:92-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz870) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:94-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz870) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btz870)
 
 
@@ -123,7 +123,7 @@
 
 - **Dockground**: A comprehensive data resource for modeling of protein complexes, datasets, decoys... (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:11-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.4481) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.4481) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.50-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/pro.4481)
 
 
@@ -136,7 +136,7 @@
 
 - **FRODOCK**: Fast Rotational DOCKing (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:134-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btw141) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:135-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btw141) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btw141)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://frodock.chaconlab.org/) 
@@ -160,14 +160,14 @@
 - **FoldDock**: simultaneous folding and docking protocol FoldDock and AlphaFold (standalone)  
     [![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://gitlab.com/ElofssonLab/FoldDock/) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:577-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-022-28865-w) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:598-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-022-28865-w) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-14.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41467-022-28865-w)
 
 
 
 - **GRAMM**: Protein-Protein Docking Web Server (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:28-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-1-0716-3441-7_5) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:35-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-1-0716-3441-7_5) 
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://gramm.compbio.ku.edu/) 
 
@@ -190,7 +190,7 @@
 
 - **GalaxyHomomer**: protein homo-oligomer structure prediction from a monomer sequence or structure (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:114-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkx246) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:118-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkx246) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkx246)
 
 
@@ -205,14 +205,14 @@
 
 - **GalaxyTongDock**: Symmetric and asymmetric ab initio protein-protein docking web server with improved energy parameters (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:694-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gks493) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:707-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gks493) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gks493)
 
 
 
 - **GraphPPIS**: Structure-aware protein-protein interaction site prediction using deep graph convolutional network (online), standalone on github  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:105-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btab643) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:112-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btab643) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btab643)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://biomed.nscc-gz.cn/apps/GraphPPIS) 
@@ -220,14 +220,14 @@
 
 - **HDOCK**: hybrid protein–protein and protein–DNA/RNA docking, Pushing the accuracy limit of shape complementarity for protein-protein docking (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:864-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkx407) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:903-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkx407) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093%2Fnar%2Fgkx407)
 
 
 
 - **HMI-PRED**: A Web Server for Structural Prediction of Host-Microbe Interactions Based on Interface Mimicry (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btac633) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btac633) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btac633)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://interactome.ku.edu.tr/hmi/) 
@@ -243,7 +243,7 @@
 
 - **HawkDock**: to predict and analyze the protein-protein complex based on computational docking and MM/GBSA (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:426-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkz397) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:442-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkz397) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkz397)
 
 
@@ -287,7 +287,7 @@
 
 - **LightDock**: Artificial Intelligence-powered modeling of macromolecular interactions (macromolecular docking framework, online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:92-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btx555) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:94-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btx555) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btx555)
 
 
@@ -306,7 +306,7 @@
 
 - **PPI-Affinity**: Prediction and Optimization of Protein-Peptide and Protein-Protein Binding Affinity (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:48-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jproteome.2c00020) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:50-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jproteome.2c00020) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jproteome.2c00020)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://protdcal.zmb.uni-due.de/PPIAffinity) 
@@ -314,7 +314,7 @@
 
 - **PRODIGY**: PROtein binDIng enerGY prediction (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:884-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btw514) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:913-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btw514) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btw514)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://wenmr.science.uu.nl/prodigy/) 
@@ -322,7 +322,7 @@
 
 - **PRODIGY-crystal**: classification of biological interfaces in protein complexes (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz437) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:32-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz437) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btz437)
 
 
@@ -336,7 +336,7 @@
 
 - **RosettaDock**: Efficient Flexible Backbone Protein-Protein Docking for Challenging Targets (standalone and online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:496-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkn216) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:503-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkn216) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093%2Fnar%2Fgkn216)
 
 
@@ -357,7 +357,7 @@
 
 - **ZDOCK**: docking (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:518-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0024657) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:528-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0024657) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.90-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1371/journal.pone.0024657)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://zdock.umassmed.edu/) 
@@ -372,7 +372,7 @@
 
 - **pyDock**: pyDockWEB: a web server for rigid-body protein–protein docking using electrostatics and desolvation scoring  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:235-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btt262) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:241-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btt262) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btt262)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://life.bsc.es/pid/pydock/) 
@@ -380,7 +380,7 @@
 
 - **pyDockDNA**: A new web server for energy-based protein-DNA docking and scoring (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3389/fmolb.2022.988996) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:21-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3389/fmolb.2022.988996) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.90-purple?style=for-the-badge&logo=academia)](https://doi.org/10.3389/fmolb.2022.988996)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://model3dbio.csic.es/pydockdna) 
@@ -388,7 +388,7 @@
 
 - **pyDockEneRes**: per-residue decomposition of protein-protein docking energy (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:18-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz884) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz884) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btz884)
 
 
@@ -406,7 +406,7 @@
     [![Code](https://img.shields.io/github/stars/bjornwallner/DockQ/?style=for-the-badge&logo=github)](https://github.com/bjornwallner/DockQ/) 
     [![Last Commit](https://img.shields.io/github/last-commit/bjornwallner/DockQ/?style=for-the-badge&logo=github)](https://github.com/bjornwallner/DockQ/) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:293-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0161879) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:306-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0161879) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.90-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1371/journal.pone.0161879)
 
 

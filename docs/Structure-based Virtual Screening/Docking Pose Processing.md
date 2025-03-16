@@ -11,6 +11,16 @@
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bib/bbad126)
 
 
+## **Hit Picking**
+
+
+- **AutoParty**: Machine Learning-Guided Visual Inspection of Molecular Docking Results  
+    [![Code](https://img.shields.io/github/stars/keiserlab/autoparty?style=for-the-badge&logo=github)](https://github.com/keiserlab/autoparty) 
+    [![Last Commit](https://img.shields.io/github/last-commit/keiserlab/autoparty?style=for-the-badge&logo=github)](https://github.com/keiserlab/autoparty) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.26434/chemrxiv-2024-7p4ws) 
+
+
 ## **Interaction Filtering**
 
 
@@ -93,7 +103,7 @@
     [![Code](https://img.shields.io/github/stars/maabuu/posebusters_em?style=for-the-badge&logo=github)](https://github.com/maabuu/posebusters_em) 
     [![Last Commit](https://img.shields.io/github/last-commit/maabuu/posebusters_em?style=for-the-badge&logo=github)](https://github.com/maabuu/posebusters_em) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:76-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d3sc04185a) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:90-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d3sc04185a) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1039/d3sc04185a)
 
 
@@ -102,7 +112,7 @@
     [![Code](https://img.shields.io/github/stars/UnixJunkie/MMO?style=for-the-badge&logo=github)](https://github.com/UnixJunkie/MMO) 
     [![Last Commit](https://img.shields.io/github/last-commit/UnixJunkie/MMO?style=for-the-badge&logo=github)](https://github.com/UnixJunkie/MMO) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.27478) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.27478) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/jcc.27478)
 
 
@@ -110,7 +120,7 @@
 - **PyRosettta**:   
     [![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://www.pyrosetta.org/) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:654-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btq007) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:670-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btq007) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btq007)
 
 
@@ -137,7 +147,7 @@
     [![Code](https://img.shields.io/github/stars/bjornwallner/DockQ/?style=for-the-badge&logo=github)](https://github.com/bjornwallner/DockQ/) 
     [![Last Commit](https://img.shields.io/github/last-commit/bjornwallner/DockQ/?style=for-the-badge&logo=github)](https://github.com/bjornwallner/DockQ/) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:293-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0161879) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:306-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0161879) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.90-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1371/journal.pone.0161879)
 
 
@@ -171,7 +181,7 @@
     [![Code](https://img.shields.io/github/stars/maabuu/posebusters?style=for-the-badge&logo=github)](https://github.com/maabuu/posebusters) 
     [![Last Commit](https://img.shields.io/github/last-commit/maabuu/posebusters?style=for-the-badge&logo=github)](https://github.com/maabuu/posebusters) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:76-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3SC04185A) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:90-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3SC04185A) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1039/D3SC04185A)
 
 
@@ -190,7 +200,7 @@
     [![Code](https://img.shields.io/github/stars/neudinger/pyDockRMSD?style=for-the-badge&logo=github)](https://github.com/neudinger/pyDockRMSD) 
     [![Last Commit](https://img.shields.io/github/last-commit/neudinger/pyDockRMSD?style=for-the-badge&logo=github)](https://github.com/neudinger/pyDockRMSD) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:223-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0362-7) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:238-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0362-7) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-019-0362-7)
 
 
@@ -199,7 +209,7 @@
     [![Code](https://img.shields.io/github/stars/charnley/rmsd?style=for-the-badge&logo=github)](https://github.com/charnley/rmsd) 
     [![Last Commit](https://img.shields.io/github/last-commit/charnley/rmsd?style=for-the-badge&logo=github)](https://github.com/charnley/rmsd) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:2437-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1107/S0567739476001873) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2453-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1107/S0567739476001873) 
 
 
 
@@ -207,7 +217,7 @@
     [![Code](https://img.shields.io/github/stars/RMeli/spyrmsd?style=for-the-badge&logo=github)](https://github.com/RMeli/spyrmsd) 
     [![Last Commit](https://img.shields.io/github/last-commit/RMeli/spyrmsd?style=for-the-badge&logo=github)](https://github.com/RMeli/spyrmsd) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:49-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00455-2) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:52-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00455-2) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-020-00455-2)
 
 

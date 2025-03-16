@@ -11,7 +11,7 @@
 
 - **BindWeb**: a web server for ligand binding residue and pocket prediction from protein structures (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.4462) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:5-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.4462) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.50-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/pro.4462)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.csbio.sjtu.edu.cn/bioinf/BindWeb/) 
@@ -35,7 +35,7 @@
 
 - **COACH-D**: COACH-D: improved protein–ligand binding sites prediction with refined ligand-binding poses through molecular docking  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:192-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gky439) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:194-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gky439) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gky439)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://zhanggroup.org/COACH/) 
@@ -45,7 +45,7 @@
     [![Code](https://img.shields.io/github/stars/PGlab-NIPER/CRAFT/?style=for-the-badge&logo=github)](https://github.com/PGlab-NIPER/CRAFT/) 
     [![Last Commit](https://img.shields.io/github/last-commit/PGlab-NIPER/CRAFT/?style=for-the-badge&logo=github)](https://github.com/PGlab-NIPER/CRAFT/) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00803-6) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00803-6) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-024-00803-6)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://pitools.niper.ac.in/CRAFT) 
@@ -77,7 +77,7 @@
 
 - **ConCavity**: prediction from protein sequence and structure (geometry-based) (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:359-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pcbi.1000585) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:363-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pcbi.1000585) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1371/journal.pcbi.1000585)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://compbio.cs.princeton.edu/concavity) 
@@ -102,14 +102,14 @@
     [![Code](https://img.shields.io/github/stars/stemylonas/DeepSurf?style=for-the-badge&logo=github)](https://github.com/stemylonas/DeepSurf.git) 
     [![Last Commit](https://img.shields.io/github/last-commit/stemylonas/DeepSurf?style=for-the-badge&logo=github)](https://github.com/stemylonas/DeepSurf.git) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:76-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btab009) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:78-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btab009) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btab009)
 
 
 
 - **DogSiteScorer**: This proteins.plus platform offers DogSiteScorer for predicting and scoring protein-ligand binding sites.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:417-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/bts310) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:423-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/bts310) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/bts310)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://proteins.plus/) 
@@ -117,7 +117,7 @@
 
 - **ESSA**: Essential site scanning analysis: A new approach for detecting sites that modulate the dispersion of protein global motions (Essential sites are defined as residues that would significantly alter the protein’s global dynamics if bound to a ligand) (standalone)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:43-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.csbj.2020.06.020) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:47-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.csbj.2020.06.020) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1016/j.csbj.2020.06.020)
 
 
@@ -134,7 +134,7 @@
     [![Code](https://img.shields.io/github/stars/durrantlab/fpocketweb/?style=for-the-badge&logo=github)](https://github.com/durrantlab/fpocketweb/) 
     [![Last Commit](https://img.shields.io/github/last-commit/durrantlab/fpocketweb/?style=for-the-badge&logo=github)](https://github.com/durrantlab/fpocketweb/) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00637-0) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00637-0) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-022-00637-0)
 
 
@@ -158,7 +158,7 @@
     [![Code](https://img.shields.io/github/stars/charles-abreu/GRaSP?style=for-the-badge&logo=github)](https://github.com/charles-abreu/GRaSP) 
     [![Last Commit](https://img.shields.io/github/last-commit/charles-abreu/GRaSP?style=for-the-badge&logo=github)](https://github.com/charles-abreu/GRaSP) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:18-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btaa805) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btaa805) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btaa805)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://grasp.ufv.br/) 
@@ -199,7 +199,7 @@
     [![Code](https://img.shields.io/github/stars/shiwentao00/Graphsite-classifier?style=for-the-badge&logo=github)](https://github.com/shiwentao00/Graphsite-classifier) 
     [![Last Commit](https://img.shields.io/github/last-commit/shiwentao00/Graphsite-classifier?style=for-the-badge&logo=github)](https://github.com/shiwentao00/Graphsite-classifier) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/biom12081053) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:14-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/biom12081053) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.3390/biom12081053)
 
 
@@ -234,7 +234,7 @@
     [![Code](https://img.shields.io/github/stars/rdk/p2rank?style=for-the-badge&logo=github)](https://github.com/rdk/p2rank) 
     [![Last Commit](https://img.shields.io/github/last-commit/rdk/p2rank?style=for-the-badge&logo=github)](https://github.com/rdk/p2rank) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:277-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-018-0285-8) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:284-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-018-0285-8) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-018-0285-8)
 
 
@@ -251,7 +251,7 @@
     [![Code](https://img.shields.io/github/stars/jivankandel/PUResNet?style=for-the-badge&logo=github)](https://github.com/jivankandel/PUResNet) 
     [![Last Commit](https://img.shields.io/github/last-commit/jivankandel/PUResNet?style=for-the-badge&logo=github)](https://github.com/jivankandel/PUResNet) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:72-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00547-7) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:75-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00547-7) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-021-00547-7)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://nsclbio.jbnu.ac.kr/tools/jmol) 
@@ -276,7 +276,7 @@
     [![Code](https://img.shields.io/github/stars/ShipraMalhotra/PocketDruggability?style=for-the-badge&logo=github)](https://github.com/ShipraMalhotra/PocketDruggability) 
     [![Last Commit](https://img.shields.io/github/last-commit/ShipraMalhotra/PocketDruggability?style=for-the-badge&logo=github)](https://github.com/ShipraMalhotra/PocketDruggability) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:82-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci5006004) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:83-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci5006004) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/ci5006004)
 
 
@@ -300,7 +300,7 @@
 
 - **PocketVec**: Comprehensive detection and characterization of human druggable pockets through binding site descriptors  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-52146-3) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-52146-3) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-14.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41467-024-52146-3)
 
 
@@ -309,14 +309,14 @@
     [![Code](https://img.shields.io/github/stars/PointSite/PointSite?style=for-the-badge&logo=github)](https://github.com/PointSite/PointSite) 
     [![Last Commit](https://img.shields.io/github/last-commit/PointSite/PointSite?style=for-the-badge&logo=github)](https://github.com/PointSite/PointSite) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c01512) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:40-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c01512) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.1c01512)
 
 
 
 - **PrankWeb 3**: accelerated ligand-binding site predictions for experimental and modelled protein structures (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:267-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkz424) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:275-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkz424) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkz424)
 
 
@@ -334,6 +334,22 @@
 
 
 
+- **RAPID-Net**:   
+    [![Code](https://img.shields.io/github/stars/BalytskyiJaroslaw/RAPID-Net?style=for-the-badge&logo=github)](https://github.com/BalytskyiJaroslaw/RAPID-Net) 
+    [![Last Commit](https://img.shields.io/github/last-commit/BalytskyiJaroslaw/RAPID-Net?style=for-the-badge&logo=github)](https://github.com/BalytskyiJaroslaw/RAPID-Net) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.20944/preprints202502.0352) 
+
+
+
+- **RAPID-net**:   
+    [![Code](https://img.shields.io/github/stars/BalytskyiJaroslaw/RAPID-Net?style=for-the-badge&logo=github)](https://github.com/BalytskyiJaroslaw/RAPID-Net) 
+    [![Last Commit](https://img.shields.io/github/last-commit/BalytskyiJaroslaw/RAPID-Net?style=for-the-badge&logo=github)](https://github.com/BalytskyiJaroslaw/RAPID-Net) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.20944/preprints202502.0352) 
+
+
+
 - **SGPocket**: A Graph Convolutional Neural Network to predict protein binding site.  
     [![Code](https://img.shields.io/github/stars/KevinCrp/SGPocket?style=for-the-badge&logo=github)](https://github.com/KevinCrp/SGPocket) 
     [![Last Commit](https://img.shields.io/github/last-commit/KevinCrp/SGPocket?style=for-the-badge&logo=github)](https://github.com/KevinCrp/SGPocket) 
@@ -347,7 +363,7 @@
     [![Code](https://img.shields.io/github/stars/concept-lab/SiteFerret?style=for-the-badge&logo=github)](https://github.com/concept-lab/SiteFerret) 
     [![Last Commit](https://img.shields.io/github/last-commit/concept-lab/SiteFerret?style=for-the-badge&logo=github)](https://github.com/concept-lab/SiteFerret) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:97-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0059744) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:101-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0059744) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.90-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1371/journal.pone.0059744)
 
 
@@ -372,7 +388,7 @@
     [![Code](https://img.shields.io/github/stars/Discngine/fpocket?style=for-the-badge&logo=github)](https://github.com/Discngine/fpocket) 
     [![Last Commit](https://img.shields.io/github/last-commit/Discngine/fpocket?style=for-the-badge&logo=github)](https://github.com/Discngine/fpocket) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1082-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1471-2105-10-168) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1104-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1471-2105-10-168) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.90-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/1471-2105-10-168)
 
 
@@ -381,7 +397,7 @@
     [![Code](https://img.shields.io/github/stars/LBC-LNBio/pyKVFinder?style=for-the-badge&logo=github)](https://github.com/LBC-LNBio/pyKVFinder) 
     [![Last Commit](https://img.shields.io/github/last-commit/LBC-LNBio/pyKVFinder?style=for-the-badge&logo=github)](https://github.com/LBC-LNBio/pyKVFinder) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s12859-021-04519-4) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s12859-021-04519-4) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.90-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s12859-021-04519-4)
 
 
@@ -407,7 +423,7 @@
 
 - **AlloReverse**: AlloReverse predicts multi-scale allosteric regulation information based on reversed allosteric communication theory, aiding in drug design and biological mechanism understanding.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkad279) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkad279) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkad279)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.allostery.net/AlloReverse/) 
@@ -415,7 +431,7 @@
 
 - **AlloSite**: allosteric site (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:158-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btt399) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:161-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btt399) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btt399)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://mdl.shsmu.edu.cn/AST/) 
@@ -433,7 +449,7 @@
     [![Code](https://img.shields.io/github/stars/yauz3/MEF-AlloSite?style=for-the-badge&logo=github)](https://github.com/yauz3/MEF-AlloSite) 
     [![Last Commit](https://img.shields.io/github/last-commit/yauz3/MEF-AlloSite?style=for-the-badge&logo=github)](https://github.com/yauz3/MEF-AlloSite) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00882-5) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00882-5) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-024-00882-5)
 
 
@@ -450,7 +466,7 @@
     [![Code](https://img.shields.io/github/stars/smu-tao-group/PASSerRank?style=for-the-badge&logo=github)](https://github.com/smu-tao-group/PASSerRank) 
     [![Last Commit](https://img.shields.io/github/last-commit/smu-tao-group/PASSerRank?style=for-the-badge&logo=github)](https://github.com/smu-tao-group/PASSerRank) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.27193) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:18-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.27193) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/jcc.27193)
 
 
@@ -488,7 +504,7 @@
 
 - **FTMap**: FTMap maps unbound protein surfaces to identify druggable hot spots where small molecules may bind.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:522-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/nprot.2015.043) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:531-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/nprot.2015.043) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-13.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/nprot.2015.043)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://ftmap.bu.edu/show_example.php?example=ace) 
@@ -513,7 +529,7 @@
     [![Code](https://img.shields.io/github/stars/durrantlab/POVME/?style=for-the-badge&logo=github)](https://github.com/durrantlab/POVME/) 
     [![Last Commit](https://img.shields.io/github/last-commit/durrantlab/POVME/?style=for-the-badge&logo=github)](https://github.com/durrantlab/POVME/) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:211-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021%2Fct500381c) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:212-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021%2Fct500381c) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021%2Fct500381c)
 
 
@@ -522,7 +538,7 @@
     [![Code](https://img.shields.io/github/stars/Albert-Lau-Lab/tactics_protein_analysis?style=for-the-badge&logo=github)](https://github.com/Albert-Lau-Lab/tactics_protein_analysis) 
     [![Last Commit](https://img.shields.io/github/last-commit/Albert-Lau-Lab/tactics_protein_analysis?style=for-the-badge&logo=github)](https://github.com/Albert-Lau-Lab/tactics_protein_analysis) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:14-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021%2Facs.jcim.1c00204) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021%2Facs.jcim.1c00204) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021%2Facs.jcim.1c00204)
 
 

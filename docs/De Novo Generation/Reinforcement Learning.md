@@ -6,7 +6,7 @@
     [![Code](https://img.shields.io/github/stars/acellera/acegen-open?style=for-the-badge&logo=github)](https://github.com/acellera/acegen-open) 
     [![Last Commit](https://img.shields.io/github/last-commit/acellera/acegen-open?style=for-the-badge&logo=github)](https://github.com/acellera/acegen-open) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:14-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00646-z) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00646-z) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-022-00646-z)
 
 
@@ -15,7 +15,7 @@
     [![Code](https://img.shields.io/github/stars/molecule-generator-collection/ChemTSv2?style=for-the-badge&logo=github)](https://github.com/molecule-generator-collection/ChemTSv2) 
     [![Last Commit](https://img.shields.io/github/last-commit/molecule-generator-collection/ChemTSv2?style=for-the-badge&logo=github)](https://github.com/molecule-generator-collection/ChemTSv2) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/wcms.1680) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/wcms.1680) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/wcms.1680)
 
 
@@ -24,7 +24,7 @@
     [![Code](https://img.shields.io/github/stars/insilicomedicine/GENTRL?style=for-the-badge&logo=github)](https://github.com/insilicomedicine/GENTRL) 
     [![Last Commit](https://img.shields.io/github/last-commit/insilicomedicine/GENTRL?style=for-the-badge&logo=github)](https://github.com/insilicomedicine/GENTRL) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:814-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41587-019-0224-x) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:843-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41587-019-0224-x) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-33.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41587-019-0224-x)
 
 
@@ -33,7 +33,7 @@
     [![Code](https://img.shields.io/github/stars/google-research/google-research/tree/master/mol_dqn?style=for-the-badge&logo=github)](https://github.com/google-research/google-research/tree/master/mol_dqn) 
     [![Last Commit](https://img.shields.io/github/last-commit/google-research/google-research/tree/master/mol_dqn?style=for-the-badge&logo=github)](https://github.com/google-research/google-research/tree/master/mol_dqn) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:266-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-019-47148-x) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:271-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-019-47148-x) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41598-019-47148-x)
 
 
@@ -42,7 +42,7 @@
     [![Code](https://img.shields.io/github/stars/MolecularAI/REINVENT4?style=for-the-badge&logo=github)](https://github.com/MolecularAI/REINVENT4) 
     [![Last Commit](https://img.shields.io/github/last-commit/MolecularAI/REINVENT4?style=for-the-badge&logo=github)](https://github.com/MolecularAI/REINVENT4) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:34-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00812-5) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:39-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00812-5) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-024-00812-5)
 
 
@@ -57,7 +57,7 @@
     [![Code](https://img.shields.io/github/stars/olsson-group/RL-GraphINVENT?style=for-the-badge&logo=github)](https://github.com/olsson-group/RL-GraphINVENT) 
     [![Last Commit](https://img.shields.io/github/last-commit/olsson-group/RL-GraphINVENT?style=for-the-badge&logo=github)](https://github.com/olsson-group/RL-GraphINVENT) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:92-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1088/2632-2153/abcf91) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:96-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1088/2632-2153/abcf91) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.30-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1088/2632-2153/abcf91)
 
 
@@ -66,7 +66,7 @@
     [![Code](https://img.shields.io/github/stars/isayev/ReLeaSE?style=for-the-badge&logo=github)](https://github.com/isayev/ReLeaSE) 
     [![Last Commit](https://img.shields.io/github/last-commit/isayev/ReLeaSE?style=for-the-badge&logo=github)](https://github.com/isayev/ReLeaSE) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:836-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/sciadv.aap7885) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:856-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/sciadv.aap7885) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-11.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1126/sciadv.aap7885)
 
 
@@ -79,5 +79,16 @@
 
     [![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00667-8) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-022-00667-8)
+
+
+## **Reaction-aware**
+
+
+- **TRACER**:   
+    [![Code](https://img.shields.io/github/stars/sekijima-lab/TRACER?style=for-the-badge&logo=github)](https://github.com/sekijima-lab/TRACER) 
+    [![Last Commit](https://img.shields.io/github/last-commit/sekijima-lab/TRACER?style=for-the-badge&logo=github)](https://github.com/sekijima-lab/TRACER) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42004-025-01437-x) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-5.90-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s42004-025-01437-x)
 
 

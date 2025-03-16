@@ -9,7 +9,7 @@
 
 - **LigPlot+**: view protein-ligand interactions in 2D (standalone)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:4588-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci200227u) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:4667-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci200227u) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/ci200227u)
 
 
@@ -28,7 +28,7 @@
 
 - **PoseView**: 2D interaction diagrams  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:73-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-2-S1-P50) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:74-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-2-S1-P50) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/1758-2946-2-S1-P50)
 
 

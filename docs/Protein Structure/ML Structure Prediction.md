@@ -13,14 +13,14 @@
 
 - **AlphaFold**: Protein Structure Database (predicted human 3D proteins, July 2021)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:26949-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-021-03819-2) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:28101-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-021-03819-2) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-50.50-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41586-021-03819-2)
 
 
 
 - **AlphaFold-Multimer**: a model that can predict the structure of multi-chain protein complexes with increased accuracy (standalone)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pcbi.1012253) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pcbi.1012253) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1371/journal.pcbi.1012253)
 
 
@@ -29,7 +29,7 @@
     [![Code](https://img.shields.io/github/stars/sokrypton/ColabFold?style=for-the-badge&logo=github)](https://github.com/sokrypton/ColabFold) 
     [![Last Commit](https://img.shields.io/github/last-commit/sokrypton/ColabFold?style=for-the-badge&logo=github)](https://github.com/sokrypton/ColabFold) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:5640-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41592-022-01488-1) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:5926-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41592-022-01488-1) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-36.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41592-022-01488-1)
 
 
@@ -50,13 +50,13 @@
     [![Code](https://img.shields.io/github/stars/facebookresearch/esm?style=for-the-badge&logo=github)](https://github.com/facebookresearch/esm) 
     [![Last Commit](https://img.shields.io/github/last-commit/facebookresearch/esm?style=for-the-badge&logo=github)](https://github.com/facebookresearch/esm) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:206-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2021.02.12.430858) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:215-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2021.02.12.430858) 
 
 
 
 - **ESMFold**: ESM Metagenomic Atlas contains several millions of predicted protein structures (can be used via ChimeraX) (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1800-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ade2574) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1980-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ade2574) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-44.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1126/science.ade2574)
 
 
@@ -65,7 +65,7 @@
     [![Code](https://img.shields.io/github/stars/evo-design/evo?style=for-the-badge&logo=github)](https://github.com/evo-design/evo) 
     [![Last Commit](https://img.shields.io/github/last-commit/evo-design/evo?style=for-the-badge&logo=github)](https://github.com/evo-design/evo) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ado9336) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ado9336) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-44.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1126/science.ado9336)
 
 
@@ -88,7 +88,7 @@
     [![Code](https://img.shields.io/github/stars/aqlaboratory/openfold?style=for-the-badge&logo=github)](https://github.com/aqlaboratory/openfold) 
     [![Last Commit](https://img.shields.io/github/last-commit/aqlaboratory/openfold?style=for-the-badge&logo=github)](https://github.com/aqlaboratory/openfold) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:53-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41592-024-02272-z) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:69-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41592-024-02272-z) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-36.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41592-024-02272-z)
 
 
@@ -103,7 +103,7 @@
 
 - **Robetta**: Robetta offers structure prediction using deep learning methods like RoseTTAFold and TrRosetta. It allows for custom sequence alignments, constraints, local fragments for homology modeling, and can model multi-chain complexes.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1693-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkh468) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1719-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkh468) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093%2Fnar%2Fgkh468)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://robetta.bakerlab.org/) 
@@ -113,7 +113,7 @@
     [![Code](https://img.shields.io/github/stars/RosettaCommons/RoseTTAFold?style=for-the-badge&logo=github)](https://github.com/RosettaCommons/RoseTTAFold) 
     [![Last Commit](https://img.shields.io/github/last-commit/RosettaCommons/RoseTTAFold?style=for-the-badge&logo=github)](https://github.com/RosettaCommons/RoseTTAFold) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:3779-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.abj8754) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:3904-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.abj8754) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-44.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1126/science.abj8754)
 
 
@@ -124,7 +124,7 @@
     [![Code](https://img.shields.io/github/stars/google-deepmind/alphafold?style=for-the-badge&logo=github)](https://github.com/google-deepmind/alphafold) 
     [![Last Commit](https://img.shields.io/github/last-commit/google-deepmind/alphafold?style=for-the-badge&logo=github)](https://github.com/google-deepmind/alphafold) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:26949-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-021-03819-2) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:28101-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-021-03819-2) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-50.50-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41586-021-03819-2)
 
 
@@ -156,7 +156,7 @@
     [![Code](https://img.shields.io/github/stars/jwohlwend/boltz?tab=readme-ov-file?style=for-the-badge&logo=github)](https://github.com/jwohlwend/boltz?tab=readme-ov-file) 
     [![Last Commit](https://img.shields.io/github/last-commit/jwohlwend/boltz?tab=readme-ov-file?style=for-the-badge&logo=github)](https://github.com/jwohlwend/boltz?tab=readme-ov-file) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.11.19.624167) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.11.19.624167) 
 
 
 
@@ -172,7 +172,7 @@
     [![Code](https://img.shields.io/github/stars/shuyana/DiffusionProteinLigand?style=for-the-badge&logo=github)](https://github.com/shuyana/DiffusionProteinLigand) 
     [![Last Commit](https://img.shields.io/github/last-commit/shuyana/DiffusionProteinLigand?style=for-the-badge&logo=github)](https://github.com/shuyana/DiffusionProteinLigand) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s12859-023-05354-5) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:22-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s12859-023-05354-5) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.90-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s12859-023-05354-5)
 
 
@@ -181,7 +181,7 @@
     [![Code](https://img.shields.io/github/stars/luwei0917/DynamicBind?style=for-the-badge&logo=github)](https://github.com/luwei0917/DynamicBind) 
     [![Last Commit](https://img.shields.io/github/last-commit/luwei0917/DynamicBind?style=for-the-badge&logo=github)](https://github.com/luwei0917/DynamicBind) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:41-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-45461-2) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:48-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-45461-2) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-14.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41467-024-45461-2)
 
 
@@ -190,7 +190,7 @@
     [![Code](https://img.shields.io/github/stars/zrqiao/NeuralPLexer?style=for-the-badge&logo=github)](https://github.com/zrqiao/NeuralPLexer) 
     [![Last Commit](https://img.shields.io/github/last-commit/zrqiao/NeuralPLexer?style=for-the-badge&logo=github)](https://github.com/zrqiao/NeuralPLexer) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:40-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-024-00792-z) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:47-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-024-00792-z) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-18.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s42256-024-00792-z)
 
 
@@ -199,7 +199,7 @@
     [![Code](https://img.shields.io/github/stars/AaronFeller/RoseTTAFold-All-Atom/blob/main/README.md?style=for-the-badge&logo=github)](https://github.com/AaronFeller/RoseTTAFold-All-Atom/blob/main/README.md) 
     [![Last Commit](https://img.shields.io/github/last-commit/AaronFeller/RoseTTAFold-All-Atom/blob/main/README.md?style=for-the-badge&logo=github)](https://github.com/AaronFeller/RoseTTAFold-All-Atom/blob/main/README.md) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:222-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.adl2528) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:269-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.adl2528) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-44.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1126/science.adl2528)
 
 
@@ -208,7 +208,7 @@
     [![Code](https://img.shields.io/github/stars/patrickbryant1/Umol?style=for-the-badge&logo=github)](https://github.com/patrickbryant1/Umol) 
     [![Last Commit](https://img.shields.io/github/last-commit/patrickbryant1/Umol?style=for-the-badge&logo=github)](https://github.com/patrickbryant1/Umol) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:18-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-48837-6) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-48837-6) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-14.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41467-024-48837-6)
 
 

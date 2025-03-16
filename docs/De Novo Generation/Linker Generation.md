@@ -6,7 +6,7 @@
     [![Code](https://img.shields.io/github/stars/biomed-AI/DRlinker?style=for-the-badge&logo=github)](https://github.com/biomed-AI/DRlinker) 
     [![Last Commit](https://img.shields.io/github/last-commit/biomed-AI/DRlinker?style=for-the-badge&logo=github)](https://github.com/biomed-AI/DRlinker) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c00982) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:33-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c00982) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.2c00982)
 
 
@@ -15,7 +15,7 @@
     [![Code](https://img.shields.io/github/stars/oxpig/DeLinker?style=for-the-badge&logo=github)](https://github.com/oxpig/DeLinker) 
     [![Last Commit](https://img.shields.io/github/last-commit/oxpig/DeLinker?style=for-the-badge&logo=github)](https://github.com/oxpig/DeLinker) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:155-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01120) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:162-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01120) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.9b01120)
 
 
@@ -32,7 +32,7 @@
     [![Code](https://img.shields.io/github/stars/howzh728/GRELinker?style=for-the-badge&logo=github)](https://github.com/howzh728/GRELinker) 
     [![Last Commit](https://img.shields.io/github/last-commit/howzh728/GRELinker?style=for-the-badge&logo=github)](https://github.com/howzh728/GRELinker) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01700) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01700) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.3c01700)
 
 
@@ -41,7 +41,7 @@
     [![Code](https://img.shields.io/github/stars/MolecularAI/Reinvent?style=for-the-badge&logo=github)](https://github.com/MolecularAI/Reinvent) 
     [![Last Commit](https://img.shields.io/github/last-commit/MolecularAI/Reinvent?style=for-the-badge&logo=github)](https://github.com/MolecularAI/Reinvent) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:24-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d2dd00115b) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d2dd00115b) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.20-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1039/d2dd00115b)
 
 

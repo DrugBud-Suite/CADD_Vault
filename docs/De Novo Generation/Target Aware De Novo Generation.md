@@ -1,5 +1,23 @@
 
 
+
+
+- **3DMolFormer**: A Dual-channel Framework for Structure-based Drug Discovery  
+    [![Code](https://img.shields.io/github/stars/HXYfighter/3DMolFormer?style=for-the-badge&logo=github)](https://github.com/HXYfighter/3DMolFormer) 
+    [![Last Commit](https://img.shields.io/github/last-commit/HXYfighter/3DMolFormer?style=for-the-badge&logo=github)](https://github.com/HXYfighter/3DMolFormer) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2502.05107) 
+
+
+
+- **Delete**:   
+    [![Code](https://img.shields.io/github/stars/HaotianZhangAI4Science/Delete?style=for-the-badge&logo=github)](https://github.com/HaotianZhangAI4Science/Delete) 
+    [![Last Commit](https://img.shields.io/github/last-commit/HaotianZhangAI4Science/Delete?style=for-the-badge&logo=github)](https://github.com/HaotianZhangAI4Science/Delete) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-025-00997-w) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-18.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s42256-025-00997-w)
+
+
 ## **Active-learning**
 
 
@@ -7,7 +25,7 @@
     [![Code](https://img.shields.io/github/stars/gregory-kyro/ChemSpaceAL?style=for-the-badge&logo=github)](https://github.com/gregory-kyro/ChemSpaceAL) 
     [![Last Commit](https://img.shields.io/github/last-commit/gregory-kyro/ChemSpaceAL?style=for-the-badge&logo=github)](https://github.com/gregory-kyro/ChemSpaceAL) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01456) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:6-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01456) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.3c01456)
 
 
@@ -62,8 +80,16 @@
     [![Code](https://img.shields.io/github/stars/arneschneuing/DiffSBDD?style=for-the-badge&logo=github)](https://github.com/arneschneuing/DiffSBDD) 
     [![Last Commit](https://img.shields.io/github/last-commit/arneschneuing/DiffSBDD?style=for-the-badge&logo=github)](https://github.com/arneschneuing/DiffSBDD) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s43588-024-00737-x) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s43588-024-00737-x) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-12.00-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s43588-024-00737-x)
+
+
+
+- **DiffSMol**:   
+    [![Code](https://img.shields.io/github/stars/ninglab/DiffSMol?style=for-the-badge&logo=github)](https://github.com/ninglab/DiffSMol) 
+    [![Last Commit](https://img.shields.io/github/last-commit/ninglab/DiffSMol?style=for-the-badge&logo=github)](https://github.com/ninglab/DiffSMol) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2502.06027) 
 
 
 
@@ -108,7 +134,7 @@
     [![Code](https://img.shields.io/github/stars/ci-lab-cz/crem-dock?style=for-the-badge&logo=github)](https://github.com/ci-lab-cz/crem-dock) 
     [![Last Commit](https://img.shields.io/github/last-commit/ci-lab-cz/crem-dock?style=for-the-badge&logo=github)](https://github.com/ci-lab-cz/crem-dock) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.26434/chemrxiv-2024-fpzqb-v2) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.26434/chemrxiv-2024-fpzqb-v3) 
 
 
 
@@ -194,7 +220,7 @@
     [![Code](https://img.shields.io/github/stars/Layne-Huang/PMDM/tree/main?style=for-the-badge&logo=github)](https://github.com/Layne-Huang/PMDM/tree/main) 
     [![Last Commit](https://img.shields.io/github/last-commit/Layne-Huang/PMDM/tree/main?style=for-the-badge&logo=github)](https://github.com/Layne-Huang/PMDM/tree/main) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:27-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-46569-1) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:33-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-46569-1) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-14.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41467-024-46569-1)
 
 
@@ -220,7 +246,7 @@
     [![Code](https://img.shields.io/github/stars/clinfo/SBMolGen?style=for-the-badge&logo=github)](https://github.com/clinfo/SBMolGen) 
     [![Last Commit](https://img.shields.io/github/last-commit/clinfo/SBMolGen?style=for-the-badge&logo=github)](https://github.com/clinfo/SBMolGen) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:45-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00679) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:47-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00679) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.1c00679)
 
 
@@ -246,7 +272,7 @@
     [![Code](https://img.shields.io/github/stars/mattragoza/liGAN?style=for-the-badge&logo=github)](https://github.com/mattragoza/liGAN) 
     [![Last Commit](https://img.shields.io/github/last-commit/mattragoza/liGAN?style=for-the-badge&logo=github)](https://github.com/mattragoza/liGAN) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:94-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D1SC05976A) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:99-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D1SC05976A) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1039/D1SC05976A)
 
 
@@ -257,8 +283,18 @@
     [![Code](https://img.shields.io/github/stars/biomed-AI/AIxFuse?style=for-the-badge&logo=github)](https://github.com/biomed-AI/AIxFuse) 
     [![Last Commit](https://img.shields.io/github/last-commit/biomed-AI/AIxFuse?style=for-the-badge&logo=github)](https://github.com/biomed-AI/AIxFuse) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d4sc00094c) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d4sc00094c) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1039/d4sc00094c)
+
+
+## **Flow-matching**
+
+
+- **DrugFlow**: Multi-domain Distribution Learning for De Novo Drug Design  
+    [![Code](https://img.shields.io/github/stars/LPDI-EPFL/DrugFlow?style=for-the-badge&logo=github)](https://github.com/LPDI-EPFL/DrugFlow) 
+    [![Last Commit](https://img.shields.io/github/last-commit/LPDI-EPFL/DrugFlow?style=for-the-badge&logo=github)](https://github.com/LPDI-EPFL/DrugFlow) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://openreview.net/forum) 
 
 
 ## **Fragment-based**
@@ -297,7 +333,7 @@
     [![Code](https://img.shields.io/github/stars/ashipiling/GPT_3DSMILES?style=for-the-badge&logo=github)](https://github.com/ashipiling/GPT_3DSMILES) 
     [![Last Commit](https://img.shields.io/github/last-commit/ashipiling/GPT_3DSMILES?style=for-the-badge&logo=github)](https://github.com/ashipiling/GPT_3DSMILES) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D4SC06864E) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D4SC06864E) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1039/D4SC06864E)
 
 
@@ -306,7 +342,7 @@
     [![Code](https://img.shields.io/github/stars/Chinafor/PETrans?style=for-the-badge&logo=github)](https://github.com/Chinafor/PETrans) 
     [![Last Commit](https://img.shields.io/github/last-commit/Chinafor/PETrans?style=for-the-badge&logo=github)](https://github.com/Chinafor/PETrans) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/ijms24021146) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:18-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/ijms24021146) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.90-purple?style=for-the-badge&logo=academia)](https://doi.org/10.3390/ijms24021146)
 
 
@@ -315,7 +351,7 @@
     [![Code](https://img.shields.io/github/stars/VV123/cMolGPT?style=for-the-badge&logo=github)](https://github.com/VV123/cMolGPT) 
     [![Last Commit](https://img.shields.io/github/last-commit/VV123/cMolGPT?style=for-the-badge&logo=github)](https://github.com/VV123/cMolGPT) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:32-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/molecules28114430) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:34-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/molecules28114430) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.20-purple?style=for-the-badge&logo=academia)](https://doi.org/10.3390/molecules28114430)
 
 
@@ -334,7 +370,7 @@
     [![Code](https://img.shields.io/github/stars/Saoge123/PocketFlow?style=for-the-badge&logo=github)](https://github.com/Saoge123/PocketFlow) 
     [![Last Commit](https://img.shields.io/github/last-commit/Saoge123/PocketFlow?style=for-the-badge&logo=github)](https://github.com/Saoge123/PocketFlow) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:19-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-024-00808-8) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:23-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-024-00808-8) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-18.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s42256-024-00808-8)
 
 
@@ -372,7 +408,7 @@
     [![Code](https://img.shields.io/github/stars/stonewiseAIDrugDesign/Lingo3DMol?style=for-the-badge&logo=github)](https://github.com/stonewiseAIDrugDesign/Lingo3DMol) 
     [![Last Commit](https://img.shields.io/github/last-commit/stonewiseAIDrugDesign/Lingo3DMol?style=for-the-badge&logo=github)](https://github.com/stonewiseAIDrugDesign/Lingo3DMol) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-023-00775-6) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:21-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-023-00775-6) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-18.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s42256-023-00775-6)
 
 
@@ -392,7 +428,7 @@
     [![Code](https://img.shields.io/github/stars/HaotianZhangAI4Science/ResGen?style=for-the-badge&logo=github)](https://github.com/HaotianZhangAI4Science/ResGen) 
     [![Last Commit](https://img.shields.io/github/last-commit/HaotianZhangAI4Science/ResGen?style=for-the-badge&logo=github)](https://github.com/HaotianZhangAI4Science/ResGen) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-023-00712-7) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:41-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-023-00712-7) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-18.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s42256-023-00712-7)
 
 
@@ -403,7 +439,7 @@
     [![Code](https://img.shields.io/github/stars/ETHmodlab/dragonfly_gen?style=for-the-badge&logo=github)](https://github.com/ETHmodlab/dragonfly_gen) 
     [![Last Commit](https://img.shields.io/github/last-commit/ETHmodlab/dragonfly_gen?style=for-the-badge&logo=github)](https://github.com/ETHmodlab/dragonfly_gen) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-47613-w) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:24-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-47613-w) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-14.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41467-024-47613-w)
 
 
@@ -414,7 +450,7 @@
     [![Code](https://img.shields.io/github/stars/giaguaro/PROTACable/?style=for-the-badge&logo=github)](https://github.com/giaguaro/PROTACable/) 
     [![Last Commit](https://img.shields.io/github/last-commit/giaguaro/PROTACable/?style=for-the-badge&logo=github)](https://github.com/giaguaro/PROTACable/) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01878) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01878) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.3c01878)
 
 
@@ -425,7 +461,7 @@
     [![Code](https://img.shields.io/github/stars/oxpig/DEVELOP/tree/main?style=for-the-badge&logo=github)](https://github.com/oxpig/DEVELOP/tree/main) 
     [![Last Commit](https://img.shields.io/github/last-commit/oxpig/DEVELOP/tree/main?style=for-the-badge&logo=github)](https://github.com/oxpig/DEVELOP/tree/main) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:54-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d1sc02436a) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:59-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d1sc02436a) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1039/d1sc02436a)
 
 
@@ -445,7 +481,7 @@
     [![Code](https://img.shields.io/github/stars/ACE-KAIST/DeepICL?style=for-the-badge&logo=github)](https://github.com/ACE-KAIST/DeepICL) 
     [![Last Commit](https://img.shields.io/github/last-commit/ACE-KAIST/DeepICL?style=for-the-badge&logo=github)](https://github.com/ACE-KAIST/DeepICL) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-47011-2) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-47011-2) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-14.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41467-024-47011-2)
 
 
@@ -501,7 +537,7 @@
 
 - **Generative Deep Learning for Targeted Compound Design [2021]**: Generative Deep Learning for Targeted Compound Design  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:93-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01496) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:95-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01496) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.0c01496)
 
 
@@ -562,7 +598,7 @@
     [![Code](https://img.shields.io/github/stars/CMACH508/AlphaDrug?style=for-the-badge&logo=github)](https://github.com/CMACH508/AlphaDrug) 
     [![Last Commit](https://img.shields.io/github/last-commit/CMACH508/AlphaDrug?style=for-the-badge&logo=github)](https://github.com/CMACH508/AlphaDrug) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:28-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/pnasnexus/pgac227) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/pnasnexus/pgac227) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.20-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/pnasnexus/pgac227)
 
 
@@ -609,7 +645,7 @@
     [![Code](https://img.shields.io/github/stars/micahwang/RELATION?style=for-the-badge&logo=github)](https://github.com/micahwang/RELATION) 
     [![Last Commit](https://img.shields.io/github/last-commit/micahwang/RELATION?style=for-the-badge&logo=github)](https://github.com/micahwang/RELATION) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:52-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.2c00732) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:56-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.2c00732) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jmedchem.2c00732)
 
 

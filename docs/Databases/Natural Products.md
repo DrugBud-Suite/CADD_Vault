@@ -9,28 +9,28 @@
 
 - **COCONUT**: COCONUT hosts one of the largest and best annotated natural product databases, freely available and undergoing continuous curation and improvement.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:323-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186%2Fs13321-020-00478-9) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:340-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186%2Fs13321-020-00478-9) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186%2Fs13321-020-00478-9)
 
 
 
 - **HIT 2.0**: an enhanced platform for Herbal Ingredients' Targets (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:262-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkq1165) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:267-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkq1165) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkq1165)
 
 
 
 - **LOTUS**: LOTUS is a significant, well-annotated resource for natural products, offering a user-friendly experience including structural search, taxonomy-oriented queries, and exports.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:152-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.7554/eLife.70780) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:163-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.7554/eLife.70780) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.7554/eLife.70780)
 
 
 
 - **NPASS**: Natural product activity and species source database  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:36-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac1069) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:38-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac1069) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkac1069)
 
 
@@ -55,14 +55,14 @@
 
 - **Super Natural II**: a database of natural products (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac1008) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:42-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac1008) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkac1008)
 
 
 
 - **SymMap**: SymMap integrates traditional Chinese medicine with modern medicine through molecular mechanisms and symptom mapping, offering information on herbs, ingredients, targets, symptoms, and diseases.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:348-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gky1021) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:362-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gky1021) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gky1021)
 
 
@@ -74,7 +74,7 @@
 
 - **TCMSID**: a simplified integrated database for drug discovery from traditional chinese medicine (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00670-z) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00670-z) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-022-00670-z)
 
 

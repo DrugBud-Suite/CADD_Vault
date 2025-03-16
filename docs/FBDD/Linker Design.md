@@ -6,7 +6,7 @@
     [![Code](https://img.shields.io/github/stars/oxpig/DeLinker?style=for-the-badge&logo=github)](https://github.com/oxpig/DeLinker) 
     [![Last Commit](https://img.shields.io/github/last-commit/oxpig/DeLinker?style=for-the-badge&logo=github)](https://github.com/oxpig/DeLinker) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:155-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01120) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:162-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01120) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.9b01120)
 
 

@@ -54,7 +54,7 @@
     [![Code](https://img.shields.io/github/stars/tiwarylab/alphafold2rave?style=for-the-badge&logo=github)](https://github.com/tiwarylab/alphafold2rave) 
     [![Last Commit](https://img.shields.io/github/last-commit/tiwarylab/alphafold2rave?style=for-the-badge&logo=github)](https://github.com/tiwarylab/alphafold2rave) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:50-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c00290) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:56-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c00290) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jctc.3c00290)
 
 
@@ -63,7 +63,16 @@
     [![Code](https://img.shields.io/github/stars/iamysk/AFsample2?style=for-the-badge&logo=github)](https://github.com/iamysk/AFsample2) 
     [![Last Commit](https://img.shields.io/github/last-commit/iamysk/AFsample2?style=for-the-badge&logo=github)](https://github.com/iamysk/AFsample2) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.05.28.596195) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.05.28.596195) 
+
+
+
+- **AI2BMD**: Ab initio characterization of protein molecular dynamics  
+    [![Code](https://img.shields.io/github/stars/microsoft/AI2BMD?style=for-the-badge&logo=github)](https://github.com/microsoft/AI2BMD) 
+    [![Last Commit](https://img.shields.io/github/last-commit/microsoft/AI2BMD?style=for-the-badge&logo=github)](https://github.com/microsoft/AI2BMD) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:11-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-024-08127-z) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-50.50-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41586-024-08127-z)
 
 
 
@@ -77,13 +86,21 @@
 
 - **BioEmu**:   
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.12.05.626885) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.12.05.626885) 
 
 
 
 - **DeepConformer**: diffusion generative model for sampling protein conformation distributions from a given amino acid sequence  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.06.27.600251) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.06.27.600251) 
+
+
+
+- **DiG**: Predicting equilibrium distributions for molecular systems with deep learning  
+    [![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://doi.org/10.5281/zenodo.10911143) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-024-00837-3) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-18.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s42256-024-00837-3)
 
 
 
@@ -113,8 +130,17 @@
     [![Code](https://img.shields.io/github/stars/lujiarui/Str2Str?style=for-the-badge&logo=github)](https://github.com/lujiarui/Str2Str) 
     [![Last Commit](https://img.shields.io/github/last-commit/lujiarui/Str2Str?style=for-the-badge&logo=github)](https://github.com/lujiarui/Str2Str) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1800-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ade2574) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1980-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.ade2574) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-44.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1126/science.ade2574)
+
+
+
+- **ipdGAN**: Direct generation of protein conformational ensembles via machine learning  
+    [![Code](https://img.shields.io/github/stars/feiglab/idpgan?style=for-the-badge&logo=github)](https://github.com/feiglab/idpgan) 
+    [![Last Commit](https://img.shields.io/github/last-commit/feiglab/idpgan?style=for-the-badge&logo=github)](https://github.com/feiglab/idpgan) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:89-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-023-36443-x) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-14.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41467-023-36443-x)
 
 
 ### **Disordered Proteins**
@@ -158,7 +184,7 @@
     [![Code](https://img.shields.io/github/stars/KavrakiLab/EnGens?style=for-the-badge&logo=github)](https://github.com/KavrakiLab/EnGens) 
     [![Last Commit](https://img.shields.io/github/last-commit/KavrakiLab/EnGens?style=for-the-badge&logo=github)](https://github.com/KavrakiLab/EnGens) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbad242) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbad242) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bib/bbad242)
 
 
@@ -184,7 +210,7 @@
     [![Code](https://img.shields.io/github/stars/olsson-group/sma-md?style=for-the-badge&logo=github)](https://github.com/olsson-group/sma-md) 
     [![Last Commit](https://img.shields.io/github/last-commit/olsson-group/sma-md?style=for-the-badge&logo=github)](https://github.com/olsson-group/sma-md) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1088/2632-2153/ad3b64) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1088/2632-2153/ad3b64) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.30-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1088/2632-2153/ad3b64)
 
 

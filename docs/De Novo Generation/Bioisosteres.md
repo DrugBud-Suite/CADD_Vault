@@ -14,7 +14,7 @@
 
 - **SwissBioisostere**: provide bioisosteres for a molecular fragment selected by a medicinal chemist  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkab1047) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:31-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkab1047) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkab1047)
 
 
@@ -33,7 +33,7 @@
     [![Code](https://img.shields.io/github/stars/ziqi92/Modof?style=for-the-badge&logo=github)](https://github.com/ziqi92/Modof) 
     [![Last Commit](https://img.shields.io/github/last-commit/ziqi92/Modof?style=for-the-badge&logo=github)](https://github.com/ziqi92/Modof) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:39-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-021-00410-2) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:42-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-021-00410-2) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-18.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s42256-021-00410-2)
 
 

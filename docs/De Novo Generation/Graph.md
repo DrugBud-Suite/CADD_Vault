@@ -13,7 +13,7 @@
     [![Code](https://img.shields.io/github/stars/MolecularAI/GraphINVENT?style=for-the-badge&logo=github)](https://github.com/MolecularAI/GraphINVENT) 
     [![Last Commit](https://img.shields.io/github/last-commit/MolecularAI/GraphINVENT?style=for-the-badge&logo=github)](https://github.com/MolecularAI/GraphINVENT) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:92-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1088/2632-2153/abcf91) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:96-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1088/2632-2153/abcf91) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.30-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1088/2632-2153/abcf91)
 
 
@@ -38,7 +38,7 @@
     [![Code](https://img.shields.io/github/stars/Chokyotager/NotYetAnotherNightshade?style=for-the-badge&logo=github)](https://github.com/Chokyotager/NotYetAnotherNightshade) 
     [![Last Commit](https://img.shields.io/github/last-commit/Chokyotager/NotYetAnotherNightshade?style=for-the-badge&logo=github)](https://github.com/Chokyotager/NotYetAnotherNightshade) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-023-00683-9) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-023-00683-9) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-18.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s42256-023-00683-9)
 
 
@@ -47,7 +47,7 @@
     [![Code](https://img.shields.io/github/stars/yifang000/QADD?style=for-the-badge&logo=github)](https://github.com/yifang000/QADD) 
     [![Last Commit](https://img.shields.io/github/last-commit/yifang000/QADD?style=for-the-badge&logo=github)](https://github.com/yifang000/QADD) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btad157) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:22-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btad157) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btad157)
 
 
@@ -56,7 +56,7 @@
     [![Code](https://img.shields.io/github/stars/ecust-hc/ScaffoldGVAE?style=for-the-badge&logo=github)](https://github.com/ecust-hc/ScaffoldGVAE) 
     [![Last Commit](https://img.shields.io/github/last-commit/ecust-hc/ScaffoldGVAE?style=for-the-badge&logo=github)](https://github.com/ecust-hc/ScaffoldGVAE) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-023-00766-0) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-023-00766-0) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-023-00766-0)
 
 

@@ -52,12 +52,22 @@
     [![Code](https://img.shields.io/github/stars/paiardin/DockingPie?style=for-the-badge&logo=github)](https://github.com/paiardin/DockingPie) 
     [![Last Commit](https://img.shields.io/github/last-commit/paiardin/DockingPie?style=for-the-badge&logo=github)](https://github.com/paiardin/DockingPie) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:33-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btac452) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:35-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btac452) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btac452)
 
 
 
 - **NRGSuite**:   
 
+
+
+## **Protein Folding**
+
+
+- **PyMolFold**:   
+    [![Code](https://img.shields.io/github/stars/colbyford/PyMOLfold?style=for-the-badge&logo=github)](https://github.com/colbyford/PyMOLfold) 
+    [![Last Commit](https://img.shields.io/github/last-commit/colbyford/PyMOLfold?style=for-the-badge&logo=github)](https://github.com/colbyford/PyMOLfold) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2502.00508) 
 
 

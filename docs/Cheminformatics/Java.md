@@ -3,6 +3,7 @@
 
 
 - **CDK**: toolkit for drug discovery, descriptors (standalone)  
+    [![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://sourceforge.net/projects/cdk/) 
 
 
 

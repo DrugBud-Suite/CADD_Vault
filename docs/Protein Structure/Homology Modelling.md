@@ -4,7 +4,7 @@
 
 - **HHpred**: homology and structure prediction (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:3069-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgki408) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:3086-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgki408) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093%2Fnar%2Fgki408)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://toolkit.tuebingen.mpg.de/#/tools/hhpred) 
@@ -21,7 +21,7 @@
 
 - **Phyre2**: Phyre2 is a tool for predicting and analyzing protein structure, function, and mutations. The server provides an expert mode for registered users and integrates models directly from the AlphaFold Protein Structure Database for one-to-one threading.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:8362-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fnprot.2015.053) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:8432-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fnprot.2015.053) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-13.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038%2Fnprot.2015.053)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.sbg.bio.ic.ac.uk/phyre2/html/page.cgi?id=index) 
@@ -29,7 +29,7 @@
 
 - **SWISS-MODEL**: an automated protein structure homology-modelling server, accessible via the ExPASy web server  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:9646-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gky427) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:9834-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gky427) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gky427)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://swissmodel.expasy.org/) 

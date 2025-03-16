@@ -54,7 +54,7 @@
     [![Code](https://img.shields.io/github/stars/PatWalters/rd_filters?style=for-the-badge&logo=github)](https://github.com/PatWalters/rd_filters) 
     [![Last Commit](https://img.shields.io/github/last-commit/PatWalters/rd_filters?style=for-the-badge&logo=github)](https://github.com/PatWalters/rd_filters) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:3111-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/jm901137j) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:3151-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/jm901137j) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/jm901137j)
 
 

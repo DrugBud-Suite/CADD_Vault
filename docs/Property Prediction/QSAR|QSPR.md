@@ -21,7 +21,7 @@
     [![Code](https://img.shields.io/github/stars/bm2-lab/FL-QSAR?style=for-the-badge&logo=github)](https://github.com/bm2-lab/FL-QSAR) 
     [![Last Commit](https://img.shields.io/github/last-commit/bm2-lab/FL-QSAR?style=for-the-badge&logo=github)](https://github.com/bm2-lab/FL-QSAR) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:882-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci500747n) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:898-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci500747n) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/ci500747n)
 
 
@@ -78,7 +78,7 @@
     [![Code](https://img.shields.io/github/stars/Ribosome25/TopoReg_QSAR?style=for-the-badge&logo=github)](https://github.com/Ribosome25/TopoReg_QSAR) 
     [![Last Commit](https://img.shields.io/github/last-commit/Ribosome25/TopoReg_QSAR?style=for-the-badge&logo=github)](https://github.com/Ribosome25/TopoReg_QSAR) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-49372-0) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-49372-0) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-14.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41467-024-49372-0)
 
 
@@ -94,6 +94,15 @@
     [![Code](https://img.shields.io/github/stars/NikhilMukraj/mod-qsar?style=for-the-badge&logo=github)](https://github.com/NikhilMukraj/mod-qsar) 
     [![Last Commit](https://img.shields.io/github/last-commit/NikhilMukraj/mod-qsar?style=for-the-badge&logo=github)](https://github.com/NikhilMukraj/mod-qsar) 
 
+
+
+
+- **pQSAR**: build massively multitask, two-step machine learning models with unprecedented scope, accuracy, and applicability domain  
+    [![Code](https://img.shields.io/github/stars/Novartis/pQSAR?style=for-the-badge&logo=github)](https://github.com/Novartis/pQSAR) 
+    [![Last Commit](https://img.shields.io/github/last-commit/Novartis/pQSAR?style=for-the-badge&logo=github)](https://github.com/Novartis/pQSAR) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:14-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01342) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.0c01342)
 
 
 
@@ -127,7 +136,7 @@
     [![Code](https://img.shields.io/github/stars/AtilMohAmine/QSAR-Bioactivity-Predictor?style=for-the-badge&logo=github)](https://github.com/AtilMohAmine/QSAR-Bioactivity-Predictor) 
     [![Last Commit](https://img.shields.io/github/last-commit/AtilMohAmine/QSAR-Bioactivity-Predictor?style=for-the-badge&logo=github)](https://github.com/AtilMohAmine/QSAR-Bioactivity-Predictor) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s42485-023-00124-6) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s42485-023-00124-6) 
 
 
 ## **QSAR data completion**

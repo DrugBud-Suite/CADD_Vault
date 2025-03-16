@@ -24,7 +24,7 @@
     [![Code](https://img.shields.io/github/stars/SINGROUP/dscribe?style=for-the-badge&logo=github)](https://github.com/SINGROUP/dscribe) 
     [![Last Commit](https://img.shields.io/github/last-commit/SINGROUP/dscribe?style=for-the-badge&logo=github)](https://github.com/SINGROUP/dscribe) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:526-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2019.106949) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:545-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2019.106949) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.20-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1016/j.cpc.2019.106949)
 
 
@@ -40,6 +40,11 @@
 
     [![Publication](https://img.shields.io/badge/Publication-Citations:86-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-018-0302-y) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-018-0302-y)
+
+
+
+- **LINGO**:   
+
 
 
 
@@ -91,7 +96,7 @@
     [![Code](https://img.shields.io/github/stars/keiserlab/e3fp?style=for-the-badge&logo=github)](https://github.com/keiserlab/e3fp) 
     [![Last Commit](https://img.shields.io/github/last-commit/keiserlab/e3fp?style=for-the-badge&logo=github)](https://github.com/keiserlab/e3fp) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:86-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.7b00696) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:89-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.7b00696) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jmedchem.7b00696)
 
 
@@ -134,7 +139,7 @@
     [![Code](https://img.shields.io/github/stars/pharmai/plip?style=for-the-badge&logo=github)](https://github.com/pharmai/plip) 
     [![Last Commit](https://img.shields.io/github/last-commit/pharmai/plip?style=for-the-badge&logo=github)](https://github.com/pharmai/plip) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1103-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkab294) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1168-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkab294) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkab294)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index) 
@@ -144,7 +149,7 @@
     [![Code](https://img.shields.io/github/stars/chemosim-lab/ProLIF?style=for-the-badge&logo=github)](https://github.com/chemosim-lab/ProLIF) 
     [![Last Commit](https://img.shields.io/github/last-commit/chemosim-lab/ProLIF?style=for-the-badge&logo=github)](https://github.com/chemosim-lab/ProLIF) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:175-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00548-6) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:187-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00548-6) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-021-00548-6)
 
 
@@ -152,7 +157,17 @@
 - **SPLIF**: Structural Protein–Ligand Interaction Fingerprints (SPLIF)  
     [![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://oddt.readthedocs.io/en/latest/rst/oddt.html#oddt.fingerprints.SPLIF) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:134-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021%2Fci500319f) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:137-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021%2Fci500319f) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021%2Fci500319f)
+
+
+### **With pharmacophore**
+
+- **GRADE**:   
+    [![Code](https://img.shields.io/github/stars/molinfo-vienna/GRADE?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/GRADE) 
+    [![Last Commit](https://img.shields.io/github/last-commit/molinfo-vienna/GRADE?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/GRADE) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c01902) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.4c01902)
 
 

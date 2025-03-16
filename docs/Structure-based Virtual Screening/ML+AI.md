@@ -14,7 +14,7 @@
 
 - **Structure-based drug design with geometric deep learning [2023]**: Structure-based drug design with geometric deep learning  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:78-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.sbi.2023.102548) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:85-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.sbi.2023.102548) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1016/j.sbi.2023.102548)
 
 

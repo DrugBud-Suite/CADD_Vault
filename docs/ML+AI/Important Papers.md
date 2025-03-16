@@ -22,7 +22,7 @@
 
 - **Deep Residual Learning for Image Recognition**: Deep Residual Learning for Image Recognition  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:127247-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1109/cvpr.2016.90) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:130319-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1109/cvpr.2016.90) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.50-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1109/cvpr.2016.90)
 
 
@@ -41,13 +41,13 @@
 
 - **Identity Mappings in Deep Residual Networks**: Identity Mappings in Deep Residual Networks  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:4361-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-3-319-46493-0_38) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:4445-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-3-319-46493-0_38) 
 
 
 
 - **ImageNet classification with deep convolutional neural networks**: ImageNet classification with deep convolutional neural networks  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:24519-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1145/3065386) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:25185-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1145/3065386) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-11.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1145/3065386)
 
 

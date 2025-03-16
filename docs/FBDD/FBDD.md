@@ -6,7 +6,7 @@
     [![Code](https://img.shields.io/github/stars/Caflisch-Group/AutoCouple_Python-based?style=for-the-badge&logo=github)](https://github.com/Caflisch-Group/AutoCouple_Python-based) 
     [![Last Commit](https://img.shields.io/github/last-commit/Caflisch-Group/AutoCouple_Python-based?style=for-the-badge&logo=github)](https://github.com/Caflisch-Group/AutoCouple_Python-based) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.7b00401) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.7b00401) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-12.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acscentsci.7b00401)
 
 
@@ -22,7 +22,7 @@
     [![Code](https://img.shields.io/github/stars/DrrDom/crem?style=for-the-badge&logo=github)](https://github.com/DrrDom/crem) 
     [![Last Commit](https://img.shields.io/github/last-commit/DrrDom/crem?style=for-the-badge&logo=github)](https://github.com/DrrDom/crem) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:57-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00431-w) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:58-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00431-w) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-020-00431-w)
 
 

@@ -14,7 +14,7 @@
     [![Code](https://img.shields.io/github/stars/ATOMScience-org/AMPL?style=for-the-badge&logo=github)](https://github.com/ATOMScience-org/AMPL) 
     [![Last Commit](https://img.shields.io/github/last-commit/ATOMScience-org/AMPL?style=for-the-badge&logo=github)](https://github.com/ATOMScience-org/AMPL) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:67-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01053) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:69-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01053) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.9b01053)
 
 
@@ -23,7 +23,7 @@
     [![Code](https://img.shields.io/github/stars/hachmannlab/chemml?style=for-the-badge&logo=github)](https://github.com/hachmannlab/chemml) 
     [![Last Commit](https://img.shields.io/github/last-commit/hachmannlab/chemml?style=for-the-badge&logo=github)](https://github.com/hachmannlab/chemml) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:45-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/wcms.1458) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:46-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/wcms.1458) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/wcms.1458)
 
 
@@ -32,7 +32,7 @@
     [![Code](https://img.shields.io/github/stars/awslabs/dgl-lifesci?style=for-the-badge&logo=github)](https://github.com/awslabs/dgl-lifesci) 
     [![Last Commit](https://img.shields.io/github/last-commit/awslabs/dgl-lifesci?style=for-the-badge&logo=github)](https://github.com/awslabs/dgl-lifesci) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:115-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.1c04017) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:120-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acsomega.1c04017) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acsomega.1c04017)
 
 
@@ -80,7 +80,7 @@
     [![Code](https://img.shields.io/github/stars/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline) 
     [![Last Commit](https://img.shields.io/github/last-commit/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00863) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00863) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.4c00863)
 
 
@@ -95,7 +95,7 @@
     [![Code](https://img.shields.io/github/stars/Mariewelt/OpenChem?style=for-the-badge&logo=github)](https://github.com/Mariewelt/OpenChem) 
     [![Last Commit](https://img.shields.io/github/last-commit/Mariewelt/OpenChem?style=for-the-badge&logo=github)](https://github.com/Mariewelt/OpenChem) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:59-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c00971) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:65-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c00971) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.0c00971)
 
 
@@ -111,7 +111,7 @@
     [![Code](https://img.shields.io/github/stars/sustainable-processes/summit?style=for-the-badge&logo=github)](https://github.com/sustainable-processes/summit) 
     [![Last Commit](https://img.shields.io/github/last-commit/sustainable-processes/summit?style=for-the-badge&logo=github)](https://github.com/sustainable-processes/summit) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:42-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/cmtd.202000051) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:43-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/cmtd.202000051) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/cmtd.202000051)
 
 
@@ -128,7 +128,7 @@
     [![Code](https://img.shields.io/github/stars/txie-93/cgcnn?style=for-the-badge&logo=github)](https://github.com/txie-93/cgcnn) 
     [![Last Commit](https://img.shields.io/github/last-commit/txie-93/cgcnn?style=for-the-badge&logo=github)](https://github.com/txie-93/cgcnn) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1467-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1103/PhysRevLett.120.145301) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1524-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1103/PhysRevLett.120.145301) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-8.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1103/PhysRevLett.120.145301)
 
 
@@ -152,7 +152,7 @@
     [![Code](https://img.shields.io/github/stars/chemprop/chemprop?style=for-the-badge&logo=github)](https://github.com/chemprop/chemprop) 
     [![Last Commit](https://img.shields.io/github/last-commit/chemprop/chemprop?style=for-the-badge&logo=github)](https://github.com/chemprop/chemprop) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1028-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b00237) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1072-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b00237) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.9b00237)
 
 

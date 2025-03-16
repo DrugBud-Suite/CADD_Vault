@@ -6,7 +6,7 @@
     [![Code](https://img.shields.io/github/stars/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline) 
     [![Last Commit](https://img.shields.io/github/last-commit/basf/MolPipeline?style=for-the-badge&logo=github)](https://github.com/basf/MolPipeline) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00863) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00863) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.4c00863)
 
 
@@ -53,7 +53,7 @@
     [![Code](https://img.shields.io/github/stars/molML/MoleculeACE?style=for-the-badge&logo=github)](https://github.com/molML/MoleculeACE) 
     [![Last Commit](https://img.shields.io/github/last-commit/molML/MoleculeACE?style=for-the-badge&logo=github)](https://github.com/molML/MoleculeACE) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:95-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c01073) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:105-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c01073) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.2c01073)
 
 
@@ -73,7 +73,7 @@
     [![Code](https://img.shields.io/github/stars/kexinhuang12345/DeepPurpose?style=for-the-badge&logo=github)](https://github.com/kexinhuang12345/DeepPurpose) 
     [![Last Commit](https://img.shields.io/github/last-commit/kexinhuang12345/DeepPurpose?style=for-the-badge&logo=github)](https://github.com/kexinhuang12345/DeepPurpose) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:220-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btaa1005) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:232-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btaa1005) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btaa1005)
 
 
@@ -93,6 +93,25 @@
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.30-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/cphc.202200255)
 
 
+## **Contrastive Learning**
+
+
+- **CLMFAP**: Contrastive Learning-Based Multimodal Foundation Model for Molecular Property Prediction  
+    [![Code](https://img.shields.io/github/stars/CLMFAP/CLMFAP?style=for-the-badge&logo=github)](https://github.com/CLMFAP/CLMFAP) 
+    [![Last Commit](https://img.shields.io/github/last-commit/CLMFAP/CLMFAP?style=for-the-badge&logo=github)](https://github.com/CLMFAP/CLMFAP) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2502.11001) 
+
+
+
+- **MolCFL**:   
+    [![Code](https://img.shields.io/github/stars/tangxiangcsu/MolFCLSupplementary?style=for-the-badge&logo=github)](https://github.com/tangxiangcsu/MolFCLSupplementary) 
+    [![Last Commit](https://img.shields.io/github/last-commit/tangxiangcsu/MolFCLSupplementary?style=for-the-badge&logo=github)](https://github.com/tangxiangcsu/MolFCLSupplementary) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics%2Fbtaf061) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics%2Fbtaf061)
+
+
 ## **DNN**
 
 
@@ -109,7 +128,7 @@
     [![Code](https://img.shields.io/github/stars/jlinghu/AIS-Ensemble-model?style=for-the-badge&logo=github)](https://github.com/jlinghu/AIS-Ensemble-model) 
     [![Last Commit](https://img.shields.io/github/last-commit/jlinghu/AIS-Ensemble-model?style=for-the-badge&logo=github)](https://github.com/jlinghu/AIS-Ensemble-model) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:38-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1109/access.2021.3128742) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:41-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1109/access.2021.3128742) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1109/access.2021.3128742)
 
 
@@ -128,7 +147,7 @@
     [![Code](https://img.shields.io/github/stars/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery?style=for-the-badge&logo=github)](https://github.com/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery) 
     [![Last Commit](https://img.shields.io/github/last-commit/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery?style=for-the-badge&logo=github)](https://github.com/danielvlla/Few-Shot-Learning-for-Low-Data-Drug-Discovery) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:563-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.6b00367) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:572-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.6b00367) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-12.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acscentsci.6b00367)
 
 
@@ -210,7 +229,7 @@
     [![Code](https://img.shields.io/github/stars/RekerLab/DeepDelta?style=for-the-badge&logo=github)](https://github.com/RekerLab/DeepDelta) 
     [![Last Commit](https://img.shields.io/github/last-commit/RekerLab/DeepDelta?style=for-the-badge&logo=github)](https://github.com/RekerLab/DeepDelta) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:14-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-023-00769-x) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:21-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-023-00769-x) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-023-00769-x)
 
 
@@ -228,7 +247,7 @@
     [![Code](https://img.shields.io/github/stars/yuyangw/MolCLR?style=for-the-badge&logo=github)](https://github.com/yuyangw/MolCLR) 
     [![Last Commit](https://img.shields.io/github/last-commit/yuyangw/MolCLR?style=for-the-badge&logo=github)](https://github.com/yuyangw/MolCLR) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:374-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-022-00447-x) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:406-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-022-00447-x) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-18.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s42256-022-00447-x)
 
 
@@ -272,7 +291,7 @@
     [![Code](https://img.shields.io/github/stars/merck/MolPROP?style=for-the-badge&logo=github)](https://github.com/merck/MolPROP) 
     [![Last Commit](https://img.shields.io/github/last-commit/merck/MolPROP?style=for-the-badge&logo=github)](https://github.com/merck/MolPROP) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00846-9) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-024-00846-9) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-024-00846-9)
 
 
@@ -303,7 +322,7 @@
     [![Code](https://img.shields.io/github/stars/XinhaoLi74/MolPMoFiT?style=for-the-badge&logo=github)](https://github.com/XinhaoLi74/MolPMoFiT) 
     [![Last Commit](https://img.shields.io/github/last-commit/XinhaoLi74/MolPMoFiT?style=for-the-badge&logo=github)](https://github.com/XinhaoLi74/MolPMoFiT) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:88-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00430-x) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:90-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00430-x) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-020-00430-x)
 
 
@@ -351,7 +370,7 @@
     [![Code](https://img.shields.io/github/stars/aamini/chemprop?style=for-the-badge&logo=github)](https://github.com/aamini/chemprop) 
     [![Last Commit](https://img.shields.io/github/last-commit/aamini/chemprop?style=for-the-badge&logo=github)](https://github.com/aamini/chemprop) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:109-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.1c00546) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:116-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.1c00546) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-12.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acscentsci.1c00546)
 
 
@@ -371,7 +390,7 @@
     [![Code](https://img.shields.io/github/stars/NIEHS/OPERA?style=for-the-badge&logo=github)](https://github.com/NIEHS/OPERA) 
     [![Last Commit](https://img.shields.io/github/last-commit/NIEHS/OPERA?style=for-the-badge&logo=github)](https://github.com/NIEHS/OPERA) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:376-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-018-0263-1) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:383-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-018-0263-1) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-018-0263-1)
 
 
@@ -472,7 +491,7 @@
     [![Code](https://img.shields.io/github/stars/bm2-lab/X-MOL?style=for-the-badge&logo=github)](https://github.com/bm2-lab/X-MOL) 
     [![Last Commit](https://img.shields.io/github/last-commit/bm2-lab/X-MOL?style=for-the-badge&logo=github)](https://github.com/bm2-lab/X-MOL) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:21-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.scib.2022.01.029) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:22-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.scib.2022.01.029) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-18.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1016/j.scib.2022.01.029)
 
 

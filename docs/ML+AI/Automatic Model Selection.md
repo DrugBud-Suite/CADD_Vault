@@ -6,7 +6,7 @@
     [![Code](https://img.shields.io/github/stars/ATOMScience-org/AMPL?style=for-the-badge&logo=github)](https://github.com/ATOMScience-org/AMPL) 
     [![Last Commit](https://img.shields.io/github/last-commit/ATOMScience-org/AMPL?style=for-the-badge&logo=github)](https://github.com/ATOMScience-org/AMPL) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:67-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01053) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:69-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.9b01053) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.9b01053)
 
 
@@ -22,7 +22,7 @@
     [![Code](https://img.shields.io/github/stars/rdkit/PREFER?style=for-the-badge&logo=github)](https://github.com/rdkit/PREFER) 
     [![Last Commit](https://img.shields.io/github/last-commit/rdkit/PREFER?style=for-the-badge&logo=github)](https://github.com/rdkit/PREFER) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:335-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/C8SC04175J) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:344-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/C8SC04175J) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1039/C8SC04175J)
 
 

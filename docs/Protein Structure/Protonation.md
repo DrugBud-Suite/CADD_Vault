@@ -12,7 +12,7 @@
 
 - **H++**: automated system that computes pK values of ionizable groups in macromolecules and adds missing hydrogen atoms according to the specified pH of the environment (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1353-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgki464) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1363-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgki464) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093%2Fnar%2Fgki464)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://biophysics.cs.vt.edu/) 
@@ -27,7 +27,7 @@
 
 - **ProToss**: predict tautomers and protonation states in protein-ligand complexes  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:153-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-6-12) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:154-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-6-12) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/1758-2946-6-12)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://proteins.plus/) 
@@ -59,7 +59,7 @@
     [![Code](https://img.shields.io/github/stars/jensengroup/propka?style=for-the-badge&logo=github)](https://github.com/jensengroup/propka) 
     [![Last Commit](https://img.shields.io/github/last-commit/jensengroup/propka?style=for-the-badge&logo=github)](https://github.com/jensengroup/propka) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1545-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ct200133y) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1578-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ct200133y) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/ct200133y)
 
 

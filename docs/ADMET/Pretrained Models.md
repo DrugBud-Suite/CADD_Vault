@@ -7,7 +7,7 @@
     [![Code](https://img.shields.io/github/stars/gkxiao/BBB-score?style=for-the-badge&logo=github)](https://github.com/gkxiao/BBB-score) 
     [![Last Commit](https://img.shields.io/github/last-commit/gkxiao/BBB-score?style=for-the-badge&logo=github)](https://github.com/gkxiao/BBB-score) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:205-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.9b01220) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:214-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.9b01220) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jmedchem.9b01220)
 
 
@@ -18,7 +18,7 @@
     [![Code](https://img.shields.io/github/stars/67520/D-CyPre?style=for-the-badge&logo=github)](https://github.com/67520/D-CyPre) 
     [![Last Commit](https://img.shields.io/github/last-commit/67520/D-CyPre?style=for-the-badge&logo=github)](https://github.com/67520/D-CyPre) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:23-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00144) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:24-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00144) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.1c00144)
 
 
@@ -38,7 +38,7 @@
     [![Code](https://img.shields.io/github/stars/smu-tao-group/ADMET_XGBoost?style=for-the-badge&logo=github)](https://github.com/smu-tao-group/ADMET_XGBoost) 
     [![Last Commit](https://img.shields.io/github/last-commit/smu-tao-group/ADMET_XGBoost?style=for-the-badge&logo=github)](https://github.com/smu-tao-group/ADMET_XGBoost) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:40-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s00894-022-05373-8) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:42-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s00894-022-05373-8) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1007/s00894-022-05373-8)
 
 
@@ -47,15 +47,23 @@
     [![Code](https://img.shields.io/github/stars/ifyoungnet/ADMETlab?style=for-the-badge&logo=github)](https://github.com/ifyoungnet/ADMETlab) 
     [![Last Commit](https://img.shields.io/github/last-commit/ifyoungnet/ADMETlab?style=for-the-badge&logo=github)](https://github.com/ifyoungnet/ADMETlab) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:106-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae236) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:144-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae236) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkae236)
 
 
 
 - **ADMETlab3.0**: systematical evaluation of ADMET properties, as well as some physicochemical properties and medicinal chemistry friendliness  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:106-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae236) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:144-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae236) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkae236)
+
+
+
+- **AutoADMET**: AutoML Method for Chemical ADMET Property Prediction  
+    [![Code](https://img.shields.io/github/stars/alexgcsa/auto-admet?style=for-the-badge&logo=github)](https://github.com/alexgcsa/auto-admet) 
+    [![Last Commit](https://img.shields.io/github/last-commit/alexgcsa/auto-admet?style=for-the-badge&logo=github)](https://github.com/alexgcsa/auto-admet) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2502.16378) 
 
 
 
@@ -72,7 +80,7 @@
     [![Code](https://img.shields.io/github/stars/molecularinformatics/Computational-ADME?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/Computational-ADME) 
     [![Last Commit](https://img.shields.io/github/last-commit/molecularinformatics/Computational-ADME?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/Computational-ADME) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:25-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00160) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:27-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00160) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.3c00160)
 
 
@@ -108,7 +116,7 @@
 
 - **SwissADME**: web tool to evaluate pharmacokinetics, drug-likeness and medicinal chemistry friendliness  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:10035-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/srep42717) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:10395-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/srep42717) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/srep42717)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://www.swissadme.ch/) 
@@ -123,7 +131,7 @@
     [![Code](https://img.shields.io/github/stars/swansonk14/admet_ai?style=for-the-badge&logo=github)](https://github.com/swansonk14/admet_ai) 
     [![Last Commit](https://img.shields.io/github/last-commit/swansonk14/admet_ai?style=for-the-badge&logo=github)](https://github.com/swansonk14/admet_ai) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btae416) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:30-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btae416) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btae416)
 
 
@@ -162,21 +170,12 @@
 
 - **pkCSM**:   
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:3091-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.5b00104) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:3207-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.5b00104) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jmedchem.5b00104)
 
 
 ## **Toxicity**
 
-
-- **ProTox3**: Webserver for toxicity prediction  
-
-    [![Publication](https://img.shields.io/badge/Publication-Citations:139-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae303) 
-    [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkae303)
-
-    [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://tox.charite.de/protox3/) 
-
-### **Toxicity**
 
 - **Cyto-Safe**: Webserver for toxicity prediction  
     [![Code](https://img.shields.io/github/stars/LabMolUFG/cytosafe?style=for-the-badge&logo=github)](https://github.com/LabMolUFG/cytosafe) 
@@ -186,6 +185,23 @@
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.4c01811)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://insightai.labmol.com.br/) 
+
+
+- **ProTox3**: Webserver for toxicity prediction  
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:181-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkae303) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkae303)
+
+    [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://tox.charite.de/protox3/) 
+
+
+- **SynthMol**: Drug Safety Prediction Framework  
+    [![Code](https://img.shields.io/github/stars/ThomasSu1/SynthMol?style=for-the-badge&logo=github)](https://github.com/ThomasSu1/SynthMol) 
+    [![Last Commit](https://img.shields.io/github/last-commit/ThomasSu1/SynthMol?style=for-the-badge&logo=github)](https://github.com/ThomasSu1/SynthMol) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c01320) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.4c01320)
+
 
 ## **hERG**
 
@@ -202,14 +218,14 @@
     [![Code](https://img.shields.io/github/stars/Abdulk084/CardioTox?style=for-the-badge&logo=github)](https://github.com/Abdulk084/CardioTox) 
     [![Last Commit](https://img.shields.io/github/last-commit/Abdulk084/CardioTox?style=for-the-badge&logo=github)](https://github.com/Abdulk084/CardioTox) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:31-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00541-z) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:35-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00541-z) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-021-00541-z)
 
 
 
 - **hERGdb**: web-based cardiotoxicity prediction  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:46-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0199348) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:47-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pone.0199348) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.90-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1371/journal.pone.0199348)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://drugdesign.riken.jp/hERGdb/) 

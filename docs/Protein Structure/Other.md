@@ -19,7 +19,7 @@
     [![Code](https://img.shields.io/github/stars/shiwentao00/Graphsite?style=for-the-badge&logo=github)](https://github.com/shiwentao00/Graphsite) 
     [![Last Commit](https://img.shields.io/github/last-commit/shiwentao00/Graphsite?style=for-the-badge&logo=github)](https://github.com/shiwentao00/Graphsite) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/biom12081053) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:14-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/biom12081053) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.3390/biom12081053)
 
 

@@ -4,7 +4,7 @@
 
 - **ChemBL**: A manually curated database of bioactive molecules with drug-like properties, integrating chemical, bioactivity, and genomic data to aid drug discovery.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:3104-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkr777) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:3160-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkr777) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkr777)
 
 

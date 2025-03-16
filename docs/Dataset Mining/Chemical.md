@@ -6,7 +6,7 @@
     [![Code](https://img.shields.io/github/stars/OlivierBeq/Papyrus-scripts?tab=readme-ov-file?style=for-the-badge&logo=github)](https://github.com/OlivierBeq/Papyrus-scripts?tab=readme-ov-file) 
     [![Last Commit](https://img.shields.io/github/last-commit/OlivierBeq/Papyrus-scripts?tab=readme-ov-file?style=for-the-badge&logo=github)](https://github.com/OlivierBeq/Papyrus-scripts?tab=readme-ov-file) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:24-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00672-x) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:25-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-022-00672-x) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-022-00672-x)
 
 

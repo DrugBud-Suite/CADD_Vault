@@ -13,7 +13,7 @@
 
 - **CASF**: CASF offers benchmark packages for the assessment of scoring functions, with versions CASF-2016, CASF-2013, and CASF-2007 available for download upon registration.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:472-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.8b00545) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:501-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.8b00545) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.8b00545)
 
 
@@ -26,7 +26,7 @@
 
 - **DEKOIS**: Provides DEKOIS 2.0, a library of benchmark data sets for objective in silico screening.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:69-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci2001549) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:73-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci2001549) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/ci2001549)
 
 
@@ -38,7 +38,7 @@
 
 - **Lit-PCBA**: A dataset for virtual screening and machine learning with 15 target sets, 7761 actives, and 382674 unique inactives selected from high-confidence PubChem Bioassay data.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:137-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c00155) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:144-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c00155) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.0c00155)
 
 

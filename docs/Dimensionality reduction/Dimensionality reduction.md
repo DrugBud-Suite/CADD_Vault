@@ -30,7 +30,7 @@
 
 - **UMAP**: Uniform Manifold Approximation and Projection  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:6299-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21105/joss.00861) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:6482-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21105/joss.00861) 
 
 
 

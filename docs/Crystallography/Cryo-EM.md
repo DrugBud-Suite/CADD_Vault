@@ -14,7 +14,7 @@
     [![Code](https://img.shields.io/github/stars/compsciencelab/mdCATH?style=for-the-badge&logo=github)](https://github.com/compsciencelab/mdCATH) 
     [![Last Commit](https://img.shields.io/github/last-commit/compsciencelab/mdCATH?style=for-the-badge&logo=github)](https://github.com/compsciencelab/mdCATH) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:699-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1042/BCJ20210708) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:743-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1042/BCJ20210708) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1042/BCJ20210708)
 
 

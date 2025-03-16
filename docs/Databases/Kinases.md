@@ -6,7 +6,7 @@
     [![Code](https://img.shields.io/github/stars/dphansti/CORAL?style=for-the-badge&logo=github)](https://github.com/dphansti/CORAL) 
     [![Last Commit](https://img.shields.io/github/last-commit/dphansti/CORAL?style=for-the-badge&logo=github)](https://github.com/dphansti/CORAL) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:146-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cels.2018.07.001) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:151-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cels.2018.07.001) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-9.00-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1016/j.cels.2018.07.001)
 
 
@@ -19,7 +19,7 @@
 
 - **KLIFS**: Kinase-Ligand Interaction Fingerprints and Structures database is a database that revolves around the protein structure of catalytic kinase domains and the way kinase inhibitors can interact with them (online database)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:101-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkaa895) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:104-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkaa895) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkaa895)
 
 
@@ -38,14 +38,14 @@
 
 - **KinMap**: a web-based tool for interactive navigation through human kinome data (kinase) (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:254-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s12859-016-1433-7) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:258-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s12859-016-1433-7) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.90-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s12859-016-1433-7)
 
 
 
 - **Kinase Atlas**: contains solvent mapping results for all kinases in the Protein Data Bank. You can search this database by PDB ID or by UniProt accession number (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:58-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.9b00089) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:60-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jmedchem.9b00089) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jmedchem.9b00089)
 
 

@@ -31,7 +31,7 @@
     [![Code](https://img.shields.io/github/stars/zhiruiliao/Sc2Mol?style=for-the-badge&logo=github)](https://github.com/zhiruiliao/Sc2Mol) 
     [![Last Commit](https://img.shields.io/github/last-commit/zhiruiliao/Sc2Mol?style=for-the-badge&logo=github)](https://github.com/zhiruiliao/Sc2Mol) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btac814) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btac814) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btac814)
 
 

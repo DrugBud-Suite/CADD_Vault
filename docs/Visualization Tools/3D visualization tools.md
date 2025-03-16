@@ -4,7 +4,7 @@
 
 - **Avogadro**: advanced molecule editor and visualizer designed for cross-platform use (draw molecules...) (standalone)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:7025-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-4-17) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:7181-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-4-17) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/1758-2946-4-17)
 
 
@@ -18,14 +18,14 @@
 
 - **Chimera**: (standalone)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:38677-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.20084) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:39125-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.20084) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/jcc.20084)
 
 
 
 - **ChimeraX**: molecular graphics (standalone)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:4230-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.3235) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:4339-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.3235) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.50-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/pro.3235)
 
 
@@ -67,13 +67,13 @@
 
 - **OpenStructure**: look at molecular structures (standalone)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:103-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1107%2FS0907444913007051) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:107-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1107%2FS0907444913007051) 
 
 
 
 - **Protein Imager**: 3D molecular structure display (online)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:165-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btaa009) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:172-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btaa009) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btaa009)
 
 
@@ -87,7 +87,7 @@
     [![Code](https://img.shields.io/github/stars/MooersLab/pymolshortcuts?style=for-the-badge&logo=github)](https://github.com/MooersLab/pymolshortcuts) 
     [![Last Commit](https://img.shields.io/github/last-commit/MooersLab/pymolshortcuts?style=for-the-badge&logo=github)](https://github.com/MooersLab/pymolshortcuts) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:112-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.3781) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:116-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.3781) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.50-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/pro.3781)
 
 
@@ -111,7 +111,7 @@
 
 - **VMD**: molecular visualization program (standalone)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:51115-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/0263-7855(96)00018-5) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:51887-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/0263-7855(96)00018-5) 
 
 
 
@@ -130,6 +130,6 @@
 
 - **YASARA**: molecular-graphics, -modeling and -simulation program (standalone)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:377-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-1-4939-7366-8_4) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:383-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/978-1-4939-7366-8_4) 
 
 

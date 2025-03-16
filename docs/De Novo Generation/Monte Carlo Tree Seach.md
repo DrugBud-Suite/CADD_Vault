@@ -6,7 +6,7 @@
     [![Code](https://img.shields.io/github/stars/swansonk14/SyntheMol?style=for-the-badge&logo=github)](https://github.com/swansonk14/SyntheMol) 
     [![Last Commit](https://img.shields.io/github/last-commit/swansonk14/SyntheMol?style=for-the-badge&logo=github)](https://github.com/swansonk14/SyntheMol) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:28-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-024-00809-7) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:38-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-024-00809-7) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-18.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s42256-024-00809-7)
 
 
@@ -15,7 +15,7 @@
     [![Code](https://img.shields.io/github/stars/clinfo/VGAE-MCTS?style=for-the-badge&logo=github)](https://github.com/clinfo/VGAE-MCTS) 
     [![Last Commit](https://img.shields.io/github/last-commit/clinfo/VGAE-MCTS?style=for-the-badge&logo=github)](https://github.com/clinfo/VGAE-MCTS) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01220) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01220) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.3c01220)
 
 

@@ -12,7 +12,7 @@
     [![Code](https://img.shields.io/github/stars/bigginlab/ABFE_workflow?style=for-the-badge&logo=github)](https://github.com/bigginlab/ABFE_workflow) 
     [![Last Commit](https://img.shields.io/github/last-commit/bigginlab/ABFE_workflow?style=for-the-badge&logo=github)](https://github.com/bigginlab/ABFE_workflow) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00343) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c00343) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.4c00343)
 
 
@@ -21,7 +21,7 @@
     [![Code](https://img.shields.io/github/stars/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py) 
     [![Last Commit](https://img.shields.io/github/last-commit/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:71-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-020-80769-1) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:75-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41598-020-80769-1) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41598-020-80769-1)
 
 
@@ -30,7 +30,7 @@
     [![Code](https://img.shields.io/github/stars/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py) 
     [![Last Commit](https://img.shields.io/github/last-commit/GHeinzelmann/BAT.py?style=for-the-badge&logo=github)](https://github.com/GHeinzelmann/BAT.py) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.4c00205) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.4c00205) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jctc.4c00205)
 
 
@@ -41,7 +41,7 @@
     [![Code](https://img.shields.io/github/stars/zlisysu/CS-FEP_run?style=for-the-badge&logo=github)](https://github.com/zlisysu/CS-FEP_run) 
     [![Last Commit](https://img.shields.io/github/last-commit/zlisysu/CS-FEP_run?style=for-the-badge&logo=github)](https://github.com/zlisysu/CS-FEP_run) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.apsb.2024.06.021) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.apsb.2024.06.021) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-14.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1016/j.apsb.2024.06.021)
 
 
@@ -117,7 +117,7 @@
     [![Code](https://img.shields.io/github/stars/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs) 
     [![Last Commit](https://img.shields.io/github/last-commit/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs?style=for-the-badge&logo=github)](https://github.com/compsciencelab/ATM_benchmark/tree/main/ATM_With_NNPs) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:992-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1010-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ja512751q) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-14.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/ja512751q)
 
 
@@ -145,7 +145,7 @@
 
 - **DynaFormer**: deep learning model to predict the binding affinities based on dynamic protein-ligand interactions  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/advs.202405404) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/advs.202405404) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-14.30-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/advs.202405404)
 
 
@@ -159,12 +159,25 @@
 
 
 
+- **IMERGE-FEP**: Chemical Intermediate generation for FEP  
+    [![Code](https://img.shields.io/github/stars/CDDLeiden/IMERGE-FEP?style=for-the-badge&logo=github)](https://github.com/CDDLeiden/IMERGE-FEP) 
+    [![Last Commit](https://img.shields.io/github/last-commit/CDDLeiden/IMERGE-FEP?style=for-the-badge&logo=github)](https://github.com/CDDLeiden/IMERGE-FEP) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jpcb.4c07156) 
+
+
+
 - **Kartograf**: Kartograf is a package focusing on 3D geometry-based atom mappings, useful for generating hybrid topology systems in free energy calculations and other applications.  
     [![Code](https://img.shields.io/github/stars/OpenFreeEnergy/kartograf?style=for-the-badge&logo=github)](https://github.com/OpenFreeEnergy/kartograf) 
     [![Last Commit](https://img.shields.io/github/last-commit/OpenFreeEnergy/kartograf?style=for-the-badge&logo=github)](https://github.com/OpenFreeEnergy/kartograf) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c01206) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.3c01206) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jctc.3c01206)
+
+
+
+- **PLUMED**: unified interface for performing free energy calculations  
+
 
 
 
@@ -172,7 +185,7 @@
     [![Code](https://img.shields.io/github/stars/ohuelab/PairMap?style=for-the-badge&logo=github)](https://github.com/ohuelab/PairMap) 
     [![Last Commit](https://img.shields.io/github/last-commit/ohuelab/PairMap?style=for-the-badge&logo=github)](https://github.com/ohuelab/PairMap) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c01634) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c01634) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.4c01634)
 
 

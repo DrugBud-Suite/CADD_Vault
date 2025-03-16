@@ -6,7 +6,7 @@
     [![Code](https://img.shields.io/github/stars/molinfo-vienna/CDPKit?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/CDPKit) 
     [![Last Commit](https://img.shields.io/github/last-commit/molinfo-vienna/CDPKit?style=for-the-badge&logo=github)](https://github.com/molinfo-vienna/CDPKit) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00563) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:11-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00563) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.3c00563)
 
 
@@ -22,14 +22,14 @@
     [![Code](https://img.shields.io/github/stars/oddt/oddt?style=for-the-badge&logo=github)](https://github.com/oddt/oddt) 
     [![Last Commit](https://img.shields.io/github/last-commit/oddt/oddt?style=for-the-badge&logo=github)](https://github.com/oddt/oddt) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:163-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-015-0078-2) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:166-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-015-0078-2) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-015-0078-2)
 
 
 
 - **OpenBabel**: toolkit for drug discovery, file format etc (standalone)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:6629-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:6757-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/1758-2946-3-33)
 
 

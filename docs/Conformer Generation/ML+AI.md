@@ -6,7 +6,7 @@
     [![Code](https://img.shields.io/github/stars/isayevlab/Auto3D_pkg?style=for-the-badge&logo=github)](https://github.com/isayevlab/Auto3D_pkg) 
     [![Last Commit](https://img.shields.io/github/last-commit/isayevlab/Auto3D_pkg?style=for-the-badge&logo=github)](https://github.com/isayevlab/Auto3D_pkg) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c00817) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:31-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c00817) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.2c00817)
 
 
@@ -15,7 +15,7 @@
     [![Code](https://img.shields.io/github/stars/insilicomedicine/COSMIC?style=for-the-badge&logo=github)](https://github.com/insilicomedicine/COSMIC) 
     [![Last Commit](https://img.shields.io/github/last-commit/insilicomedicine/COSMIC?style=for-the-badge&logo=github)](https://github.com/insilicomedicine/COSMIC) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00989) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00989) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.3c00989)
 
 

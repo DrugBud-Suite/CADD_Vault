@@ -25,7 +25,7 @@
     [![Code](https://img.shields.io/github/stars/HUBioDataLab/SELFormer?style=for-the-badge&logo=github)](https://github.com/HUBioDataLab/SELFormer) 
     [![Last Commit](https://img.shields.io/github/last-commit/HUBioDataLab/SELFormer?style=for-the-badge&logo=github)](https://github.com/HUBioDataLab/SELFormer) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1088/2632-2153/acdb30) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:18-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1088/2632-2153/acdb30) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.30-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1088/2632-2153/acdb30)
 
 

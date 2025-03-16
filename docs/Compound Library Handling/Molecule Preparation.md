@@ -22,7 +22,7 @@
     [![Code](https://img.shields.io/github/stars/durrantlab/dimorphite_dl/?style=for-the-badge&logo=github)](https://github.com/durrantlab/dimorphite_dl/) 
     [![Last Commit](https://img.shields.io/github/last-commit/durrantlab/dimorphite_dl/?style=for-the-badge&logo=github)](https://github.com/durrantlab/dimorphite_dl/) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:47-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0336-9) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:48-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-019-0336-9) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-019-0336-9)
 
 
@@ -31,7 +31,7 @@
 
 - **Sherman et al**: Protein and ligand preparation: parameters, protocols, and influence on virtual screening enrichments  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:4460-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-013-9644-8) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:4543-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-013-9644-8) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.00-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1007/s10822-013-9644-8)
 
 
@@ -47,7 +47,7 @@
     [![Code](https://img.shields.io/github/stars/chembl/ChEMBL_Structure_Pipeline?style=for-the-badge&logo=github)](https://github.com/chembl/ChEMBL_Structure_Pipeline) 
     [![Last Commit](https://img.shields.io/github/last-commit/chembl/ChEMBL_Structure_Pipeline?style=for-the-badge&logo=github)](https://github.com/chembl/ChEMBL_Structure_Pipeline) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:274-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00456-1) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:293-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00456-1) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-020-00456-1)
 
 

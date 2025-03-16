@@ -6,7 +6,8 @@
     [![Code](https://img.shields.io/github/stars/MarieOestreich/DrugDiff?style=for-the-badge&logo=github)](https://github.com/MarieOestreich/DrugDiff) 
     [![Last Commit](https://img.shields.io/github/last-commit/MarieOestreich/DrugDiff?style=for-the-badge&logo=github)](https://github.com/MarieOestreich/DrugDiff) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.07.17.603873) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-025-00965-x) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-025-00965-x)
 
 
 ## **3D**

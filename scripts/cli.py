@@ -1,7 +1,7 @@
 """
 Main entry point for the publication manager application.
 """
-
+import argparse
 import asyncio
 import logging
 from pathlib import Path
@@ -93,7 +93,7 @@ def load_excel_data(file_path: Path) -> List[Dict[str, Any]]:
         console.print(f"[red]Error loading Excel file: {str(e)}")
         raise
 
-def create_config() -> Config:
+def create_config(input_file=None, output_dir=None) -> Config:
     """Create configuration with default paths and environment variables"""
     project_root = get_project_root()
     
@@ -101,8 +101,8 @@ def create_config() -> Config:
     load_dotenv(project_root / '.env')
     
     return Config(
-        input_file=project_root / 'cadd_vault_data.xlsx',
-        output_dir=project_root / 'docs',
+        input_file=input_file or project_root / 'cadd_vault_data.xlsx',
+        output_dir=output_dir or project_root / 'docs',
         template_dir=project_root / 'templates',
         email=os.getenv('EMAIL', 'default@email.com'),
         github_token=os.getenv('GITHUB_TOKEN')
@@ -128,7 +128,12 @@ def display_results(result: ProcessingResult):
             for warning in warnings:
                 console.print(f"  {entry}: {warning}")
 
-async def process_data(config: Config) -> tuple[List[Entry], ProcessingResult]:
+async def process_data(
+    config: Config, 
+    skip_citations: bool = False, 
+    skip_impact_factors: bool = False,
+    skip_repository: bool = False
+) -> tuple[List[Entry], ProcessingResult]:
     """Process data using services"""
     try:
         # Initialize services
@@ -171,12 +176,13 @@ async def process_data(config: Config) -> tuple[List[Entry], ProcessingResult]:
 
                 # Only process non-preprint publications
                 if not publication_service.is_preprint(normalized_url):
-                    # Always fetch citations
-                    citations = await publication_service.get_citations(normalized_url)
-                    if citations is not None:
-                        df.at[idx, reverse_mapping['citations']] = citations
-                        entry_data['citations'] = citations
-                        logging.info(f"Updated citations for {entry_data['name']}: {citations}")
+                    # Get citations if not skipped
+                    if not skip_citations:
+                        citations = await publication_service.get_citations(normalized_url)
+                        if citations is not None:
+                            df.at[idx, reverse_mapping['citations']] = citations
+                            entry_data['citations'] = citations
+                            logging.info(f"Updated citations for {entry_data['name']}: {citations}")
                     
                     # Only fetch journal if the field is empty
                     current_journal = df.at[idx, reverse_mapping['journal']]
@@ -188,22 +194,23 @@ async def process_data(config: Config) -> tuple[List[Entry], ProcessingResult]:
                             logging.info(f"Updated journal for {entry_data['name']}: {journal_info['journal']}")
                             
                             # If we got a new journal name, try to get its impact factor
-                            impact_factor = await publication_service.get_impact_factor(journal_info)
-                            if impact_factor is not None:
-                                df.at[idx, reverse_mapping['impact_factor']] = impact_factor
-                                entry_data['impact_factor'] = impact_factor
-                                logging.info(f"Updated impact factor for {entry_data['name']}: {impact_factor}")
+                            if not skip_impact_factors:
+                                impact_factor = await publication_service.get_impact_factor(journal_info)
+                                if impact_factor is not None:
+                                    df.at[idx, reverse_mapping['impact_factor']] = impact_factor
+                                    entry_data['impact_factor'] = impact_factor
+                                    logging.info(f"Updated impact factor for {entry_data['name']}: {impact_factor}")
                     else:
                         # If we have a journal name but no impact factor, try to get it
-                        if pd.isna(df.at[idx, reverse_mapping['impact_factor']]):
+                        if not skip_impact_factors and pd.isna(df.at[idx, reverse_mapping['impact_factor']]):
                             impact_factor = await publication_service.get_impact_factor({'journal': current_journal})
                             if impact_factor is not None:
                                 df.at[idx, reverse_mapping['impact_factor']] = impact_factor
                                 entry_data['impact_factor'] = impact_factor
                                 logging.info(f"Updated impact factor for {entry_data['name']}: {impact_factor}")
             
-            # Fetch repository data
-            if repo_url := entry_data.get('repository_url'):
+            # Fetch repository data if not skipped
+            if not skip_repository and (repo_url := entry_data.get('repository_url')):
                 repo_data = await repository_service.get_repository_data(repo_url)
                 if repo_data:
                     df.at[idx, reverse_mapping['stars']] = repo_data.stars
@@ -223,18 +230,90 @@ async def process_data(config: Config) -> tuple[List[Entry], ProcessingResult]:
         console.print(f"[red]Error processing data: {e}")
         raise
 
+def parse_args():
+    """Parse command line arguments"""
+    parser = argparse.ArgumentParser(
+        description="Publication manager for generating documentation from Excel data"
+    )
+    
+    parser.add_argument(
+        "-i", "--input-file",
+        help="Path to the input Excel file",
+        type=Path
+    )
+    
+    parser.add_argument(
+        "-o", "--output-dir",
+        help="Path to the output directory for generated docs",
+        type=Path
+    )
+    
+    parser.add_argument(
+        "--skip-citations",
+        help="Skip fetching citation counts for publications",
+        action="store_true"
+    )
+    
+    parser.add_argument(
+        "--skip-impact-factors",
+        help="Skip fetching journal impact factors",
+        action="store_true"
+    )
+    
+    parser.add_argument(
+        "--skip-repository",
+        help="Skip fetching repository data (stars, last commit, etc.)",
+        action="store_true"
+    )
+    
+    parser.add_argument(
+        "--docs-only",
+        help="Skip all data fetching and only generate documentation",
+        action="store_true"
+    )
+    
+    return parser.parse_args()
+
 def main():
     """Main execution function"""
     try:
+        # Parse command line arguments
+        args = parse_args()
+        
         # Setup logging
         setup_logging()
         
-        # Create configuration
-        config = create_config()
+        # Create configuration with possible custom paths
+        config = create_config(
+            input_file=args.input_file,
+            output_dir=args.output_dir
+        )
         
-        # Process data
-        console.print("[bold]Starting data processing...[/bold]")
-        entries, processing_result = asyncio.run(process_data(config))
+        if args.docs_only:
+            # Skip all data fetching, just load Excel and generate docs
+            console.print("[bold]Loading data for documentation only...[/bold]")
+            raw_data = load_excel_data(config.input_file)
+            processor = DataProcessor(
+                PublicationService(config), 
+                RepositoryService(config)
+            )
+            entries, processing_result = asyncio.run(processor.process_entries(raw_data))
+        else:
+            # Process data with optional skipping of steps
+            console.print("[bold]Starting data processing...[/bold]")
+            if args.skip_citations:
+                console.print("[yellow]Skipping citation fetching[/yellow]")
+            if args.skip_impact_factors:
+                console.print("[yellow]Skipping impact factor fetching[/yellow]")
+            if args.skip_repository:
+                console.print("[yellow]Skipping repository data fetching[/yellow]")
+                
+            entries, processing_result = asyncio.run(process_data(
+                config,
+                skip_citations=args.skip_citations,
+                skip_impact_factors=args.skip_impact_factors,
+                skip_repository=args.skip_repository
+            ))
         
         if entries:
             # Generate documentation

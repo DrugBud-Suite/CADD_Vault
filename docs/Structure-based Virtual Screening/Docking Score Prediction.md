@@ -6,7 +6,7 @@
     [![Code](https://img.shields.io/github/stars/molecularinformatics/PretrainedAL-VS?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/PretrainedAL-VS) 
     [![Last Commit](https://img.shields.io/github/last-commit/molecularinformatics/PretrainedAL-VS?style=for-the-badge&logo=github)](https://github.com/molecularinformatics/PretrainedAL-VS) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01938) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01938) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.3c01938)
 
 
@@ -15,7 +15,7 @@
     [![Code](https://img.shields.io/github/stars/aamini/chemprop?style=for-the-badge&logo=github)](https://github.com/aamini/chemprop) 
     [![Last Commit](https://img.shields.io/github/last-commit/aamini/chemprop?style=for-the-badge&logo=github)](https://github.com/aamini/chemprop) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:109-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.1c00546) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:116-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.1c00546) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-12.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acscentsci.1c00546)
 
 
@@ -32,7 +32,7 @@
     [![Code](https://img.shields.io/github/stars/jamesgleave/Deep-Docking-NonAutomated?style=for-the-badge&logo=github)](https://github.com/jamesgleave/Deep-Docking-NonAutomated) 
     [![Last Commit](https://img.shields.io/github/last-commit/jamesgleave/Deep-Docking-NonAutomated?style=for-the-badge&logo=github)](https://github.com/jamesgleave/Deep-Docking-NonAutomated) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:263-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.0c00229) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:273-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.0c00229) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-12.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acscentsci.0c00229)
 
 
@@ -41,7 +41,7 @@
     [![Code](https://img.shields.io/github/stars/jamesgleave/DeepDockingGUI?style=for-the-badge&logo=github)](https://github.com/jamesgleave/DeepDockingGUI) 
     [![Last Commit](https://img.shields.io/github/last-commit/jamesgleave/DeepDockingGUI?style=for-the-badge&logo=github)](https://github.com/jamesgleave/DeepDockingGUI) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:263-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.0c00229) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:273-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.0c00229) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-12.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acscentsci.0c00229)
 
 
@@ -75,7 +75,7 @@
     [![Code](https://img.shields.io/github/stars/coleygroup/molpal?style=for-the-badge&logo=github)](https://github.com/coleygroup/molpal) 
     [![Last Commit](https://img.shields.io/github/last-commit/coleygroup/molpal?style=for-the-badge&logo=github)](https://github.com/coleygroup/molpal) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:174-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D0SC06805E) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:182-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D0SC06805E) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1039/D0SC06805E)
 
 

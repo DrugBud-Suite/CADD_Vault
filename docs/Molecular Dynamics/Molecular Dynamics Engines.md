@@ -4,14 +4,14 @@
 
 - **AMBER**: suite of biomolecular simulation programs (standalone)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:505-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01153) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:581-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01153) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.3c01153)
 
 
 
 - **CHARMM**: Chemistry at HARvard Macromolecular Mechanics (standalone)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:7276-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21287) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:7365-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21287) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/jcc.21287)
 
 
@@ -26,7 +26,7 @@
     [![Code](https://img.shields.io/github/stars/genesis-release-r-ccs/genesis?style=for-the-badge&logo=github)](https://github.com/genesis-release-r-ccs/genesis) 
     [![Last Commit](https://img.shields.io/github/last-commit/genesis-release-r-ccs/genesis?style=for-the-badge&logo=github)](https://github.com/genesis-release-r-ccs/genesis) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jpcb.4c02096) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jpcb.4c02096) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jpcb.4c02096)
 
 
@@ -49,7 +49,7 @@
     [![Code](https://img.shields.io/github/stars/Acellera/htmd?style=for-the-badge&logo=github)](https://github.com/Acellera/htmd) 
     [![Last Commit](https://img.shields.io/github/last-commit/Acellera/htmd?style=for-the-badge&logo=github)](https://github.com/Acellera/htmd) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:360-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.6b00049) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:370-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.6b00049) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jctc.6b00049)
 
 
@@ -62,7 +62,7 @@
 
 - **LAMMPS**: Molecular Dynamics Simulator and much more  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:5601-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2021.108171) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:5965-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.cpc.2021.108171) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.20-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1016/j.cpc.2021.108171)
 
 
@@ -76,7 +76,7 @@
     [![Code](https://img.shields.io/github/stars/openmm/openmm?style=for-the-badge&logo=github)](https://github.com/openmm/openmm) 
     [![Last Commit](https://img.shields.io/github/last-commit/openmm/openmm?style=for-the-badge&logo=github)](https://github.com/openmm/openmm) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:52-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jpcb.3c06662) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:69-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jpcb.3c06662) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jpcb.3c06662)
 
 
@@ -90,7 +90,7 @@
 
 - **QwikMD**: QwikMD — Integrative Molecular Dynamics Toolkit for Novices and Experts  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:163-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/srep26536) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:166-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/srep26536) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/srep26536)
 
 
@@ -167,14 +167,14 @@
     [![Code](https://img.shields.io/github/stars/kyonofx/mlcgmd?style=for-the-badge&logo=github)](https://github.com/kyonofx/mlcgmd) 
     [![Last Commit](https://img.shields.io/github/last-commit/kyonofx/mlcgmd?style=for-the-badge&logo=github)](https://github.com/kyonofx/mlcgmd) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:94-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/sciadv.abc6216) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:98-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/sciadv.abc6216) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-11.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1126/sciadv.abc6216)
 
 
 
 - **Medbi et al.**: Enhanced Sampling with Machine Learning  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1146/annurev-physchem-083122-125941) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:42-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1146/annurev-physchem-083122-125941) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-11.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1146/annurev-physchem-083122-125941)
 
 
@@ -183,7 +183,7 @@
     [![Code](https://img.shields.io/github/stars/chao1224/NeuralMD?style=for-the-badge&logo=github)](https://github.com/chao1224/NeuralMD) 
     [![Last Commit](https://img.shields.io/github/last-commit/chao1224/NeuralMD?style=for-the-badge&logo=github)](https://github.com/chao1224/NeuralMD) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2023.12.06.570503) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2023.12.06.570503) 
 
 
 

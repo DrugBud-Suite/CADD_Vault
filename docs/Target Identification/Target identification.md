@@ -5,7 +5,7 @@
 
 - **DrugnomeAI**: DrugnomeAI is an ensemble machine-learning framework for predicting druggability of candidate drug targets  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:21-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42003-022-04245-4) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:24-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42003-022-04245-4) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.20-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s42003-022-04245-4)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](http://drugnomeai.public.cgr.astrazeneca.com/) 

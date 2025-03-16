@@ -7,6 +7,15 @@
 
 
 
+- **OpenMMDL**:   
+    [![Code](https://img.shields.io/github/stars/wolberlab/OpenMMDL?style=for-the-badge&logo=github)](https://github.com/wolberlab/OpenMMDL) 
+    [![Last Commit](https://img.shields.io/github/last-commit/wolberlab/OpenMMDL?style=for-the-badge&logo=github)](https://github.com/wolberlab/OpenMMDL) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.4c02158) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.4c02158)
+
+
+
 - **StreaMD**: streamlines all phases of molecular dynamics simulations, encompassing preparation, execution, and analysis  
     [![Code](https://img.shields.io/github/stars/ci-lab-cz/streamd?style=for-the-badge&logo=github)](https://github.com/ci-lab-cz/streamd) 
     [![Last Commit](https://img.shields.io/github/last-commit/ci-lab-cz/streamd?style=for-the-badge&logo=github)](https://github.com/ci-lab-cz/streamd) 

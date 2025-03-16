@@ -33,7 +33,7 @@
     [![Code](https://img.shields.io/github/stars/reymond-group/RAscore?style=for-the-badge&logo=github)](https://github.com/reymond-group/RAscore) 
     [![Last Commit](https://img.shields.io/github/last-commit/reymond-group/RAscore?style=for-the-badge&logo=github)](https://github.com/reymond-group/RAscore) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:93-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d0sc05401a) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:96-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d0sc05401a) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1039/d0sc05401a)
 
 
@@ -42,7 +42,7 @@
     [![Code](https://img.shields.io/github/stars/rdkit/rdkit/tree/master/Contrib/SA_Score?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score) 
     [![Last Commit](https://img.shields.io/github/last-commit/rdkit/rdkit/tree/master/Contrib/SA_Score?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:998-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-1-8) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1029-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-1-8) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/1758-2946-1-8)
 
 

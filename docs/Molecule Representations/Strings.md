@@ -1,13 +1,22 @@
 
 
-## **Other Representations**
+## **SELFIES-related**
 
 
-- **selfies**: Recent advances in the self-referencing embedded strings (SELFIES) library  
+- **Group-SELFIES**:   
+    [![Code](https://img.shields.io/github/stars/aspuru-guzik-group/group-selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/group-selfies) 
+    [![Last Commit](https://img.shields.io/github/last-commit/aspuru-guzik-group/group-selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/group-selfies) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:21-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3DD00012E) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-6.20-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1039/D3DD00012E)
+
+
+
+- **SELFIES**: Recent advances in the self-referencing embedded strings (SELFIES) library  
     [![Code](https://img.shields.io/github/stars/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies) 
     [![Last Commit](https://img.shields.io/github/last-commit/aspuru-guzik-group/selfies?style=for-the-badge&logo=github)](https://github.com/aspuru-guzik-group/selfies) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:7-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3DD00044C) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3DD00044C) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.20-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1039/D3DD00044C)
 
 
@@ -20,6 +29,12 @@
 
 
 
+
+- **SMIRKS**:   
+
+
+
+### **Visualisation**
 
 - **SMARTS-plus**: easy to comprehend visualization for your SMARTS expression.  
 
@@ -34,6 +49,26 @@
     [![Last Commit](https://img.shields.io/github/last-commit/EtienneReboul/ClearSMILES?style=for-the-badge&logo=github)](https://github.com/EtienneReboul/ClearSMILES) 
 
     [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.10.07.617002) 
+
+
+
+- **CurlySMILES**:   
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:374-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-1) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/1758-2946-3-1)
+
+
+
+- **DeepSMILES**:   
+    [![Code](https://img.shields.io/github/stars/baoilleach/deepsmiles?style=for-the-badge&logo=github)](https://github.com/baoilleach/deepsmiles) 
+    [![Last Commit](https://img.shields.io/github/last-commit/baoilleach/deepsmiles?style=for-the-badge&logo=github)](https://github.com/baoilleach/deepsmiles) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.26434/chemrxiv.7097960) 
+
+
+
+- **OpenSMILES**:   
+
 
 
 
@@ -56,7 +91,7 @@
     [![Code](https://img.shields.io/github/stars/volkamerlab/maxsmi?style=for-the-badge&logo=github)](https://github.com/volkamerlab/maxsmi) 
     [![Last Commit](https://img.shields.io/github/last-commit/volkamerlab/maxsmi?style=for-the-badge&logo=github)](https://github.com/volkamerlab/maxsmi) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:6-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.ailsci.2021.100014) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.ailsci.2021.100014) 
 
 
 
@@ -66,5 +101,29 @@
 
     [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-49388-6) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-14.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41467-024-49388-6)
+
+
+### **Macromolecules**
+
+- **BigSMILES**: Structurally-Based Line Notation for Describing Macromolecules  
+    [![Code](https://img.shields.io/github/stars/olsenlabmit/BigSMILES?style=for-the-badge&logo=github)](https://github.com/olsenlabmit/BigSMILES) 
+    [![Last Commit](https://img.shields.io/github/last-commit/olsenlabmit/BigSMILES?style=for-the-badge&logo=github)](https://github.com/olsenlabmit/BigSMILES) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:182-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acscentsci.9b00476) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-12.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acscentsci.9b00476)
+
+
+### **Macromolecules**
+
+- **CHORTLES**:   
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:25-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci00028a012) 
+
+
+### **Macromolecules**
+
+- **CHUCKLES**:   
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci00019a017) 
 
 

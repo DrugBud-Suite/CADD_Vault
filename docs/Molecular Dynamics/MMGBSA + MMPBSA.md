@@ -56,7 +56,7 @@
     [![Code](https://img.shields.io/github/stars/Valdes-Tresanco-MS/gmx_MMPBSA?style=for-the-badge&logo=github)](https://github.com/Valdes-Tresanco-MS/gmx_MMPBSA) 
     [![Last Commit](https://img.shields.io/github/last-commit/Valdes-Tresanco-MS/gmx_MMPBSA?style=for-the-badge&logo=github)](https://github.com/Valdes-Tresanco-MS/gmx_MMPBSA) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1289-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.1c00645) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1363-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.1c00645) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jctc.1c00645)
 
 

@@ -6,7 +6,7 @@
     [![Code](https://img.shields.io/github/stars/gfzhou/OpenVS?style=for-the-badge&logo=github)](https://github.com/gfzhou/OpenVS) 
     [![Last Commit](https://img.shields.io/github/last-commit/gfzhou/OpenVS?style=for-the-badge&logo=github)](https://github.com/gfzhou/OpenVS) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-52061-7) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:23-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-52061-7) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-14.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41467-024-52061-7)
 
 
@@ -15,7 +15,7 @@
 
 - **AlphaFold3**: Accurate structure prediction of biomolecular interactions with AlphaFold 3  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:2069-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-024-07487-w) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2675-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41586-024-07487-w) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-50.50-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41586-024-07487-w)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://golgi.sandbox.google.com/) 
@@ -25,7 +25,7 @@
     [![Code](https://img.shields.io/github/stars/jwohlwend/boltz?tab=readme-ov-file?style=for-the-badge&logo=github)](https://github.com/jwohlwend/boltz?tab=readme-ov-file) 
     [![Last Commit](https://img.shields.io/github/last-commit/jwohlwend/boltz?tab=readme-ov-file?style=for-the-badge&logo=github)](https://github.com/jwohlwend/boltz?tab=readme-ov-file) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.11.19.624167) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2024.11.19.624167) 
 
 
 
@@ -33,7 +33,7 @@
     [![Code](https://img.shields.io/github/stars/shuyana/DiffusionProteinLigand?style=for-the-badge&logo=github)](https://github.com/shuyana/DiffusionProteinLigand) 
     [![Last Commit](https://img.shields.io/github/last-commit/shuyana/DiffusionProteinLigand?style=for-the-badge&logo=github)](https://github.com/shuyana/DiffusionProteinLigand) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s12859-023-05354-5) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:22-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s12859-023-05354-5) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.90-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s12859-023-05354-5)
 
 
@@ -49,7 +49,7 @@
     [![Code](https://img.shields.io/github/stars/luwei0917/DynamicBind?style=for-the-badge&logo=github)](https://github.com/luwei0917/DynamicBind) 
     [![Last Commit](https://img.shields.io/github/last-commit/luwei0917/DynamicBind?style=for-the-badge&logo=github)](https://github.com/luwei0917/DynamicBind) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:41-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-45461-2) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:48-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-024-45461-2) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-14.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41467-024-45461-2)
 
 
@@ -66,15 +66,22 @@
     [![Code](https://img.shields.io/github/stars/zrqiao/NeuralPLexer?style=for-the-badge&logo=github)](https://github.com/zrqiao/NeuralPLexer) 
     [![Last Commit](https://img.shields.io/github/last-commit/zrqiao/NeuralPLexer?style=for-the-badge&logo=github)](https://github.com/zrqiao/NeuralPLexer) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:40-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-024-00792-z) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:47-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-024-00792-z) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-18.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s42256-024-00792-z)
 
 
 
 - **RoseTTAFold-AllAtom**: RoseTTAFold All-Atom (RFAA) is a deep network capable of modeling full biological assemblies containing proteins, nucleic acids, small molecules, metals, and covalent modifications with high accuracy.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:222-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.adl2528) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:269-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1126/science.adl2528) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-44.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1126/science.adl2528)
+
+
+### **Reviews**
+
+- **Have protein-ligand co-folding methods moved beyond memorisation?**:   
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2025.02.03.636309) 
 
 
 ## **Allosteric sites**
@@ -90,9 +97,16 @@
 ## **Blind Docking**
 
 
+- **BINDSURF**: High-Throughput parallel blind Virtual Screening  
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:144-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1471-2105-13-S14-S13) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-2.90-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/1471-2105-13-S14-S13)
+
+
+
 - **CBDock2**: CBDock2 is an improved protein-ligand blind docking tool integrating cavity detection, docking, and homologous template fitting to suggest novel therapeutic targets for biological and pharmaceutical studies.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:529-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac394) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:589-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkac394) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkac394)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://cadd.labshare.cn/cb-dock2/php/index.php) 
@@ -102,6 +116,14 @@
     [![Code](https://img.shields.io/github/stars/DavidMcDonald1993/cobdock?style=for-the-badge&logo=github)](https://github.com/DavidMcDonald1993/cobdock) 
     [![Last Commit](https://img.shields.io/github/last-commit/DavidMcDonald1993/cobdock?style=for-the-badge&logo=github)](https://github.com/DavidMcDonald1993/cobdock) 
 
+
+
+
+- **METADOCK2**: high-throughput parallel metaheuristic scheme for molecular docking  
+    [![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://Baldoimbernon@bitbucket.org/Baldoimbernon/metadock_2.git) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btz958) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btz958)
 
 
 ## **Chemical Space Docking**
@@ -122,7 +144,7 @@
     [![Code](https://img.shields.io/github/stars/ccsb-scripps/AutoDock-Vina?style=for-the-badge&logo=github)](https://github.com/ccsb-scripps/AutoDock-Vina) 
     [![Last Commit](https://img.shields.io/github/last-commit/ccsb-scripps/AutoDock-Vina?style=for-the-badge&logo=github)](https://github.com/ccsb-scripps/AutoDock-Vina) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:2901-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00203) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:3123-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.1c00203) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.1c00203)
 
 
@@ -140,7 +162,7 @@
     [![Code](https://img.shields.io/github/stars/PKUGaoGroup/DSDP?style=for-the-badge&logo=github)](https://github.com/PKUGaoGroup/DSDP) 
     [![Last Commit](https://img.shields.io/github/last-commit/PKUGaoGroup/DSDP?style=for-the-badge&logo=github)](https://github.com/PKUGaoGroup/DSDP) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00519) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00519) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.3c00519)
 
 
@@ -207,6 +229,13 @@
 
 
 
+- **Paradocks**: parallel docking suite  
+    [![Code](https://img.shields.io/github/stars/cbaldauf/paradocks?style=for-the-badge&logo=github)](https://github.com/cbaldauf/paradocks) 
+    [![Last Commit](https://img.shields.io/github/last-commit/cbaldauf/paradocks?style=for-the-badge&logo=github)](https://github.com/cbaldauf/paradocks) 
+
+
+
+
 - **ProBiS-Dock**: A Hybrid Multitemplate Homology Flexible Docking Algorithm Enabled by Protein Binding Site Comparison (standalone).  
     [![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://gitlab.com/janezkonc/insidrug/-/releases/probis_dock_algorithm_v1.0.0) 
 
@@ -236,7 +265,7 @@
     [![Code](https://img.shields.io/github/stars/rxdock/rxdock?style=for-the-badge&logo=github)](https://github.com/rxdock/rxdock) 
     [![Last Commit](https://img.shields.io/github/last-commit/rxdock/rxdock?style=for-the-badge&logo=github)](https://github.com/rxdock/rxdock) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:449-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pcbi.1003571) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:457-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pcbi.1003571) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1371/journal.pcbi.1003571)
 
 
@@ -244,7 +273,7 @@
 - **SMINA**: A fork of AutoDock Vina that supports scoring function development and high-performance energy minimization, maintained by the University of Pittsburgh.  
     [![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://sourceforge.net/projects/smina/) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:773-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci300604z) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:791-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci300604z) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/ci300604z)
 
 
@@ -258,14 +287,14 @@
     [![Code](https://img.shields.io/github/stars/dptech-corp/Uni-Dock?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-Dock) 
     [![Last Commit](https://img.shields.io/github/last-commit/dptech-corp/Uni-Dock?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-Dock) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.2c01145) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:35-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.2c01145) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jctc.2c01145)
 
 
 
 - **VinaCarb**: The content for VinaCarb was not available from the URL provided.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:100-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00834) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:102-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.5b00834) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jctc.5b00834)
 
 
@@ -274,7 +303,7 @@
     [![Code](https://img.shields.io/github/stars/DeltaGroupNJUPT/Vina-GPU-2.0?style=for-the-badge&logo=github)](https://github.com/DeltaGroupNJUPT/Vina-GPU-2.0) 
     [![Last Commit](https://img.shields.io/github/last-commit/DeltaGroupNJUPT/Vina-GPU-2.0?style=for-the-badge&logo=github)](https://github.com/DeltaGroupNJUPT/Vina-GPU-2.0) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:43-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c01504) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:50-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.2c01504) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.2c01504)
 
 
@@ -283,7 +312,7 @@
     [![Code](https://img.shields.io/github/stars/sirimullalab/vinaXB/tree/master?style=for-the-badge&logo=github)](https://github.com/sirimullalab/vinaXB/tree/master) 
     [![Last Commit](https://img.shields.io/github/last-commit/sirimullalab/vinaXB/tree/master?style=for-the-badge&logo=github)](https://github.com/sirimullalab/vinaXB/tree/master) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:105-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-016-0139-1) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:107-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-016-0139-1) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-016-0139-1)
 
 
@@ -334,7 +363,7 @@
     [![Code](https://img.shields.io/github/stars/paiardin/DockingPie?style=for-the-badge&logo=github)](https://github.com/paiardin/DockingPie) 
     [![Last Commit](https://img.shields.io/github/last-commit/paiardin/DockingPie?style=for-the-badge&logo=github)](https://github.com/paiardin/DockingPie) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:33-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btac452) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:35-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btac452) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btac452)
 
 
@@ -367,12 +396,23 @@
     [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3390/applbiosci4010002) 
 
 
+## **Electron Density**
+
+
+- **CryoXKit**: Docking guidance with experimental ligand structural density  
+    [![Code](https://img.shields.io/github/stars/forlilab/CryoXKit?style=for-the-badge&logo=github)](https://github.com/forlilab/CryoXKit) 
+    [![Last Commit](https://img.shields.io/github/last-commit/forlilab/CryoXKit?style=for-the-badge&logo=github)](https://github.com/forlilab/CryoXKit) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/pro.70082) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-4.50-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/pro.70082)
+
+
 ## **Flexible Docking**
 
 
 - **ADFR**: AutoDockFR is a protein-ligand docking program supporting selective receptor flexibility and covalent docking, part of the ADFR suite for streamlined docking procedures.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:397-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pcbi.1004586) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:415-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1371/journal.pcbi.1004586) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1371/journal.pcbi.1004586)
 
 
@@ -395,11 +435,19 @@
 
 
 
+- **FABFlex**: Fast and Accurate Blind Flexible Docking  
+    [![Code](https://img.shields.io/github/stars/tmlr-group/FABFlex?style=for-the-badge&logo=github)](https://github.com/tmlr-group/FABFlex) 
+    [![Last Commit](https://img.shields.io/github/last-commit/tmlr-group/FABFlex?style=for-the-badge&logo=github)](https://github.com/tmlr-group/FABFlex) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2502.14934) 
+
+
+
 - **FlexAID**: FlexAID: Revisiting Docking on Non-Native-Complex Structures  
     [![Code](https://img.shields.io/github/stars/NRGlab/FlexAID?style=for-the-badge&logo=github)](https://github.com/NRGlab/FlexAID) 
     [![Last Commit](https://img.shields.io/github/last-commit/NRGlab/FlexAID?style=for-the-badge&logo=github)](https://github.com/NRGlab/FlexAID) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:54-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.5b00078) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:55-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.5b00078) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.5b00078)
 
 
@@ -408,7 +456,7 @@
     [![Code](https://img.shields.io/github/stars/gnina/gnina?style=for-the-badge&logo=github)](https://github.com/gnina/gnina) 
     [![Last Commit](https://img.shields.io/github/last-commit/gnina/gnina?style=for-the-badge&logo=github)](https://github.com/gnina/gnina) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:311-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00522-2) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:333-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00522-2) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-021-00522-2)
 
 
@@ -432,7 +480,7 @@
     [![Code](https://img.shields.io/github/stars/gloglita/idock?style=for-the-badge&logo=github)](https://github.com/gloglita/idock) 
     [![Last Commit](https://img.shields.io/github/last-commit/gloglita/idock?style=for-the-badge&logo=github)](https://github.com/gloglita/idock) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:68-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1109/CIBCB.2012.6217214) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:71-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1109/CIBCB.2012.6217214) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1109/CIBCB.2012.6217214)
 
 
@@ -444,6 +492,13 @@
 
 
 ## **Fragment-based**
+
+
+- **SEED**: fragment docking with force-field based evaluation of binding energy  
+    [![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://gitlab.com/CaflischLab/SEED) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:133-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/(SICI)1097-0134(19991001)37:1%3C88::AID-PROT9%3E3.0.CO;2-O) 
+
 
 
 - **Spresso**: an ultrafast compound pre-screening method based on compound decomposition  
@@ -459,7 +514,7 @@
     [![Code](https://img.shields.io/github/stars/ci-lab-cz/easydock/tree/master?style=for-the-badge&logo=github)](https://github.com/ci-lab-cz/easydock/tree/master) 
     [![Last Commit](https://img.shields.io/github/last-commit/ci-lab-cz/easydock/tree/master?style=for-the-badge&logo=github)](https://github.com/ci-lab-cz/easydock/tree/master) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-023-00772-2) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-023-00772-2) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-023-00772-2)
 
 
@@ -468,7 +523,7 @@
     [![Code](https://img.shields.io/github/stars/inpacdb/POAP?style=for-the-badge&logo=github)](https://github.com/inpacdb/POAP) 
     [![Last Commit](https://img.shields.io/github/last-commit/inpacdb/POAP?style=for-the-badge&logo=github)](https://github.com/inpacdb/POAP) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:65-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.compbiolchem.2018.02.012) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:67-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.compbiolchem.2018.02.012) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1016/j.compbiolchem.2018.02.012)
 
 
@@ -506,6 +561,14 @@
 ## **ML-based**
 
 
+- **3DMolFormer**: A Dual-channel Framework for Structure-based Drug Discovery  
+    [![Code](https://img.shields.io/github/stars/HXYfighter/3DMolFormer?style=for-the-badge&logo=github)](https://github.com/HXYfighter/3DMolFormer) 
+    [![Last Commit](https://img.shields.io/github/last-commit/HXYfighter/3DMolFormer?style=for-the-badge&logo=github)](https://github.com/HXYfighter/3DMolFormer) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.48550/arXiv.2502.05107) 
+
+
+
 - **AQDNet**: Implements a Deep Neural Network for Protein-Ligand Docking Simulation, focusing on identifying correct binding poses through convolutional neural network approaches.  
     [![Code](https://img.shields.io/github/stars/koji11235/AQDnet?style=for-the-badge&logo=github)](https://github.com/koji11235/AQDnet) 
     [![Last Commit](https://img.shields.io/github/last-commit/koji11235/AQDnet?style=for-the-badge&logo=github)](https://github.com/koji11235/AQDnet) 
@@ -525,7 +588,7 @@
     [![Code](https://img.shields.io/github/stars/carbonsilicon-ai/CarsiDock?style=for-the-badge&logo=github)](https://github.com/carbonsilicon-ai/CarsiDock) 
     [![Last Commit](https://img.shields.io/github/last-commit/carbonsilicon-ai/CarsiDock?style=for-the-badge&logo=github)](https://github.com/carbonsilicon-ai/CarsiDock) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:13-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3SC05552C) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:16-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D3SC05552C) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1039/D3SC05552C)
 
 
@@ -583,7 +646,7 @@
     [![Code](https://img.shields.io/github/stars/MatthewMasters/EDM-Dock?style=for-the-badge&logo=github)](https://github.com/MatthewMasters/EDM-Dock) 
     [![Last Commit](https://img.shields.io/github/last-commit/MatthewMasters/EDM-Dock?style=for-the-badge&logo=github)](https://github.com/MatthewMasters/EDM-Dock) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:49-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s43588-023-00511-5) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:57-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s43588-023-00511-5) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-12.00-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s43588-023-00511-5)
 
 
@@ -592,7 +655,7 @@
     [![Code](https://img.shields.io/github/stars/bjing2016/scalar-fields?style=for-the-badge&logo=github)](https://github.com/bjing2016/scalar-fields) 
     [![Last Commit](https://img.shields.io/github/last-commit/bjing2016/scalar-fields?style=for-the-badge&logo=github)](https://github.com/bjing2016/scalar-fields) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1109/9780470544792.ch3) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1109/9780470544792.ch3) 
 
 
 
@@ -651,7 +714,7 @@
     [![Code](https://img.shields.io/github/stars/gnina/gnina?style=for-the-badge&logo=github)](https://github.com/gnina/gnina) 
     [![Last Commit](https://img.shields.io/github/last-commit/gnina/gnina?style=for-the-badge&logo=github)](https://github.com/gnina/gnina) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:311-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00522-2) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:333-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00522-2) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-021-00522-2)
 
 
@@ -668,7 +731,7 @@
     [![Code](https://img.shields.io/github/stars/seoklab/galaxydock_dl?style=for-the-badge&logo=github)](https://github.com/seoklab/galaxydock_dl) 
     [![Last Commit](https://img.shields.io/github/last-commit/seoklab/galaxydock_dl?style=for-the-badge&logo=github)](https://github.com/seoklab/galaxydock_dl) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.4c00385) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:3-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.4c00385) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jctc.4c00385)
 
 
@@ -686,7 +749,7 @@
     [![Code](https://img.shields.io/github/stars/schrojunzhang/KarmaDock/blob/main/README.md?style=for-the-badge&logo=github)](https://github.com/schrojunzhang/KarmaDock/blob/main/README.md) 
     [![Last Commit](https://img.shields.io/github/last-commit/schrojunzhang/KarmaDock/blob/main/README.md?style=for-the-badge&logo=github)](https://github.com/schrojunzhang/KarmaDock/blob/main/README.md) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:49-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s43588-023-00511-5) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:57-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s43588-023-00511-5) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-12.00-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s43588-023-00511-5)
 
 
@@ -764,7 +827,7 @@
     [![Code](https://img.shields.io/github/stars/luwei0917/TankBind?style=for-the-badge&logo=github)](https://github.com/luwei0917/TankBind) 
     [![Last Commit](https://img.shields.io/github/last-commit/luwei0917/TankBind?style=for-the-badge&logo=github)](https://github.com/luwei0917/TankBind) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:61-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2022.06.06.495043) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:66-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1101/2022.06.06.495043) 
 
 
 
@@ -780,7 +843,7 @@
     [![Code](https://img.shields.io/github/stars/dptech-corp/Uni-Dock?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-Dock) 
     [![Last Commit](https://img.shields.io/github/last-commit/dptech-corp/Uni-Dock?style=for-the-badge&logo=github)](https://github.com/dptech-corp/Uni-Dock) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:29-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.2c01145) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:35-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.2c01145) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jctc.2c01145)
 
 
@@ -813,7 +876,7 @@
     [![Code](https://img.shields.io/github/stars/karanicolaslab/vScreenML?style=for-the-badge&logo=github)](https://github.com/karanicolaslab/vScreenML) 
     [![Last Commit](https://img.shields.io/github/last-commit/karanicolaslab/vScreenML?style=for-the-badge&logo=github)](https://github.com/karanicolaslab/vScreenML) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:144-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1073/pnas.2000585117) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:147-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1073/pnas.2000585117) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-9.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1073/pnas.2000585117)
 
 
@@ -836,6 +899,14 @@
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jmedchem.4c02740)
 
 
+### **Reviews**
+
+- **Benchmarking AI-powered docking methods from the perspective of virtual screening**:   
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s42256-025-00993-0) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-18.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s42256-025-00993-0)
+
+
 ## **MetalloProteins**
 
 
@@ -843,7 +914,7 @@
     [![Code](https://img.shields.io/github/stars/MatthijsHak/MetalDock?style=for-the-badge&logo=github)](https://github.com/MatthijsHak/MetalDock) 
     [![Last Commit](https://img.shields.io/github/last-commit/MatthijsHak/MetalDock?style=for-the-badge&logo=github)](https://github.com/MatthijsHak/MetalDock) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:12-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01582) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:14-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c01582) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.3c01582)
 
 
@@ -882,7 +953,7 @@
     [![Code](https://img.shields.io/github/stars/zchwang/DeepRMSD-Vina_Optimization?style=for-the-badge&logo=github)](https://github.com/zchwang/DeepRMSD-Vina_Optimization) 
     [![Last Commit](https://img.shields.io/github/last-commit/zchwang/DeepRMSD-Vina_Optimization?style=for-the-badge&logo=github)](https://github.com/zchwang/DeepRMSD-Vina_Optimization) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:31-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbac520) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:32-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbac520) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bib/bbac520)
 
 
@@ -901,7 +972,7 @@
     [![Code](https://img.shields.io/github/stars/lightdock/lightdock?style=for-the-badge&logo=github)](https://github.com/lightdock/lightdock) 
     [![Last Commit](https://img.shields.io/github/last-commit/lightdock/lightdock?style=for-the-badge&logo=github)](https://github.com/lightdock/lightdock) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:92-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btx555) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:94-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bioinformatics/btx555) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bioinformatics/btx555)
 
 
@@ -910,7 +981,7 @@
     [![Code](https://img.shields.io/github/stars/brianjimenez/pydock_tutorial?style=for-the-badge&logo=github)](https://github.com/brianjimenez/pydock_tutorial) 
     [![Last Commit](https://img.shields.io/github/last-commit/brianjimenez/pydock_tutorial?style=for-the-badge&logo=github)](https://github.com/brianjimenez/pydock_tutorial) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:291-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/prot.21419) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:293-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/prot.21419) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.20-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/prot.21419)
 
 
@@ -948,7 +1019,7 @@
 
 - **FitDock**: fits initial conformation to the given template using a hierachical multi-feature alignment approach, subsequently explores the possible conformations, and finally outputs refined docking poses  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:100-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbac087) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:107-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/bib/bbac087) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-6.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/bib/bbac087)
 
 

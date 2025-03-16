@@ -6,7 +6,7 @@
     [![Code](https://img.shields.io/github/stars/alexarnimueller/cats-descriptor?style=for-the-badge&logo=github)](https://github.com/alexarnimueller/cats-descriptor) 
     [![Last Commit](https://img.shields.io/github/last-commit/alexarnimueller/cats-descriptor?style=for-the-badge&logo=github)](https://github.com/alexarnimueller/cats-descriptor) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:139-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002%2Fminf.201200141) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:142-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002%2Fminf.201200141) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002%2Fminf.201200141)
 
 
@@ -62,14 +62,21 @@
     [![Code](https://img.shields.io/github/stars/ThomasJewson/Molecular3DLengthDescriptors?style=for-the-badge&logo=github)](https://github.com/ThomasJewson/Molecular3DLengthDescriptors) 
     [![Last Commit](https://img.shields.io/github/last-commit/ThomasJewson/Molecular3DLengthDescriptors?style=for-the-badge&logo=github)](https://github.com/ThomasJewson/Molecular3DLengthDescriptors) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:36-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.6b00565) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:37-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.6b00565) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.6b00565)
+
+
+
+- **Osmordred**: Unified RDkit new descriptors in c++  
+    [![Code](https://img.shields.io/github/stars/osmoai/osmordred?style=for-the-badge&logo=github)](https://github.com/osmoai/osmordred) 
+    [![Last Commit](https://img.shields.io/github/last-commit/osmoai/osmordred?style=for-the-badge&logo=github)](https://github.com/osmoai/osmordred) 
+
 
 
 
 - **PaDEL**: A software for calculating molecular descriptors and fingerprints.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:2139-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21707) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2181-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21707) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/jcc.21707)
 
 
@@ -78,7 +85,7 @@
     [![Code](https://img.shields.io/github/stars/ecrl/padelpy?style=for-the-badge&logo=github)](https://github.com/ecrl/padelpy) 
     [![Last Commit](https://img.shields.io/github/last-commit/ecrl/padelpy?style=for-the-badge&logo=github)](https://github.com/ecrl/padelpy) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:2139-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21707) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2181-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1002/jcc.21707) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1002/jcc.21707)
 
 
@@ -113,7 +120,7 @@
     [![Code](https://img.shields.io/github/stars/mordred-descriptor/mordred?style=for-the-badge&logo=github)](https://github.com/mordred-descriptor/mordred) 
     [![Last Commit](https://img.shields.io/github/last-commit/mordred-descriptor/mordred?style=for-the-badge&logo=github)](https://github.com/mordred-descriptor/mordred) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:844-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-018-0258-y) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:880-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-018-0258-y) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-018-0258-y)
 
 
@@ -144,7 +151,7 @@
     [![Code](https://img.shields.io/github/stars/silicos-it/qed?style=for-the-badge&logo=github)](https://github.com/silicos-it/qed) 
     [![Last Commit](https://img.shields.io/github/last-commit/silicos-it/qed?style=for-the-badge&logo=github)](https://github.com/silicos-it/qed) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:1400-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/nchem.1243) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1425-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/nchem.1243) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-19.20-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/nchem.1243)
 
 
@@ -209,7 +216,7 @@
     [![Code](https://img.shields.io/github/stars/reymond-group/RAscore?style=for-the-badge&logo=github)](https://github.com/reymond-group/RAscore) 
     [![Last Commit](https://img.shields.io/github/last-commit/reymond-group/RAscore?style=for-the-badge&logo=github)](https://github.com/reymond-group/RAscore) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:93-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d0sc05401a) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:96-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/d0sc05401a) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1039/d0sc05401a)
 
 
@@ -218,7 +225,7 @@
     [![Code](https://img.shields.io/github/stars/rdkit/rdkit/tree/master/Contrib/SA_Score?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score) 
     [![Last Commit](https://img.shields.io/github/last-commit/rdkit/rdkit/tree/master/Contrib/SA_Score?style=for-the-badge&logo=github)](https://github.com/rdkit/rdkit/tree/master/Contrib/SA_Score) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:998-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-1-8) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:1029-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-1-8) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/1758-2946-1-8)
 
 

@@ -18,7 +18,7 @@
     [![Code](https://img.shields.io/github/stars/CSUBioGroup/PGMG?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/PGMG) 
     [![Last Commit](https://img.shields.io/github/last-commit/CSUBioGroup/PGMG?style=for-the-badge&logo=github)](https://github.com/CSUBioGroup/PGMG) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:20-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41467-023-41454-9) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:25-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038%2Fs41467-023-41454-9) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-14.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038%2Fs41467-023-41454-9)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://www.csuligroup.com/PGMG) 
@@ -67,6 +67,13 @@
 
 
 
+## **Pharmacophore Model Generation**
+
+
+- **AncPhore**:   
+
+
+
 ## **PyMol plugin**
 
 
@@ -74,7 +81,7 @@
     [![Code](https://img.shields.io/github/stars/SeonghwanSeo/OpenPharmaco?style=for-the-badge&logo=github)](https://github.com/SeonghwanSeo/OpenPharmaco) 
     [![Last Commit](https://img.shields.io/github/last-commit/SeonghwanSeo/OpenPharmaco?style=for-the-badge&logo=github)](https://github.com/SeonghwanSeo/OpenPharmaco) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D4SC04854G) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D4SC04854G) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1039/D4SC04854G)
 
 
@@ -101,7 +108,7 @@
     [![Code](https://img.shields.io/github/stars/OliverBScott/align-it?style=for-the-badge&logo=github)](https://github.com/OliverBScott/align-it) 
     [![Last Commit](https://img.shields.io/github/last-commit/OliverBScott/align-it?style=for-the-badge&logo=github)](https://github.com/OliverBScott/align-it) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:104-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.jmgm.2008.04.003) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:106-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1016/j.jmgm.2008.04.003) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-2.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1016/j.jmgm.2008.04.003)
 
 
@@ -121,7 +128,7 @@
 
 - **GRAIL**: GRids of phArmacophore Interaction fieLds  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.8b00495) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:18-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jctc.8b00495) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jctc.8b00495)
 
 
@@ -171,7 +178,7 @@
     [![Code](https://img.shields.io/github/stars/SeonghwanSeo/PharmacoNet?style=for-the-badge&logo=github)](https://github.com/SeonghwanSeo/PharmacoNet) 
     [![Last Commit](https://img.shields.io/github/last-commit/SeonghwanSeo/PharmacoNet?style=for-the-badge&logo=github)](https://github.com/SeonghwanSeo/PharmacoNet) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D4SC04854G) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:2-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1039/D4SC04854G) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1039/D4SC04854G)
 
 
@@ -202,13 +209,23 @@
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.4c00516)
 
 
-## **Web-Servers**
-
+### **Web-Servers**
 
 - **Pharmit**: Pharmit provides an interactive environment for the identification and visualization of pharmacophore models, enabling virtual screening against millions of compounds. It offers tools for specifying pharmacophores, flexibly searching chemical databases, and viewing results in 3D directly in the web browser.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:266-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkw287) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:275-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093%2Fnar%2Fgkw287) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093%2Fnar%2Fgkw287)
 
     [![Webserver](https://img.shields.io/badge/Webserver-online-brightgreen?style=for-the-badge&logo=cachet&logoColor=65FF8F)](https://pharmit.csb.pitt.edu/) 
+
+## **VS, Docking**
+
+
+- **DiffPhore**:   
+    [![Code](https://img.shields.io/github/stars/VicFisher/DiffPhore?style=for-the-badge&logo=github)](https://github.com/VicFisher/DiffPhore) 
+    [![Last Commit](https://img.shields.io/github/last-commit/VicFisher/DiffPhore?style=for-the-badge&logo=github)](https://github.com/VicFisher/DiffPhore) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41467-025-57485-3) 
+    [![JIF](https://img.shields.io/badge/Impact_Factor-14.70-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41467-025-57485-3)
+
 

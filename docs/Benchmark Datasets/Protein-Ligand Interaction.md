@@ -19,7 +19,7 @@
 
 - **BioLip2**: BioLiP is a semi-manually curated database for high-quality, biologically relevant ligand-protein binding interactions, aiming to serve the needs of ligand-protein docking, virtual ligand screening, and protein function annotation.  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:49-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkad630) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:53-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1093/nar/gkad630) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1093/nar/gkad630)
 
 
@@ -42,7 +42,7 @@
 
 - **PDBBind**: Forging the Basis for Developing Protein–Ligand Interaction Scoring Functions  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:324-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.accounts.6b00491) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:344-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.accounts.6b00491) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-16.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.accounts.6b00491)
 
 
@@ -75,7 +75,7 @@
 
 - **PLAS-20K**: PLAS-20k: Extended Dataset of Protein-Ligand Affinities from MD Simulations for Machine Learning Applications  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41597-023-02872-y) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:10-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s41597-023-02872-y) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.80-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s41597-023-02872-y)
 
 

@@ -17,7 +17,7 @@
     [![Code](https://img.shields.io/github/stars/BenevolentAI/guacamol?style=for-the-badge&logo=github)](https://github.com/BenevolentAI/guacamol) 
     [![Last Commit](https://img.shields.io/github/last-commit/BenevolentAI/guacamol?style=for-the-badge&logo=github)](https://github.com/BenevolentAI/guacamol) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:462-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.8b00839) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:477-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.8b00839) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.8b00839)
 
 
@@ -35,7 +35,7 @@
     [![Code](https://img.shields.io/github/stars/molecularsets/moses?style=for-the-badge&logo=github)](https://github.com/molecularsets/moses) 
     [![Last Commit](https://img.shields.io/github/last-commit/molecularsets/moses?style=for-the-badge&logo=github)](https://github.com/molecularsets/moses) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:359-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3389/fphar.2020.565644) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:374-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.3389/fphar.2020.565644) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-4.40-purple?style=for-the-badge&logo=academia)](https://doi.org/10.3389/fphar.2020.565644)
 
 

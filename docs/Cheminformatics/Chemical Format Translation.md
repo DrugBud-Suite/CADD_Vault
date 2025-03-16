@@ -24,7 +24,7 @@
 
 - **OpenBabel**: toolkit for drug discovery, file format etc (standalone)  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:6629-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:6757-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1758-2946-3-33) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/1758-2946-3-33)
 
 
@@ -36,6 +36,6 @@
 
 - **pybel**: Python wrapper for the OpenBabel cheminformatics toolkit  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:300-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1752-153X-2-5) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:308-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/1752-153X-2-5) 
 
 

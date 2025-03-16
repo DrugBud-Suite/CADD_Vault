@@ -43,6 +43,12 @@
 
 
 
+- **OSRA**:   
+    [![Code](https://img.shields.io/badge/Code-Repository-blue?style=for-the-badge)](https://sourceforge.net/projects/osra/) 
+
+
+
+
 - **SwinOCSR**: end-to-end optical chemical structure recognition using a Swin Transformer (standalone)  
     [![Code](https://img.shields.io/github/stars/amine179/DrugDesign?style=for-the-badge&logo=github)](https://github.com/amine179/DrugDesign) 
     [![Last Commit](https://img.shields.io/github/last-commit/amine179/DrugDesign?style=for-the-badge&logo=github)](https://github.com/amine179/DrugDesign) 

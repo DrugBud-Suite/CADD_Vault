@@ -18,7 +18,7 @@
     [![Code](https://img.shields.io/github/stars/mojaie/kiwiii?tab=readme-ov-file?style=for-the-badge&logo=github)](https://github.com/mojaie/kiwiii?tab=readme-ov-file) 
     [![Last Commit](https://img.shields.io/github/last-commit/mojaie/kiwiii?tab=readme-ov-file?style=for-the-badge&logo=github)](https://github.com/mojaie/kiwiii?tab=readme-ov-file) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:65-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-014-9760-0) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:67-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1007/s10822-014-9760-0) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-3.00-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1007/s10822-014-9760-0)
 
 

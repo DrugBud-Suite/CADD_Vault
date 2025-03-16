@@ -6,7 +6,7 @@
     [![Code](https://img.shields.io/github/stars/DrrDom/crem?style=for-the-badge&logo=github)](https://github.com/DrrDom/crem) 
     [![Last Commit](https://img.shields.io/github/last-commit/DrrDom/crem?style=for-the-badge&logo=github)](https://github.com/DrrDom/crem) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:57-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00431-w) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:58-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-020-00431-w) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-020-00431-w)
 
 
@@ -15,7 +15,7 @@
     [![Code](https://img.shields.io/github/stars/UnixJunkie/FASMIFRA?style=for-the-badge&logo=github)](https://github.com/UnixJunkie/FASMIFRA) 
     [![Last Commit](https://img.shields.io/github/last-commit/UnixJunkie/FASMIFRA?style=for-the-badge&logo=github)](https://github.com/UnixJunkie/FASMIFRA) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:15-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00566-4) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:17-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1186/s13321-021-00566-4) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-7.10-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1186/s13321-021-00566-4)
 
 

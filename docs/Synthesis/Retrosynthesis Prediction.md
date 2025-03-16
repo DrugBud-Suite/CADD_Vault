@@ -25,11 +25,19 @@
 
 
 
+- **RetroGFN**: RetroGFN: Diverse and Feasible Retrosynthesis using GFlowNets  
+    [![Code](https://img.shields.io/github/stars/gmum/RetroGFN?style=for-the-badge&logo=github)](https://github.com/gmum/RetroGFN) 
+    [![Last Commit](https://img.shields.io/github/last-commit/gmum/RetroGFN?style=for-the-badge&logo=github)](https://github.com/gmum/RetroGFN) 
+
+    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01074.s001) 
+
+
+
 - **SPARROW**: synthetic cost-aware decision making in molecular design  
     [![Code](https://img.shields.io/github/stars/coleygroup/sparrow?style=for-the-badge&logo=github)](https://github.com/coleygroup/sparrow) 
     [![Last Commit](https://img.shields.io/github/last-commit/coleygroup/sparrow?style=for-the-badge&logo=github)](https://github.com/coleygroup/sparrow) 
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:4-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s43588-024-00639-y) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:8-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1038/s43588-024-00639-y) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-12.00-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1038/s43588-024-00639-y)
 
 
@@ -39,12 +47,6 @@
     [![Last Commit](https://img.shields.io/github/last-commit/zengkaipeng/UAlign?style=for-the-badge&logo=github)](https://github.com/zengkaipeng/UAlign) 
 
     [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.21203/rs.3.rs-4292195) 
-
-
-
-- **https://github.com/gmum/RetroGFN**: RetroGFN: Diverse and Feasible Retrosynthesis using GFlowNets  
-
-    [![Publication](https://img.shields.io/badge/Publication-Citations:0-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.0c01074.s001) 
 
 
 ## **LLM**

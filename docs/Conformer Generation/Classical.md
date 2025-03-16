@@ -4,14 +4,14 @@
 
 - **Balloon**: Generating Conformer Ensembles Using a Multiobjective Genetic Algorithm  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:338-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci6005646) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:341-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/ci6005646) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/ci6005646)
 
 
 
 - **Conforge**: CDPKit conformer generator  
 
-    [![Publication](https://img.shields.io/badge/Publication-Citations:9-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00563) 
+    [![Publication](https://img.shields.io/badge/Publication-Citations:11-blue?style=for-the-badge&logo=bookstack)](https://doi.org/10.1021/acs.jcim.3c00563) 
     [![JIF](https://img.shields.io/badge/Impact_Factor-5.60-purple?style=for-the-badge&logo=academia)](https://doi.org/10.1021/acs.jcim.3c00563)
 
 
