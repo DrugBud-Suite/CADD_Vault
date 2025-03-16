@@ -1,5 +1,5 @@
 ---
-icon: simple/adobeillustrator
+icon: fontawesome/solid/hexagon-nodes
 ---
 
 
