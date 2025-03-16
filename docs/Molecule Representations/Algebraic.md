@@ -1,11 +1,11 @@
 ---
-icon: datatype for molecules, complete with orbitals, reaction dynamics and group theoretic properties
+icon: material/exponent
 ---
 
 
 
 
-- **ADT**:   
+- **ADT**: datatype for molecules, complete with orbitals, reaction dynamics and group theoretic properties  
     [![Code](https://img.shields.io/github/stars/oliverjgoldstein/Mol-Rep-Haskell-Bayes?style=for-the-badge&logo=github)](https://github.com/oliverjgoldstein/Mol-Rep-Haskell-Bayes) 
     [![Last Commit](https://img.shields.io/github/last-commit/oliverjgoldstein/Mol-Rep-Haskell-Bayes?style=for-the-badge&logo=github)](https://github.com/oliverjgoldstein/Mol-Rep-Haskell-Bayes) 
 
