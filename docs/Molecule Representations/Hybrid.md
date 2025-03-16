@@ -1,3 +1,6 @@
+---
+icon: material/molecule-co2
+---
 
 
 ## **String-Graph Hybrid**

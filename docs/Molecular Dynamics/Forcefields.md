@@ -1,3 +1,6 @@
+---
+icon: material/magnet-on
+---
 
 
 ## **Machine-Learning Forcefields**

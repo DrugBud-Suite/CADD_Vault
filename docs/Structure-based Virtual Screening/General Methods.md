@@ -1,3 +1,6 @@
+---
+icon: material/school
+---
 
 
 ## **Generation of SBVS target structures**

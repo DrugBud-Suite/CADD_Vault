@@ -1,3 +1,6 @@
+---
+icon: material/format-text-rotation-none
+---
 
 
 ## **SELFIES-related**

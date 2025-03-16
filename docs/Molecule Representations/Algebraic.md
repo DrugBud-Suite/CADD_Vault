@@ -1,3 +1,6 @@
+---
+icon: datatype for molecules, complete with orbitals, reaction dynamics and group theoretic properties
+---
 
 
 
